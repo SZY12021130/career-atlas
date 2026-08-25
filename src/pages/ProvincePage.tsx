@@ -9,6 +9,7 @@ import EChart from '@/components/EChart'
 import PortalCard from '@/components/PortalCard'
 import TagBadge from '@/components/TagBadge'
 import {
+  assetUrl,
   fetchGeo,
   fetchIndex,
   fetchProvince,
@@ -182,7 +183,8 @@ function HeaderSection({ province, name, loaded }: { province: ProvinceData | nu
 
         <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.4, delay: 0.4 }}>
           <Link
-            to="/#map"
+            to="/"
+            state={{ scrollTo: 'map' }}
             className="inline-flex items-center gap-1.5 text-sm text-ink-soft hover:text-cinnabar transition-colors duration-200 shrink-0"
           >
             <ArrowLeft className="w-4 h-4" />
@@ -362,7 +364,7 @@ function MapSection({ adcode, province, geo }: { adcode: number; province: Provi
               <EChart option={option} onEvents={mapEvents} onReady={handleReady} />
             ) : (
               <div className="h-full flex flex-col items-center justify-center text-ink-faint gap-3">
-                <img src="/map-empty.svg" alt="" className="w-40 h-auto opacity-80" />
+                <img src={assetUrl('map-empty.svg')} alt="" className="w-40 h-auto opacity-80" />
                 <span className="text-sm">地图数据整理中</span>
               </div>
             )}
@@ -421,7 +423,7 @@ function MapSection({ adcode, province, geo }: { adcode: number; province: Provi
               </motion.ul>
             ) : (
               <div className="py-6 flex flex-col items-center text-center gap-3">
-                <img src="/map-empty.svg" alt="" className="w-32 h-auto opacity-80" />
+                <img src={assetUrl('map-empty.svg')} alt="" className="w-32 h-auto opacity-80" />
                 <span className="text-sm text-ink-faint">城市数据整理中</span>
               </div>
             )}
@@ -742,7 +744,7 @@ function SectionTitle({ title }: { title: string }) {
 function LoadingBlock() {
   return (
     <div className="mt-16 flex flex-col items-center text-center gap-3 py-16">
-      <img src="/map-empty.svg" alt="" className="w-40 h-auto opacity-60 animate-pulse" />
+      <img src={assetUrl('map-empty.svg')} alt="" className="w-40 h-auto opacity-60 animate-pulse" />
       <span className="text-sm text-ink-faint">数据加载中…</span>
     </div>
   )
@@ -751,7 +753,7 @@ function LoadingBlock() {
 function EmptyBlock({ compact = false, className }: { compact?: boolean; className?: string }) {
   return (
     <div className={cn('flex flex-col items-center text-center gap-3', compact ? 'py-10' : 'py-20 mt-8', className)}>
-      <img src="/map-empty.svg" alt="" className="w-44 h-auto opacity-85" />
+      <img src={assetUrl('map-empty.svg')} alt="" className="w-44 h-auto opacity-85" />
       <p className="text-sm text-ink-faint">该省数据整理中，敬请期待</p>
     </div>
   )

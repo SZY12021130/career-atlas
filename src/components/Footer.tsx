@@ -1,5 +1,6 @@
 import { Link } from 'react-router'
 import { Github } from 'lucide-react'
+import { assetUrl } from '@/lib/data'
 
 const RESERVED_TAGS = [
   { label: '国企 / 央企', to: '/reserved/guoqi' },
@@ -14,7 +15,7 @@ export default function Footer() {
         {/* 项目说明 */}
         <div>
           <div className="flex items-center gap-3 mb-4">
-            <img src="/logo.svg" alt="职途图谱" className="w-8 h-8 rounded-md" />
+            <img src={assetUrl('logo.svg')} alt="职途图谱" className="w-8 h-8 rounded-md" />
             <span className="font-serif font-bold text-paper text-base">职途图谱</span>
           </div>
           <p className="text-sm leading-7 text-paper/60">

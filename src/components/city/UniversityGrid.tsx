@@ -3,6 +3,7 @@ import { ArrowRight, MapPin } from 'lucide-react'
 import { Link } from 'react-router'
 import TagBadge from '@/components/TagBadge'
 import type { University } from '@/lib/data'
+import { assetUrl } from '@/lib/data'
 import SectionTitle from './SectionTitle'
 
 const container = {
@@ -26,7 +27,7 @@ export default function UniversityGrid({ universities, cityName }: UniversityGri
       <SectionTitle>本科高校 · 共 {universities.length} 所</SectionTitle>
       {universities.length === 0 ? (
         <div className="bg-surface rounded-2xl border border-line p-10 flex flex-col items-center text-center">
-          <img src="/map-empty.svg" alt="暂无数据" className="w-48 h-auto opacity-90" />
+          <img src={assetUrl('map-empty.svg')} alt="暂无数据" className="w-48 h-auto opacity-90" />
           <p className="mt-4 text-sm text-ink-faint">{cityName}暂无本科高校收录</p>
         </div>
       ) : (

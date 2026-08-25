@@ -124,6 +124,12 @@ async function fetchJSON<T>(url: string): Promise<T | null> {
   }
 }
 
+/** 静态资源路径：拼接 BASE_URL，适配 GitHub Pages 子路径部署 */
+export function assetUrl(p: string): string {
+  const base = import.meta.env.BASE_URL || '/'
+  return `${base}${p.replace(/^\/+/, '')}`
+}
+
 const indexCache: { value: DataIndex | null | undefined } = { value: undefined }
 const provinceCache = new Map<number, ProvinceData | null>()
 const geoCache = new Map<string, GeoJSON | null>()
@@ -131,7 +137,7 @@ const geoCache = new Map<string, GeoJSON | null>()
 /** 全国数据索引 /data/index.json */
 export async function fetchIndex(): Promise<DataIndex | null> {
   if (indexCache.value === undefined) {
-    indexCache.value = await fetchJSON<DataIndex>('/data/index.json')
+    indexCache.value = await fetchJSON<DataIndex>(assetUrl('data/index.json'))
   }
   return indexCache.value
 }
@@ -139,7 +145,7 @@ export async function fetchIndex(): Promise<DataIndex | null> {
 /** 省级数据 /data/{省adcode}.json，缺失返回 null */
 export async function fetchProvince(adcode: number): Promise<ProvinceData | null> {
   if (!provinceCache.has(adcode)) {
-    provinceCache.set(adcode, await fetchJSON<ProvinceData>(`/data/${adcode}.json`))
+    provinceCache.set(adcode, await fetchJSON<ProvinceData>(assetUrl(`data/${adcode}.json`)))
   }
   return provinceCache.get(adcode) ?? null
 }
@@ -148,7 +154,7 @@ export async function fetchProvince(adcode: number): Promise<ProvinceData | null
 export async function fetchGeo(adcode: number | string): Promise<GeoJSON | null> {
   const key = String(adcode)
   if (!geoCache.has(key)) {
-    geoCache.set(key, await fetchJSON<GeoJSON>(`/geo/${key}_full.json`))
+    geoCache.set(key, await fetchJSON<GeoJSON>(assetUrl(`geo/${key}_full.json`)))
   }
   return geoCache.get(key) ?? null
 }
@@ -156,7 +162,7 @@ export async function fetchGeo(adcode: number | string): Promise<GeoJSON | null>
 /** 附件静态资源完整路径 */
 export function attachmentUrl(cityAdcode: number, attachment: Attachment): string | null {
   if (!attachment.local) return null
-  return `/${attachment.local.startsWith('attachments/') ? attachment.local : `attachments/${cityAdcode}/${attachment.name}`}`
+  return assetUrl(attachment.local.startsWith('attachments/') ? attachment.local : `attachments/${cityAdcode}/${attachment.name}`)
 }
 
 // ---------------------------------------------------------------------------

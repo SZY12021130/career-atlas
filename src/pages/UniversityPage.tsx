@@ -18,6 +18,7 @@ import {
 } from 'lucide-react'
 import Breadcrumb from '@/components/Breadcrumb'
 import TagBadge from '@/components/TagBadge'
+import { assetUrl } from '@/lib/data'
 import ChannelCard from '@/components/university/ChannelCard'
 import CityLinkCard from '@/components/university/CityLinkCard'
 import { findUniversity, countRecruitments } from '@/components/university/university-data'
@@ -338,7 +339,7 @@ function NotFound({ name }: { name: string }) {
       transition={{ duration: 0.5, ease: EASE }}
       className="py-16 flex flex-col items-center text-center"
     >
-      <img src="/map-empty.svg" alt="暂未收录" className="w-64 h-auto" />
+      <img src={assetUrl('map-empty.svg')} alt="暂未收录" className="w-64 h-auto" />
       <h1 className="mt-8 font-serif font-bold text-ink text-2xl">暂未收录「{name}」</h1>
       <p className="mt-3 text-sm text-ink-soft max-w-md leading-7">
         高校数据按省份持续采集中，该校可能尚未入库。您可以返回全国地图，按省份浏览已收录的高校与公职信息。

@@ -7,6 +7,7 @@ import { useMemo, useState } from 'react'
 import { motion } from 'framer-motion'
 import type { EChartsOption } from 'echarts'
 import type { Recruitment } from '@/lib/data'
+import { assetUrl } from '@/lib/data'
 import StatCard from '@/components/StatCard'
 import ChartCard from '@/components/ChartCard'
 import RecruitmentTable from '@/components/RecruitmentTable'
@@ -207,7 +208,7 @@ export default function ShiyeColumn({ ctx }: { ctx: CityContext }) {
             ) : (
               <ChartCard title="岗位来源分布 Top 5" option={{}} updatedAt={province?.updatedAt}>
                 <div className="flex flex-col items-center text-center py-8">
-                  <img src="/map-empty.svg" alt="暂无数据" className="w-40 h-auto opacity-90" />
+                  <img src={assetUrl('map-empty.svg')} alt="暂无数据" className="w-40 h-auto opacity-90" />
                   <p className="mt-4 text-sm text-ink-faint">暂无来源分布数据。</p>
                 </div>
               </ChartCard>

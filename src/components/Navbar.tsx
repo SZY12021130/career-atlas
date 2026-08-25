@@ -2,11 +2,11 @@ import { useState } from 'react'
 import { Link, useLocation, useNavigate } from 'react-router'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Menu, Search, X } from 'lucide-react'
+import { assetUrl } from '@/lib/data'
 import { cn } from '@/lib/utils'
 
 const NAV_LINKS = [
   { label: '首页', to: '/' },
-  { label: '全国地图', to: '/#map' },
   { label: '数据说明', to: '/about' },
 ]
 
@@ -21,7 +21,16 @@ export default function Navbar() {
       document.getElementById('global-search-input')?.focus()
       document.getElementById('global-search')?.scrollIntoView({ behavior: 'smooth', block: 'center' })
     } else {
-      navigate('/#search')
+      navigate('/', { state: { focusSearch: true } })
+    }
+  }
+
+  const goMap = () => {
+    setOpen(false)
+    if (location.pathname === '/') {
+      document.getElementById('map')?.scrollIntoView({ behavior: 'smooth' })
+    } else {
+      navigate('/', { state: { scrollTo: 'map' } })
     }
   }
 
@@ -30,7 +39,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto h-full px-6 lg:px-10 flex items-center justify-between gap-4">
         {/* 左：logo */}
         <Link to="/" className="flex items-center gap-3 shrink-0" onClick={() => setOpen(false)}>
-          <img src="/logo.svg" alt="职途图谱" className="w-9 h-9 rounded-lg" />
+          <img src={assetUrl('logo.svg')} alt="职途图谱" className="w-9 h-9 rounded-lg" />
           <span className="leading-none">
             <span className="block font-serif font-black text-lg text-ink tracking-wide">职途图谱</span>
             <span className="block text-[10px] tracking-[0.28em] text-ink-faint mt-0.5">CAREER ATLAS</span>
@@ -60,6 +69,13 @@ export default function Navbar() {
               </Link>
             )
           })}
+          <button
+            type="button"
+            onClick={goMap}
+            className="relative py-1 text-sm text-ink-soft hover:text-ink transition-colors duration-200"
+          >
+            全国地图
+          </button>
         </nav>
 
         {/* 右：搜索入口 + 移动端汉堡 */}
@@ -105,6 +121,13 @@ export default function Navbar() {
                   {link.label}
                 </Link>
               ))}
+              <button
+                type="button"
+                onClick={goMap}
+                className="py-2.5 text-left text-sm text-ink-soft hover:text-cinnabar transition-colors"
+              >
+                全国地图
+              </button>
             </div>
           </motion.nav>
         )}

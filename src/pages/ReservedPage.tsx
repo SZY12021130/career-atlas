@@ -3,6 +3,7 @@ import { motion } from 'framer-motion'
 import { ArrowLeft, Compass, Briefcase, Globe, FlaskConical } from 'lucide-react'
 import type { LucideIcon } from 'lucide-react'
 import Breadcrumb from '@/components/Breadcrumb'
+import { assetUrl } from '@/lib/data'
 
 const EASE = [0.22, 1, 0.36, 1] as [number, number, number, number]
 
@@ -59,7 +60,7 @@ export default function ReservedPage() {
             transition={{ duration: 0.6, ease: EASE }}
           >
             <motion.img
-              src="/reserved-illustration.svg"
+              src={assetUrl('reserved-illustration.svg')}
               alt="正在建设"
               className="w-[320px] h-auto"
               animate={{ y: [0, -6, 0] }}

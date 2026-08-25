@@ -3,6 +3,7 @@ import type { EChartsOption } from 'echarts'
 import ChartCard from '@/components/ChartCard'
 import EChart from '@/components/EChart'
 import type { Recruitment } from '@/lib/data'
+import { assetUrl } from '@/lib/data'
 import { categoryColor, INK, INK_FAINT, PAPER } from '@/lib/theme'
 
 const ORDER = ['公务员', '选调生', '事业单位', '人才引进', '录用公示']
@@ -58,7 +59,7 @@ export default function CategoryDonut({ recruitments, updatedAt }: CategoryDonut
     >
       {total === 0 ? (
         <div className="flex flex-col items-center justify-center text-center py-10" style={{ minHeight: 280 }}>
-          <img src="/map-empty.svg" alt="暂无数据" className="w-40 h-auto opacity-90" />
+          <img src={assetUrl('map-empty.svg')} alt="暂无数据" className="w-40 h-auto opacity-90" />
           <p className="mt-4 text-sm text-ink-faint">数据整理中，已收录官方入口</p>
         </div>
       ) : (

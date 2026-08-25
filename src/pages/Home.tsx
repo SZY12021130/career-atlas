@@ -1,5 +1,5 @@
 import { memo, useEffect, useMemo, useRef, useState } from 'react'
-import { useNavigate, Link } from 'react-router'
+import { useNavigate, useLocation, Link } from 'react-router'
 import { motion, AnimatePresence, useInView } from 'framer-motion'
 import gsap from 'gsap'
 import { ScrollTrigger } from 'gsap/ScrollTrigger'
@@ -20,6 +20,7 @@ import SearchBar from '@/components/SearchBar'
 import StatCard from '@/components/StatCard'
 import TagBadge from '@/components/TagBadge'
 import {
+  assetUrl,
   fetchGeo,
   fetchIndex,
   fetchProvince,
@@ -68,7 +69,7 @@ const HeroMountains = memo(function HeroMountains() {
   return (
     <img
       ref={ref}
-      src="/hero-ink-mountains.svg"
+      src={assetUrl('hero-ink-mountains.svg')}
       alt=""
       aria-hidden
       className="pointer-events-none absolute bottom-0 left-0 w-full select-none"
@@ -140,9 +141,9 @@ function Hero() {
           {HOT_CITIES.map((c, i) => (
             <motion.span key={c.name} variants={{ hidden: { opacity: 0 }, show: { opacity: 1 } }} className="flex items-center gap-2">
               {i > 0 && <span className="text-line">·</span>}
-              <a href={c.to} className="hover:text-cinnabar transition-colors duration-200">
+              <Link to={c.to} className="hover:text-cinnabar transition-colors duration-200">
                 {c.name}
-              </a>
+              </Link>
             </motion.span>
           ))}
         </motion.div>
@@ -275,7 +276,7 @@ function MapSection({ index, provinces }: MapSectionProps) {
                 <EChart option={option} onEvents={mapEvents} />
               ) : (
                 <div className="h-full flex flex-col items-center justify-center text-ink-faint gap-3">
-                  <img src="/map-empty.svg" alt="" className="w-40 h-auto opacity-80" />
+                  <img src={assetUrl('map-empty.svg')} alt="" className="w-40 h-auto opacity-80" />
                   <span className="text-sm">地图数据加载中…</span>
                 </div>
               )}
@@ -390,9 +391,10 @@ function ColumnsSection() {
           className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6"
         >
           {COLUMNS.map((col) => (
-            <motion.a
+            <motion.button
               key={col.key}
-              href="/#map"
+              type="button"
+              onClick={() => document.getElementById('map')?.scrollIntoView({ behavior: 'smooth' })}
               variants={{ hidden: { opacity: 0, y: 32 }, show: { opacity: 1, y: 0, transition: { duration: 0.5, ease: 'easeOut' } } }}
               whileHover={{ y: -6 }}
               whileTap={{ scale: 0.97 }}
@@ -411,7 +413,7 @@ function ColumnsSection() {
                 进入任意城市查看
                 <span className="inline-block transition-transform duration-200 group-hover:translate-x-1">→</span>
               </span>
-            </motion.a>
+            </motion.button>
           ))}
         </motion.div>
       </div>
@@ -666,20 +668,21 @@ export default function Home() {
     }
   }, [])
 
-  // 支持 /#map /#search /#data-note 锚点定位与搜索聚焦
+  // 跨页锚点：经 navigate('/', { state }) 回到首页后滚动定位 / 搜索聚焦
+  const location = useLocation()
   useEffect(() => {
-    const hash = window.location.hash
-    if (!hash) return
+    const st = location.state as { scrollTo?: string; focusSearch?: boolean } | null
+    if (!st) return
     const t = setTimeout(() => {
-      if (hash === '#search') {
+      if (st.focusSearch) {
         document.getElementById('global-search')?.scrollIntoView({ behavior: 'smooth', block: 'center' })
         document.getElementById('global-search-input')?.focus()
-      } else {
-        document.querySelector(hash)?.scrollIntoView({ behavior: 'smooth' })
+      } else if (st.scrollTo) {
+        document.getElementById(st.scrollTo)?.scrollIntoView({ behavior: 'smooth' })
       }
     }, 300)
     return () => clearTimeout(t)
-  }, [])
+  }, [location.state])
 
   return (
     <div className="min-h-[100dvh]">

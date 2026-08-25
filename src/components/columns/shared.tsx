@@ -7,6 +7,7 @@ import { Link } from 'react-router'
 import { motion, AnimatePresence } from 'framer-motion'
 import { ChevronDown, MoveRight } from 'lucide-react'
 import type { Attachment, Portal } from '@/lib/data'
+import { assetUrl } from '@/lib/data'
 import Breadcrumb from '@/components/Breadcrumb'
 import PortalCard from '@/components/PortalCard'
 import AttachmentItem from '@/components/AttachmentItem'
@@ -215,7 +216,7 @@ export function PortalGrid({ cityPortals, provincePortals, categories, fillTo = 
   if (filled.length === 0) {
     return (
       <div className="bg-surface rounded-2xl border border-line p-10 flex flex-col items-center text-center">
-        <img src="/map-empty.svg" alt="暂无数据" className="w-48 h-auto opacity-90" />
+        <img src={assetUrl('map-empty.svg')} alt="暂无数据" className="w-48 h-auto opacity-90" />
         <p className="mt-4 text-sm text-ink-faint">暂未收录该类官方入口。</p>
       </div>
     )
@@ -372,7 +373,7 @@ export function BottomLinks({ cityName, adcode, current }: BottomLinksProps) {
 export function PageEmpty({ text }: { text: string }) {
   return (
     <div className="bg-surface rounded-2xl border border-line p-12 flex flex-col items-center text-center">
-      <img src="/map-empty.svg" alt="暂无数据" className="w-56 h-auto opacity-90" />
+      <img src={assetUrl('map-empty.svg')} alt="暂无数据" className="w-56 h-auto opacity-90" />
       <p className="mt-4 text-sm text-ink-faint">{text}</p>
     </div>
   )

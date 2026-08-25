@@ -2,6 +2,7 @@ import { motion } from 'framer-motion'
 import { ExternalLink } from 'lucide-react'
 import PortalCard from '@/components/PortalCard'
 import type { Portal } from '@/lib/data'
+import { assetUrl } from '@/lib/data'
 import { categoryColor } from '@/lib/theme'
 import SectionTitle from './SectionTitle'
 
@@ -28,7 +29,7 @@ export default function PortalGrid({ portals }: PortalGridProps) {
       <SectionTitle>官方网站 · 招聘与录用信息直达</SectionTitle>
       {portals.length === 0 ? (
         <div className="bg-surface rounded-2xl border border-line p-10 flex flex-col items-center text-center">
-          <img src="/map-empty.svg" alt="暂无数据" className="w-48 h-auto opacity-90" />
+          <img src={assetUrl('map-empty.svg')} alt="暂无数据" className="w-48 h-auto opacity-90" />
           <p className="mt-4 text-sm text-ink-faint">数据整理中，已收录官方入口</p>
         </div>
       ) : (

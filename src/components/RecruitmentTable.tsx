@@ -1,5 +1,6 @@
 import { ExternalLink, Paperclip } from 'lucide-react'
 import type { Recruitment } from '@/lib/data'
+import { assetUrl } from '@/lib/data'
 import TagBadge from './TagBadge'
 import { cn } from '@/lib/utils'
 
@@ -18,7 +19,7 @@ export default function RecruitmentTable({ recruitments, emptyText = '该类别�
   if (recruitments.length === 0) {
     return (
       <div className={cn('bg-surface rounded-2xl border border-line p-10 flex flex-col items-center text-center', className)}>
-        <img src="/map-empty.svg" alt="暂无数据" className="w-48 h-auto opacity-90" />
+        <img src={assetUrl('map-empty.svg')} alt="暂无数据" className="w-48 h-auto opacity-90" />
         <p className="mt-4 text-sm text-ink-faint">{emptyText}</p>
       </div>
     )

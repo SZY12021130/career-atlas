@@ -3,6 +3,7 @@ import { motion } from 'framer-motion'
 import type { EChartsOption } from 'echarts'
 import ChartCard from '@/components/ChartCard'
 import type { Recruitment } from '@/lib/data'
+import { assetUrl } from '@/lib/data'
 import { CATEGORY_COLORS, INK, INK_FAINT } from '@/lib/theme'
 import { TREND_CATEGORIES, yearlyStats } from './cityUtils'
 
@@ -115,7 +116,7 @@ export default function TrendChart({ recruitments, updatedAt }: TrendChartProps)
     >
       {hasAny ? undefined : (
         <div className="flex flex-col items-center text-center py-10" style={{ minHeight: 360, justifyContent: 'center' }}>
-          <img src="/map-empty.svg" alt="暂无数据" className="w-44 h-auto opacity-90" />
+          <img src={assetUrl('map-empty.svg')} alt="暂无数据" className="w-44 h-auto opacity-90" />
           <p className="mt-4 text-sm text-ink-faint">数据整理中，已收录官方入口</p>
         </div>
       )}

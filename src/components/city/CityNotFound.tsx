@@ -1,6 +1,7 @@
 import { ArrowLeft, Compass } from 'lucide-react'
 import { Link } from 'react-router'
 import Breadcrumb from '@/components/Breadcrumb'
+import { assetUrl } from '@/lib/data'
 
 export interface CityNotFoundProps {
   /** 优雅的 404：城市在数据中不存在 */
@@ -25,7 +26,7 @@ export default function CityNotFound({ kind, provinceName, provinceAdcode, isMun
     <div className="max-w-7xl mx-auto px-6 lg:px-10 py-12 md:py-16">
       <Breadcrumb items={crumbItems} />
       <div className="mt-16 mb-20 flex flex-col items-center text-center">
-        <img src="/map-empty.svg" alt="空态" className="w-64 h-auto opacity-90" />
+        <img src={assetUrl('map-empty.svg')} alt="空态" className="w-64 h-auto opacity-90" />
         {kind === 'notfound' ? (
           <>
             <h1 className="mt-8 font-serif font-bold text-2xl text-ink">未找到该城市</h1>
