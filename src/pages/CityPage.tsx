@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from 'react'
 import { useParams } from 'react-router'
 import { fetchIndex, fetchProvince, MUNICIPALITY_ADCODES } from '@/lib/data'
 import type { City, ProvinceData, University } from '@/lib/data'
+import { recordCityVisit } from '@/lib/recent'
 import CityHeader from '@/components/city/CityHeader'
 import CityKpis from '@/components/city/CityKpis'
 import TrendChart from '@/components/city/TrendChart'
@@ -83,6 +84,7 @@ export default function CityPage() {
         return
       }
       const universities = (prov.universities ?? []).filter((u) => u.cityAdcode === cityAdcode)
+      recordCityVisit({ adcode: city.adcode, name: city.name, provinceName: prov.name })
       setState({ status: 'ready', adcode: cityAdcode, province: prov, city, universities, provinceAdcode: provAdcode })
     })
     return () => {

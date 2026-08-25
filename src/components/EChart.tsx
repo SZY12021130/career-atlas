@@ -1,4 +1,4 @@
-import { useEffect, useRef } from 'react'
+﻿import { useEffect, useRef } from 'react'
 import * as echarts from 'echarts'
 import { CATEGORY_COLORS, GRID_LINE, INK_FAINT, INK, PAPER } from '@/lib/theme'
 
@@ -44,7 +44,7 @@ export function registerAtlasTheme(): void {
       backgroundColor: INK,
       borderWidth: 0,
       textStyle: { color: PAPER, fontSize: 13 },
-      extraCssText: 'border-radius:8px;padding:10px 14px;box-shadow:0 8px 24px -8px rgba(42,39,35,.35);',
+      extraCssText: 'border-radius:8px;padding:10px 14px;box-shadow:0 8px 24px -8px rgba(0,0,0,.55);',
     },
   })
 }

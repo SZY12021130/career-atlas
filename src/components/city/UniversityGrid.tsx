@@ -1,4 +1,4 @@
-import { motion } from 'framer-motion'
+﻿import { motion } from 'framer-motion'
 import { ArrowRight, MapPin } from 'lucide-react'
 import { Link } from 'react-router'
 import TagBadge from '@/components/TagBadge'
@@ -42,7 +42,7 @@ export default function UniversityGrid({ universities, cityName }: UniversityGri
             <motion.div key={u.name} variants={item} className="h-full">
               <Link
                 to={`/university/${encodeURIComponent(u.name)}`}
-                className="group flex flex-col h-full bg-surface rounded-2xl border border-line p-6 shadow-[0_1px_0_rgba(42,39,35,.04)] transition-all duration-200 hover:-translate-y-1 hover:shadow-[0_12px_32px_-12px_rgba(42,39,35,.18)]"
+                className="group flex flex-col h-full bg-surface rounded-2xl border border-line p-6 shadow-[0_1px_0_rgba(0,0,0,.25)] transition-all duration-200 hover:-translate-y-1 hover:shadow-[0_12px_32px_-12px_rgba(0,0,0,.45)]"
               >
                 <h3 className="font-serif font-bold text-lg text-ink group-hover:text-cinnabar transition-colors duration-200">
                   {u.name}

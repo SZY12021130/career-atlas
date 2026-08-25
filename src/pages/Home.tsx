@@ -14,11 +14,15 @@ import {
   FlaskConical,
   ShieldCheck,
   MousePointerClick,
+  History,
+  X,
 } from 'lucide-react'
 import EChart from '@/components/EChart'
 import SearchBar from '@/components/SearchBar'
 import StatCard from '@/components/StatCard'
 import TagBadge from '@/components/TagBadge'
+import { clearRecentCities, getRecentCities } from '@/lib/recent'
+import type { RecentCity } from '@/lib/recent'
 import {
   assetUrl,
   fetchGeo,
@@ -130,6 +134,9 @@ function Hero() {
         {/* 全局搜索 */}
         <SearchBar className="max-w-2xl" delay={0.8} />
 
+        {/* 最近访问（localStorage，v2.0 需求 2） */}
+        <RecentCities />
+
         {/* 热搜提示 */}
         <motion.div
           initial="hidden"
@@ -150,6 +157,51 @@ function Hero() {
       </div>
       <HeroMountains />
     </section>
+  )
+}
+
+/** 最近访问城市快捷入口：访问过的城市以 chips 呈现，可一键清空 */
+function RecentCities() {
+  const [recent, setRecent] = useState<RecentCity[]>([])
+  useEffect(() => {
+    setRecent(getRecentCities())
+  }, [])
+
+  if (recent.length === 0) return null
+  return (
+    <motion.div
+      initial={{ opacity: 0, y: 10 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.5, delay: 0.9, ease: EASE }}
+      className="mt-5 flex items-center flex-wrap gap-2"
+    >
+      <span className="inline-flex items-center gap-1.5 text-[13px] text-ink-faint shrink-0">
+        <History className="w-3.5 h-3.5" />
+        最近访问
+      </span>
+      {recent.map((c) => (
+        <Link
+          key={c.adcode}
+          to={`/city/${c.adcode}`}
+          className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full border border-line bg-surface text-[13px] text-ink-soft hover:border-cinnabar hover:text-cinnabar transition-colors duration-200"
+        >
+          {c.name}
+          <span className="text-[11px] text-ink-faint">{c.provinceName}</span>
+        </Link>
+      ))}
+      <button
+        type="button"
+        aria-label="清空最近访问"
+        onClick={() => {
+          clearRecentCities()
+          setRecent([])
+        }}
+        className="inline-flex items-center gap-1 px-2 py-1 rounded-full text-[12px] text-ink-faint hover:text-cinnabar transition-colors duration-200"
+      >
+        <X className="w-3 h-3" />
+        清空
+      </button>
+    </motion.div>
   )
 }
 
@@ -209,15 +261,15 @@ function MapSection({ index, provinces }: MapSectionProps) {
           roam: true,
           scaleLimit: { min: 1, max: 5 },
           label: { show: true, fontSize: 10, color: INK_SOFT },
-          itemStyle: { borderColor: '#FDFBF5', borderWidth: 1 },
+          itemStyle: { borderColor: '#0B1220', borderWidth: 1 },
           emphasis: {
             label: { show: true, fontWeight: 'bold', color: INK, fontSize: 11 },
             itemStyle: {
+              areaColor: '#1E3A5C',
               borderColor: CINNABAR,
-              borderWidth: 2,
-              shadowBlur: 12,
-              shadowColor: 'rgba(42,39,35,.25)',
-              shadowOffsetY: 4,
+              borderWidth: 2.5,
+              shadowBlur: 24,
+              shadowColor: 'rgba(34,211,238,.8)',
             },
           },
           select: { disabled: true },
@@ -269,7 +321,7 @@ function MapSection({ index, provinces }: MapSectionProps) {
             initial={{ opacity: 0, scale: 0.97 }}
             animate={inView ? { opacity: 1, scale: 1 } : undefined}
             transition={{ duration: 0.8, ease: EASE }}
-            className="lg:col-span-8 relative bg-surface rounded-2xl border border-line shadow-[0_1px_0_rgba(42,39,35,.04)] overflow-hidden"
+            className="lg:col-span-8 relative bg-surface rounded-2xl border border-line shadow-[0_1px_0_rgba(0,0,0,.25)] overflow-hidden"
           >
             <div data-lenis-prevent className="h-[420px] lg:h-[640px] cursor-pointer">
               {geo ? (
@@ -290,7 +342,7 @@ function MapSection({ index, provinces }: MapSectionProps) {
 
           {/* 右侧信息面板 */}
           <aside className="lg:col-span-4 lg:sticky lg:top-24 self-start">
-            <div className="bg-surface rounded-2xl border border-line p-6 shadow-[0_1px_0_rgba(42,39,35,.04)]">
+            <div className="bg-surface rounded-2xl border border-line p-6 shadow-[0_1px_0_rgba(0,0,0,.25)]">
               <h3 className="font-serif font-bold text-lg text-ink mb-1">全国总览</h3>
               <p className="text-xs text-ink-faint mb-4">
                 数据更新：{stats.latestUpdate ?? '整理中'}
@@ -323,9 +375,9 @@ function MapSection({ index, provinces }: MapSectionProps) {
               >
                 {[
                   { label: '覆盖省份', value: stats.provinces, color: CINNABAR },
-                  { label: '收录城市', value: stats.cities, color: '#C08A3E' },
-                  { label: '本科高校', value: stats.universities, color: '#3F6C5B' },
-                  { label: '官方公告', value: stats.recruitments, color: '#7D5A6B' },
+                  { label: '收录城市', value: stats.cities, color: '#F5A94B' },
+                  { label: '本科高校', value: stats.universities, color: '#3ED598' },
+                  { label: '官方公告', value: stats.recruitments, color: '#C084FC' },
                 ].map((s) => (
                   <motion.div key={s.label} variants={{ hidden: { opacity: 0, y: 24 }, show: { opacity: 1, y: 0, transition: { duration: 0.5, ease: 'easeOut' } } }}>
                     <StatCard color={s.color} label={s.label} value={s.value} className="p-5" />
@@ -348,25 +400,25 @@ const COLUMNS = [
   {
     key: '公务员',
     icon: Landmark,
-    color: '#B5493A',
+    color: '#F0635A',
     desc: '招录公告 · 职位表 · 录用公示——省考/国考市级岗位一站直达',
   },
   {
     key: '选调生',
     icon: GraduationCap,
-    color: '#C08A3E',
+    color: '#F5A94B',
     desc: '定向选调 · 普通选调分栏统计，报考条件与高校范围一览',
   },
   {
     key: '事业单位',
     icon: Building2,
-    color: '#3F6C5B',
+    color: '#3ED598',
     desc: '事业编招聘公告、岗位分布与录用结果持续收录',
   },
   {
     key: '人才引进',
     icon: FileText,
-    color: '#7D5A6B',
+    color: '#C084FC',
     desc: '高层次人才引进政策、补贴待遇与博士岗位汇总',
   },
 ]
@@ -399,7 +451,7 @@ function ColumnsSection() {
               whileHover={{ y: -6 }}
               whileTap={{ scale: 0.97 }}
               transition={{ duration: 0.2 }}
-              className="group bg-surface rounded-2xl border border-line p-6 md:p-8 shadow-[0_1px_0_rgba(42,39,35,.04)] hover:shadow-[0_12px_32px_-12px_rgba(42,39,35,.18)] transition-shadow duration-200 flex flex-col"
+              className="group bg-surface rounded-2xl border border-line p-6 md:p-8 shadow-[0_1px_0_rgba(0,0,0,.25)] hover:shadow-[0_12px_32px_-12px_rgba(0,0,0,.45)] transition-shadow duration-200 flex flex-col"
             >
               <span
                 className="w-12 h-12 rounded-full flex items-center justify-center mb-5"
@@ -516,7 +568,7 @@ function NationalSection() {
                 viewport={{ once: true }}
                 transition={{ duration: 0.5, delay: i * 0.06, ease: EASE }}
                 whileHover={{ y: -4 }}
-                className="group block bg-surface rounded-2xl border border-line border-l-4 border-l-cinnabar p-5 transition-shadow hover:shadow-[0_12px_32px_-12px_rgba(42,39,35,.18)]"
+                className="group block bg-surface rounded-2xl border border-line border-l-4 border-l-cinnabar p-5 transition-shadow hover:shadow-[0_12px_32px_-12px_rgba(0,0,0,.45)]"
               >
                 <div className="flex items-start justify-between gap-2">
                   <h3 className="text-sm font-bold text-ink">{p.name}</h3>

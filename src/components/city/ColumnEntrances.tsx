@@ -1,4 +1,4 @@
-import { useEffect, useRef } from 'react'
+﻿import { useEffect, useRef } from 'react'
 import { animate, motion, useInView } from 'framer-motion'
 import { ArrowRight, Briefcase, GraduationCap, Landmark } from 'lucide-react'
 import { Link } from 'react-router'
@@ -20,7 +20,7 @@ const COLUMNS: ColumnDef[] = [
     key: 'xuandiao',
     title: '选调专栏',
     desc: '定向选调 · 普通选调 · 报考条件与录用统计',
-    color: '#C08A3E',
+    color: '#F5A94B',
     category: '选调生',
     icon: Landmark,
   },
@@ -28,7 +28,7 @@ const COLUMNS: ColumnDef[] = [
     key: 'shiye',
     title: '事业单位专栏',
     desc: '事业编招聘公告 · 岗位分布 · 录用公示',
-    color: '#3F6C5B',
+    color: '#3ED598',
     category: '事业单位',
     icon: Briefcase,
   },
@@ -36,7 +36,7 @@ const COLUMNS: ColumnDef[] = [
     key: 'rencai',
     title: '人才引进专栏',
     desc: '高层次人才政策 · 博士岗位 · 补贴待遇',
-    color: '#7D5A6B',
+    color: '#C084FC',
     category: '人才引进',
     icon: GraduationCap,
   },
@@ -74,7 +74,7 @@ function ColumnCard({ def, adcode, count, index }: { def: ColumnDef; adcode: str
       <Link
         ref={ref}
         to={`/city/${adcode}/${def.key}`}
-        className="group relative flex items-center gap-5 bg-surface rounded-2xl border border-line p-6 overflow-hidden shadow-[0_1px_0_rgba(42,39,35,.04)] transition-shadow duration-200 hover:shadow-[0_12px_32px_-12px_rgba(42,39,35,.18)]"
+        className="group relative flex items-center gap-5 bg-surface rounded-2xl border border-line p-6 overflow-hidden shadow-[0_1px_0_rgba(0,0,0,.25)] transition-shadow duration-200 hover:shadow-[0_12px_32px_-12px_rgba(0,0,0,.45)]"
       >
         {/* hover 分类色 4% 底 */}
         <span

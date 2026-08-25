@@ -1,4 +1,4 @@
-import { ExternalLink, MoveRight } from 'lucide-react'
+﻿import { ExternalLink, MoveRight } from 'lucide-react'
 import { categoryColor } from '@/lib/theme'
 import type { Portal } from '@/lib/data'
 import { cn } from '@/lib/utils'
@@ -21,8 +21,8 @@ export default function PortalCard({ portal, className }: { portal: Portal; clas
       rel="noreferrer"
       className={cn(
         'group relative flex items-center gap-4 bg-surface rounded-2xl border border-line p-5 pl-6 overflow-hidden',
-        'shadow-[0_1px_0_rgba(42,39,35,.04)] transition-all duration-200',
-        'hover:shadow-[0_12px_32px_-12px_rgba(42,39,35,.18)]',
+        'shadow-[0_1px_0_rgba(0,0,0,.25)] transition-all duration-200',
+        'hover:shadow-[0_12px_32px_-12px_rgba(0,0,0,.45)]',
         className,
       )}
       style={{ borderLeft: `4px solid ${color}` }}

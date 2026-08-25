@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+﻿import { useMemo, useState } from 'react'
 import { AnimatePresence, motion } from 'framer-motion'
 import { ChevronDown, Info } from 'lucide-react'
 import AttachmentItem from '@/components/AttachmentItem'
@@ -57,7 +57,7 @@ export default function AttachmentSection({ recruitments, cityAdcode }: Attachme
           {groups.map((g) => {
             const open = openYear === g.year
             return (
-              <div key={g.year} className="bg-surface rounded-2xl border border-line overflow-hidden shadow-[0_1px_0_rgba(42,39,35,.04)]">
+              <div key={g.year} className="bg-surface rounded-2xl border border-line overflow-hidden shadow-[0_1px_0_rgba(0,0,0,.25)]">
                 <button
                   onClick={() => setOpenYear(open ? null : g.year)}
                   className="w-full flex items-center gap-3 px-6 py-4 text-left hover:bg-paper-deep/40 transition-colors duration-150"

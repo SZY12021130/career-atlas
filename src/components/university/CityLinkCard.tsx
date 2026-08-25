@@ -1,4 +1,4 @@
-import { Link } from 'react-router'
+﻿import { Link } from 'react-router'
 import { MoveRight } from 'lucide-react'
 import type { LucideIcon } from 'lucide-react'
 import { cn } from '@/lib/utils'
@@ -22,8 +22,8 @@ export default function CityLinkCard({ icon: Icon, label, desc, to, count, color
       to={to}
       className={cn(
         'group relative flex items-center gap-4 bg-surface rounded-2xl border border-line p-5 overflow-hidden',
-        'shadow-[0_1px_0_rgba(42,39,35,.04)] transition-all duration-200',
-        'hover:-translate-y-1 hover:shadow-[0_12px_32px_-12px_rgba(42,39,35,.18)]',
+        'shadow-[0_1px_0_rgba(0,0,0,.25)] transition-all duration-200',
+        'hover:-translate-y-1 hover:shadow-[0_12px_32px_-12px_rgba(0,0,0,.45)]',
         className,
       )}
     >

@@ -1,7 +1,7 @@
-/**
+﻿/**
  * 选调专栏（xuandiao.md）：定向/普通选调三态 Tab 驱动全页过滤，
  * 双轨年度对比分组柱 + 招录人数趋势 + 选调科普卡 + 公告表 + 附件区。
- * 主题色：ochre #C08A3E
+ * 主题色：ochre #F5A94B
  */
 import { useMemo, useState } from 'react'
 import { motion } from 'framer-motion'
@@ -22,8 +22,8 @@ import {
 } from './shared'
 import { YEARS, collectAttachments, type CityContext } from './useCityContext'
 
-const OCHRE = '#C08A3E'
-const GRAY = '#8A8378'
+const OCHRE = '#F5A94B'
+const GRAY = '#7A8BA8'
 
 type Track = '全部' | '定向选调' | '普通选调'
 const TRACKS: readonly Track[] = ['全部', '定向选调', '普通选调']
@@ -58,7 +58,7 @@ export default function XuandiaoColumn({ ctx }: { ctx: CityContext }) {
     return {
       animationDuration: 600,
       grid: { left: 8, right: 8, top: 40, bottom: 0, containLabel: true },
-      legend: { top: 0, textStyle: { color: '#5C564B', fontSize: 12 } },
+      legend: { top: 0, textStyle: { color: '#9AA7BE', fontSize: 12 } },
       xAxis: { type: 'category', data: YEARS.map(String) },
       yAxis: { type: 'value', minInterval: 1 },
       series: [
@@ -80,7 +80,7 @@ export default function XuandiaoColumn({ ctx }: { ctx: CityContext }) {
           data: countByYear(normal),
           barMaxWidth: 36,
           itemStyle: {
-            color: 'rgba(192,138,62,0.4)',
+            color: 'rgba(245,169,75,0.4)',
             borderColor: OCHRE,
             borderWidth: 1,
             borderRadius: [4, 4, 0, 0],
@@ -109,14 +109,14 @@ export default function XuandiaoColumn({ ctx }: { ctx: CityContext }) {
           symbol: 'circle',
           symbolSize: 8,
           lineStyle: { color: OCHRE, width: 3 },
-          itemStyle: { color: OCHRE, borderColor: '#FDFBF5', borderWidth: 2 },
+          itemStyle: { color: OCHRE, borderColor: '#0B1220', borderWidth: 2 },
           areaStyle: {
             color: {
               type: 'linear',
               x: 0, y: 0, x2: 0, y2: 1,
               colorStops: [
-                { offset: 0, color: 'rgba(192,138,62,0.12)' },
-                { offset: 1, color: 'rgba(192,138,62,0)' },
+                { offset: 0, color: 'rgba(245,169,75,0.14)' },
+                { offset: 1, color: 'rgba(245,169,75,0)' },
               ],
             },
           },

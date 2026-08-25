@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from 'react'
+﻿import { useEffect, useMemo, useRef, useState } from 'react'
 import { useNavigate } from 'react-router'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Building2, GraduationCap, MapPin, Search } from 'lucide-react'
@@ -94,7 +94,7 @@ export default function SearchBar({
       <div
         className={cn(
           'flex items-center gap-3 h-16 px-5 rounded-2xl border-2 bg-surface transition-all duration-[250ms]',
-          'border-line focus-within:border-cinnabar focus-within:shadow-[0_0_0_4px_rgba(181,73,58,.12),0_12px_32px_-12px_rgba(42,39,35,.18)]',
+          'border-line focus-within:border-cinnabar focus-within:shadow-[0_0_0_4px_rgba(34,211,238,.15),0_12px_32px_-12px_rgba(0,0,0,.45)]',
         )}
       >
         <Search className="w-5 h-5 text-ink-faint shrink-0" />
@@ -123,7 +123,7 @@ export default function SearchBar({
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -8 }}
             transition={{ duration: 0.25, ease: 'easeOut' }}
-            className="absolute left-0 right-0 top-full mt-2 bg-surface rounded-2xl border border-line shadow-[0_12px_32px_-12px_rgba(42,39,35,.18)] overflow-hidden z-40"
+            className="absolute left-0 right-0 top-full mt-2 bg-surface rounded-2xl border border-line shadow-[0_12px_32px_-12px_rgba(0,0,0,.45)] overflow-hidden z-40"
           >
             {showEmpty && (
               <div className="px-5 py-6 text-sm text-ink-faint text-center">未找到，试试输入城市全称</div>

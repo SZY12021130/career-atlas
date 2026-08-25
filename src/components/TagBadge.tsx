@@ -1,10 +1,10 @@
-import { categoryColor } from '@/lib/theme'
+﻿import { categoryColor } from '@/lib/theme'
 import { cn } from '@/lib/utils'
 
 const UNI_TAG_COLORS: Record<string, string> = {
-  '985': '#B5493A',
-  '211': '#C08A3E',
-  '双一流': '#3F6C5B',
+  '985': '#F0635A',
+  '211': '#F5A94B',
+  '双一流': '#3ED598',
 }
 
 export interface TagBadgeProps {
@@ -17,8 +17,8 @@ export interface TagBadgeProps {
 /** 分类 / 高校标签徽章（design.md §6 TagBadge） */
 export default function TagBadge({ label, variant = 'category', className }: TagBadgeProps) {
   if (variant === 'university') {
-    const color = UNI_TAG_COLORS[label] ?? '#E4DCCB'
-    const textColor = UNI_TAG_COLORS[label] ?? '#9A9184'
+    const color = UNI_TAG_COLORS[label] ?? '#22314B'
+    const textColor = UNI_TAG_COLORS[label] ?? '#5E6C85'
     return (
       <span
         className={cn('inline-flex items-center px-2 py-0.5 rounded-full text-xs border', className)}

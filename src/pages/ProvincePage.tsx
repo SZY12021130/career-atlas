@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
+﻿import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { Link, Navigate, useNavigate, useParams } from 'react-router'
 import { motion } from 'framer-motion'
 import * as echarts from 'echarts'
@@ -287,15 +287,15 @@ function MapSection({ adcode, province, geo }: { adcode: number; province: Provi
           roam: true,
           scaleLimit: { min: 1, max: 4 },
           label: { show: true, fontSize: 10, color: INK_SOFT },
-          itemStyle: { borderColor: '#FDFBF5', borderWidth: 1 },
+          itemStyle: { borderColor: '#0B1220', borderWidth: 1 },
           emphasis: {
             label: { show: true, fontWeight: 'bold', color: INK, fontSize: 11 },
             itemStyle: {
+              areaColor: '#1E3A5C',
               borderColor: CINNABAR,
-              borderWidth: 2,
-              shadowBlur: 12,
-              shadowColor: 'rgba(42,39,35,.25)',
-              shadowOffsetY: 4,
+              borderWidth: 2.5,
+              shadowBlur: 24,
+              shadowColor: 'rgba(34,211,238,.8)',
             },
           },
           select: { disabled: true },
@@ -352,7 +352,7 @@ function MapSection({ adcode, province, geo }: { adcode: number; province: Provi
           initial={{ opacity: 0, scale: 0.97 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.7, ease: EASE }}
-          className="lg:col-span-8 relative bg-surface rounded-2xl border border-line shadow-[0_1px_0_rgba(42,39,35,.04)] overflow-hidden"
+          className="lg:col-span-8 relative bg-surface rounded-2xl border border-line shadow-[0_1px_0_rgba(0,0,0,.25)] overflow-hidden"
         >
           {/* 左上图例 */}
           <div className="absolute left-4 top-4 z-10 flex items-center gap-2 text-xs text-ink-faint bg-surface/85 backdrop-blur-sm rounded-full px-3 py-1.5 border border-line">
@@ -377,7 +377,7 @@ function MapSection({ adcode, province, geo }: { adcode: number; province: Provi
 
         {/* 右侧「省内速览」面板 */}
         <aside className="lg:col-span-4 lg:sticky lg:top-24 self-start w-full">
-          <div className="bg-surface rounded-2xl border border-line p-6 shadow-[0_1px_0_rgba(42,39,35,.04)]">
+          <div className="bg-surface rounded-2xl border border-line p-6 shadow-[0_1px_0_rgba(0,0,0,.25)]">
             <h3 className="font-serif font-bold text-lg text-ink mb-1">省内速览</h3>
             <p className="text-xs text-ink-faint mb-4">共 {cityRows.length} 个地级行政区</p>
 
@@ -506,7 +506,7 @@ function StatsSection({ province }: { province: ProvinceData }) {
     const max = Math.max(1, ...barData.map((d) => d.value))
     return {
       grid: { left: 8, right: 24, top: 8, bottom: 8, containLabel: true },
-      xAxis: { type: 'value', splitLine: { lineStyle: { color: '#EAE3D3' } } },
+      xAxis: { type: 'value', splitLine: { lineStyle: { color: '#1B2740' } } },
       yAxis: {
         type: 'category',
         inverse: true,
@@ -523,7 +523,7 @@ function StatsSection({ province }: { province: ProvinceData }) {
             value: d.value,
             itemStyle: {
               // 单色系朱砂透明度梯度（按数值占比）
-              color: `rgba(181, 73, 58, ${(0.35 + 0.65 * (d.value / max)).toFixed(3)})`,
+              color: `rgba(240, 99, 90, ${(0.35 + 0.65 * (d.value / max)).toFixed(3)})`,
               borderRadius: [0, 6, 6, 0],
             },
           })),
@@ -591,7 +591,7 @@ function StatsSection({ province }: { province: ProvinceData }) {
           avoidLabelOverlap: true,
           label: { show: false },
           emphasis: { scale: true, scaleSize: 6, label: { show: false } },
-          itemStyle: { borderColor: '#FDFBF5', borderWidth: 2 },
+          itemStyle: { borderColor: '#0B1220', borderWidth: 2 },
           data: donut.data,
         },
       ],
@@ -706,7 +706,7 @@ function UniversitiesSection({ province }: { province: ProvinceData }) {
                     key={u.name}
                     type="button"
                     variants={{ hidden: { opacity: 0, scale: 0.9 }, show: { opacity: 1, scale: 1, transition: { duration: 0.3, ease: 'easeOut' } } }}
-                    whileHover={{ y: -2, boxShadow: '0 8px 20px -8px rgba(42,39,35,.25)' }}
+                    whileHover={{ y: -2, boxShadow: '0 8px 20px -8px rgba(0,0,0,.5)' }}
                     whileTap={{ scale: 0.97 }}
                     onClick={() => navigate(`/university/${encodeURIComponent(u.name)}`)}
                     className="flex items-center gap-2 bg-surface rounded-full border border-line pl-4 pr-3 py-1.5 text-sm text-ink transition-colors duration-200 hover:border-cinnabar/50"

@@ -1,4 +1,4 @@
-import { Link } from 'react-router'
+﻿import { Link } from 'react-router'
 import { ExternalLink, MoveRight } from 'lucide-react'
 import type { LucideIcon } from 'lucide-react'
 import { cn } from '@/lib/utils'
@@ -26,7 +26,7 @@ export default function ChannelCard({
   desc,
   url,
   to,
-  color = '#B5493A',
+  color = '#F0635A',
   className,
 }: ChannelCardProps) {
   const disabled = !to && !url
@@ -71,13 +71,13 @@ export default function ChannelCard({
 
   const cls = cn(
     'group relative flex flex-col bg-surface rounded-2xl border border-line p-5 pl-6 overflow-hidden',
-    'shadow-[0_1px_0_rgba(42,39,35,.04)] transition-all duration-200',
+    'shadow-[0_1px_0_rgba(0,0,0,.25)] transition-all duration-200',
     disabled
       ? 'cursor-default'
-      : 'hover:-translate-y-1 hover:shadow-[0_12px_32px_-12px_rgba(42,39,35,.18)]',
+      : 'hover:-translate-y-1 hover:shadow-[0_12px_32px_-12px_rgba(0,0,0,.45)]',
     className,
   )
-  const style = { borderLeft: `4px solid ${disabled ? '#E4DCCB' : color}` }
+  const style = { borderLeft: `4px solid ${disabled ? '#22314B' : color}` }
 
   if (disabled) {
     return (

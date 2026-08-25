@@ -1,5 +1,6 @@
+import { useState } from 'react'
 import { motion } from 'framer-motion'
-import { ArrowLeft, RefreshCw } from 'lucide-react'
+import { ArrowLeft, Check, RefreshCw, Share2 } from 'lucide-react'
 import { Link } from 'react-router'
 import Breadcrumb from '@/components/Breadcrumb'
 import TagBadge from '@/components/TagBadge'
@@ -21,6 +22,41 @@ const badgeContainer = {
 const badgeItem = {
   hidden: { opacity: 0, scale: 0.9 },
   show: { opacity: 1, scale: 1, transition: { duration: 0.3, ease: 'easeOut' as const } },
+}
+
+/** 分享本页：一键复制当前链接（v2.0 需求 3） */
+function ShareButton() {
+  const [copied, setCopied] = useState(false)
+
+  const copy = async () => {
+    const url = window.location.href
+    try {
+      await navigator.clipboard.writeText(url)
+    } catch {
+      // 降级：临时输入框复制
+      const ta = document.createElement('textarea')
+      ta.value = url
+      ta.style.position = 'fixed'
+      ta.style.opacity = '0'
+      document.body.appendChild(ta)
+      ta.select()
+      document.execCommand('copy')
+      ta.remove()
+    }
+    setCopied(true)
+    setTimeout(() => setCopied(false), 2000)
+  }
+
+  return (
+    <button
+      type="button"
+      onClick={copy}
+      className="inline-flex items-center gap-2 text-sm text-ink-soft hover:text-cinnabar border border-line hover:border-cinnabar rounded-full px-4 py-2 transition-colors duration-200 bg-surface"
+    >
+      {copied ? <Check className="w-4 h-4 text-pine" /> : <Share2 className="w-4 h-4" />}
+      {copied ? '已复制链接' : '分享本页'}
+    </button>
+  )
 }
 
 /**
@@ -88,7 +124,13 @@ export default function CityHeader({ city, provinceName, provinceAdcode, isMunic
         )}
       </div>
 
-      <motion.div initial={{ opacity: 0, x: 12 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: 0.4, delay: 0.15 }}>
+      <motion.div
+        initial={{ opacity: 0, x: 12 }}
+        animate={{ opacity: 1, x: 0 }}
+        transition={{ duration: 0.4, delay: 0.15 }}
+        className="flex items-center gap-2.5 shrink-0"
+      >
+        <ShareButton />
         <Link
           to={isMunicipality ? '/' : `/province/${provinceAdcode}`}
           className="inline-flex items-center gap-2 text-sm text-ink-soft hover:text-cinnabar border border-line hover:border-cinnabar rounded-full px-4 py-2 transition-colors duration-200 bg-surface"

@@ -1,23 +1,23 @@
-/** 全站共享的视觉常量（design.md §2） */
+/** 全站共享的视觉常量（v2.0 深色科技风） */
 
-/** 分类语义色 */
+/** 分类语义色（深色底高可读亮色） */
 export const CATEGORY_COLORS = {
-  公务员: '#B5493A',
-  选调生: '#C08A3E',
-  选调: '#C08A3E',
-  事业单位: '#3F6C5B',
-  人才引进: '#7D5A6B',
-  录用公示: '#8A8378',
+  公务员: '#F0635A',
+  选调生: '#F5A94B',
+  选调: '#F5A94B',
+  事业单位: '#3ED598',
+  人才引进: '#C084FC',
+  录用公示: '#7A8BA8',
 } as const
 
 export type CategoryName = keyof typeof CATEGORY_COLORS
 
 export function categoryColor(category: string): string {
-  return (CATEGORY_COLORS as Record<string, string>)[category] ?? '#8A8378'
+  return (CATEGORY_COLORS as Record<string, string>)[category] ?? '#7A8BA8'
 }
 
-/** 地图省份 6 色循环均衡色板 */
-export const MAP_PROVINCE_COLORS = ['#D9C7A7', '#BFC9B2', '#D8BBA6', '#C3BBAE', '#B9C4C0', '#DCC9B4']
+/** 地图省份 6 色深色循环：色相+明度双重差异，相邻省对比清晰 */
+export const MAP_PROVINCE_COLORS = ['#1E6FA8', '#0F5E50', '#6B4FC4', '#8A2E4E', '#9A7A1F', '#2A3F66']
 
 /** 按 subFeatureIndex 循环取色，保证相邻省异色 */
 export function provinceColor(subFeatureIndex: number | undefined, fallback: number): string {
@@ -25,11 +25,11 @@ export function provinceColor(subFeatureIndex: number | undefined, fallback: num
   return MAP_PROVINCE_COLORS[((i % 6) + 6) % 6]
 }
 
-export const INK = '#2A2723'
-export const INK_SOFT = '#5C564B'
-export const INK_FAINT = '#9A9184'
-export const LINE = '#E4DCCB'
-export const GRID_LINE = '#EAE3D3'
-export const PAPER = '#F7F3EA'
-export const SURFACE = '#FDFBF5'
-export const CINNABAR = '#B5493A'
+export const INK = '#E6ECF5'
+export const INK_SOFT = '#9AA7BE'
+export const INK_FAINT = '#5E6C85'
+export const LINE = '#22314B'
+export const GRID_LINE = '#1B2740'
+export const PAPER = '#0B1220'
+export const SURFACE = '#121C31'
+export const CINNABAR = '#22D3EE'

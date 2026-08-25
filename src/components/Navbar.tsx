@@ -1,4 +1,4 @@
-import { useState } from 'react'
+﻿import { useState } from 'react'
 import { Link, useLocation, useNavigate } from 'react-router'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Menu, Search, X } from 'lucide-react'
@@ -88,6 +88,9 @@ export default function Navbar() {
           >
             <Search className="w-4 h-4" />
             <span className="hidden sm:inline">搜索城市 / 高校</span>
+            <kbd className="hidden lg:inline-flex items-center gap-0.5 px-1.5 py-0.5 rounded border border-line bg-paper text-[10px] font-num text-ink-faint">
+              Ctrl K
+            </kbd>
           </button>
           <button
             type="button"
@@ -108,7 +111,7 @@ export default function Navbar() {
             animate={{ opacity: 1, x: 0 }}
             exit={{ opacity: 0, x: 24 }}
             transition={{ duration: 0.25, ease: 'easeOut' }}
-            className="md:hidden absolute top-16 left-0 right-0 bg-paper border-b border-line shadow-[0_12px_32px_-12px_rgba(42,39,35,.18)]"
+            className="md:hidden absolute top-16 left-0 right-0 bg-paper border-b border-line shadow-[0_12px_32px_-12px_rgba(0,0,0,.45)]"
           >
             <div className="px-6 py-4 flex flex-col gap-1">
               {NAV_LINKS.map((link) => (

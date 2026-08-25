@@ -1,7 +1,7 @@
-/**
+﻿/**
  * 事业单位专栏（shiye.md）：招聘 vs 录用双折线、岗位来源 Top5 横向条形、
  * 年份筛选 chips 驱动全页过滤、备考提示卡、公告表与附件区。
- * 主题色：pine #3F6C5B
+ * 主题色：pine #3ED598
  */
 import { useMemo, useState } from 'react'
 import { motion } from 'framer-motion'
@@ -23,8 +23,8 @@ import {
 } from './shared'
 import { YEARS, collectAttachments, type CityContext } from './useCityContext'
 
-const PINE = '#3F6C5B'
-const GRAY = '#8A8378'
+const PINE = '#3ED598'
+const GRAY = '#7A8BA8'
 
 type YearFilter = '全部' | '2026' | '2025' | '2024'
 const YEAR_OPTIONS: readonly YearFilter[] = ['全部', '2026', '2025', '2024']
@@ -65,7 +65,7 @@ export default function ShiyeColumn({ ctx }: { ctx: CityContext }) {
     () => ({
       animationDuration: 600,
       grid: { left: 8, right: 16, top: 40, bottom: 0, containLabel: true },
-      legend: { top: 0, textStyle: { color: '#5C564B', fontSize: 12 } },
+      legend: { top: 0, textStyle: { color: '#9AA7BE', fontSize: 12 } },
       xAxis: { type: 'category', data: YEARS.map(String), boundaryGap: false },
       yAxis: { type: 'value', minInterval: 1 },
       series: [
@@ -77,7 +77,7 @@ export default function ShiyeColumn({ ctx }: { ctx: CityContext }) {
           symbol: 'circle',
           symbolSize: 8,
           lineStyle: { color: PINE, width: 3 },
-          itemStyle: { color: PINE, borderColor: '#FDFBF5', borderWidth: 2 },
+          itemStyle: { color: PINE, borderColor: '#0B1220', borderWidth: 2 },
         },
         {
           name: '录用公示',
@@ -87,7 +87,7 @@ export default function ShiyeColumn({ ctx }: { ctx: CityContext }) {
           symbol: 'rect',
           symbolSize: 8,
           lineStyle: { color: GRAY, width: 2, type: 'dashed' },
-          itemStyle: { color: GRAY, borderColor: '#FDFBF5', borderWidth: 2 },
+          itemStyle: { color: GRAY, borderColor: '#0B1220', borderWidth: 2 },
         },
       ],
     }),
@@ -113,7 +113,7 @@ export default function ShiyeColumn({ ctx }: { ctx: CityContext }) {
         type: 'category',
         data: names,
         axisLabel: {
-          color: '#5C564B',
+          color: '#9AA7BE',
           fontSize: 12,
           width: 96,
           overflow: 'truncate',
@@ -126,12 +126,12 @@ export default function ShiyeColumn({ ctx }: { ctx: CityContext }) {
           data: values.map((v) => ({
             value: v,
             itemStyle: {
-              color: `rgba(63,108,91,${0.45 + 0.55 * (v / max)})`,
+              color: `rgba(62,213,152,${0.45 + 0.55 * (v / max)})`,
               borderRadius: [0, 4, 4, 0],
             },
           })),
           barMaxWidth: 22,
-          label: { show: true, position: 'right', color: '#5C564B', fontSize: 12 },
+          label: { show: true, position: 'right', color: '#9AA7BE', fontSize: 12 },
         },
       ],
     }

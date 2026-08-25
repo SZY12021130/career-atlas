@@ -1,4 +1,4 @@
-/**
+﻿/**
  * 专栏页共享 UI：页头、筛选 chips、说明卡、官方入口、附件分组、底部联动条、空态。
  * 数据加载与纯工具见 ./useCityContext。
  */
@@ -151,7 +151,7 @@ export function InfoCard({ color, title, children }: InfoCardProps) {
   return (
     <motion.div
       variants={{ hidden: { opacity: 0, y: 20 }, show: { opacity: 1, y: 0, transition: { duration: 0.5, ease: 'easeOut' } } }}
-      className="bg-surface rounded-2xl border border-line p-6 overflow-hidden relative shadow-[0_1px_0_rgba(42,39,35,.04)]"
+      className="bg-surface rounded-2xl border border-line p-6 overflow-hidden relative shadow-[0_1px_0_rgba(0,0,0,.25)]"
     >
       <span className="absolute top-0 left-0 right-0 h-0.5" style={{ backgroundColor: color }} />
       <h3 className="font-sans font-bold text-ink text-base">{title}</h3>
@@ -329,9 +329,9 @@ export interface BottomLinksProps {
 }
 
 const LINK_META = [
-  { key: 'xuandiao' as const, label: '选调专栏', color: '#C08A3E' },
-  { key: 'shiye' as const, label: '事业单位专栏', color: '#3F6C5B' },
-  { key: 'rencai' as const, label: '人才引进专栏', color: '#7D5A6B' },
+  { key: 'xuandiao' as const, label: '选调专栏', color: '#F5A94B' },
+  { key: 'shiye' as const, label: '事业单位专栏', color: '#3ED598' },
+  { key: 'rencai' as const, label: '人才引进专栏', color: '#C084FC' },
 ]
 
 export function BottomLinks({ cityName, adcode, current }: BottomLinksProps) {

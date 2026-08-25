@@ -1,4 +1,4 @@
-import { ExternalLink, Paperclip } from 'lucide-react'
+﻿import { ExternalLink, Paperclip } from 'lucide-react'
 import type { Recruitment } from '@/lib/data'
 import { assetUrl } from '@/lib/data'
 import TagBadge from './TagBadge'
@@ -26,7 +26,7 @@ export default function RecruitmentTable({ recruitments, emptyText = '该类别�
   }
 
   return (
-    <div className={cn('bg-surface rounded-2xl border border-line overflow-hidden shadow-[0_1px_0_rgba(42,39,35,.04)]', className)}>
+    <div className={cn('bg-surface rounded-2xl border border-line overflow-hidden shadow-[0_1px_0_rgba(0,0,0,.25)]', className)}>
       <div className="overflow-x-auto">
         <table className="w-full text-[13px] min-w-[720px]">
           <thead className="sticky top-0 z-10">

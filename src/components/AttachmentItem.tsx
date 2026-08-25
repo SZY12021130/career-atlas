@@ -1,15 +1,15 @@
-import { Download, ExternalLink, FileSpreadsheet, FileText, File } from 'lucide-react'
+﻿import { Download, ExternalLink, FileSpreadsheet, FileText, File } from 'lucide-react'
 import type { Attachment } from '@/lib/data'
 import { attachmentUrl } from '@/lib/data'
 import { cn } from '@/lib/utils'
 
 const EXT_STYLE: Record<string, { color: string; icon: typeof FileText }> = {
-  xlsx: { color: '#3F6C5B', icon: FileSpreadsheet },
-  xls: { color: '#3F6C5B', icon: FileSpreadsheet },
-  csv: { color: '#3F6C5B', icon: FileSpreadsheet },
-  pdf: { color: '#B5493A', icon: FileText },
-  doc: { color: '#C08A3E', icon: FileText },
-  docx: { color: '#C08A3E', icon: FileText },
+  xlsx: { color: '#3ED598', icon: FileSpreadsheet },
+  xls: { color: '#3ED598', icon: FileSpreadsheet },
+  csv: { color: '#3ED598', icon: FileSpreadsheet },
+  pdf: { color: '#F0635A', icon: FileText },
+  doc: { color: '#F5A94B', icon: FileText },
+  docx: { color: '#F5A94B', icon: FileText },
 }
 
 function extOf(name: string): string {
@@ -22,7 +22,7 @@ function extOf(name: string): string {
  */
 export default function AttachmentItem({ attachment, cityAdcode, className }: { attachment: Attachment; cityAdcode: number; className?: string }) {
   const ext = extOf(attachment.name)
-  const { color, icon: Icon } = EXT_STYLE[ext] ?? { color: '#9A9184', icon: File }
+  const { color, icon: Icon } = EXT_STYLE[ext] ?? { color: '#5E6C85', icon: File }
   const local = attachmentUrl(cityAdcode, attachment)
 
   const inner = (
@@ -56,7 +56,7 @@ export default function AttachmentItem({ attachment, cityAdcode, className }: { 
       download={local ? attachment.name : undefined}
       className={cn(
         'group flex items-center gap-3 bg-surface rounded-xl border border-line px-4 py-3',
-        'transition-all duration-200 hover:shadow-[0_12px_32px_-12px_rgba(42,39,35,.18)]',
+        'transition-all duration-200 hover:shadow-[0_12px_32px_-12px_rgba(0,0,0,.45)]',
         className,
       )}
     >

@@ -1,4 +1,4 @@
-import { useEffect, useRef } from 'react'
+﻿import { useEffect, useRef } from 'react'
 import gsap from 'gsap'
 import { ScrollTrigger } from 'gsap/ScrollTrigger'
 import { cn } from '@/lib/utils'
@@ -22,7 +22,7 @@ export interface StatCardProps {
  * KPI 卡：surface 底 + 左上分类色圆点 + Fraunces 大数字（GSAP 滚动计数）+ 右下小字说明。
  * hover 微抬升（纯 CSS transform，避免与 GSAP 混用动画库）。
  */
-export default function StatCard({ color = '#B5493A', label, value, suffix, hint, countUp = true, className }: StatCardProps) {
+export default function StatCard({ color = '#F0635A', label, value, suffix, hint, countUp = true, className }: StatCardProps) {
   const numRef = useRef<HTMLSpanElement>(null)
   const cardRef = useRef<HTMLDivElement>(null)
 
@@ -53,8 +53,8 @@ export default function StatCard({ color = '#B5493A', label, value, suffix, hint
       ref={cardRef}
       className={cn(
         'relative bg-surface rounded-2xl border border-line p-6',
-        'shadow-[0_1px_0_rgba(42,39,35,.04)] transition-all duration-200',
-        'hover:-translate-y-1 hover:shadow-[0_12px_32px_-12px_rgba(42,39,35,.18)]',
+        'shadow-[0_1px_0_rgba(0,0,0,.25)] transition-all duration-200',
+        'hover:-translate-y-1 hover:shadow-[0_12px_32px_-12px_rgba(0,0,0,.45)]',
         className,
       )}
     >

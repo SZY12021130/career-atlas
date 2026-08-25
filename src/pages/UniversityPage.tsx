@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+﻿import { useEffect, useMemo, useState } from 'react'
 import { Link, useParams } from 'react-router'
 import { motion } from 'framer-motion'
 import {
@@ -68,7 +68,7 @@ function Header({ record }: { record: UniversityRecord }) {
         initial={{ scale: 0.6, rotate: -8, opacity: 0 }}
         animate={{ scale: 1, rotate: 0, opacity: 1 }}
         transition={{ duration: 0.5, ease: EASE }}
-        className="w-16 h-16 md:w-20 md:h-20 rounded-2xl bg-cinnabar flex items-center justify-center shrink-0 shadow-[0_8px_24px_-8px_rgba(181,73,58,.45)]"
+        className="w-16 h-16 md:w-20 md:h-20 rounded-2xl bg-cinnabar flex items-center justify-center shrink-0 shadow-[0_8px_24px_-8px_rgba(34,211,238,.35)]"
       >
         <span className="font-serif font-black text-paper" style={{ fontSize: 'clamp(1.75rem, 3vw, 2.5rem)' }}>
           {initial}
@@ -271,7 +271,7 @@ function PeerSection({ record }: { record: UniversityRecord }) {
           <motion.span key={peer.name} variants={pop} className="inline-flex">
             <Link
               to={`/university/${encodeURIComponent(peer.name)}`}
-              className="group inline-flex items-center gap-2 px-3.5 py-2 rounded-full bg-surface border border-line text-sm text-ink transition-all duration-200 hover:-translate-y-0.5 hover:border-cinnabar/50 hover:shadow-[0_8px_20px_-10px_rgba(42,39,35,.2)]"
+              className="group inline-flex items-center gap-2 px-3.5 py-2 rounded-full bg-surface border border-line text-sm text-ink transition-all duration-200 hover:-translate-y-0.5 hover:border-cinnabar/50 hover:shadow-[0_8px_20px_-10px_rgba(0,0,0,.45)]"
             >
               <GraduationCap className="w-4 h-4 text-ink-faint group-hover:text-cinnabar transition-colors duration-200" />
               {peer.name}

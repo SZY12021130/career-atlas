@@ -1,7 +1,7 @@
-/**
+﻿/**
  * 人才引进专栏（rencai.md）：引进公告柱+人数折线、引进主体玫瑰图、
  * 政策要点卡、高校人才政策直达区（官网/人事处/人才政策三快捷链接）、公告表与附件区。
- * 主题色：plum #7D5A6B
+ * 主题色：plum #C084FC
  */
 import { useMemo, useState } from 'react'
 import { useNavigate } from 'react-router'
@@ -27,8 +27,8 @@ import {
 } from './shared'
 import { YEARS, collectAttachments, type CityContext } from './useCityContext'
 
-const PLUM = '#7D5A6B'
-const INK = '#2A2723'
+const PLUM = '#C084FC'
+const INK = '#E6ECF5'
 
 type YearFilter = '全部' | '2026' | '2025' | '2024'
 const YEAR_OPTIONS: readonly YearFilter[] = ['全部', '2026', '2025', '2024']
@@ -45,11 +45,11 @@ function classify(r: Recruitment): string {
 
 const SUBJECT_ORDER = ['党政机关', '高校', '医疗卫生', '科研院所', '其他'] as const
 const SUBJECT_COLORS: Record<string, string> = {
-  党政机关: '#7D5A6B',
-  高校: '#9A7789',
-  医疗卫生: '#B394A3',
-  科研院所: '#C9AFBB',
-  其他: '#DDCAD2',
+  党政机关: '#C084FC',
+  高校: '#A78BFA',
+  医疗卫生: '#9385E8',
+  科研院所: '#7E93D4',
+  其他: '#6D7FB8',
 }
 
 function QuickLink({ href, label, color }: { href: string | null; label: string; color: string }) {
@@ -91,8 +91,8 @@ function UniversityCard({ uni }: { uni: University }) {
       onClick={() => navigate(`/university/${encodeURIComponent(uni.name)}`)}
       className={cn(
         'group bg-surface rounded-2xl border border-line p-5 cursor-pointer',
-        'shadow-[0_1px_0_rgba(42,39,35,.04)] transition-shadow duration-200',
-        'hover:shadow-[0_12px_32px_-12px_rgba(42,39,35,.18)]',
+        'shadow-[0_1px_0_rgba(0,0,0,.25)] transition-shadow duration-200',
+        'hover:shadow-[0_12px_32px_-12px_rgba(0,0,0,.45)]',
       )}
     >
       <div className="flex items-start gap-3">
@@ -138,11 +138,11 @@ export default function RencaiColumn({ ctx }: { ctx: CityContext }) {
     () => ({
       animationDuration: 600,
       grid: { left: 8, right: 16, top: 40, bottom: 0, containLabel: true },
-      legend: { top: 0, textStyle: { color: '#5C564B', fontSize: 12 } },
+      legend: { top: 0, textStyle: { color: '#9AA7BE', fontSize: 12 } },
       xAxis: { type: 'category', data: YEARS.map(String) },
       yAxis: [
-        { type: 'value', minInterval: 1, name: '公告数', nameTextStyle: { color: '#9A9184' } },
-        { type: 'value', minInterval: 1, name: '人数', nameTextStyle: { color: '#9A9184' }, splitLine: { show: false } },
+        { type: 'value', minInterval: 1, name: '公告数', nameTextStyle: { color: '#5E6C85' } },
+        { type: 'value', minInterval: 1, name: '人数', nameTextStyle: { color: '#5E6C85' }, splitLine: { show: false } },
       ],
       series: [
         {
@@ -161,7 +161,7 @@ export default function RencaiColumn({ ctx }: { ctx: CityContext }) {
           symbol: 'circle',
           symbolSize: 8,
           lineStyle: { color: INK, width: 2.5 },
-          itemStyle: { color: INK, borderColor: '#FDFBF5', borderWidth: 2 },
+          itemStyle: { color: INK, borderColor: '#0B1220', borderWidth: 2 },
         },
       ],
     }),
@@ -183,7 +183,7 @@ export default function RencaiColumn({ ctx }: { ctx: CityContext }) {
   const roseOption: EChartsOption = useMemo(
     () => ({
       animationDuration: 600,
-      legend: { bottom: 0, textStyle: { color: '#5C564B', fontSize: 12 } },
+      legend: { bottom: 0, textStyle: { color: '#9AA7BE', fontSize: 12 } },
       series: [
         {
           name: '引进主体',
@@ -191,8 +191,8 @@ export default function RencaiColumn({ ctx }: { ctx: CityContext }) {
           roseType: 'radius',
           radius: ['18%', '68%'],
           center: ['50%', '46%'],
-          itemStyle: { borderColor: '#FDFBF5', borderWidth: 2, borderRadius: 6 },
-          label: { color: '#5C564B', fontSize: 12 },
+          itemStyle: { borderColor: '#0B1220', borderWidth: 2, borderRadius: 6 },
+          label: { color: '#9AA7BE', fontSize: 12 },
           data: subjects.map((s) => ({ ...s, itemStyle: { color: SUBJECT_COLORS[s.name] } })),
         },
       ],
@@ -225,7 +225,7 @@ export default function RencaiColumn({ ctx }: { ctx: CityContext }) {
           <StatCard color={PLUM} label="人才引进公告数" value={filtered.length} suffix="条" hint={`当前筛选：${yearFilter}`} />
           <StatCard color={PLUM} label="引进人数合计" value={headcountTotal} suffix="人" />
           <StatCard color={PLUM} label="涉及单位/岗位数" value={positionsTotal} suffix="个" />
-          <StatCard color="#C08A3E" label="本市本科高校数" value={universities.length} suffix="所" hint="联动指标" />
+          <StatCard color="#F5A94B" label="本市本科高校数" value={universities.length} suffix="所" hint="联动指标" />
         </div>
         <motion.div
           className="grid gap-6 lg:grid-cols-12"
