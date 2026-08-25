@@ -1,5 +1,5 @@
 import { memo, useEffect, useMemo, useRef, useState } from 'react'
-import { useNavigate } from 'react-router'
+import { useNavigate, Link } from 'react-router'
 import { motion, AnimatePresence, useInView } from 'framer-motion'
 import gsap from 'gsap'
 import { ScrollTrigger } from 'gsap/ScrollTrigger'
@@ -18,6 +18,7 @@ import {
 import EChart from '@/components/EChart'
 import SearchBar from '@/components/SearchBar'
 import StatCard from '@/components/StatCard'
+import TagBadge from '@/components/TagBadge'
 import {
   fetchGeo,
   fetchIndex,
@@ -475,6 +476,152 @@ function ReservedSection() {
 }
 
 // ---------------------------------------------------------------------------
+// Section 4.5 · 全国级官方入口（国考 / 部委直属渠道）
+// ---------------------------------------------------------------------------
+
+const NATIONAL_PORTALS = [
+  { name: '国家公务员局', desc: '中央机关及其直属机构考试录用', url: 'http://www.scs.gov.cn' },
+  { name: '国考报名专题', desc: '国考公告·职位表·报名入口', url: 'http://bm.scs.gov.cn' },
+  { name: '中国公共招聘网', desc: '人社部事业单位招聘全国平台', url: 'http://job.mohrss.gov.cn' },
+  { name: '军队人才网', desc: '军队文职人员公开招考', url: 'http://81rc.81.cn' },
+  { name: '国家大学生就业服务平台', desc: '教育部24365就业服务', url: 'https://www.ncss.cn' },
+]
+
+function NationalSection() {
+  return (
+    <section className="pb-16 md:pb-24">
+      <div className="max-w-7xl mx-auto px-6 lg:px-10">
+        <motion.div
+          initial={{ opacity: 0, y: 24 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true, amount: 0.2 }}
+          transition={{ duration: 0.6, ease: EASE }}
+        >
+          <div className="flex items-center gap-3 mb-6">
+            <span className="w-1.5 h-7 bg-cinnabar rounded-full" />
+            <h2 className="font-serif font-bold text-[1.75rem] text-ink">全国级官方入口</h2>
+            <span className="text-xs text-ink-faint">国考 · 部委直属 · 军队文职</span>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4">
+            {NATIONAL_PORTALS.map((p, i) => (
+              <motion.a
+                key={p.url}
+                href={p.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                initial={{ opacity: 0, y: 16 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ duration: 0.5, delay: i * 0.06, ease: EASE }}
+                whileHover={{ y: -4 }}
+                className="group block bg-surface rounded-2xl border border-line border-l-4 border-l-cinnabar p-5 transition-shadow hover:shadow-[0_12px_32px_-12px_rgba(42,39,35,.18)]"
+              >
+                <div className="flex items-start justify-between gap-2">
+                  <h3 className="text-sm font-bold text-ink">{p.name}</h3>
+                  <Globe className="w-4 h-4 text-ink-faint group-hover:text-cinnabar transition-colors shrink-0" />
+                </div>
+                <p className="mt-2 text-xs text-ink-faint leading-5">{p.desc}</p>
+              </motion.a>
+            ))}
+          </div>
+        </motion.div>
+      </div>
+    </section>
+  )
+}
+
+// ---------------------------------------------------------------------------
+// Section 4.6 · 最新公告速递（全国聚合）
+// ---------------------------------------------------------------------------
+
+interface LatestItem {
+  title: string
+  date: string | null
+  category: string
+  url: string
+  cityName: string
+  cityAdcode: number
+  provinceName: string
+}
+
+function LatestSection({ provinces }: { provinces: (ProvinceData | null)[] }) {
+  const items = useMemo<LatestItem[]>(() => {
+    const all: LatestItem[] = []
+    for (const p of provinces) {
+      if (!p) continue
+      for (const c of p.cities ?? []) {
+        for (const r of c.recruitments ?? []) {
+          all.push({
+            title: r.title,
+            date: r.date ?? null,
+            category: r.category,
+            url: r.url,
+            cityName: c.name,
+            cityAdcode: c.adcode,
+            provinceName: p.name,
+          })
+        }
+      }
+    }
+    return all
+      .filter((i) => i.date)
+      .sort((a, b) => (b.date! > a.date! ? 1 : -1))
+      .slice(0, 10)
+  }, [provinces])
+
+  if (items.length === 0) return null
+
+  return (
+    <section className="pb-16 md:pb-24">
+      <div className="max-w-7xl mx-auto px-6 lg:px-10">
+        <motion.div
+          initial={{ opacity: 0, y: 24 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true, amount: 0.15 }}
+          transition={{ duration: 0.6, ease: EASE }}
+        >
+          <div className="flex items-center gap-3 mb-6">
+            <span className="w-1.5 h-7 bg-cinnabar rounded-full" />
+            <h2 className="font-serif font-bold text-[1.75rem] text-ink">最新公告速递</h2>
+            <span className="text-xs text-ink-faint">来自各省官方招录网站 · 按发布日期排序</span>
+          </div>
+          <div className="bg-surface rounded-2xl border border-line divide-y divide-line overflow-hidden">
+            {items.map((it, i) => (
+              <motion.div
+                key={`${it.cityAdcode}-${i}`}
+                initial={{ opacity: 0, x: -12 }}
+                whileInView={{ opacity: 1, x: 0 }}
+                viewport={{ once: true }}
+                transition={{ duration: 0.4, delay: i * 0.03 }}
+                className="flex items-center gap-4 px-5 md:px-7 py-4 hover:bg-paper-deep/50 transition-colors"
+              >
+                <span className="text-xs text-ink-faint tabular-nums shrink-0 w-24">{it.date}</span>
+                <TagBadge label={it.category} />
+                <a
+                  href={it.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex-1 min-w-0 text-sm text-ink truncate hover:text-cinnabar transition-colors"
+                  title={it.title}
+                >
+                  {it.title}
+                </a>
+                <Link
+                  to={`/city/${it.cityAdcode}`}
+                  className="shrink-0 text-xs text-ink-faint hover:text-cinnabar transition-colors"
+                >
+                  {it.provinceName} · {it.cityName}
+                </Link>
+              </motion.div>
+            ))}
+          </div>
+        </motion.div>
+      </div>
+    </section>
+  )
+}
+
+// ---------------------------------------------------------------------------
 // Section 5 · 数据说明条
 // ---------------------------------------------------------------------------
 
@@ -538,7 +685,9 @@ export default function Home() {
     <div className="min-h-[100dvh]">
       <Hero />
       <MapSection index={index} provinces={provinces} />
+      <LatestSection provinces={provinces} />
       <ColumnsSection />
+      <NationalSection />
       <ReservedSection />
       <DataNote />
     </div>

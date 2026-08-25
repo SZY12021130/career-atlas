@@ -7,7 +7,7 @@ import { cn } from '@/lib/utils'
 const NAV_LINKS = [
   { label: '首页', to: '/' },
   { label: '全国地图', to: '/#map' },
-  { label: '数据说明', to: '/#data-note' },
+  { label: '数据说明', to: '/about' },
 ]
 
 export default function Navbar() {
