@@ -23,7 +23,7 @@ export default function CityNotFound({ kind, provinceName, provinceAdcode, isMun
       : [{ label: '首页', to: '/' }, { label: kind === 'notfound' ? '未找到城市' : '数据整理中' }]
 
   return (
-    <div className="max-w-7xl mx-auto px-6 lg:px-10 py-12 md:py-16">
+    <div className="max-w-[1680px] mx-auto px-6 lg:px-10 py-12 md:py-16">
       <Breadcrumb items={crumbItems} />
       <div className="mt-16 mb-20 flex flex-col items-center text-center">
         <img src={assetUrl('map-empty.svg')} alt="空态" className="w-64 h-auto opacity-90" />

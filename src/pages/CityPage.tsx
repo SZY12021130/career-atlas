@@ -5,8 +5,6 @@ import type { City, ProvinceData, University } from '@/lib/data'
 import { recordCityVisit } from '@/lib/recent'
 import CityHeader from '@/components/city/CityHeader'
 import CityKpis from '@/components/city/CityKpis'
-import TrendChart from '@/components/city/TrendChart'
-import CategoryDonut from '@/components/city/CategoryDonut'
 import PortalGrid from '@/components/city/PortalGrid'
 import ColumnEntrances from '@/components/city/ColumnEntrances'
 import AnnouncementSection from '@/components/city/AnnouncementSection'
@@ -35,7 +33,7 @@ function resolveProvinceAdcode(cityAdcode: number): number {
 
 function LoadingSkeleton() {
   return (
-    <div className="max-w-7xl mx-auto px-6 lg:px-10 py-12 md:py-16 animate-pulse">
+    <div className="max-w-[1680px] mx-auto px-6 lg:px-10 py-12 md:py-16 animate-pulse">
       <div className="h-4 w-56 bg-paper-deep rounded" />
       <div className="mt-6 h-12 w-72 bg-paper-deep rounded-lg" />
       <div className="mt-6 h-5 w-96 bg-paper-deep rounded" />
@@ -112,7 +110,7 @@ export default function CityPage() {
   const portals = city.portals ?? []
 
   return (
-    <div className="max-w-7xl mx-auto px-6 lg:px-10 py-12 md:py-16">
+    <div className="max-w-[1680px] mx-auto px-6 lg:px-10 py-12 md:py-16">
       {/* Section 1 · 页头 */}
       <CityHeader
         city={city}
@@ -125,10 +123,6 @@ export default function CityPage() {
       {/* Section 2 · 统计总览 */}
       <div className="mt-14 md:mt-20">
         <CityKpis recruitments={recruitments} universityCount={universities.length} />
-        <div className="mt-6 grid grid-cols-1 lg:grid-cols-12 gap-6">
-          <TrendChart recruitments={recruitments} updatedAt={province.updatedAt ?? null} />
-          <CategoryDonut recruitments={recruitments} updatedAt={province.updatedAt ?? null} />
-        </div>
       </div>
 
       {/* Section 3 · 官方网站直达 */}

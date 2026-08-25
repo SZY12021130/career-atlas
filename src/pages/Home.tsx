@@ -1,4 +1,4 @@
-import { memo, useEffect, useMemo, useRef, useState } from 'react'
+﻿import { memo, useEffect, useMemo, useRef, useState } from 'react'
 import { useNavigate, useLocation, Link } from 'react-router'
 import { motion, AnimatePresence, useInView } from 'framer-motion'
 import gsap from 'gsap'
@@ -33,7 +33,7 @@ import {
   MUNICIPALITY_ADCODES,
 } from '@/lib/data'
 import type { DataIndex, GeoJSON, ProvinceData } from '@/lib/data'
-import { CINNABAR, INK, INK_SOFT, provinceColor } from '@/lib/theme'
+import { CINNABAR, INK, provinceColor } from '@/lib/theme'
 
 gsap.registerPlugin(ScrollTrigger)
 
@@ -85,7 +85,7 @@ const HeroMountains = memo(function HeroMountains() {
 function Hero() {
   return (
     <section className="relative overflow-hidden">
-      <div className="relative max-w-7xl mx-auto px-6 lg:px-10 pt-20 pb-40 md:pt-28 md:pb-56">
+      <div className="relative max-w-[1680px] mx-auto px-6 lg:px-10 pt-20 pb-40 md:pt-28 md:pb-56">
         {/* eyebrow */}
         <motion.p
           initial={{ opacity: 0 }}
@@ -260,10 +260,28 @@ function MapSection({ index, provinces }: MapSectionProps) {
           map: 'china',
           roam: true,
           scaleLimit: { min: 1, max: 5 },
-          label: { show: true, fontSize: 10, color: INK_SOFT },
+          label: {
+            show: true,
+            fontSize: 14,
+            color: INK,
+            fontWeight: 'bold',
+            textBorderColor: 'rgba(11,18,32,1)',
+            textBorderWidth: 3,
+          },
+          labelLayout: {
+            position: 'right',
+            distance: 2,
+          },
           itemStyle: { borderColor: '#0B1220', borderWidth: 1 },
           emphasis: {
-            label: { show: true, fontWeight: 'bold', color: INK, fontSize: 11 },
+            label: {
+              show: true,
+              fontWeight: 'bold',
+              color: CINNABAR,
+              fontSize: 13,
+              textBorderColor: 'rgba(11,18,32,1)',
+              textBorderWidth: 3,
+            },
             itemStyle: {
               areaColor: '#1E3A5C',
               borderColor: CINNABAR,
@@ -305,7 +323,7 @@ function MapSection({ index, provinces }: MapSectionProps) {
 
   return (
     <section id="map" ref={sectionRef} className="py-16 md:py-24">
-      <div className="max-w-7xl mx-auto px-6 lg:px-10">
+      <div className="max-w-[1680px] mx-auto px-6 lg:px-10">
         <div className="mb-10">
           <h2 className="font-serif font-bold text-[1.75rem] text-ink flex items-center gap-3">
             <span className="w-1.5 h-7 bg-cinnabar rounded-full inline-block" />
@@ -426,7 +444,7 @@ const COLUMNS = [
 function ColumnsSection() {
   return (
     <section className="py-16 md:py-24 bg-paper-deep/40">
-      <div className="max-w-7xl mx-auto px-6 lg:px-10">
+      <div className="max-w-[1680px] mx-auto px-6 lg:px-10">
         <div className="mb-10">
           <h2 className="font-serif font-bold text-[1.75rem] text-ink flex items-center gap-3">
             <span className="w-1.5 h-7 bg-cinnabar rounded-full inline-block" />
@@ -487,7 +505,7 @@ function ReservedSection() {
   const navigate = useNavigate()
   return (
     <section className="py-16 md:py-24">
-      <div className="max-w-7xl mx-auto px-6 lg:px-10">
+      <div className="max-w-[1680px] mx-auto px-6 lg:px-10">
         <motion.div
           initial={{ opacity: 0, y: 24 }}
           whileInView={{ opacity: 1, y: 0 }}
@@ -544,7 +562,7 @@ const NATIONAL_PORTALS = [
 function NationalSection() {
   return (
     <section className="pb-16 md:pb-24">
-      <div className="max-w-7xl mx-auto px-6 lg:px-10">
+      <div className="max-w-[1680px] mx-auto px-6 lg:px-10">
         <motion.div
           initial={{ opacity: 0, y: 24 }}
           whileInView={{ opacity: 1, y: 0 }}
@@ -627,7 +645,7 @@ function LatestSection({ provinces }: { provinces: (ProvinceData | null)[] }) {
 
   return (
     <section className="pb-16 md:pb-24">
-      <div className="max-w-7xl mx-auto px-6 lg:px-10">
+      <div className="max-w-[1680px] mx-auto px-6 lg:px-10">
         <motion.div
           initial={{ opacity: 0, y: 24 }}
           whileInView={{ opacity: 1, y: 0 }}

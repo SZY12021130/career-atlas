@@ -94,7 +94,7 @@ export default function ProvincePage() {
   const hasData = province !== null
 
   return (
-    <div className="max-w-7xl mx-auto px-6 lg:px-10 py-12 md:py-16">
+    <div className="max-w-[1680px] mx-auto px-6 lg:px-10 py-12 md:py-16">
       <HeaderSection province={province} name={name} loaded={loaded} />
 
       {!loaded ? (
@@ -286,10 +286,28 @@ function MapSection({ adcode, province, geo }: { adcode: number; province: Provi
           map: `province-${adcode}`,
           roam: true,
           scaleLimit: { min: 1, max: 4 },
-          label: { show: true, fontSize: 10, color: INK_SOFT },
+          label: {
+            show: true,
+            fontSize: 14,
+            color: INK,
+            fontWeight: 'bold',
+            textBorderColor: 'rgba(11,18,32,1)',
+            textBorderWidth: 3,
+          },
+          labelLayout: {
+            position: 'right',
+            distance: 2,
+          },
           itemStyle: { borderColor: '#0B1220', borderWidth: 1 },
           emphasis: {
-            label: { show: true, fontWeight: 'bold', color: INK, fontSize: 11 },
+            label: {
+              show: true,
+              fontWeight: 'bold',
+              color: CINNABAR,
+              fontSize: 13,
+              textBorderColor: 'rgba(11,18,32,1)',
+              textBorderWidth: 3,
+            },
             itemStyle: {
               areaColor: '#1E3A5C',
               borderColor: CINNABAR,

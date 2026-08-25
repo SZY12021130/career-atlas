@@ -1,7 +1,7 @@
-﻿import { useState } from 'react'
+import { useState } from 'react'
 import { Link, useLocation, useNavigate } from 'react-router'
 import { motion, AnimatePresence } from 'framer-motion'
-import { Menu, Search, X } from 'lucide-react'
+import { Menu, X } from 'lucide-react'
 import { assetUrl } from '@/lib/data'
 import { cn } from '@/lib/utils'
 
@@ -15,16 +15,6 @@ export default function Navbar() {
   const navigate = useNavigate()
   const [open, setOpen] = useState(false)
 
-  const goSearch = () => {
-    setOpen(false)
-    if (location.pathname === '/') {
-      document.getElementById('global-search-input')?.focus()
-      document.getElementById('global-search')?.scrollIntoView({ behavior: 'smooth', block: 'center' })
-    } else {
-      navigate('/', { state: { focusSearch: true } })
-    }
-  }
-
   const goMap = () => {
     setOpen(false)
     if (location.pathname === '/') {
@@ -36,7 +26,7 @@ export default function Navbar() {
 
   return (
     <header className="sticky top-0 z-50 h-16 bg-paper/90 backdrop-blur-md border-b border-line">
-      <div className="max-w-7xl mx-auto h-full px-6 lg:px-10 flex items-center justify-between gap-4">
+      <div className="max-w-[1680px] mx-auto h-full px-6 lg:px-10 flex items-center justify-between gap-4">
         {/* 左：logo */}
         <Link to="/" className="flex items-center gap-3 shrink-0" onClick={() => setOpen(false)}>
           <img src={assetUrl('logo.svg')} alt="职途图谱" className="w-9 h-9 rounded-lg" />
@@ -78,20 +68,14 @@ export default function Navbar() {
           </button>
         </nav>
 
-        {/* 右：搜索入口 + 移动端汉堡 */}
+        {/* 右：快捷键提示 + 移动端汉堡 */}
         <div className="flex items-center gap-2">
-          <button
-            type="button"
-            onClick={goSearch}
-            aria-label="全局搜索"
-            className="flex items-center gap-2 h-9 px-3.5 rounded-full border border-line bg-surface text-sm text-ink-soft hover:border-cinnabar hover:text-cinnabar transition-colors duration-200"
-          >
-            <Search className="w-4 h-4" />
-            <span className="hidden sm:inline">搜索城市 / 高校</span>
-            <kbd className="hidden lg:inline-flex items-center gap-0.5 px-1.5 py-0.5 rounded border border-line bg-paper text-[10px] font-num text-ink-faint">
-              Ctrl K
-            </kbd>
-          </button>
+          <span className="hidden sm:inline-flex items-center gap-1.5 text-xs text-ink-faint bg-surface border border-line rounded-full px-3 py-1 shrink-0">
+            <kbd className="font-num text-ink-soft">Ctrl</kbd>
+            <span className="text-ink-soft">+</span>
+            <kbd className="font-num text-ink-soft">K</kbd>
+            <span className="ml-1">快速搜索</span>
+          </span>
           <button
             type="button"
             aria-label="菜单"

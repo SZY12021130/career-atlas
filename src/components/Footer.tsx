@@ -1,4 +1,4 @@
-import { Link } from 'react-router'
+﻿import { Link } from 'react-router'
 import { Github } from 'lucide-react'
 import { assetUrl } from '@/lib/data'
 
@@ -11,7 +11,7 @@ const RESERVED_TAGS = [
 export default function Footer() {
   return (
     <footer className="bg-ink text-paper/70">
-      <div className="max-w-7xl mx-auto px-6 lg:px-10 py-14 grid grid-cols-1 md:grid-cols-3 gap-10">
+      <div className="max-w-[1680px] mx-auto px-6 lg:px-10 py-14 grid grid-cols-1 md:grid-cols-3 gap-10">
         {/* 项目说明 */}
         <div>
           <div className="flex items-center gap-3 mb-4">
@@ -51,7 +51,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="border-t border-paper/10">
-        <div className="max-w-7xl mx-auto px-6 lg:px-10 py-5 text-center text-xs text-paper/45">
+        <div className="max-w-[1680px] mx-auto px-6 lg:px-10 py-5 text-center text-xs text-paper/45">
           © 2026 职途图谱 · 数据来源于各官方招录网站 · 仅供学习参考
         </div>
       </div>

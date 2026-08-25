@@ -208,7 +208,7 @@ export default function RencaiColumn({ ctx }: { ctx: CityContext }) {
       : '近三年暂未收录人才引进公告数据，可通过下方官方入口与高校直达区查询最新政策。'
 
   return (
-    <div className="max-w-7xl mx-auto px-6 lg:px-10 py-12 space-y-16">
+    <div className="max-w-[1680px] mx-auto px-6 lg:px-10 py-12 space-y-16">
       <ColumnHeader
         color={PLUM}
         title="人才引进专栏"

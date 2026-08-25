@@ -1,4 +1,4 @@
-import { Link, Navigate, useParams } from 'react-router'
+﻿import { Link, Navigate, useParams } from 'react-router'
 import { motion } from 'framer-motion'
 import { ArrowLeft, Compass, Briefcase, Globe, FlaskConical } from 'lucide-react'
 import type { LucideIcon } from 'lucide-react'
@@ -48,7 +48,7 @@ export default function ReservedPage() {
   const Icon = meta.icon
 
   return (
-    <div className="max-w-7xl mx-auto px-6 lg:px-10 pt-8 pb-16">
+    <div className="max-w-[1680px] mx-auto px-6 lg:px-10 pt-8 pb-16">
       <Breadcrumb items={[{ label: '首页', to: '/' }, { label: meta.badge }]} />
 
       <div className="min-h-[70vh] flex items-center">

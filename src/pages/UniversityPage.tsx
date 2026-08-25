@@ -390,7 +390,7 @@ export default function UniversityPage() {
       ]
 
   return (
-    <div className="max-w-7xl mx-auto px-6 lg:px-10 py-12">
+    <div className="max-w-[1680px] mx-auto px-6 lg:px-10 py-12">
       <Breadcrumb items={breadcrumbItems} />
 
       {loading ? (

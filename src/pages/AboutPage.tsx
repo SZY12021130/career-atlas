@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+﻿import { useEffect, useState } from 'react'
 import { motion } from 'framer-motion'
 import { ShieldCheck, FileText, Database, MapPin, GraduationCap, AlertCircle, GitBranch, Download } from 'lucide-react'
 import Breadcrumb from '@/components/Breadcrumb'
@@ -71,7 +71,7 @@ export default function AboutPage() {
   }, [])
 
   return (
-    <div className="max-w-7xl mx-auto px-6 lg:px-10 py-10 md:py-16">
+    <div className="max-w-[1680px] mx-auto px-6 lg:px-10 py-10 md:py-16">
       <motion.div initial={{ opacity: 0, x: -12 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: 0.3 }}>
         <Breadcrumb items={[{ label: '首页', to: '/' }, { label: '数据说明' }]} />
       </motion.div>
