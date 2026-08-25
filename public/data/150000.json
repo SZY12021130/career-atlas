@@ -1,0 +1,1055 @@
+{
+  "adcode": 150000,
+  "name": "内蒙古自治区",
+  "updatedAt": "2026-08-25",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "内蒙古人事考试网",
+      "url": "http://www.impta.com.cn"
+    },
+    {
+      "category": "事业单位",
+      "name": "内蒙古自治区人力资源和社会保障厅",
+      "url": "https://rst.nmg.gov.cn"
+    },
+    {
+      "category": "选调",
+      "name": "北疆先锋网（内蒙古自治区党委组织部）",
+      "url": "https://www.nmgdj.gov.cn"
+    },
+    {
+      "category": "人才引进",
+      "name": "内蒙古人才网",
+      "url": "https://www.nmrc.com.cn"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 150100,
+      "name": "呼和浩特市",
+      "districts": [
+        "新城区",
+        "回民区",
+        "玉泉区",
+        "赛罕区",
+        "土默特左旗",
+        "托克托县",
+        "和林格尔县",
+        "清水河县",
+        "武川县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "呼和浩特市人事考试信息网",
+          "url": "http://www.hhpta.org.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "呼和浩特市人力资源和社会保障局",
+          "url": "http://rsj.huhhot.gov.cn"
+        },
+        {
+          "category": "人才引进",
+          "name": "呼和浩特市人事考试信息网（事业单位公告）",
+          "url": "http://www.hhpta.org.cn/more.asp?ttt=10"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "2025年度呼和浩特市直属机关（参公单位）公开遴选公务员公告",
+          "date": "2025-07-01",
+          "headcount": 33,
+          "positions": null,
+          "source": "呼和浩特市人事考试信息网",
+          "url": "http://www.hhpta.org.cn/kaoshidongtai/202571193514.asp",
+          "attachments": [
+            {
+              "name": "2025内蒙古呼和浩特市直属机关公开遴选公务员职位表.xls",
+              "url": "http://www.hhpta.org.cn/kaoshidongtai/2025%E5%B9%B4%E5%BA%A6%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E5%B8%82%E7%9B%B4%E5%B1%9E%E6%9C%BA%E5%85%B3%EF%BC%88%E5%8F%82%E5%85%AC%E5%8D%95%E4%BD%8D%EF%BC%89%E5%85%AC%E5%BC%80%E9%81%B4%E9%80%89%E5%85%AC%E5%8A%A1%E5%91%98%E8%81%8C%E4%BD%8D%E8%A1%A8.xls",
+              "local": "attachments/150100/2025内蒙古呼和浩特市直属机关公开遴选公务员职位表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "呼和浩特市2025年第四批事业单位人才引进公告",
+          "date": "2025-07-03",
+          "headcount": 834,
+          "positions": null,
+          "source": "呼和浩特市人事考试信息网",
+          "url": "http://www.hhpta.org.cn/shiyedanwei/202573165411.asp",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "title": "呼和浩特市2026年第一批事业单位人才引进公告",
+          "date": "2025-10-14",
+          "headcount": null,
+          "positions": null,
+          "source": "呼和浩特市人事考试信息网",
+          "url": "http://www.hhpta.org.cn/shiyedanwei/20251014185705.asp",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "北京一零一中呼和浩特分校2026年公开招聘教师公告",
+          "date": "2026-05-18",
+          "headcount": null,
+          "positions": null,
+          "source": "呼和浩特市人事考试信息网",
+          "url": "http://www.hhpta.org.cn/shiyedanwei/2026518172700.asp",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 150200,
+      "name": "包头市",
+      "districts": [
+        "东河区",
+        "昆都仑区",
+        "青山区",
+        "石拐区",
+        "白云鄂博矿区",
+        "九原区",
+        "土默特右旗",
+        "固阳县",
+        "达尔罕茂明安联合旗"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "包头党建网（中共包头市委组织部）",
+          "url": "http://www.btdj.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "包头市人力资源和社会保障局",
+          "url": "http://rsj.baotou.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年度包头市事业单位公开招聘工作人员公告",
+          "date": "2025-07-01",
+          "headcount": 309,
+          "positions": null,
+          "source": "包头市人力资源和社会保障局",
+          "url": "http://rsj.baotou.gov.cn/sydwgkzpxx/25121650.jhtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "包头市东河区机关所属事业单位2025年春季引进高层次和紧缺急需人才公告",
+          "date": "2025-04-11",
+          "headcount": 51,
+          "positions": null,
+          "source": "包头市东河区人民政府",
+          "url": "http://www.donghe.gov.cn/gggs/25109605.jhtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 150300,
+      "name": "乌海市",
+      "districts": [
+        "海勃湾区",
+        "海南区",
+        "乌达区"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "乌海党建网（中共乌海市委组织部）",
+          "url": "http://www.wuhaidj.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "乌海市人力资源和社会保障局",
+          "url": "http://rsj.wuhai.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "2025年乌海市事业单位第三批人才引进公告",
+          "date": "2025-07-18",
+          "headcount": 44,
+          "positions": null,
+          "source": "乌海市人力资源和社会保障局",
+          "url": "http://rsj.wuhai.gov.cn/rsj/733324/733364/2319853/index.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "2025年乌海市教育系统第三批人才引进（乌海市第十中学专场）公告",
+          "date": "2025-05-08",
+          "headcount": null,
+          "positions": null,
+          "source": "乌海市教育局",
+          "url": "http://jyj.wuhai.gov.cn/jyj/260491/260514/2231050/index.html",
+          "attachments": [
+            {
+              "name": "2025内蒙古乌海市教育系统第三批人才引进岗位表.xlsx",
+              "url": "http://jyj.wuhai.gov.cn/jyj/260491/260514/2231050/%E9%99%84%E4%BB%B61%E2%80%942025%E5%B9%B4%E4%B9%8C%E6%B5%B7%E5%B8%82%E6%95%99%E8%82%B2%E7%B3%BB%E7%BB%9F%E7%AC%AC%E4%B8%89%E6%89%B9%E4%BA%BA%E6%89%8D%E5%BC%95%E8%BF%9B%EF%BC%88%E4%B9%8C%E6%B5%B7%E5%B8%82%E7%AC%AC%E5%8D%81%E4%B8%AD%E5%AD%A6%E4%B8%93%E5%9C%BA%EF%BC%89%E5%B2%97%E4%BD%8D%E8%A1%A8.xlsx",
+              "local": "attachments/150300/2025内蒙古乌海市教育系统第三批人才引进岗位表.xlsx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adcode": 150400,
+      "name": "赤峰市",
+      "districts": [
+        "红山区",
+        "元宝山区",
+        "松山区",
+        "阿鲁科尔沁旗",
+        "巴林左旗",
+        "巴林右旗",
+        "林西县",
+        "克什克腾旗",
+        "翁牛特旗",
+        "喀喇沁旗",
+        "宁城县",
+        "敖汉旗"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "赤峰市人民政府门户网站",
+          "url": "http://www.chifeng.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "赤峰市人力资源和社会保障局",
+          "url": "http://rsj.chifeng.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "赤峰市教育局（教师招聘公告）",
+          "url": "http://jyj.chifeng.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "2025年赤峰市市本级事业单位“绿色通道”引进人才公告",
+          "date": "2025-06-05",
+          "headcount": 44,
+          "positions": null,
+          "source": "赤峰市人力资源和社会保障局",
+          "url": "http://rsj.chifeng.gov.cn/cfsrsjgggs/202506/t20250605_2599668.html",
+          "attachments": [
+            {
+              "name": "2025内蒙古赤峰市市本级事业单位绿色通道引进人才目录.xls",
+              "url": "http://rsj.chifeng.gov.cn/cfsrsjgggs/202506/P020250605332575928308.xls",
+              "local": "attachments/150400/2025内蒙古赤峰市市本级事业单位绿色通道引进人才目录.xls"
+            },
+            {
+              "name": "2025内蒙古赤峰市市本级事业单位绿色通道引进人才报名表.docx",
+              "url": "http://rsj.chifeng.gov.cn/cfsrsjgggs/202506/P020250605332575930108.docx",
+              "local": "attachments/150400/2025内蒙古赤峰市市本级事业单位绿色通道引进人才报名表.docx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "赤峰市松山区乡镇卫生院2025年公开招聘工作人员公告",
+          "date": "2025-04-10",
+          "headcount": 32,
+          "positions": null,
+          "source": "赤峰市松山区人民政府",
+          "url": "http://www.ssq.gov.cn/xwgg/tzgg/202504/t20250410_2573491.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 150500,
+      "name": "通辽市",
+      "districts": [
+        "科尔沁区",
+        "科尔沁左翼中旗",
+        "科尔沁左翼后旗",
+        "开鲁县",
+        "库伦旗",
+        "奈曼旗",
+        "扎鲁特旗",
+        "霍林郭勒市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "通辽党建网（中共通辽市委组织部）",
+          "url": "https://www.tlsdj.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "通辽市人力资源和社会保障局",
+          "url": "https://rsj.tongliao.gov.cn"
+        },
+        {
+          "category": "录用公示",
+          "name": "通辽市人社局人事考试通知公告",
+          "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "2026年度通辽市公开遴选公务员公告",
+          "date": "2026-01-28",
+          "headcount": null,
+          "positions": null,
+          "source": "通辽市人力资源和社会保障局",
+          "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202601/t20260128_1030990.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "2026年通辽市事业单位公开招聘工作人员公告",
+          "date": "2026-05-29",
+          "headcount": null,
+          "positions": null,
+          "source": "通辽市人力资源和社会保障局",
+          "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202605/t20260529_1050919.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "title": "通辽市事业单位2026年第二批次人才引进公告",
+          "date": "2026-06-01",
+          "headcount": null,
+          "positions": null,
+          "source": "通辽市人力资源和社会保障局",
+          "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202606/t20260601_1051032.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年通辽市直事业单位公开选聘工作人员公告",
+          "date": "2025-05-21",
+          "headcount": 40,
+          "positions": null,
+          "source": "通辽市人力资源和社会保障局",
+          "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202505/t20250521_947633.html",
+          "attachments": [
+            {
+              "name": "2025内蒙古通辽市直事业单位公开选聘工作人员岗位表（党群部门）.xls",
+              "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202505/P020250521566221539528.xls",
+              "local": "attachments/150500/2025内蒙古通辽市直事业单位公开选聘工作人员岗位表（党群部门）.xls"
+            },
+            {
+              "name": "2025内蒙古通辽市直事业单位公开选聘工作人员岗位表（政府部门）.xls",
+              "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202505/P020250521566221531123.xls",
+              "local": "attachments/150500/2025内蒙古通辽市直事业单位公开选聘工作人员岗位表（政府部门）.xls"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adcode": 150600,
+      "name": "鄂尔多斯市",
+      "districts": [
+        "东胜区",
+        "康巴什区",
+        "达拉特旗",
+        "准格尔旗",
+        "鄂托克前旗",
+        "鄂托克旗",
+        "杭锦旗",
+        "乌审旗",
+        "伊金霍洛旗"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "鄂尔多斯市人民政府门户网站",
+          "url": "http://www.ordos.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "鄂尔多斯市人力资源和社会保障局",
+          "url": "http://rsj.ordos.gov.cn"
+        },
+        {
+          "category": "人才引进",
+          "name": "鄂尔多斯市人社局高层次人才引进专栏",
+          "url": "https://rsj.ordos.gov.cn/ztzl_146775/sbjjhjyzxbz_150814/sbjjhjyzxbz/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "鄂尔多斯市融媒体中心2026年度公开招聘工作人员公告",
+          "date": "2025-11-14",
+          "headcount": null,
+          "positions": null,
+          "source": "鄂尔多斯市人力资源和社会保障局",
+          "url": "https://rsj.ordos.gov.cn/rskszx/ksxx/202511/t20251114_1578336.html",
+          "attachments": [
+            {
+              "name": "2026内蒙古鄂尔多斯市融媒体中心公开招聘工作人员岗位信息表.xlsx",
+              "url": "https://rsj.ordos.gov.cn/rskszx/ksxx/202511/P020260526705787459799.xlsx",
+              "local": "attachments/150600/2026内蒙古鄂尔多斯市融媒体中心公开招聘工作人员岗位信息表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "鄂尔多斯市市场监督管理局所属事业单位2025年（第二批）引进高层次人才公告",
+          "date": "2025-07-08",
+          "headcount": 10,
+          "positions": null,
+          "source": "鄂尔多斯市人力资源和社会保障局",
+          "url": "https://rsj.ordos.gov.cn/ztzl_146775/sbjjhjyzxbz_150814/sbjjhjyzxbz/202507/t20250708_3813317.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "鄂尔多斯市工业和信息化局所属事业单位2025年（第二批）引进高层次人才公告",
+          "date": "2025-10-17",
+          "headcount": 2,
+          "positions": null,
+          "source": "鄂尔多斯市人力资源和社会保障局",
+          "url": "https://rsj.ordos.gov.cn/ztzl_146775/sbjjhjyzxbz_150814/sbjjhjyzxbz/202510/t20251017_3843038.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 150700,
+      "name": "呼伦贝尔市",
+      "districts": [
+        "海拉尔区",
+        "扎赉诺尔区",
+        "阿荣旗",
+        "莫力达瓦达斡尔族自治旗",
+        "鄂伦春自治旗",
+        "鄂温克族自治旗",
+        "陈巴尔虎旗",
+        "新巴尔虎左旗",
+        "新巴尔虎右旗",
+        "满洲里市",
+        "牙克石市",
+        "扎兰屯市",
+        "额尔古纳市",
+        "根河市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "呼伦贝尔人才网",
+          "url": "https://www.hlbrrc.com.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "呼伦贝尔市人力资源和社会保障局",
+          "url": "https://rsj.hlbe.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "2025年度呼伦贝尔市直属机关（参公单位）公开遴选公务员公示（拟遴选12人）",
+          "date": "2025-08-08",
+          "headcount": 12,
+          "positions": null,
+          "source": "呼伦贝尔人才网",
+          "url": "https://www.hlbrrc.com.cn/news/detailed/1243.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "2025年呼伦贝尔市卫生健康委员会所属事业单位引进人才公告",
+          "date": "2025-10-27",
+          "headcount": 46,
+          "positions": null,
+          "source": "呼伦贝尔市卫生健康委员会",
+          "url": "http://wjw.hlbe.gov.cn/News/show/1385733.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "2025年呼伦贝尔市商务局所属事业单位引进人才公告",
+          "date": "2025-06-23",
+          "headcount": 2,
+          "positions": null,
+          "source": "呼伦贝尔市商务局",
+          "url": "http://swj.hlbe.gov.cn/News/show/1353530.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "2025年呼伦贝尔市发展和改革委员会所属事业单位引进人才公告",
+          "date": "2025-04-17",
+          "headcount": 5,
+          "positions": null,
+          "source": "呼伦贝尔市发展和改革委员会",
+          "url": "http://fgw.hlbe.gov.cn/News/show/1334161.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 150800,
+      "name": "巴彦淖尔市",
+      "districts": [
+        "临河区",
+        "五原县",
+        "磴口县",
+        "乌拉特前旗",
+        "乌拉特中旗",
+        "乌拉特后旗",
+        "杭锦后旗"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "巴彦淖尔党建网（中共巴彦淖尔市委组织部）",
+          "url": "https://www.bynrdj.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "巴彦淖尔市人力资源和社会保障局",
+          "url": "http://rsj.bynr.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "2025年度巴彦淖尔市直属机关（参公单位）公开遴选公务员和事业单位公开选调工作人员公告（遴选42名、选调26名）",
+          "date": "2025-09-01",
+          "headcount": 68,
+          "positions": null,
+          "source": "巴彦淖尔市人力资源和社会保障局",
+          "url": "http://rsj.bynr.gov.cn/gggs/202509/t20250901_711511.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "2026年杭锦后旗卫健系统公开招聘工作人员公告",
+          "date": "2026-06-15",
+          "headcount": null,
+          "positions": null,
+          "source": "巴彦淖尔市人力资源和社会保障局",
+          "url": "http://rsj.bynr.gov.cn/rsks/gkzpkl/202606/t20260615_291963.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "2026年五原县卫健系统公开招聘工作人员公告",
+          "date": "2026-04-16",
+          "headcount": null,
+          "positions": null,
+          "source": "巴彦淖尔市人力资源和社会保障局",
+          "url": "http://rsj.bynr.gov.cn/rsks/gkzpkl/202604/t20260416_291890.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "2025年磴口县事业单位引进21名高层次急需紧缺人才公告",
+          "date": "2025-03-11",
+          "headcount": 21,
+          "positions": null,
+          "source": "磴口县人民政府",
+          "url": "http://www.nmgdk.gov.cn/dkdtxx/dktzgg/202503/t20250311_688064.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 150900,
+      "name": "乌兰察布市",
+      "districts": [
+        "集宁区",
+        "卓资县",
+        "化德县",
+        "商都县",
+        "兴和县",
+        "凉城县",
+        "察哈尔右翼前旗",
+        "察哈尔右翼中旗",
+        "察哈尔右翼后旗",
+        "四子王旗",
+        "丰镇市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "乌兰察布市人事考试中心（公务员考试栏目）",
+          "url": "https://www.wmpta.org.cn/list/8.html"
+        },
+        {
+          "category": "事业单位",
+          "name": "乌兰察布市人事考试中心（事业单位考试栏目）",
+          "url": "https://www.wmpta.org.cn/list/2.html"
+        },
+        {
+          "category": "人才引进",
+          "name": "乌兰察布市人民政府门户网站",
+          "url": "http://www.wulanchabu.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "title": "乌兰察布市2026年市直事业单位人才引进公告",
+          "date": "2026-03-27",
+          "headcount": null,
+          "positions": null,
+          "source": "乌兰察布市人事考试中心",
+          "url": "https://www.wmpta.org.cn/article/890-25.html",
+          "attachments": [
+            {
+              "name": "2026内蒙古乌兰察布市直事业单位人才引进岗位需求表.xls",
+              "url": "http://www.wmpta.org.cn/upload/default/20260327/10d1c97006bfb1735b06d2c21fa0798c.xls",
+              "local": "attachments/150900/2026内蒙古乌兰察布市直事业单位人才引进岗位需求表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "乌兰察布市2026年公开招聘卫生健康专业技术人员简章",
+          "date": "2026-05-20",
+          "headcount": null,
+          "positions": null,
+          "source": "乌兰察布市人事考试中心",
+          "url": "https://www.wmpta.org.cn/article/927-2.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "乌兰察布市2025年公开招聘卫生健康专业技术人员简章",
+          "date": "2025-06-05",
+          "headcount": null,
+          "positions": null,
+          "source": "乌兰察布市人事考试中心",
+          "url": "https://www.wmpta.org.cn/article/742-2.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 152200,
+      "name": "兴安盟",
+      "districts": [
+        "乌兰浩特市",
+        "阿尔山市",
+        "科尔沁右翼前旗",
+        "科尔沁右翼中旗",
+        "扎赉特旗",
+        "突泉县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "兴安盟人事考试网",
+          "url": "http://www.xamks.com"
+        },
+        {
+          "category": "事业单位",
+          "name": "兴安盟人力资源和社会保障局",
+          "url": "http://rsj.xam.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "2026年度兴安盟直属机关（参公单位）公开遴选公务员公告",
+          "date": "2026-07-31",
+          "headcount": null,
+          "positions": null,
+          "source": "兴安盟人事考试网",
+          "url": "http://www.xamks.com/html/8/Content2592.html",
+          "attachments": [
+            {
+              "name": "2026内蒙古兴安盟直属机关公开遴选公务员职位表.xlsx",
+              "url": "http://www.xamks.com/kindeditor/attached/file/20260731/20260731075454_6970.xlsx",
+              "local": "attachments/152200/2026内蒙古兴安盟直属机关公开遴选公务员职位表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "2026年兴安盟边境地区事业单位公开招聘工作人员公告",
+          "date": "2026-04-16",
+          "headcount": 124,
+          "positions": null,
+          "source": "兴安盟人事考试网",
+          "url": "http://www.xamks.com/html/8/Content2502.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 152500,
+      "name": "锡林郭勒盟",
+      "districts": [
+        "二连浩特市",
+        "锡林浩特市",
+        "阿巴嘎旗",
+        "苏尼特左旗",
+        "苏尼特右旗",
+        "东乌珠穆沁旗",
+        "西乌珠穆沁旗",
+        "太仆寺旗",
+        "镶黄旗",
+        "正镶白旗",
+        "正蓝旗",
+        "多伦县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "锡林郭勒盟人力资源信息网",
+          "url": "http://www.xmpta.org.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "锡林郭勒盟行政公署门户网站",
+          "url": "http://www.xlgl.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "2026年度锡林郭勒盟直属机关（参公单位）公开遴选公务员公告",
+          "date": "2026-07-23",
+          "headcount": 37,
+          "positions": null,
+          "source": "锡林郭勒盟人力资源信息网",
+          "url": "http://www.xmpta.org.cn/rlzyfwzx/tzgg/2026072319145686378/index.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "关于2025年锡林郭勒盟盟直事业单位第二批次引进急需紧缺人才的公告",
+          "date": "2025-09-17",
+          "headcount": 48,
+          "positions": null,
+          "source": "锡林郭勒盟人力资源信息网",
+          "url": "http://www.xmpta.org.cn/rlzyfwzx/tzgg/2025091715411410307/index.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 152900,
+      "name": "阿拉善盟",
+      "districts": [
+        "阿拉善左旗",
+        "阿拉善右旗",
+        "额济纳旗"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "阿拉善盟行政公署门户网站",
+          "url": "https://www.als.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "阿拉善盟人力资源和社会保障局人事考试专栏",
+          "url": "http://rsj.als.gov.cn/col/col5778/index.html"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "2025年阿拉善盟直属机关（参公单位）公开遴选公务员（参公人员）和事业单位公开选调工作人员公告（遴选21名、选调42名）",
+          "date": "2025-06-04",
+          "headcount": 63,
+          "positions": null,
+          "source": "阿拉善盟行政公署",
+          "url": "https://www.als.gov.cn/art/2025/6/4/art_46_539390.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "2025年度阿拉善盟直事业单位第三批次“绿色通道”引进人才公告",
+          "date": "2025-11-20",
+          "headcount": 23,
+          "positions": null,
+          "source": "阿拉善盟人力资源和社会保障局",
+          "url": "http://rsj.als.gov.cn/art/2025/11/20/art_5778_514535.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "阿拉善盟卫生健康委员会2025年公开招聘备案制管理人员公告",
+          "date": "2025-09-01",
+          "headcount": null,
+          "positions": null,
+          "source": "阿拉善盟人力资源和社会保障局",
+          "url": "http://rsj.als.gov.cn/art/2025/9/1/art_5778_514465.html",
+          "attachments": []
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "name": "内蒙古大学",
+      "city": "呼和浩特市",
+      "cityAdcode": 150100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.imu.edu.cn",
+      "hrUrl": "https://rsc.imu.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "内蒙古工业大学",
+      "city": "呼和浩特市",
+      "cityAdcode": 150100,
+      "tags": [
+        "省属重点",
+        "普通本科"
+      ],
+      "website": "https://www.imut.edu.cn",
+      "hrUrl": "https://rsc.imut.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "内蒙古农业大学",
+      "city": "呼和浩特市",
+      "cityAdcode": 150100,
+      "tags": [
+        "省属重点",
+        "普通本科"
+      ],
+      "website": "https://www.imau.edu.cn",
+      "hrUrl": "https://rsc.imau.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "内蒙古师范大学",
+      "city": "呼和浩特市",
+      "cityAdcode": 150100,
+      "tags": [
+        "省属重点",
+        "普通本科"
+      ],
+      "website": "https://www.imnu.edu.cn",
+      "hrUrl": "https://rsc.imnu.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "内蒙古财经大学",
+      "city": "呼和浩特市",
+      "cityAdcode": 150100,
+      "tags": [
+        "省属重点",
+        "普通本科"
+      ],
+      "website": "https://www.imufe.edu.cn",
+      "hrUrl": "https://www.imufe.edu.cn/rsc/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "内蒙古医科大学",
+      "city": "呼和浩特市",
+      "cityAdcode": 150100,
+      "tags": [
+        "省属重点",
+        "普通本科"
+      ],
+      "website": "https://www.immu.edu.cn",
+      "hrUrl": "https://rsc.immu.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "呼和浩特民族学院",
+      "city": "呼和浩特市",
+      "cityAdcode": 150100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.imnc.edu.cn",
+      "hrUrl": "https://www.imnc.edu.cn/rsc/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "内蒙古艺术学院",
+      "city": "呼和浩特市",
+      "cityAdcode": 150100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.imac.edu.cn",
+      "hrUrl": "https://rsc.imac.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "内蒙古大学创业学院",
+      "city": "呼和浩特市",
+      "cityAdcode": 150100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.imuchuangye.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "内蒙古鸿德文理学院",
+      "city": "呼和浩特市",
+      "cityAdcode": 150100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.honder.com",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "内蒙古科技大学",
+      "city": "包头市",
+      "cityAdcode": 150200,
+      "tags": [
+        "省属重点",
+        "普通本科"
+      ],
+      "website": "https://www.imust.edu.cn",
+      "hrUrl": "https://rsc.imust.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "包头医学院",
+      "city": "包头市",
+      "cityAdcode": 150200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.btmc.edu.cn",
+      "hrUrl": "https://www.btmc.edu.cn/rsc/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "包头师范学院",
+      "city": "包头市",
+      "cityAdcode": 150200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.bttc.edu.cn",
+      "hrUrl": "https://zzrsb.bttc.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "内蒙古民族大学",
+      "city": "通辽市",
+      "cityAdcode": 150500,
+      "tags": [
+        "省属重点",
+        "普通本科"
+      ],
+      "website": "https://www.imun.edu.cn",
+      "hrUrl": "https://renshi.imun.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "赤峰大学",
+      "city": "赤峰市",
+      "cityAdcode": 150400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cfxy.cn",
+      "hrUrl": "https://www.cfxy.cn/rsc/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "呼伦贝尔学院",
+      "city": "呼伦贝尔市",
+      "cityAdcode": 150700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hlbrc.cn",
+      "hrUrl": "https://rsc.hlbrc.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "集宁师范学院",
+      "city": "乌兰察布市",
+      "cityAdcode": 150900,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.jnnu.edu.cn",
+      "hrUrl": "https://www.jnnu.edu.cn/rs/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "河套学院",
+      "city": "巴彦淖尔市",
+      "cityAdcode": 150800,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.htxy.edu.cn",
+      "hrUrl": "https://www.htxy.edu.cn/rsc/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "鄂尔多斯应用技术学院",
+      "city": "鄂尔多斯市",
+      "cityAdcode": 150600,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.oit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    }
+  ]
+}

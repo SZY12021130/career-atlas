@@ -1,0 +1,1204 @@
+{
+  "adcode": 220000,
+  "name": "吉林省",
+  "updatedAt": "2026-08-25",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "吉林公务员考试网",
+      "url": "http://www.jlgwyks.cn"
+    },
+    {
+      "category": "选调",
+      "name": "吉林公务员考试网（选调生职位发布）",
+      "url": "http://www.jlgwyks.cn"
+    },
+    {
+      "category": "事业单位",
+      "name": "吉林省人力资源和社会保障厅",
+      "url": "http://hrss.jl.gov.cn"
+    },
+    {
+      "category": "事业单位",
+      "name": "吉林省人事考试网",
+      "url": "http://www.jlzkb.com"
+    },
+    {
+      "category": "人才引进",
+      "name": "吉林人才网",
+      "url": "https://www.jlrc.com.cn"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 220100,
+      "name": "长春市",
+      "districts": [
+        "南关区",
+        "宽城区",
+        "朝阳区",
+        "二道区",
+        "绿园区",
+        "双阳区",
+        "九台区",
+        "农安县",
+        "榆树市",
+        "德惠市",
+        "公主岭市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "长春先锋网",
+          "url": "https://www.ccxfw.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "长春市人力资源和社会保障局",
+          "url": "http://ccrs.changchun.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "长春人力资源考试网",
+          "url": "http://www.ccrjk.com"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "2026年度吉林省各级机关考试录用公务员公告（长春市职位，计划录用631人）",
+          "date": "2026-01-29",
+          "headcount": 631,
+          "positions": 550,
+          "source": "吉林公务员考试网",
+          "url": "http://www.jlgwyks.cn/news.aspx?id=1501",
+          "attachments": [
+            {
+              "name": "2026年长春市各级机关考试录用公务员职位与报考资格条件一览表.xls",
+              "url": "http://www.jlgwyks.cn/download.ashx?id=1856",
+              "local": "attachments/220100/2026年长春市各级机关考试录用公务员职位与报考资格条件一览表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "2025年度吉林省各级机关考试录用公务员公告",
+          "date": "2025-02-05",
+          "headcount": 4984,
+          "positions": null,
+          "source": "吉林公务员考试网",
+          "url": "https://xxgk.jl.gov.cn/zcbm/fgw_98057/xxgkmlqy/202503/t20250320_9107638.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年度长春市各级机关考试录用公务员（含选调生）第一批拟录用人员公示公告",
+          "date": "2025-06-18",
+          "headcount": 692,
+          "positions": null,
+          "source": "长春先锋网",
+          "url": "https://www.ccxfw.gov.cn/p1/ttxw/20250618/240697.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "title": "吉林省定向招录2026届选调生公告（吉林省委组织部面向部分高校）",
+          "date": "2025-09-29",
+          "headcount": null,
+          "positions": null,
+          "source": "吉林省委组织部（高校就业信息网发布）",
+          "url": "https://career.muc.edu.cn/front/showContent.jspa?channelId=808&contentId=4871",
+          "attachments": [],
+          "subCategory": "定向选调"
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "2026年长春市事业单位公开招聘工作人员（含专项招聘高校毕业生）公告（2号）",
+          "date": "2026-01-29",
+          "headcount": 2008,
+          "positions": 1509,
+          "source": "长春市人力资源和社会保障局",
+          "url": "http://ccrs.changchun.gov.cn/ywdt/tzgg/202601/t20260129_3464832.html",
+          "attachments": [
+            {
+              "name": "2026年长春市市直事业单位公开招聘工作人员岗位及资格条件一览表（2号）.xlsx",
+              "url": "http://ccrs.changchun.gov.cn/ywdt/tzgg/202601/P020260129680607662484.xlsx",
+              "local": "attachments/220100/2026年长春市市直事业单位公开招聘工作人员岗位及资格条件一览表（2号）.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年长春市事业单位公开招聘工作人员（含专项招聘高校毕业生）公告（5号）",
+          "date": "2025-04-29",
+          "headcount": 3,
+          "positions": null,
+          "source": "长春市人力资源和社会保障局",
+          "url": "http://ccrs.changchun.gov.cn/ywdt/tzgg/202504/t20250429_3397015.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "title": "2026年吉林省省直事业单位吉林农业大学公开招聘高层次人才公告（1号）",
+          "date": "2026-06-08",
+          "headcount": null,
+          "positions": null,
+          "source": "吉林农业大学",
+          "url": "https://www.jlau.edu.cn/info/1024/26600.htm",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "吉林省2025年春季组团引才公告（事业单位1011人、企业850人）",
+          "date": "2025-04-08",
+          "headcount": 1861,
+          "positions": null,
+          "source": "吉林人才网",
+          "url": "https://www.jlrc.com.cn/ww/web/cms/detail/index.html?id=1909515026222567425",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 220200,
+      "name": "吉林市",
+      "districts": [
+        "昌邑区",
+        "龙潭区",
+        "船营区",
+        "丰满区",
+        "永吉县",
+        "蛟河市",
+        "桦甸市",
+        "舒兰市",
+        "磐石市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "吉林市人力资源和社会保障局",
+          "url": "http://rsj.jlcity.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "吉林市人力资源和社会保障局",
+          "url": "http://rsj.jlcity.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "2026年度吉林省各级机关考试录用公务员公告（吉林市职位，计划录用453人）",
+          "date": "2026-01-29",
+          "headcount": 453,
+          "positions": 433,
+          "source": "吉林公务员考试网",
+          "url": "http://www.jlgwyks.cn/news.aspx?id=1501",
+          "attachments": [
+            {
+              "name": "2026年吉林市各级机关考试录用公务员职位与报考资格条件一览表.xls",
+              "url": "http://www.jlgwyks.cn/download.ashx?id=1857",
+              "local": "attachments/220200/2026年吉林市各级机关考试录用公务员职位与报考资格条件一览表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年吉林市事业单位公开招聘工作人员（含专项招聘高校毕业生）公告（1号）",
+          "date": "2025-04-18",
+          "headcount": 1381,
+          "positions": null,
+          "source": "吉林市人力资源和社会保障局",
+          "url": "http://rsj.jlcity.gov.cn/gg/202504/t20250418_1261516.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年吉林市事业单位公开招聘大学生乡村医生专项公告",
+          "date": "2025-07-31",
+          "headcount": 19,
+          "positions": null,
+          "source": "吉林市人力资源和社会保障局",
+          "url": "http://rsj.jlcity.gov.cn/gg/202507/t20250731_1278977.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "2025年吉林市事业单位专项招聘急需紧缺、高层次高校毕业生公告",
+          "date": "2025-10-18",
+          "headcount": null,
+          "positions": null,
+          "source": "吉林市人力资源和社会保障局",
+          "url": "https://rsj.jlcity.gov.cn/gg/202510/t20251018_1291288.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 220300,
+      "name": "四平市",
+      "districts": [
+        "铁西区",
+        "铁东区",
+        "梨树县",
+        "伊通满族自治县",
+        "双辽市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "四平市人民政府",
+          "url": "http://www.siping.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "四平市人民政府",
+          "url": "http://www.siping.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "2026年度吉林省各级机关考试录用公务员公告（四平市职位，计划录用231人）",
+          "date": "2026-01-29",
+          "headcount": 231,
+          "positions": 217,
+          "source": "吉林公务员考试网",
+          "url": "http://www.jlgwyks.cn/news.aspx?id=1501",
+          "attachments": [
+            {
+              "name": "2026年四平市各级机关考试录用公务员职位与报考资格条件一览表.xls",
+              "url": "http://www.jlgwyks.cn/download.ashx?id=1858",
+              "local": "attachments/220300/2026年四平市各级机关考试录用公务员职位与报考资格条件一览表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年四平市事业单位专项招聘高校毕业生公告",
+          "date": "2025-04-08",
+          "headcount": 88,
+          "positions": null,
+          "source": "四平市人民政府",
+          "url": "http://www.siping.gov.cn/zw/tzgg/202504/t20250408_734893.html",
+          "attachments": [
+            {
+              "name": "2025年四平市事业单位专项招聘高校毕业生岗位表.xls",
+              "url": "http://www.siping.gov.cn/zw/tzgg/202504/W020250408395834234101.xls",
+              "local": "attachments/220300/2025年四平市事业单位专项招聘高校毕业生岗位表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年四平市教育局直属学校专项招聘高校毕业生公告",
+          "date": "2025-11-17",
+          "headcount": 30,
+          "positions": null,
+          "source": "四平市人民政府",
+          "url": "http://www.siping.gov.cn/zw/tzgg/202511/t20251117_753094.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年四平市事业单位专项招聘高校毕业生拟聘用人员公示（第一批）",
+          "date": "2025-07-23",
+          "headcount": null,
+          "positions": null,
+          "source": "四平市人民政府",
+          "url": "http://www.siping.gov.cn/zw/tzgg/202507/t20250723_744250.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 220400,
+      "name": "辽源市",
+      "districts": [
+        "龙山区",
+        "西安区",
+        "东丰县",
+        "东辽县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "辽源市人力资源和社会保障局",
+          "url": "http://rsj.liaoyuan.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "辽源市人力资源和社会保障局",
+          "url": "http://rsj.liaoyuan.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "2026年度吉林省各级机关考试录用公务员公告（辽源市职位，计划录用107人）",
+          "date": "2026-01-29",
+          "headcount": 107,
+          "positions": 104,
+          "source": "吉林公务员考试网",
+          "url": "http://www.jlgwyks.cn/news.aspx?id=1501",
+          "attachments": [
+            {
+              "name": "2026年辽源市各级机关考试录用公务员职位与报考资格条件一览表.xls",
+              "url": "http://www.jlgwyks.cn/download.ashx?id=1859",
+              "local": "attachments/220400/2026年辽源市各级机关考试录用公务员职位与报考资格条件一览表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "category": "事业单位",
+          "title": "2025年辽源市教育局直属事业单位人才校园招聘公告",
+          "date": "2024-10-01",
+          "headcount": null,
+          "positions": null,
+          "source": "辽源市人力资源和社会保障局",
+          "url": "http://rsj.liaoyuan.gov.cn/xxgk/gg/202410/t20241001_695831.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年辽源市事业单位公开招聘秋季应征入伍高校毕业生公告",
+          "date": "2025-05-12",
+          "headcount": 35,
+          "positions": null,
+          "source": "辽源市人力资源和社会保障局",
+          "url": "http://rsj.liaoyuan.gov.cn/xxgk/gg/202505/t20250512_710633.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 220500,
+      "name": "通化市",
+      "districts": [
+        "东昌区",
+        "二道江区",
+        "通化县",
+        "辉南县",
+        "柳河县",
+        "梅河口市",
+        "集安市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "通化党建网",
+          "url": "http://thdj.tonghua.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "通化市人力资源和社会保障局",
+          "url": "http://rsj.tonghua.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "2026年度吉林省各级机关考试录用公务员公告（通化市职位，计划录用202人）",
+          "date": "2026-01-29",
+          "headcount": 202,
+          "positions": 199,
+          "source": "吉林公务员考试网",
+          "url": "http://www.jlgwyks.cn/news.aspx?id=1501",
+          "attachments": [
+            {
+              "name": "2026年通化市各级机关考试录用公务员职位与报考资格条件一览表.xls",
+              "url": "http://www.jlgwyks.cn/download.ashx?id=1860",
+              "local": "attachments/220500/2026年通化市各级机关考试录用公务员职位与报考资格条件一览表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年下半年通化市事业单位公开招聘应征入伍高校毕业生公告",
+          "date": "2025-07-04",
+          "headcount": 30,
+          "positions": null,
+          "source": "通化市人力资源和社会保障局",
+          "url": "http://rsj.tonghua.gov.cn/gsgg/202507/t20250704_744894.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年通化市退役军人事务局、文化和旅游局所属事业单位公开招聘工作人员公告",
+          "date": "2025-07-11",
+          "headcount": 6,
+          "positions": null,
+          "source": "通化市人力资源和社会保障局",
+          "url": "http://rsj.tonghua.gov.cn/gsgg/202507/t20250711_745518.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 220600,
+      "name": "白山市",
+      "districts": [
+        "浑江区",
+        "江源区",
+        "抚松县",
+        "靖宇县",
+        "长白朝鲜族自治县",
+        "临江市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "白山市人民政府",
+          "url": "http://www.cbs.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "白山市人力资源和社会保障局",
+          "url": "http://hrss.cbs.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "2026年度吉林省各级机关考试录用公务员公告（白山市职位，计划录用253人）",
+          "date": "2026-01-29",
+          "headcount": 253,
+          "positions": 237,
+          "source": "吉林公务员考试网",
+          "url": "http://www.jlgwyks.cn/news.aspx?id=1501",
+          "attachments": [
+            {
+              "name": "2026年白山市各级机关考试录用公务员职位与报考资格条件一览表.xls",
+              "url": "http://www.jlgwyks.cn/download.ashx?id=1861",
+              "local": "attachments/220600/2026年白山市各级机关考试录用公务员职位与报考资格条件一览表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年白山市事业单位公开招聘工作人员（含专项招聘高校毕业生）公告",
+          "date": "2025-07-25",
+          "headcount": 397,
+          "positions": null,
+          "source": "白山市人民政府",
+          "url": "http://www.cbs.gov.cn/zw/tzgg/202507/t20250725_852446.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年白山市林业局直属事业单位公开招聘工作人员公告",
+          "date": "2025-06-20",
+          "headcount": 39,
+          "positions": null,
+          "source": "白山市人力资源和社会保障局",
+          "url": "http://hrss.cbs.gov.cn/gzdt/tzgg/202506/t20250620_849220.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年白山市事业单位公开招聘大学生乡村医生专项公告",
+          "date": "2025-07-29",
+          "headcount": 12,
+          "positions": null,
+          "source": "白山市人民政府",
+          "url": "http://www.cbs.gov.cn/zw/tzgg/202507/t20250729_852741.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 220700,
+      "name": "松原市",
+      "districts": [
+        "宁江区",
+        "前郭尔罗斯蒙古族自治县",
+        "长岭县",
+        "乾安县",
+        "扶余市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "松原市人力资源和社会保障局",
+          "url": "http://rs.jlsy.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "松原市人力资源和社会保障局",
+          "url": "http://rs.jlsy.gov.cn"
+        },
+        {
+          "category": "人才引进",
+          "name": "松原市人民政府",
+          "url": "http://www.jlsy.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "2026年度吉林省各级机关考试录用公务员公告（松原市职位，计划录用250人）",
+          "date": "2026-01-29",
+          "headcount": 250,
+          "positions": 236,
+          "source": "吉林公务员考试网",
+          "url": "http://www.jlgwyks.cn/news.aspx?id=1501",
+          "attachments": [
+            {
+              "name": "2026年松原市各级机关考试录用公务员职位与报考资格条件一览表.xls",
+              "url": "http://www.jlgwyks.cn/download.ashx?id=1862",
+              "local": "attachments/220700/2026年松原市各级机关考试录用公务员职位与报考资格条件一览表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年松原市（区）事业单位公开招聘入伍高校毕业生公告",
+          "date": "2025-07-15",
+          "headcount": 12,
+          "positions": null,
+          "source": "松原市人力资源和社会保障局",
+          "url": "http://rs.jlsy.gov.cn/gsgg/202507/t20250715_553979.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年松原市（区）事业单位公开招聘入伍高校毕业生拟聘用人员公示",
+          "date": "2025-09-05",
+          "headcount": null,
+          "positions": null,
+          "source": "松原市人力资源和社会保障局",
+          "url": "http://rs.jlsy.gov.cn/gsgg/202509/t20250905_557509.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 220800,
+      "name": "白城市",
+      "districts": [
+        "洮北区",
+        "镇赉县",
+        "通榆县",
+        "洮南市",
+        "大安市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "白城市人力资源和社会保障局",
+          "url": "http://hrss.jlbc.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "白城市人力资源和社会保障局",
+          "url": "http://hrss.jlbc.gov.cn"
+        },
+        {
+          "category": "录用公示",
+          "name": "白城市人民政府",
+          "url": "http://www.jlbc.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "2026年度吉林省各级机关考试录用公务员公告（白城市职位，计划录用321人）",
+          "date": "2026-01-29",
+          "headcount": 321,
+          "positions": 293,
+          "source": "吉林公务员考试网",
+          "url": "http://www.jlgwyks.cn/news.aspx?id=1501",
+          "attachments": [
+            {
+              "name": "2026年白城市各级机关考试录用公务员职位与报考资格条件一览表.xls",
+              "url": "http://www.jlgwyks.cn/download.ashx?id=1863",
+              "local": "attachments/220800/2026年白城市各级机关考试录用公务员职位与报考资格条件一览表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年白城市市直事业单位公开招聘工作人员（含专项招聘高校毕业生）公告（3号）",
+          "date": "2025-07-04",
+          "headcount": null,
+          "positions": null,
+          "source": "白城市人力资源和社会保障局",
+          "url": "http://hrss.jlbc.gov.cn/xwzx/zxgg/202507/t20250704_1016617.html",
+          "attachments": [
+            {
+              "name": "2025年白城市市直事业单位公开招聘岗位及资格条件一览表（3号）.xlsx",
+              "url": "http://hrss.jlbc.gov.cn/xwzx/zxgg/202507/P020250705265853845386.xlsx",
+              "local": "attachments/220800/2025年白城市市直事业单位公开招聘岗位及资格条件一览表（3号）.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年白城市事业单位公开招聘大学生乡村医生专项公告",
+          "date": "2025-08-01",
+          "headcount": 10,
+          "positions": null,
+          "source": "白城市人力资源和社会保障局",
+          "url": "http://hrss.jlbc.gov.cn/xwzx/zxgg/202508/t20250801_1018591.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "2025年白城市市直事业单位公开招聘高层次人才公告（4号）",
+          "date": "2025-09-23",
+          "headcount": 15,
+          "positions": null,
+          "source": "白城市人力资源和社会保障局",
+          "url": "http://hrss.jlbc.gov.cn/xwzx/zxgg/202509/t20250923_1021813.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 222400,
+      "name": "延边朝鲜族自治州",
+      "districts": [
+        "延吉市",
+        "图们市",
+        "敦化市",
+        "珲春市",
+        "龙井市",
+        "和龙市",
+        "汪清县",
+        "安图县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "延边党建网",
+          "url": "https://www.ybdj.gov.cn"
+        },
+        {
+          "category": "人才引进",
+          "name": "延边党建网",
+          "url": "https://www.ybdj.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "2026年度吉林省各级机关考试录用公务员公告（延边州职位，计划录用273人）",
+          "date": "2026-01-29",
+          "headcount": 273,
+          "positions": 271,
+          "source": "吉林公务员考试网",
+          "url": "http://www.jlgwyks.cn/news.aspx?id=1501",
+          "attachments": [
+            {
+              "name": "2026年延边州各级机关考试录用公务员职位与报考资格条件一览表.xls",
+              "url": "http://www.jlgwyks.cn/download.ashx?id=1864",
+              "local": "attachments/222400/2026年延边州各级机关考试录用公务员职位与报考资格条件一览表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "2025年延边州招才引智工程引进优秀高校毕业生公告",
+          "date": "2025-04-21",
+          "headcount": 249,
+          "positions": null,
+          "source": "延边党建网",
+          "url": "http://www.ybdj.gov.cn/gsgg/202504/t20250421_539962.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年延边州招才引智工程引进优秀高校毕业生拟聘用人员公示",
+          "date": "2025-09-15",
+          "headcount": 169,
+          "positions": null,
+          "source": "延边党建网",
+          "url": "http://www.ybdj.gov.cn/gsgg/202509/t20250915_555334.html",
+          "attachments": []
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "name": "吉林大学",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.jlu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "东北师范大学",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.nenu.edu.cn",
+      "hrUrl": "https://rsc.nenu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长春理工大学",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.cust.edu.cn",
+      "hrUrl": "https://rsc.cust.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长春工业大学",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ccut.edu.cn",
+      "hrUrl": "https://rsc.ccut.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "吉林建筑大学",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.jlju.edu.cn",
+      "hrUrl": "https://rsc.jlju.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "吉林农业大学",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.jlau.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长春中医药大学",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.ccucm.edu.cn",
+      "hrUrl": "https://rsc.ccucm.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "吉林工程技术师范学院",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.jlenu.edu.cn",
+      "hrUrl": "https://rsc.jlenu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长春师范大学",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ccsfu.edu.cn",
+      "hrUrl": "https://rsc.ccsfu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "吉林财经大学",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.jlufe.edu.cn",
+      "hrUrl": "https://rsc.jlufe.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "吉林体育学院",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.jlsu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "吉林艺术学院",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.jlart.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "吉林工商学院",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.jlbtc.edu.cn",
+      "hrUrl": "https://rsc.jlbtc.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长春工程学院",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ccit.edu.cn",
+      "hrUrl": "https://rsc.ccit.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "吉林警察学院",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.jljcxy.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长春大学",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ccu.edu.cn",
+      "hrUrl": "https://cdrsc.ccu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长春汽车职业技术大学",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.caii.edu.cn",
+      "hrUrl": "https://zhaopin.caii.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长春职业技术大学",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.cvit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "吉林外国语大学",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.jisu.edu.cn",
+      "hrUrl": "https://rsc.jisu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "吉林动画学院",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.jlai.edu.cn",
+      "hrUrl": "https://rl.jlai.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长春光华学院",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.ghu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长春工业大学人文信息学院",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.ccutchi.com",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长春电子科技学院",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.changdian2001.com",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长春财经学院",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.ccufe.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "吉林建筑科技学院",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.jluat.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长春建筑学院",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.jladi.com",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长春科技学院",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.cstu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长春大学旅游学院",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.tccu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长春人文学院",
+      "city": "长春市",
+      "cityAdcode": 220100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.ccrw.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "东北电力大学",
+      "city": "吉林市",
+      "cityAdcode": 220200,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.neepu.edu.cn",
+      "hrUrl": "https://rsc.neepu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北华大学",
+      "city": "吉林市",
+      "cityAdcode": 220200,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.bhu.edu.cn",
+      "hrUrl": "https://rsc.bhu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "吉林化工大学",
+      "city": "吉林市",
+      "cityAdcode": 220200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.jlict.edu.cn",
+      "hrUrl": "https://rsc.jlict.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "吉林医药学院",
+      "city": "吉林市",
+      "cityAdcode": 220200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.jlmu.cn",
+      "hrUrl": "https://rsc.jlmu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "吉林农业科技学院",
+      "city": "吉林市",
+      "cityAdcode": 220200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.jlnku.edu.cn",
+      "hrUrl": "https://rsc.jlnku.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "吉林铁道职业技术大学",
+      "city": "吉林市",
+      "cityAdcode": 220200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.jty.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "吉林师范大学",
+      "city": "四平市",
+      "cityAdcode": 220300,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.jlnu.edu.cn",
+      "hrUrl": "https://www.jlnu.edu.cn/rsc/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "吉林师范大学博达学院",
+      "city": "四平市",
+      "cityAdcode": 220300,
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.bdxy.com.cn",
+      "hrUrl": "http://www.bdxy.com.cn/rsc/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "通化师范学院",
+      "city": "通化市",
+      "cityAdcode": 220500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.thnu.edu.cn",
+      "hrUrl": "https://rsc.thnu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "白城师范学院",
+      "city": "白城市",
+      "cityAdcode": 220800,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.bcsfxy.com",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "延边大学",
+      "city": "延边朝鲜族自治州",
+      "cityAdcode": 222400,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.ybu.edu.cn",
+      "hrUrl": "https://rsc.ybu.edu.cn",
+      "talentPolicyUrl": null
+    }
+  ]
+}

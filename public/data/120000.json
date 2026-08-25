@@ -1,0 +1,710 @@
+{
+  "adcode": 120000,
+  "name": "天津市",
+  "updatedAt": "2026-08-25",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "天津市公务员考试录用服务平台",
+      "url": "https://gklx.hrss.tj.gov.cn/"
+    },
+    {
+      "category": "公务员",
+      "name": "天津市人事考试网上报名公共服务平台",
+      "url": "http://rsks.hrss.tj.gov.cn/"
+    },
+    {
+      "category": "事业单位",
+      "name": "天津市人力资源和社会保障局",
+      "url": "https://hrss.tj.gov.cn/"
+    },
+    {
+      "category": "事业单位",
+      "name": "天津市人才服务中心网",
+      "url": "https://www.tjtalents.com.cn/"
+    },
+    {
+      "category": "选调",
+      "name": "天津党建先锋网（中共天津市委组织部）",
+      "url": "https://www.tjzzb.gov.cn/"
+    },
+    {
+      "category": "人才引进",
+      "name": "天津市引进人才综合服务中心（海河英才）",
+      "url": "https://hrss.tj.gov.cn/jsdw/yjrczhfwzx/"
+    },
+    {
+      "category": "人事考试",
+      "name": "天津人事考试网（天津市人才考评中心）",
+      "url": "https://hrss.tj.gov.cn/jsdw/rsksw/"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 120000,
+      "name": "天津市",
+      "districts": [
+        "和平区",
+        "河东区",
+        "河西区",
+        "南开区",
+        "河北区",
+        "红桥区",
+        "东丽区",
+        "西青区",
+        "津南区",
+        "北辰区",
+        "武清区",
+        "宝坻区",
+        "滨海新区",
+        "宁河区",
+        "静海区",
+        "蓟州区"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "天津市公务员考试录用服务平台",
+          "url": "https://gklx.hrss.tj.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "天津市人才服务中心网",
+          "url": "https://www.tjtalents.com.cn/"
+        },
+        {
+          "category": "选调",
+          "name": "天津党建先锋网（中共天津市委组织部）",
+          "url": "https://www.tjzzb.gov.cn/"
+        },
+        {
+          "category": "人才引进",
+          "name": "天津市引进人才综合服务中心",
+          "url": "https://hrss.tj.gov.cn/jsdw/yjrczhfwzx/"
+        },
+        {
+          "category": "录用公示",
+          "name": "天津人事考试网通知公告（天津市人才考评中心）",
+          "url": "https://hrss.tj.gov.cn/jsdw/rsksw/tzgg4/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2024,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "天津市2024年公开招考公务员公告",
+          "date": "2024-01-22",
+          "headcount": 2588,
+          "positions": 1098,
+          "source": "天津市公务员局",
+          "url": "http://rsks.hrss.tj.gov.cn/",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "天津市2025年公开招考公务员公告",
+          "date": "2024-11-07",
+          "headcount": 2043,
+          "positions": null,
+          "source": "天津市公务员局",
+          "url": "http://rsks.hrss.tj.gov.cn/",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "天津市2026年度考试录用公务员公告",
+          "date": "2025-11-04",
+          "headcount": 1796,
+          "positions": 1063,
+          "source": "天津市公务员局（天津市公务员考试录用服务平台）",
+          "url": "https://gklx.hrss.tj.gov.cn/",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "天津市2025年度定向招录选调生公告",
+          "date": "2024-11-14",
+          "headcount": 400,
+          "positions": null,
+          "source": "中共天津市委组织部",
+          "url": "http://rsks.hrss.tj.gov.cn/",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "天津市2026年度定向招录选调生公告",
+          "date": "2025-11-05",
+          "headcount": 310,
+          "positions": null,
+          "source": "中共天津市委组织部（天津市公务员考试录用服务平台）",
+          "url": "https://gklx.hrss.tj.gov.cn/",
+          "attachments": [
+            {
+              "name": "2026年天津市定向招录选调生职位表.xlsx",
+              "url": "https://job.tju.edu.cn/Uploads/file/20251105/1762337364931475.xlsx",
+              "local": "attachments/120000/2026年天津市定向招录选调生职位表.xlsx"
+            },
+            {
+              "name": "2026年天津市定向招录选调生报考须知.doc",
+              "url": "https://job.tju.edu.cn/Uploads/file/20251105/1762337364835238.doc",
+              "local": "attachments/120000/2026年天津市定向招录选调生报考须知.doc"
+            },
+            {
+              "name": "2026年天津市选调生报名登记表填写说明.doc",
+              "url": "https://job.tju.edu.cn/Uploads/file/20251105/1762337364321728.doc",
+              "local": "attachments/120000/2026年天津市选调生报名登记表填写说明.doc"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "天津市地质矿产勘查开发局所属事业单位2025年第一批公开招聘工作人员实施方案",
+          "date": "2025-01-26",
+          "headcount": 22,
+          "positions": null,
+          "source": "天津市地质矿产勘查开发局",
+          "url": "http://www.tjdkj.org.cn/html/xxgk/detail_2025_01/26/5522.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "天津市地质矿产勘查开发局所属事业单位2025年第二批公开招聘工作人员（含高层次人才）实施方案",
+          "date": "2025-05-21",
+          "headcount": 13,
+          "positions": null,
+          "source": "天津市地质矿产勘查开发局",
+          "url": "http://www.tjdkj.org.cn/html/xxgk/detail_2025_05/21/5677.shtml",
+          "attachments": [
+            {
+              "name": "2025年天津市地质矿产勘查开发局所属事业单位第二批公开招聘工作人员（含高层次人才）计划表.xlsx",
+              "url": "http://www.tjdkj.org.cn/uploadfiles/file/20250521/1!20250521081109698.xlsx",
+              "local": null
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "天津市武清区2026年事业单位公开招聘工作人员公告",
+          "date": "2026-02-25",
+          "headcount": 80,
+          "positions": null,
+          "source": "天津市武清区人民政府",
+          "url": "https://www.tjwq.gov.cn/zwgk/zfxxgk/wbj2/qrsj1/fdzdgknr11/qtfdgkxx11/202602/t20260225_7250101.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "天津工业大学2026年第三批公开招聘（博士辅导员岗位）人员公告",
+          "date": "2026-08-14",
+          "headcount": 4,
+          "positions": null,
+          "source": "天津工业大学人事处",
+          "url": "https://rsc.tiangong.edu.cn/2026/0814/c4383a116779/page.htm",
+          "attachments": [
+            {
+              "name": "2026年天津市天津工业大学第三批公开招聘博士辅导员计划.pdf",
+              "url": "https://rsc.tiangong.edu.cn/_upload/article/files/bf/b1/413beb124ab2b6380205eac20450/56cb0559-93db-4b52-98da-5923325aa03c.pdf",
+              "local": "attachments/120000/2026年天津市天津工业大学第三批公开招聘博士辅导员计划.pdf"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "中共河西区委党校2025年公开招聘高层次人才公告",
+          "date": "2025-03-05",
+          "headcount": 2,
+          "positions": null,
+          "source": "天津市河西区人民政府",
+          "url": "https://www.tjhx.gov.cn/zwgk/zfxxgk/zfgbm/qrlzyhshbzj/fdzdgknr/zkly/202503/t20250305_6873909.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "天津市东丽区卫生健康委2025年公开招聘高层次人才公告",
+          "date": "2025-09-08",
+          "headcount": 18,
+          "positions": null,
+          "source": "天津卫生人才网",
+          "url": "https://www.tjwsrc.com/system/2025/09/08/030173981.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "天津市河西区卫生健康委所属事业单位2025年公开招聘高层次人才公告",
+          "date": "2025-10-29",
+          "headcount": 5,
+          "positions": null,
+          "source": "天津市人才服务中心网",
+          "url": "https://zxbm.tjtalents.com.cn/wsbm_ggfb//beifang/WebPage.aspx?id=92af35137e004e08ae816e4a882c2fae",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "天津市西青区卫健委2026年事业单位公开招聘高层次人才公告",
+          "date": "2026-08-24",
+          "headcount": 7,
+          "positions": null,
+          "source": "天津市人才服务中心网",
+          "url": "https://zxbm.tjtalents.com.cn/wsbm_ggfb//beifang/WebPage.aspx?id=3110c11aba274950a91b3e33afbb9d8d",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "天津市红桥区2025年度公开招考公务员拟录用人员公示（第一批）",
+          "date": "2025-04-18",
+          "headcount": 76,
+          "positions": null,
+          "source": "天津市人事考试网上报名公共服务平台",
+          "url": "http://rsks.hrss.tj.gov.cn/ks/ff808081955ab77801964300f541003a",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "天津市北辰区2025年事业单位公开招聘拟聘用人员公示",
+          "date": "2025-06-05",
+          "headcount": 17,
+          "positions": null,
+          "source": "天津市北辰区人民政府",
+          "url": "https://www.tjbc.gov.cn/zwgk/tzgg/202506/t20250605_6947655.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "天津市武清区2025年度公开招考公务员拟录用人员公示（第三批）",
+          "date": "2025-11-06",
+          "headcount": null,
+          "positions": null,
+          "source": "天津人事考试网（天津市人才考评中心）",
+          "url": "https://hrss.tj.gov.cn/jsdw/rsksw/tzgg4/202511/t20251106_7171535.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "天津市2026年度定向招录选调生拟录用人员公示",
+          "date": "2026-05-31",
+          "headcount": null,
+          "positions": null,
+          "source": "中共天津市委组织部（天津市公务员考试录用服务平台）",
+          "url": "https://gklx.hrss.tj.gov.cn/",
+          "attachments": []
+        },
+        {
+          "year": 2024,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "天津市2024年公开遴选和公开选调公务员公告",
+          "date": "2024-10-17",
+          "headcount": null,
+          "positions": null,
+          "source": "天津市公务员局",
+          "url": "https://gklx.hrss.tj.gov.cn/",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "天津市2025年公开遴选和公开选调公务员公告",
+          "date": "2025-05-15",
+          "headcount": 167,
+          "positions": null,
+          "source": "天津市公务员局",
+          "url": "https://gklx.hrss.tj.gov.cn/",
+          "attachments": []
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "name": "南开大学",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.nankai.edu.cn",
+      "hrUrl": "https://rsc.nankai.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津大学",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.tju.edu.cn",
+      "hrUrl": "https://hr.tju.edu.cn/",
+      "talentPolicyUrl": "https://hr.tju.edu.cn/info/1043/1961.htm"
+    },
+    {
+      "name": "天津医科大学",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.tmu.edu.cn",
+      "hrUrl": "https://www.tmu.edu.cn/rsc/2740/list.htm",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "河北工业大学",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.hebut.edu.cn",
+      "hrUrl": "https://rsc.hebut.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津工业大学",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "双一流"
+      ],
+      "website": "https://www.tiangong.edu.cn",
+      "hrUrl": "https://rsc.tiangong.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津中医药大学",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "双一流"
+      ],
+      "website": "https://www.tjutcm.edu.cn",
+      "hrUrl": "https://renshi.tjutcm.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津科技大学",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.tust.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津理工大学",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.tjut.edu.cn",
+      "hrUrl": "https://rsc.tjut.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津师范大学",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.tjnu.edu.cn",
+      "hrUrl": "https://rsc.tjnu.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津财经大学",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.tjufe.edu.cn",
+      "hrUrl": "https://rsc.tjufe.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津商业大学",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.tjcu.edu.cn",
+      "hrUrl": "https://rsc.tjcu.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津外国语大学",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.tjfsu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津城建大学",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.tcu.edu.cn",
+      "hrUrl": "https://rsc.tcu.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津农学院",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.tjau.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津体育学院",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.tjus.edu.cn",
+      "hrUrl": "https://rsc.tjus.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津音乐学院",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.tjcm.edu.cn",
+      "hrUrl": "https://rsc.tjcm.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津美术学院",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.tjarts.edu.cn",
+      "hrUrl": "https://rsc.tjarts.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津职业技术师范大学",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.tute.edu.cn",
+      "hrUrl": "https://rsc.tute.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国民航大学",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cauc.edu.cn",
+      "hrUrl": "https://www.cauc.edu.cn/rsc/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津中德应用技术大学",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.tsguas.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津警察学院",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.tjjingyuan.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津仁爱学院",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.tjrac.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津天狮学院",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.tianshi.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津传媒学院",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.tjcma.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京科技大学天津学院",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://tj.ustb.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津师范大学津沽学院",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "http://www.jinguxy.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津理工大学中环信息学院",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.tjzhic.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津商业大学宝德学院",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.boustead.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津医科大学临床医学院",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.tmucmc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津财经大学珠江学院",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://zhujiang.tjufe.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "天津外国语大学滨海外事学院",
+      "city": "天津市",
+      "cityAdcode": 120000,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://bhws.tjfsu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    }
+  ]
+}
