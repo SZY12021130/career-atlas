@@ -1,0 +1,1568 @@
+{
+  "adcode": 430000,
+  "name": "湖南省",
+  "updatedAt": "2026-08-25",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "红星网（中共湖南省委组织部/湖南省公务员局公告发布平台）",
+      "url": "http://www.hxw.gov.cn"
+    },
+    {
+      "category": "事业单位",
+      "name": "湖南省人力资源和社会保障厅",
+      "url": "http://rst.hunan.gov.cn"
+    },
+    {
+      "category": "事业单位",
+      "name": "湖南人事考试网",
+      "url": "http://www.hunanpea.com"
+    },
+    {
+      "category": "选调",
+      "name": "红星网（湖南省选调生选拔公告发布平台）",
+      "url": "http://www.hxw.gov.cn"
+    },
+    {
+      "category": "人才引进",
+      "name": "湖南省人力资源和社会保障厅（人才人事）",
+      "url": "http://rst.hunan.gov.cn"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 430100,
+      "name": "长沙市",
+      "districts": [
+        "芙蓉区",
+        "天心区",
+        "岳麓区",
+        "开福区",
+        "雨花区",
+        "望城区",
+        "长沙县",
+        "浏阳市",
+        "宁乡市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "长沙党建网（先锋潮）",
+          "url": "https://www.xfc.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "长沙市人力资源和社会保障局",
+          "url": "http://rsj.changsha.gov.cn"
+        },
+        {
+          "category": "录用公示",
+          "name": "长沙党建网（先锋潮）-通知公告",
+          "url": "https://www.xfc.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "湖南省2026年考试录用公务员公告",
+          "date": "2026-01-13",
+          "headcount": 10198,
+          "positions": null,
+          "source": "红星网（中共湖南省委组织部）",
+          "url": "https://www.hxw.gov.cn/content/2026/01/13/14851200.html",
+          "attachments": [
+            {
+              "name": "2026年湖南省考试录用公务员职位表.xlsx",
+              "url": "https://img.hxw.gov.cn/2026/01-13/c8bf0670-4ac0-4d1b-acc8-5c2c06849917.xlsx",
+              "local": "attachments/430100/2026年湖南省考试录用公务员职位表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "长沙市2026年考试录用公务员补充录用资格审查公告",
+          "date": "2026-05-18",
+          "headcount": null,
+          "positions": null,
+          "source": "长沙党建网（先锋潮）",
+          "url": "https://www.xfc.gov.cn/content/2026/05/18/11018120.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "title": "湖南省2026年度选调生拟选调人选公示",
+          "date": "2026-04-07",
+          "headcount": 1195,
+          "positions": null,
+          "source": "红星网（中共湖南省委组织部）",
+          "url": "https://www.hxw.gov.cn/content/2026/04/07/14881753.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "title": "长沙市2025年考试录用公务员拟录用人员名单公示（四）",
+          "date": "2026-03-06",
+          "headcount": null,
+          "positions": null,
+          "source": "长沙党建网（先锋潮）",
+          "url": "https://www.xfc.gov.cn/content/2026/03/06/11017725.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年长沙市直事业单位第一批公开招聘（选调）工作人员公告",
+          "date": "2025-05-20",
+          "headcount": 160,
+          "positions": null,
+          "source": "长沙市人力资源和社会保障局",
+          "url": "http://rsj.changsha.gov.cn/rszc/rsrc_131369/gkzk_131379/sydwzk_131381/202505/t20250520_11858730.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "2025年长沙市卫生健康高层次专业人才引进公告",
+          "date": "2025-06-09",
+          "headcount": 65,
+          "positions": null,
+          "source": "长沙市人力资源和社会保障局",
+          "url": "http://rsj.changsha.gov.cn/rszc/rsrc_131369/gkzk_131379/sydwzk_131381/202506/t20250609_11879737.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 430200,
+      "name": "株洲市",
+      "districts": [
+        "荷塘区",
+        "芦淞区",
+        "石峰区",
+        "天元区",
+        "渌口区",
+        "攸县",
+        "茶陵县",
+        "炎陵县",
+        "醴陵市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "株洲组工网",
+          "url": "https://www.zznews.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "株洲市人力资源和社会保障局",
+          "url": "https://rsj.zhuzhou.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "2026年株洲市市直事业单位公开招聘（选调）工作人员公告",
+          "date": "2026-06-01",
+          "headcount": 328,
+          "positions": null,
+          "source": "株洲市人力资源和社会保障局",
+          "url": "http://rsj.zhuzhou.gov.cn//c935/20260601/i2502218.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "2025年株洲市事业单位公开招聘高层次人才公告",
+          "date": "2025-10-25",
+          "headcount": 62,
+          "positions": null,
+          "source": "株洲市人民政府门户网站",
+          "url": "http://www.zhuzhou.gov.cn/c15172/20251025/i2438924.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "title": "2025年度株洲市考试录用公务员第四批拟录用人员名单公示",
+          "date": "2026-06-12",
+          "headcount": null,
+          "positions": null,
+          "source": "株洲组工网",
+          "url": "https://www.zznews.gov.cn/c/2026/0612/488459.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 430300,
+      "name": "湘潭市",
+      "districts": [
+        "雨湖区",
+        "岳塘区",
+        "湘潭县",
+        "湘乡市",
+        "韶山市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "湘潭人事考试网",
+          "url": "https://xtrsks.xtrs.xiangtan.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "湘潭市人力资源和社会保障局",
+          "url": "http://xtrs.xiangtan.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "湘潭市2025年考试录用公务员拟录用人员名单公示",
+          "date": "2025-06-16",
+          "headcount": 418,
+          "positions": null,
+          "source": "湘潭市公安局（湘潭市公务员局发布）",
+          "url": "http://xtga.xiangtan.gov.cn/15367/15410/15401/content_1389232.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年湘潭市市直事业单位公开招聘（选调）工作人员公告",
+          "date": "2025-08-20",
+          "headcount": 48,
+          "positions": null,
+          "source": "湘潭市人力资源和社会保障局",
+          "url": "http://xtrs.xiangtan.gov.cn/25937/content_1387856.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年湘潭市市直事业单位公开招聘拟聘用人员公示（第一批）",
+          "date": "2025-12-25",
+          "headcount": null,
+          "positions": null,
+          "source": "湘潭市人力资源和社会保障局",
+          "url": "https://xtrs.xiangtan.gov.cn/25937/content_1409388.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 430400,
+      "name": "衡阳市",
+      "districts": [
+        "珠晖区",
+        "雁峰区",
+        "石鼓区",
+        "蒸湘区",
+        "南岳区",
+        "衡阳县",
+        "衡南县",
+        "衡山县",
+        "衡东县",
+        "祁东县",
+        "耒阳市",
+        "常宁市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "衡阳智慧党建网",
+          "url": "http://www.hyzhdj.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "衡阳市人力资源和社会保障局",
+          "url": "https://www.hengyang.gov.cn/hysrsj"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "衡阳市2025年考试录用公务员拟录用人员名单公示",
+          "date": "2025-06-16",
+          "headcount": 869,
+          "positions": null,
+          "source": "衡阳智慧党建网",
+          "url": "http://www.hyzhdj.gov.cn/gateway/1080869988/45725914.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "2026年衡阳市市直事业单位公开招聘工作人员公告",
+          "date": "2026-06-05",
+          "headcount": 169,
+          "positions": null,
+          "source": "衡阳市人力资源和社会保障局",
+          "url": "https://www.hengyang.gov.cn/hysrsj/ywgz/sydwgkzp/20260605/i3912785.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "title": "2026年度衡阳市市属事业单位高层次人才引进公告",
+          "date": "2026-05-29",
+          "headcount": 64,
+          "positions": null,
+          "source": "衡阳市人民政府门户网站",
+          "url": "https://www.hengyang.gov.cn/hyswjw/xxgk/gzdt/tzgg/20260529/i3909677.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 430500,
+      "name": "邵阳市",
+      "districts": [
+        "双清区",
+        "大祥区",
+        "北塔区",
+        "邵东市",
+        "新邵县",
+        "邵阳县",
+        "隆回县",
+        "洞口县",
+        "绥宁县",
+        "新宁县",
+        "城步苗族自治县",
+        "武冈市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "邵阳党建网",
+          "url": "https://www.sysdj.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "邵阳市人力资源和社会保障局",
+          "url": "https://rsj.shaoyang.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "邵阳市2025年考试录用公务员拟录用人员公示（第一批）",
+          "date": "2025-06-10",
+          "headcount": 989,
+          "positions": null,
+          "source": "邵阳党建网",
+          "url": "https://www.sysdj.gov.cn/sysdj/gggs/29544.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年邵阳市市直事业单位公开招聘人员公告",
+          "date": "2025-06-16",
+          "headcount": 131,
+          "positions": null,
+          "source": "邵阳党建网",
+          "url": "https://www.sysdj.gov.cn/sysdj/zkgg/29547.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 430600,
+      "name": "岳阳市",
+      "districts": [
+        "岳阳楼区",
+        "云溪区",
+        "君山区",
+        "岳阳县",
+        "华容县",
+        "湘阴县",
+        "平江县",
+        "汨罗市",
+        "临湘市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "岳阳红星网",
+          "url": "http://www.yydj.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "岳阳市人力资源和社会保障局",
+          "url": "https://rsj.yueyang.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "title": "岳阳市2026年考试录用公务员拟录用人员名单公示（第一批）",
+          "date": "2026-06-16",
+          "headcount": 694,
+          "positions": null,
+          "source": "岳阳红星网",
+          "url": "http://www.yydj.gov.cn/11253/11256/21745/content_2383992.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "岳阳市市直事业单位2025年集中公开招聘工作人员公告",
+          "date": "2025-06-13",
+          "headcount": 116,
+          "positions": null,
+          "source": "岳阳市人力资源和社会保障局",
+          "url": "https://rsj.yueyang.gov.cn/rsks/71684/content_2297879.html",
+          "attachments": [
+            {
+              "name": "2025年岳阳市市直事业单位集中公开招聘工作人员岗位表.xlsx",
+              "url": "https://rsj.yueyang.gov.cn/uploadfiles/202506/2025061318130913205.xlsx",
+              "local": "attachments/430600/2025年岳阳市市直事业单位集中公开招聘工作人员岗位表.xlsx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adcode": 430700,
+      "name": "常德市",
+      "districts": [
+        "武陵区",
+        "鼎城区",
+        "安乡县",
+        "汉寿县",
+        "澧县",
+        "临澧县",
+        "桃源县",
+        "石门县",
+        "津市市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "常德市人民政府门户网站（公示公告）",
+          "url": "https://www.changde.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "常德市人力资源和社会保障局",
+          "url": "https://mohrss.changde.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "常德市2025年考试录用公务员第一批拟录用人员公示",
+          "date": "2025-06-17",
+          "headcount": 696,
+          "positions": null,
+          "source": "常德市人民政府门户网站",
+          "url": "https://www.changde.gov.cn/zwgk/public/6616759/3109565751.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "常德市2025年市直部分事业单位集中公开招聘工作人员公告",
+          "date": "2025-09-01",
+          "headcount": 20,
+          "positions": null,
+          "source": "常德市人力资源和社会保障局",
+          "url": "https://mohrss.changde.gov.cn/rsks/gsgg/ggl/content_78170158",
+          "attachments": [
+            {
+              "name": "2025年常德市市直部分事业单位集中公开招聘工作人员岗位条件及计划表.xlsx",
+              "url": "https://mohrss.changde.gov.cn/upload/mohrss/application/2025/09/01/%EF%BC%88%E9%99%84%E4%BB%B61%EF%BC%89%E5%B8%B8%E5%BE%B7%E5%B8%822025%E5%B9%B4%E5%B8%82%E7%9B%B4%E9%83%A8%E5%88%86%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E9%9B%86%E4%B8%AD%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%B2%97%E4%BD%8D%E6%9D%A1%E4%BB%B6%E5%8F%8A%E8%AE%A1%E5%88%92%E8%A1%A8.xlsx?t=1756687766543",
+              "local": "attachments/430700/2025年常德市市直部分事业单位集中公开招聘工作人员岗位条件及计划表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "常德市2025年市直部分事业单位集中公开招聘拟聘用人员公示",
+          "date": "2025-10-22",
+          "headcount": 19,
+          "positions": null,
+          "source": "常德市人力资源和社会保障局",
+          "url": "https://mohrss.changde.gov.cn/slzq/gggs1__zhdt/gggs/content_78177207",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 430800,
+      "name": "张家界市",
+      "districts": [
+        "永定区",
+        "武陵源区",
+        "慈利县",
+        "桑植县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "张家界红星网",
+          "url": "http://redstar.zjj.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "张家界市人力资源和社会保障局",
+          "url": "http://rs.zjj.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "title": "湖南省2025年度考试录用公务员张家界市第四批拟录用人员名单公示",
+          "date": "2026-03-11",
+          "headcount": null,
+          "positions": null,
+          "source": "张家界红星网",
+          "url": "https://redstar.zjj.gov.cn/c1348/20260311/i1146619.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "张家界市市直事业单位2025年公开引进急需紧缺人才公告",
+          "date": "2025-07-10",
+          "headcount": 41,
+          "positions": null,
+          "source": "张家界红星网",
+          "url": "http://redstar.zjj.gov.cn/c1348/20250710/i1087734.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "张家界市市直事业单位2025年公开引进急需紧缺人才拟聘用人员公示",
+          "date": "2025-09-08",
+          "headcount": 25,
+          "positions": null,
+          "source": "张家界红星网",
+          "url": "http://redstar.zjj.gov.cn/c1348/20250908/i1110964.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 430900,
+      "name": "益阳市",
+      "districts": [
+        "资阳区",
+        "赫山区",
+        "南县",
+        "桃江县",
+        "安化县",
+        "沅江市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "益阳党建网",
+          "url": "http://www.yyzzgz.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "益阳市人力资源和社会保障局",
+          "url": "https://www.yiyang.gov.cn/rsj/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年益阳市考试录用公务员第四批拟录用人员名单公示",
+          "date": "2025-10-17",
+          "headcount": null,
+          "positions": null,
+          "source": "益阳党建网",
+          "url": "http://www.yyzzgz.gov.cn/7120/12554/content_2103126.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "益阳市市直事业单位2025年集中公开招聘工作人员公告",
+          "date": "2025-07-07",
+          "headcount": 83,
+          "positions": null,
+          "source": "益阳市人力资源和社会保障局",
+          "url": "https://www.yiyang.gov.cn/rsj/4530/4532/12229/content_2081283.html",
+          "attachments": [
+            {
+              "name": "2025年益阳市市直事业单位公开招聘工作人员岗位计划及要求一览表.xls",
+              "url": "https://www.yiyang.gov.cn/rsj/uploadfiles/202507/2025070714571168809.xls",
+              "local": "attachments/430900/2025年益阳市市直事业单位公开招聘工作人员岗位计划及要求一览表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "益阳市市直事业单位2025年集中公开招聘拟聘用人员公示",
+          "date": "2025-09-23",
+          "headcount": 82,
+          "positions": null,
+          "source": "益阳市人力资源和社会保障局",
+          "url": "http://www.yiyang.gov.cn/rsj/4530/4532/12229/content_2097041.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 431000,
+      "name": "郴州市",
+      "districts": [
+        "北湖区",
+        "苏仙区",
+        "桂阳县",
+        "宜章县",
+        "永兴县",
+        "嘉禾县",
+        "临武县",
+        "汝城县",
+        "桂东县",
+        "安仁县",
+        "资兴市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "郴州党建网",
+          "url": "http://www.czdjw.org.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "郴州市人力资源和社会保障局",
+          "url": "http://czrsj.czs.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年郴州市考试录用公务员拟录用人员名单公示",
+          "date": "2025-06-16",
+          "headcount": null,
+          "positions": null,
+          "source": "郴州党建网",
+          "url": "http://www.czdjw.org.cn/content/2025/06/16/14761174.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年郴州市市直事业单位公开招聘工作人员公告",
+          "date": "2025-07-17",
+          "headcount": 59,
+          "positions": null,
+          "source": "郴州市人力资源和社会保障局",
+          "url": "http://czrsj.czs.gov.cn/18281/18295/content_3913700.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "2025年郴州市属事业单位公开招聘引进高层次和急需紧缺人才公告",
+          "date": "2025-03-31",
+          "headcount": 97,
+          "positions": null,
+          "source": "郴州党建网",
+          "url": "http://www.czdjw.org.cn/content/2025/03/31/14721836.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 431100,
+      "name": "永州市",
+      "districts": [
+        "零陵区",
+        "冷水滩区",
+        "祁阳市",
+        "东安县",
+        "双牌县",
+        "道县",
+        "江永县",
+        "宁远县",
+        "蓝山县",
+        "新田县",
+        "江华瑶族自治县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "永州红星网",
+          "url": "http://www.yzredstar.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "永州市人力资源和社会保障局",
+          "url": "https://rsj.yzcity.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "湖南省2025年考试录用公务员永州市第一批拟录用人员名单公示",
+          "date": "2025-06-16",
+          "headcount": 788,
+          "positions": null,
+          "source": "永州红星网",
+          "url": "http://www.yzredstar.gov.cn/zzb/gsgg/202506/6c312b705a664dfeb8373934894133cb.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "title": "永州市市直企事业单位2026年引进急需紧缺专业人才公告",
+          "date": "2026-01-12",
+          "headcount": 206,
+          "positions": null,
+          "source": "永州市人民政府门户网站",
+          "url": "https://www.yzcity.gov.cn/cnyz/gsgg/202601/abb9e9a2869244559838d29251e90af5.shtml",
+          "attachments": [
+            {
+              "name": "2026年永州市市直企事业单位急需紧缺专业人才需求目录.xlsx",
+              "url": "https://www.yzcity.gov.cn/cnyz/gsgg/202601/abb9e9a2869244559838d29251e90af5/files/3ce213c42d1841d8991ddffcb8d63e90.xlsx",
+              "local": "attachments/431100/2026年永州市市直企事业单位急需紧缺专业人才需求目录.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "永州市零陵区2025年公开招聘事业单位工作人员公告",
+          "date": "2025-09-23",
+          "headcount": 43,
+          "positions": null,
+          "source": "永州市零陵区人民政府",
+          "url": "http://www.cnll.gov.cn/llqrsj/sydwzlu/202509/80aaf18981c54ac0ade6d7854016ed48.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 431200,
+      "name": "怀化市",
+      "districts": [
+        "鹤城区",
+        "中方县",
+        "沅陵县",
+        "辰溪县",
+        "溆浦县",
+        "会同县",
+        "麻阳苗族自治县",
+        "新晃侗族自治县",
+        "芷江侗族自治县",
+        "靖州苗族侗族自治县",
+        "通道侗族自治县",
+        "洪江市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "怀化人事考试网",
+          "url": "https://www.hhrsks.com"
+        },
+        {
+          "category": "事业单位",
+          "name": "怀化市人力资源和社会保障局",
+          "url": "https://www.huaihua.gov.cn/rsj/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "怀化市2025年考试录用公务员第一批拟录用人员名单公示",
+          "date": "2025-06-17",
+          "headcount": 965,
+          "positions": null,
+          "source": "怀化人事考试网",
+          "url": "https://www.hhrsks.com/page?id=7821",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "怀化市市直企事业单位2025年引进高层次及急需紧缺人才公告",
+          "date": "2025-03-24",
+          "headcount": 186,
+          "positions": null,
+          "source": "怀化人事考试网",
+          "url": "https://www.hhrsks.com/page?id=7741",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "怀化市部分市直事业单位2025年集中公开招聘、公开选调工作人员公告",
+          "date": "2025-07-29",
+          "headcount": 16,
+          "positions": null,
+          "source": "怀化人事考试网",
+          "url": "https://www.hhrsks.com/page?id=7842",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 431300,
+      "name": "娄底市",
+      "districts": [
+        "娄星区",
+        "双峰县",
+        "新化县",
+        "冷水江市",
+        "涟源市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "娄底党建网",
+          "url": "http://lddjw.hnloudi.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "娄底市人力资源和社会保障局",
+          "url": "http://rsj.hnloudi.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "娄底市2025年考试录用公务员第一批拟录用人员名单公示",
+          "date": "2025-06-10",
+          "headcount": 323,
+          "positions": null,
+          "source": "娄底党建网",
+          "url": "http://lddjw.hnloudi.gov.cn/zgldswzzb/gggs/202506/983c1f18d54f4b3e895cb4b00452a07e.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "娄底市市直事业单位2026年集中公开招聘（选调）工作人员公告",
+          "date": "2026-06-02",
+          "headcount": 12,
+          "positions": null,
+          "source": "娄底市人力资源和社会保障局",
+          "url": "https://rsj.hnloudi.gov.cn/ldbzj/07/202606/bc62c455dd6a40e3ac23df591614f26d.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "title": "2026年娄底市教育局直属事业单位高层次和急需紧缺人才招聘公告",
+          "date": "2026-04-08",
+          "headcount": 66,
+          "positions": null,
+          "source": "娄底市人力资源和社会保障局",
+          "url": "https://rsj.hnloudi.gov.cn/ldbzj/07/202604/269c532de45249d0a86eb497a09c460a.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 433100,
+      "name": "湘西土家族苗族自治州",
+      "districts": [
+        "吉首市",
+        "泸溪县",
+        "凤凰县",
+        "花垣县",
+        "保靖县",
+        "古丈县",
+        "永顺县",
+        "龙山县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "湘西党建网",
+          "url": "http://www.xxzdjw.com"
+        },
+        {
+          "category": "事业单位",
+          "name": "湘西土家族苗族自治州人力资源和社会保障局",
+          "url": "https://rsj.xxz.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "湘西州2025年考试录用公务员第一批拟录用人员名单公示",
+          "date": "2025-06-11",
+          "headcount": 639,
+          "positions": null,
+          "source": "湘西州人力资源和社会保障局",
+          "url": "https://rsj.xxz.gov.cn/ywxx_170/gwyzk/202506/t20250611_2262299.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "2026年湘西自治州事业单位公开招聘工作人员公告",
+          "date": "2026-05-29",
+          "headcount": 599,
+          "positions": null,
+          "source": "湘西州人力资源和社会保障局",
+          "url": "https://rsj.xxz.gov.cn/zwgk_170/fdzdgknr/tzgg/202605/t20260529_2355487.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "2025年湘西自治州事业单位（医卫类）公开引进高层次急需紧缺人才公告",
+          "date": "2025-03-24",
+          "headcount": 77,
+          "positions": null,
+          "source": "湘西州人力资源和社会保障局",
+          "url": "https://rsj.xxz.gov.cn/zwgk_170/fdzdgknr/tzgg/202503/t20250324_2238359.html",
+          "attachments": []
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "name": "国防科技大学",
+      "city": "长沙市",
+      "cityAdcode": 430100,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.nudt.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中南大学",
+      "city": "长沙市",
+      "cityAdcode": 430100,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.csu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南大学",
+      "city": "长沙市",
+      "cityAdcode": 430100,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.hnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南师范大学",
+      "city": "长沙市",
+      "cityAdcode": 430100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.hunnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长沙理工大学",
+      "city": "长沙市",
+      "cityAdcode": 430100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.csust.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南农业大学",
+      "city": "长沙市",
+      "cityAdcode": 430100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.hunau.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中南林业科技大学",
+      "city": "长沙市",
+      "cityAdcode": 430100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.csuft.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南中医药大学",
+      "city": "长沙市",
+      "cityAdcode": 430100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.hnucm.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南工商大学",
+      "city": "长沙市",
+      "cityAdcode": 430100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hutb.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南第一师范学院",
+      "city": "长沙市",
+      "cityAdcode": 430100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hnfnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长沙学院",
+      "city": "长沙市",
+      "cityAdcode": 430100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ccsu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南财政经济学院",
+      "city": "长沙市",
+      "cityAdcode": 430100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hufe.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南警察学院",
+      "city": "长沙市",
+      "cityAdcode": 430100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hnpolice.com",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南女子学院",
+      "city": "长沙市",
+      "cityAdcode": 430100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hnwu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长沙师范学院",
+      "city": "长沙市",
+      "cityAdcode": 430100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cssf.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长沙工业学院",
+      "city": "长沙市",
+      "cityAdcode": 430100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cit-po.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南信息学院",
+      "city": "长沙市",
+      "cityAdcode": 430100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.hnuit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长沙医学院",
+      "city": "长沙市",
+      "cityAdcode": 430100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.csmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南涉外经济学院",
+      "city": "长沙市",
+      "cityAdcode": 430100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.hieu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长沙理工大学城南学院",
+      "city": "长沙市",
+      "cityAdcode": 430100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.csust.edu.cn/cnxy/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南农业大学东方科技学院",
+      "city": "长沙市",
+      "cityAdcode": 430100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.hnaues.com",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中南林业科技大学涉外学院",
+      "city": "长沙市",
+      "cityAdcode": 430100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://swxy.csuft.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南工业大学",
+      "city": "株洲市",
+      "cityAdcode": 430200,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.hut.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南汽车工程职业大学",
+      "city": "株洲市",
+      "cityAdcode": 430200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hnqczy.com",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南工业大学科技学院",
+      "city": "株洲市",
+      "cityAdcode": 430200,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://kjxy.hut.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湘潭大学",
+      "city": "湘潭市",
+      "cityAdcode": 430300,
+      "tags": [
+        "双一流",
+        "省属重点"
+      ],
+      "website": "https://www.xtu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南科技大学",
+      "city": "湘潭市",
+      "cityAdcode": 430300,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.hnust.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南工程学院",
+      "city": "湘潭市",
+      "cityAdcode": 430300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hnie.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南软件职业技术大学",
+      "city": "湘潭市",
+      "cityAdcode": 430300,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.hnsoftedu.com",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湘潭理工学院",
+      "city": "湘潭市",
+      "cityAdcode": 430300,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.xtit.edu.cn",
+      "hrUrl": "https://www.xtit.edu.cn/lists/84.html",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湘潭大学兴湘学院",
+      "city": "湘潭市",
+      "cityAdcode": 430300,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "http://xxxy.xtu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南科技大学潇湘学院",
+      "city": "湘潭市",
+      "cityAdcode": 430300,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "http://xxzs.hnust.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南工程学院应用技术学院",
+      "city": "湘潭市",
+      "cityAdcode": 430300,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "http://hnieyy.hnie.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南华大学",
+      "city": "衡阳市",
+      "cityAdcode": 430400,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.usc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "衡阳师范学院",
+      "city": "衡阳市",
+      "cityAdcode": 430400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hynu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南工学院",
+      "city": "衡阳市",
+      "cityAdcode": 430400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hnit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南交通工程学院",
+      "city": "衡阳市",
+      "cityAdcode": 430400,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.hnjt.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南华大学船山学院",
+      "city": "衡阳市",
+      "cityAdcode": 430400,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "http://csxy.usc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "衡阳师范学院南岳学院",
+      "city": "衡阳市",
+      "cityAdcode": 430400,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "http://nyxy.hynu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "邵阳学院",
+      "city": "邵阳市",
+      "cityAdcode": 430500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hnsyu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南理工学院",
+      "city": "岳阳市",
+      "cityAdcode": 430600,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.hnist.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南理工学院南湖学院",
+      "city": "岳阳市",
+      "cityAdcode": 430600,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "http://nh.hnist.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南中医药大学湘杏学院",
+      "city": "岳阳市",
+      "cityAdcode": 430600,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "http://xxxy.hnucm.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南文理学院",
+      "city": "常德市",
+      "cityAdcode": 430700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.huas.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南文理学院芙蓉学院",
+      "city": "常德市",
+      "cityAdcode": 430700,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "http://fur.huas.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南应用技术学院",
+      "city": "常德市",
+      "cityAdcode": 430700,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.hatu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "张家界学院",
+      "city": "张家界市",
+      "cityAdcode": 430800,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.zjjc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南城市学院",
+      "city": "益阳市",
+      "cityAdcode": 430900,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hncu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湘南学院",
+      "city": "郴州市",
+      "cityAdcode": 431000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南科技学院",
+      "city": "永州市",
+      "cityAdcode": 431100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.huse.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "怀化学院",
+      "city": "怀化市",
+      "cityAdcode": 431200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hhtc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南医药学院",
+      "city": "怀化市",
+      "cityAdcode": 431200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hnmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖南人文科技学院",
+      "city": "娄底市",
+      "cityAdcode": 431300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.huhst.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "吉首大学",
+      "city": "湘西土家族苗族自治州",
+      "cityAdcode": 433100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.jsu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    }
+  ]
+}

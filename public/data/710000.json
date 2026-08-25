@@ -1,0 +1,140 @@
+{
+  "adcode": 710000,
+  "name": "台湾省",
+  "updatedAt": "2026-08-25",
+  "note": "骨架数据：省级官方入口与代表性公告已人工核验；市级明细持续采集中",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "台湾地区公务人员考试（考试院）",
+      "url": "https://www.exam.gov.tw"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 710000,
+      "name": "台湾省",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "台湾地区公务人员考试（考试院）",
+          "url": "https://www.exam.gov.tw"
+        }
+      ],
+      "recruitments": []
+    }
+  ],
+  "universities": [
+    {
+      "name": "台湾大学",
+      "city": "台北市",
+      "cityAdcode": 710000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ntu.edu.tw",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "台湾清华大学",
+      "city": "新竹市",
+      "cityAdcode": 710000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.nthu.edu.tw",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "台湾阳明交通大学",
+      "city": "新竹市",
+      "cityAdcode": 710000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.nycu.edu.tw",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "成功大学",
+      "city": "台南市",
+      "cityAdcode": 710000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ncku.edu.tw",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "政治大学",
+      "city": "台北市",
+      "cityAdcode": 710000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.nccu.edu.tw",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "台湾师范大学",
+      "city": "台北市",
+      "cityAdcode": 710000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ntnu.edu.tw",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "台湾中山大学",
+      "city": "高雄市",
+      "cityAdcode": 710000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.nsysu.edu.tw",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中央大学",
+      "city": "桃园市",
+      "cityAdcode": 710000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ncu.edu.tw",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中兴大学",
+      "city": "台中市",
+      "cityAdcode": 710000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.nchu.edu.tw",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "台湾科技大学",
+      "city": "台北市",
+      "cityAdcode": 710000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ntust.edu.tw",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    }
+  ]
+}

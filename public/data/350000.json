@@ -1,0 +1,1453 @@
+{
+  "adcode": 350000,
+  "name": "福建省",
+  "updatedAt": "2026-08-25",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "福建省公务员考试录用网",
+      "url": "https://gwykl.fujian.gov.cn"
+    },
+    {
+      "category": "事业单位",
+      "name": "福建省人力资源和社会保障厅",
+      "url": "http://rst.fujian.gov.cn"
+    },
+    {
+      "category": "事业单位",
+      "name": "福建就业网（福建省事业单位公开招聘模块）",
+      "url": "https://www.fj99.org.cn"
+    },
+    {
+      "category": "选调",
+      "name": "福建人才联合网（福建省选调生报名系统，中共福建省委组织部）",
+      "url": "http://fjrclh.fzu.edu.cn"
+    },
+    {
+      "category": "人才引进",
+      "name": "中国海峡人才网（中国海峡人才市场）",
+      "url": "https://www.hxrc.com"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 350100,
+      "name": "福州市",
+      "districts": [
+        "鼓楼区",
+        "台江区",
+        "仓山区",
+        "马尾区",
+        "晋安区",
+        "长乐区",
+        "闽侯县",
+        "连江县",
+        "罗源县",
+        "闽清县",
+        "永泰县",
+        "平潭县",
+        "福清市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "福建省公务员考试录用网（福州频道）",
+          "url": "http://gwykl.fujian.gov.cn/portal/fz"
+        },
+        {
+          "category": "事业单位",
+          "name": "福州市人力资源和社会保障局",
+          "url": "https://www.fuzhou.gov.cn/zgfzzt/srsj/"
+        },
+        {
+          "category": "事业单位",
+          "name": "福州市事业单位招聘专栏",
+          "url": "https://www.fuzhou.gov.cn/zgfzzt/srsj/fzrs/ztzl/sydwzp/"
+        },
+        {
+          "category": "人才引进",
+          "name": "福州人事人才网",
+          "url": "http://www.fzrsrc.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "福建省2025年度考试录用公务员公告",
+          "date": "2025-02-08",
+          "headcount": null,
+          "positions": null,
+          "source": "福建省公务员考试录用网",
+          "url": "https://gwykl.fujian.gov.cn/Portal/news/bulletin2025",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "福州市科学技术协会2025年度考试录用公务员拟录用人员公示",
+          "date": "2025-05-16",
+          "headcount": null,
+          "positions": null,
+          "source": "福建省公务员考试录用网",
+          "url": "http://gwykl.fujian.gov.cn/portal/fz/klbulletin/4abb0149-9449-4e6e-a926-5885d294e016",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "2026年福州市事业单位公开招聘工作人员公告",
+          "date": "2026-03-20",
+          "headcount": 725,
+          "positions": null,
+          "source": "福州市人民政府（福州市人力资源和社会保障局）",
+          "url": "https://www.fuzhou.gov.cn/zwgk/tzgg/202603/t20260320_5298571.htm",
+          "attachments": [
+            {
+              "name": "2026年福州市事业单位公开招聘工作人员岗位信息表（事业编制）.xls",
+              "url": "https://www.fuzhou.gov.cn/zwgk/tzgg/202603/P020260324575167035006.xls",
+              "local": "attachments/350100/2026年福州市事业单位公开招聘工作人员岗位信息表（事业编制）.xls"
+            },
+            {
+              "name": "2026年福州市事业单位公开招聘工作人员岗位信息表（参聘和控制数）.xls",
+              "url": "https://www.fuzhou.gov.cn/zwgk/tzgg/202603/P020260324575167371110.xls",
+              "local": "attachments/350100/2026年福州市事业单位公开招聘工作人员岗位信息表（参聘和控制数）.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年福州市事业单位公开招聘工作人员公告",
+          "date": "2025-04-08",
+          "headcount": 772,
+          "positions": null,
+          "source": "福州市人力资源和社会保障局",
+          "url": "https://www.fuzhou.gov.cn/zgfzzt/srsj/fzrs/ztzl/sydwzp/202504/t20250408_5001537.htm",
+          "attachments": [
+            {
+              "name": "2025年福州市事业单位公开招聘工作人员岗位信息表.xls",
+              "url": "https://www.fuzhou.gov.cn/zgfzzt/srsj/fzrs/ztzl/sydwzp/202504/P020250416593960912315.xls",
+              "local": "attachments/350100/2025年福州市事业单位公开招聘工作人员岗位信息表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "福建省2026年度选调生选拔工作公告（全省选拔400名，其中党政类355名、法院类25名、检察院类20名）",
+          "date": "2025-11-21",
+          "headcount": 400,
+          "positions": null,
+          "source": "福建人才联合网（中共福建省委组织部选调生报名系统）",
+          "url": "http://fjrclh.fzu.edu.cn",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "title": "福州市2026届引进生选拔公告",
+          "date": "2025-11-29",
+          "headcount": null,
+          "positions": null,
+          "source": "福州市人民政府国有资产监督管理委员会",
+          "url": "https://gzw.fuzhou.gov.cn/zwgk/zpxx/202511/t20251129_5238080.htm",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 350200,
+      "name": "厦门市",
+      "districts": [
+        "思明区",
+        "海沧区",
+        "湖里区",
+        "集美区",
+        "同安区",
+        "翔安区"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "福建省公务员考试录用网（厦门频道）",
+          "url": "http://gwykl.fujian.gov.cn/portal/xm"
+        },
+        {
+          "category": "事业单位",
+          "name": "厦门市人力资源和社会保障局",
+          "url": "https://hrss.xm.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "厦门市事业单位招聘考试管理系统",
+          "url": "https://app.hrss.xm.gov.cn/syzp/v3/"
+        },
+        {
+          "category": "人才引进",
+          "name": "厦门i人才数智服务平台",
+          "url": "https://irencai.xmdjej.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "福建省2025年度考试录用公务员公告",
+          "date": "2025-02-08",
+          "headcount": null,
+          "positions": null,
+          "source": "福建省公务员考试录用网",
+          "url": "https://gwykl.fujian.gov.cn/Portal/news/bulletin2025",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "厦门市海沧区2025年度拟录用公务员（参公人员）公示",
+          "date": "2025-07-06",
+          "headcount": null,
+          "positions": null,
+          "source": "福建省公务员考试录用网",
+          "url": "http://gwykl.fujian.gov.cn/portal/xm/klbulletin/6d0d39df-c12d-404e-b334-351ae053110a",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年厦门市事业单位公开招聘工作人员公告",
+          "date": "2025-09-01",
+          "headcount": 294,
+          "positions": 265,
+          "source": "厦门市人力资源和社会保障局",
+          "url": "https://hrss.xm.gov.cn/xxgk/tzgg/202509/t20250901_2953303.htm",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "厦门技师学院2025年公开招聘编内工作人员公告",
+          "date": "2025-10-17",
+          "headcount": 36,
+          "positions": null,
+          "source": "厦门市人力资源和社会保障局",
+          "url": "http://hrss.xm.gov.cn/xxgk/tzgg/202510/t20251017_2960501.htm",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "福建省2026年度选调生选拔工作公告（全省选拔400名，其中党政类355名、法院类25名、检察院类20名）",
+          "date": "2025-11-21",
+          "headcount": 400,
+          "positions": null,
+          "source": "福建人才联合网（中共福建省委组织部选调生报名系统）",
+          "url": "http://fjrclh.fzu.edu.cn",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "title": "厦门市2026届优培生选拔公告",
+          "date": "2025-10-30",
+          "headcount": null,
+          "positions": null,
+          "source": "厦门市工业和信息化局",
+          "url": "http://gxj.xm.gov.cn/xwzx/tzgg/202510/t20251030_2963774.htm",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 350300,
+      "name": "莆田市",
+      "districts": [
+        "城厢区",
+        "涵江区",
+        "荔城区",
+        "秀屿区",
+        "仙游县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "福建省公务员考试录用网（莆田频道）",
+          "url": "http://gwykl.fujian.gov.cn/portal/pt"
+        },
+        {
+          "category": "事业单位",
+          "name": "莆田市人力资源和社会保障局",
+          "url": "http://rsj.putian.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "莆田市人社局事业单位公开招聘专栏",
+          "url": "http://rsj.putian.gov.cn/zwgk/rcdwjs/sydwzp/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "福建省2025年度考试录用公务员公告",
+          "date": "2025-02-08",
+          "headcount": null,
+          "positions": null,
+          "source": "福建省公务员考试录用网",
+          "url": "https://gwykl.fujian.gov.cn/Portal/news/bulletin2025",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "关于2025年度莆田市涵江区拟录用人员的公示",
+          "date": "2025-06-10",
+          "headcount": 32,
+          "positions": null,
+          "source": "福建省公务员考试录用网",
+          "url": "http://gwykl.fujian.gov.cn/Portal/pt/klbulletin/4c1a3ae3-e270-4a60-af70-55a6ee8c4bb2",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "莆田市2026年事业单位公开招聘工作人员公告",
+          "date": "2026-03-05",
+          "headcount": 413,
+          "positions": null,
+          "source": "莆田市人力资源和社会保障局",
+          "url": "http://rsj.putian.gov.cn/zwgk/rcdwjs/sydwzp/202603/t20260305_2206150.htm",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "莆田市市场监督管理局下属事业单位2025年高层次人才公开招聘方案",
+          "date": "2025-10-17",
+          "headcount": 5,
+          "positions": null,
+          "source": "莆田市人力资源和社会保障局",
+          "url": "https://rsj.putian.gov.cn/zwgk/tzgg/202510/t20251017_2026603.htm",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "福建省2026年度选调生选拔工作公告（全省选拔400名，其中党政类355名、法院类25名、检察院类20名）",
+          "date": "2025-11-21",
+          "headcount": 400,
+          "positions": null,
+          "source": "福建人才联合网（中共福建省委组织部选调生报名系统）",
+          "url": "http://fjrclh.fzu.edu.cn",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "莆田市秀屿区事业单位2025年高层次人才公开招聘方案",
+          "date": "2025-10-15",
+          "headcount": 24,
+          "positions": null,
+          "source": "莆田市人力资源和社会保障局",
+          "url": "https://rsj.putian.gov.cn/zwgk/tzgg/202510/t20251015_2025590.htm",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 350400,
+      "name": "三明市",
+      "districts": [
+        "三元区",
+        "沙县区",
+        "明溪县",
+        "清流县",
+        "宁化县",
+        "大田县",
+        "尤溪县",
+        "将乐县",
+        "泰宁县",
+        "建宁县",
+        "永安市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "福建省公务员考试录用网（三明频道）",
+          "url": "http://gwykl.fujian.gov.cn/portal/sm"
+        },
+        {
+          "category": "事业单位",
+          "name": "三明市人力资源和社会保障局",
+          "url": "http://rsj.sm.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "三明市人社局公开招聘专栏",
+          "url": "http://rsj.sm.gov.cn/xxgk/rsrc/gkzp/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "福建省2025年度考试录用公务员公告",
+          "date": "2025-02-08",
+          "headcount": null,
+          "positions": null,
+          "source": "福建省公务员考试录用网",
+          "url": "https://gwykl.fujian.gov.cn/Portal/news/bulletin2025",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "关于三明市2025年度拟录用公务员（参公人员）的公示（一）",
+          "date": "2025-06-04",
+          "headcount": 189,
+          "positions": null,
+          "source": "福建省公务员考试录用网",
+          "url": "http://gwykl.fujian.gov.cn/portal/sm/klbulletin/c0d4cb9c-4859-4339-adb1-ebac29c5ca44",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年三明市直事业单位及部分县（市、区）综合行政执法机构统一招考通告",
+          "date": "2025-04-07",
+          "headcount": 94,
+          "positions": null,
+          "source": "三明市人力资源和社会保障局",
+          "url": "http://rsj.sm.gov.cn/xxgk/rsrc/gkzp/202504/t20250407_2113649.htm",
+          "attachments": [
+            {
+              "name": "2025年三明市直事业单位及部分县市区综合行政执法机构公开招聘工作人员岗位信息表.xls",
+              "url": "http://rsj.sm.gov.cn/xxgk/rsrc/gkzp/202504/P020250407618991179634.xls",
+              "local": "attachments/350400/2025年三明市直事业单位及部分县市区综合行政执法机构公开招聘工作人员岗位信息表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "福建省2026年度选调生选拔工作公告（全省选拔400名，其中党政类355名、法院类25名、检察院类20名）",
+          "date": "2025-11-21",
+          "headcount": 400,
+          "positions": null,
+          "source": "福建人才联合网（中共福建省委组织部选调生报名系统）",
+          "url": "http://fjrclh.fzu.edu.cn",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "title": "“扬帆绿都·圆梦三明”2026届医疗高层次人才专项招聘通告",
+          "date": "2025-10-20",
+          "headcount": 50,
+          "positions": null,
+          "source": "三明市人力资源和社会保障局",
+          "url": "http://rsj.sm.gov.cn/xxgk/rsrc/gkzp/202510/t20251020_2162773.htm",
+          "attachments": [
+            {
+              "name": "2025年三明市扬帆绿都圆梦三明2026届医疗高层次人才岗位信息表.xls",
+              "url": "http://rsj.sm.gov.cn/xxgk/rsrc/gkzp/202510/P020251020774362554103.xls",
+              "local": "attachments/350400/2025年三明市扬帆绿都圆梦三明2026届医疗高层次人才岗位信息表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "title": "三明市2026届教育类高层次人才专项招聘通告",
+          "date": "2025-12-18",
+          "headcount": 13,
+          "positions": null,
+          "source": "三明市人力资源和社会保障局",
+          "url": "http://rsj.sm.gov.cn/xxgk/rsrc/gkzp/202512/t20251218_2177700.htm",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 350500,
+      "name": "泉州市",
+      "districts": [
+        "鲤城区",
+        "丰泽区",
+        "洛江区",
+        "泉港区",
+        "惠安县",
+        "安溪县",
+        "永春县",
+        "德化县",
+        "石狮市",
+        "晋江市",
+        "南安市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "福建省公务员考试录用网（泉州频道）",
+          "url": "http://gwykl.fujian.gov.cn/portal/qz"
+        },
+        {
+          "category": "事业单位",
+          "name": "泉州市人力资源和社会保障局",
+          "url": "https://rsj.quanzhou.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "泉州市人社局事业单位招考专栏",
+          "url": "https://rsj.quanzhou.gov.cn/zwgk/zxdt/syzk/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "福建省2025年度考试录用公务员公告",
+          "date": "2025-02-08",
+          "headcount": null,
+          "positions": null,
+          "source": "福建省公务员考试录用网",
+          "url": "https://gwykl.fujian.gov.cn/Portal/news/bulletin2025",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "关于泉州市2025年度考试录用公务员拟录用人员名单公示（九）",
+          "date": "2025-09-25",
+          "headcount": null,
+          "positions": null,
+          "source": "福建省公务员考试录用网",
+          "url": "https://gwykl.fujian.gov.cn/portal/qz/klbulletin/8160d118-982f-4001-8955-f39fb8d2b912",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "2026年泉州市事业单位公开招聘编制内工作人员公告",
+          "date": "2026-03-20",
+          "headcount": 1420,
+          "positions": null,
+          "source": "泉州市人力资源和社会保障局",
+          "url": "https://rsj.quanzhou.gov.cn/zwgk/zxdt/syzk/202603/t20260320_3276217.htm",
+          "attachments": [
+            {
+              "name": "2026年泉州市事业单位公开招聘编制内工作人员岗位信息表.zip",
+              "url": "https://rsj.quanzhou.gov.cn/zwgk/zxdt/syzk/202603/W020260320404321707455.zip",
+              "local": "attachments/350500/2026年泉州市事业单位公开招聘编制内工作人员岗位信息表.zip"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年泉州市事业单位公开招聘编制内工作人员公告",
+          "date": "2025-03-26",
+          "headcount": 1629,
+          "positions": null,
+          "source": "泉州市人力资源和社会保障局",
+          "url": "https://rsj.quanzhou.gov.cn/zwgk/zxdt/syzk/202503/t20250326_3152520.htm",
+          "attachments": [
+            {
+              "name": "2025年泉州市事业单位公开招聘编制内工作人员公告附件.doc",
+              "url": "https://rsj.quanzhou.gov.cn/zwgk/zxdt/syzk/202503/W020250326770715010343.doc",
+              "local": "attachments/350500/2025年泉州市事业单位公开招聘编制内工作人员公告附件.doc"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "2026年泉州市公办学校新任教师公开招聘公告",
+          "date": "2026-03-17",
+          "headcount": 1350,
+          "positions": null,
+          "source": "泉州市人力资源和社会保障局",
+          "url": "https://rsj.quanzhou.gov.cn/zwgk/zxdt/syzk/202603/t20260317_3275068.htm",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "福建省2026年度选调生选拔工作公告（全省选拔400名，其中党政类355名、法院类25名、检察院类20名）",
+          "date": "2025-11-21",
+          "headcount": 400,
+          "positions": null,
+          "source": "福建人才联合网（中共福建省委组织部选调生报名系统）",
+          "url": "http://fjrclh.fzu.edu.cn",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "2025年南安市属国有企业人才引进公告",
+          "date": "2025-06-30",
+          "headcount": null,
+          "positions": null,
+          "source": "中国海峡人才市场（海峡人才网考务平台）",
+          "url": "https://hx.kaowu.cn/home/exam-notice/view.html?notice_id=808",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 350600,
+      "name": "漳州市",
+      "districts": [
+        "芗城区",
+        "龙文区",
+        "龙海区",
+        "长泰区",
+        "云霄县",
+        "漳浦县",
+        "诏安县",
+        "东山县",
+        "南靖县",
+        "平和县",
+        "华安县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "福建省公务员考试录用网（漳州频道）",
+          "url": "http://gwykl.fujian.gov.cn/portal/zz"
+        },
+        {
+          "category": "事业单位",
+          "name": "漳州市人力资源和社会保障局",
+          "url": "http://rsj.zhangzhou.gov.cn"
+        },
+        {
+          "category": "人才引进",
+          "name": "漳州人才人事网",
+          "url": "https://www.zzrcrs.com"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "福建省2025年度考试录用公务员公告",
+          "date": "2025-02-08",
+          "headcount": null,
+          "positions": null,
+          "source": "福建省公务员考试录用网",
+          "url": "https://gwykl.fujian.gov.cn/Portal/news/bulletin2025",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "漳州市2025年度考试录用公务员拟录用人员公示（一）",
+          "date": "2025-06-06",
+          "headcount": 216,
+          "positions": null,
+          "source": "福建省公务员考试录用网",
+          "url": "http://gwykl.fujian.gov.cn/Portal/zz/klbulletin/e8581c4a-9cc6-40a8-9ed7-17c14ffd3328",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年5月漳州市事业单位公开考试招聘工作人员方案",
+          "date": "2025-04-03",
+          "headcount": 949,
+          "positions": null,
+          "source": "漳州市人力资源和社会保障局",
+          "url": "http://rsj.zhangzhou.gov.cn/cms/html/zzsrlzyhshbzj/2025-04-03/963660008.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "福建省2026年度选调生选拔工作公告（全省选拔400名，其中党政类355名、法院类25名、检察院类20名）",
+          "date": "2025-11-21",
+          "headcount": 400,
+          "positions": null,
+          "source": "福建人才联合网（中共福建省委组织部选调生报名系统）",
+          "url": "http://fjrclh.fzu.edu.cn",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "title": "漳州市2026届国企类选优生选拔引进公告",
+          "date": "2025-11-26",
+          "headcount": null,
+          "positions": null,
+          "source": "漳州人才人事网（漳州市委人才办）",
+          "url": "https://www.zzrcrs.com/portal/exam/examArticle2/475466623092920320",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "漳州市2025届选优生选拔引进公告",
+          "date": "2024-12-10",
+          "headcount": 289,
+          "positions": null,
+          "source": "漳州人才人事网（漳州市委人才办）",
+          "url": "https://www.zzrcrs.com",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 350700,
+      "name": "南平市",
+      "districts": [
+        "延平区",
+        "建阳区",
+        "顺昌县",
+        "浦城县",
+        "光泽县",
+        "松溪县",
+        "政和县",
+        "邵武市",
+        "武夷山市",
+        "建瓯市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "福建省公务员考试录用网（南平频道）",
+          "url": "http://gwykl.fujian.gov.cn/portal/np"
+        },
+        {
+          "category": "事业单位",
+          "name": "南平市人力资源和社会保障局",
+          "url": "https://rsj.np.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "福建省2025年度考试录用公务员公告",
+          "date": "2025-02-08",
+          "headcount": null,
+          "positions": null,
+          "source": "福建省公务员考试录用网",
+          "url": "https://gwykl.fujian.gov.cn/Portal/news/bulletin2025",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年度南平市武夷山市拟录用人员公示（二）",
+          "date": "2025-05-23",
+          "headcount": 11,
+          "positions": null,
+          "source": "福建省公务员考试录用网",
+          "url": "http://gwykl.fujian.gov.cn/Portal/np/klbulletin/33f92d32-0d18-46fe-b957-3d16cc89c75b",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "南平市2025年事业单位公开考试招聘工作人员公告",
+          "date": "2025-04-02",
+          "headcount": 886,
+          "positions": null,
+          "source": "南平市人力资源和社会保障局",
+          "url": "https://rsj.np.gov.cn/cms/html/npsrlzyhshbzj/2025-04-02/1437612541.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "福建省2026年度选调生选拔工作公告（全省选拔400名，其中党政类355名、法院类25名、检察院类20名）",
+          "date": "2025-11-21",
+          "headcount": 400,
+          "positions": null,
+          "source": "福建人才联合网（中共福建省委组织部选调生报名系统）",
+          "url": "http://fjrclh.fzu.edu.cn",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "2025年南平市属医疗卫生单位第八届“人才·南平校园行”紧缺急需人才招聘公告",
+          "date": "2025-02-26",
+          "headcount": 80,
+          "positions": null,
+          "source": "南平市卫生健康委员会",
+          "url": "https://wjw.np.gov.cn/cms/html/npswshjhsywyh/2025-02-26/578563849.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 350800,
+      "name": "龙岩市",
+      "districts": [
+        "新罗区",
+        "永定区",
+        "长汀县",
+        "上杭县",
+        "武平县",
+        "连城县",
+        "漳平市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "福建省公务员考试录用网（龙岩频道）",
+          "url": "http://gwykl.fujian.gov.cn/portal/ly"
+        },
+        {
+          "category": "事业单位",
+          "name": "龙岩市人力资源和社会保障局",
+          "url": "http://rsj.longyan.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "福建省2025年度考试录用公务员公告",
+          "date": "2025-02-08",
+          "headcount": null,
+          "positions": null,
+          "source": "福建省公务员考试录用网",
+          "url": "https://gwykl.fujian.gov.cn/Portal/news/bulletin2025",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "龙岩市2025年度拟录用公务员（含参照公务员法管理单位工作人员）公示（第一批）",
+          "date": "2025-06-05",
+          "headcount": 379,
+          "positions": null,
+          "source": "福建省公务员考试录用网",
+          "url": "http://gwykl.fujian.gov.cn/portal/ly/klbulletin/1af1260e-ab4d-44a9-a1e1-3b14c5d8cb02",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年龙岩市永定区事业单位公开招聘工作人员公告",
+          "date": "2025-04-07",
+          "headcount": 101,
+          "positions": null,
+          "source": "龙岩市永定区人民政府",
+          "url": "https://www.yongding.gov.cn/xxgk/rsxx/qsyzp/202504/t20250407_2209892.htm",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年龙岩市市直事业单位和综合行政执法机构公开招聘工作人员公告",
+          "date": "2025-03-31",
+          "headcount": 174,
+          "positions": 151,
+          "source": "龙岩市人民政府（龙岩市人力资源和社会保障局）",
+          "url": "http://www.longyan.gov.cn/gk/flgk/rsxx/zkzl/202503/t20250331_2208686.htm",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "福建省2026年度选调生选拔工作公告（全省选拔400名，其中党政类355名、法院类25名、检察院类20名）",
+          "date": "2025-11-21",
+          "headcount": 400,
+          "positions": null,
+          "source": "福建人才联合网（中共福建省委组织部选调生报名系统）",
+          "url": "http://fjrclh.fzu.edu.cn",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "龙岩市2025年事业类引进生拟聘用人选公示（第一批）",
+          "date": "2025-08-13",
+          "headcount": null,
+          "positions": null,
+          "source": "龙岩市人力资源和社会保障局",
+          "url": "http://rsj.longyan.gov.cn/zwgk/rsgl/202508/t20250813_2235361.htm",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 350900,
+      "name": "宁德市",
+      "districts": [
+        "蕉城区",
+        "霞浦县",
+        "古田县",
+        "屏南县",
+        "寿宁县",
+        "周宁县",
+        "柘荣县",
+        "福安市",
+        "福鼎市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "福建省公务员考试录用网（宁德频道）",
+          "url": "http://gwykl.fujian.gov.cn/portal/nd"
+        },
+        {
+          "category": "事业单位",
+          "name": "宁德市人力资源和社会保障局",
+          "url": "http://rsj.ningde.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "宁德市人社局公告公示栏",
+          "url": "http://rsj.ningde.gov.cn/zwgk/gsgg/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "福建省2025年度考试录用公务员公告",
+          "date": "2025-02-08",
+          "headcount": null,
+          "positions": null,
+          "source": "福建省公务员考试录用网",
+          "url": "https://gwykl.fujian.gov.cn/Portal/news/bulletin2025",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年度宁德市考试录用公务员（含参公人员）拟录用人员名单公示（十六）",
+          "date": "2025-07-14",
+          "headcount": 6,
+          "positions": null,
+          "source": "福建省公务员考试录用网",
+          "url": "http://gwykl.fujian.gov.cn/portal/nd/klbulletin/0ecb20e1-4801-407b-8d48-214cb36c568d",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "宁德市2026年市直事业单位公开招聘工作人员公告",
+          "date": "2026-03-20",
+          "headcount": null,
+          "positions": null,
+          "source": "宁德市人力资源和社会保障局",
+          "url": "http://rsj.ningde.gov.cn/zwgk/gsgg/202603/t20260320_2447859.htm",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "宁德市2026年事业单位公开招聘工作人员公告（全市计划招聘850名）",
+          "date": "2026-03-20",
+          "headcount": 850,
+          "positions": null,
+          "source": "宁德市人力资源和社会保障局",
+          "url": "https://rsj.ningde.gov.cn/gzdt/gzdt/202603/t20260320_2448091.htm",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "福建省2026年度选调生选拔工作公告（全省选拔400名，其中党政类355名、法院类25名、检察院类20名）",
+          "date": "2025-11-21",
+          "headcount": 400,
+          "positions": null,
+          "source": "福建人才联合网（中共福建省委组织部选调生报名系统）",
+          "url": "http://fjrclh.fzu.edu.cn",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "周宁县教育局2025年补充公开招聘紧缺急需及高层次人才公告（四）",
+          "date": "2025-06-23",
+          "headcount": 10,
+          "positions": null,
+          "source": "周宁县人民政府",
+          "url": "http://www.zhouning.gov.cn/zwgk/tzgg/202506/t20250623_2045720.htm",
+          "attachments": []
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "name": "厦门大学",
+      "city": "厦门市",
+      "cityAdcode": 350200,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.xmu.edu.cn",
+      "hrUrl": "https://rsc.xmu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "华侨大学",
+      "city": "泉州市",
+      "cityAdcode": 350500,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.hqu.edu.cn",
+      "hrUrl": "https://rsc.hqu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "福州大学",
+      "city": "福州市",
+      "cityAdcode": 350100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.fzu.edu.cn",
+      "hrUrl": "https://rsc.fzu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "福建理工大学",
+      "city": "福州市",
+      "cityAdcode": 350100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.fjut.edu.cn",
+      "hrUrl": "https://rsc.fjut.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "福建农林大学",
+      "city": "福州市",
+      "cityAdcode": 350100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.fafu.edu.cn",
+      "hrUrl": "https://rsc.fafu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "集美大学",
+      "city": "厦门市",
+      "cityAdcode": 350200,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.jmu.edu.cn",
+      "hrUrl": "https://rsc.jmu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "福建医科大学",
+      "city": "福州市",
+      "cityAdcode": 350100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.fjmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "福建中医药大学",
+      "city": "福州市",
+      "cityAdcode": 350100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.fjtcm.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "福建师范大学",
+      "city": "福州市",
+      "cityAdcode": 350100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.fjnu.edu.cn",
+      "hrUrl": "https://rsc.fjnu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "闽江大学",
+      "city": "福州市",
+      "cityAdcode": 350100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.mju.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武夷学院",
+      "city": "南平市",
+      "cityAdcode": 350700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.wuyiu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "宁德师范学院",
+      "city": "宁德市",
+      "cityAdcode": 350900,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ndnu.edu.cn",
+      "hrUrl": "https://rsc.ndnu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "泉州师范学院",
+      "city": "泉州市",
+      "cityAdcode": 350500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.qztc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "闽南师范大学",
+      "city": "漳州市",
+      "cityAdcode": 350600,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.mnnu.edu.cn",
+      "hrUrl": "https://rsc.mnnu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "厦门理工学院",
+      "city": "厦门市",
+      "cityAdcode": 350200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xmut.edu.cn",
+      "hrUrl": "https://rsc.xmut.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "三明学院",
+      "city": "三明市",
+      "cityAdcode": 350400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.fjsmu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "龙岩学院",
+      "city": "龙岩市",
+      "cityAdcode": 350800,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.lyun.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "福建商学院",
+      "city": "福州市",
+      "cityAdcode": 350100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.fjbu.edu.cn",
+      "hrUrl": "https://rsc.fjbu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "福建警察学院",
+      "city": "福州市",
+      "cityAdcode": 350100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.fjpsc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "莆田学院",
+      "city": "莆田市",
+      "cityAdcode": 350300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ptu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "仰恩大学",
+      "city": "泉州市",
+      "cityAdcode": 350500,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.yeu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "厦门医学院",
+      "city": "厦门市",
+      "cityAdcode": 350200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xmmc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "厦门华厦学院",
+      "city": "厦门市",
+      "cityAdcode": 350200,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.hxxy.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "闽南理工学院",
+      "city": "泉州市",
+      "cityAdcode": 350500,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.mnust.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "泉州职业技术大学",
+      "city": "泉州市",
+      "cityAdcode": 350500,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.qvtu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "闽南科技学院",
+      "city": "泉州市",
+      "cityAdcode": 350500,
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.mku.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "福州工商学院",
+      "city": "福州市",
+      "cityAdcode": 350100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.fzgstc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "厦门工学院",
+      "city": "厦门市",
+      "cityAdcode": 350200,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.xit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "阳光学院",
+      "city": "福州市",
+      "cityAdcode": 350100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.ygu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "厦门大学嘉庚学院",
+      "city": "漳州市",
+      "cityAdcode": 350600,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.xujc.com",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "福州大学至诚学院",
+      "city": "福州市",
+      "cityAdcode": 350100,
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.fdzcxy.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "集美大学诚毅学院",
+      "city": "厦门市",
+      "cityAdcode": 350200,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.jmcy.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "福建师范大学协和学院",
+      "city": "福州市",
+      "cityAdcode": 350100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://cuc.fjnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "福州外语外贸学院",
+      "city": "福州市",
+      "cityAdcode": 350100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.fzfu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "福建江夏学院",
+      "city": "福州市",
+      "cityAdcode": 350100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.fjjxu.edu.cn",
+      "hrUrl": "https://rsc.fjjxu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "泉州信息工程学院",
+      "city": "泉州市",
+      "cityAdcode": 350500,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.qziedu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "福州理工学院",
+      "city": "福州市",
+      "cityAdcode": 350100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.fit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "福建农林大学金山学院",
+      "city": "福州市",
+      "cityAdcode": 350100,
+      "tags": [
+        "民办"
+      ],
+      "website": "http://jsxy.fafu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "福建技术师范学院",
+      "city": "福州市",
+      "cityAdcode": 350100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.fpnu.edu.cn",
+      "hrUrl": "https://rsc.fpnu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "福建福耀科技大学",
+      "city": "福州市",
+      "cityAdcode": 350100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.fyust.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "黎明职业大学",
+      "city": "泉州市",
+      "cityAdcode": 350500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.lmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "福州职业技术大学",
+      "city": "福州市",
+      "cityAdcode": 350100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.fvti.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "adcode": 810000,
+  "name": "香港特别行政区",
+  "updatedAt": "2026-08-25",
+  "note": "骨架数据：省级官方入口与代表性公告已人工核验；市级明细持续采集中",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "香港特别行政区政府公务员事务局",
+      "url": "https://www.csb.gov.hk"
+    },
+    {
+      "category": "公务员",
+      "name": "香港政府职位空缺查询",
+      "url": "https://www.csb.gov.hk/tc_chi/recruit/7.html"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 810001,
+      "name": "中西区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "香港特别行政区政府公务员事务局",
+          "url": "https://www.csb.gov.hk"
+        },
+        {
+          "category": "公务员",
+          "name": "香港政府职位空缺查询",
+          "url": "https://www.csb.gov.hk/tc_chi/recruit/7.html"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 810002,
+      "name": "湾仔区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "香港特别行政区政府公务员事务局",
+          "url": "https://www.csb.gov.hk"
+        },
+        {
+          "category": "公务员",
+          "name": "香港政府职位空缺查询",
+          "url": "https://www.csb.gov.hk/tc_chi/recruit/7.html"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 810003,
+      "name": "东区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "香港特别行政区政府公务员事务局",
+          "url": "https://www.csb.gov.hk"
+        },
+        {
+          "category": "公务员",
+          "name": "香港政府职位空缺查询",
+          "url": "https://www.csb.gov.hk/tc_chi/recruit/7.html"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 810004,
+      "name": "南区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "香港特别行政区政府公务员事务局",
+          "url": "https://www.csb.gov.hk"
+        },
+        {
+          "category": "公务员",
+          "name": "香港政府职位空缺查询",
+          "url": "https://www.csb.gov.hk/tc_chi/recruit/7.html"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 810005,
+      "name": "油尖旺区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "香港特别行政区政府公务员事务局",
+          "url": "https://www.csb.gov.hk"
+        },
+        {
+          "category": "公务员",
+          "name": "香港政府职位空缺查询",
+          "url": "https://www.csb.gov.hk/tc_chi/recruit/7.html"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 810006,
+      "name": "深水埗区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "香港特别行政区政府公务员事务局",
+          "url": "https://www.csb.gov.hk"
+        },
+        {
+          "category": "公务员",
+          "name": "香港政府职位空缺查询",
+          "url": "https://www.csb.gov.hk/tc_chi/recruit/7.html"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 810007,
+      "name": "九龙城区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "香港特别行政区政府公务员事务局",
+          "url": "https://www.csb.gov.hk"
+        },
+        {
+          "category": "公务员",
+          "name": "香港政府职位空缺查询",
+          "url": "https://www.csb.gov.hk/tc_chi/recruit/7.html"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 810008,
+      "name": "黄大仙区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "香港特别行政区政府公务员事务局",
+          "url": "https://www.csb.gov.hk"
+        },
+        {
+          "category": "公务员",
+          "name": "香港政府职位空缺查询",
+          "url": "https://www.csb.gov.hk/tc_chi/recruit/7.html"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 810009,
+      "name": "观塘区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "香港特别行政区政府公务员事务局",
+          "url": "https://www.csb.gov.hk"
+        },
+        {
+          "category": "公务员",
+          "name": "香港政府职位空缺查询",
+          "url": "https://www.csb.gov.hk/tc_chi/recruit/7.html"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 810010,
+      "name": "荃湾区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "香港特别行政区政府公务员事务局",
+          "url": "https://www.csb.gov.hk"
+        },
+        {
+          "category": "公务员",
+          "name": "香港政府职位空缺查询",
+          "url": "https://www.csb.gov.hk/tc_chi/recruit/7.html"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 810011,
+      "name": "屯门区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "香港特别行政区政府公务员事务局",
+          "url": "https://www.csb.gov.hk"
+        },
+        {
+          "category": "公务员",
+          "name": "香港政府职位空缺查询",
+          "url": "https://www.csb.gov.hk/tc_chi/recruit/7.html"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 810012,
+      "name": "元朗区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "香港特别行政区政府公务员事务局",
+          "url": "https://www.csb.gov.hk"
+        },
+        {
+          "category": "公务员",
+          "name": "香港政府职位空缺查询",
+          "url": "https://www.csb.gov.hk/tc_chi/recruit/7.html"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 810013,
+      "name": "北区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "香港特别行政区政府公务员事务局",
+          "url": "https://www.csb.gov.hk"
+        },
+        {
+          "category": "公务员",
+          "name": "香港政府职位空缺查询",
+          "url": "https://www.csb.gov.hk/tc_chi/recruit/7.html"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 810014,
+      "name": "大埔区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "香港特别行政区政府公务员事务局",
+          "url": "https://www.csb.gov.hk"
+        },
+        {
+          "category": "公务员",
+          "name": "香港政府职位空缺查询",
+          "url": "https://www.csb.gov.hk/tc_chi/recruit/7.html"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 810015,
+      "name": "西贡区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "香港特别行政区政府公务员事务局",
+          "url": "https://www.csb.gov.hk"
+        },
+        {
+          "category": "公务员",
+          "name": "香港政府职位空缺查询",
+          "url": "https://www.csb.gov.hk/tc_chi/recruit/7.html"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 810016,
+      "name": "沙田区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "香港特别行政区政府公务员事务局",
+          "url": "https://www.csb.gov.hk"
+        },
+        {
+          "category": "公务员",
+          "name": "香港政府职位空缺查询",
+          "url": "https://www.csb.gov.hk/tc_chi/recruit/7.html"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 810017,
+      "name": "葵青区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "香港特别行政区政府公务员事务局",
+          "url": "https://www.csb.gov.hk"
+        },
+        {
+          "category": "公务员",
+          "name": "香港政府职位空缺查询",
+          "url": "https://www.csb.gov.hk/tc_chi/recruit/7.html"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 810018,
+      "name": "离岛区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "香港特别行政区政府公务员事务局",
+          "url": "https://www.csb.gov.hk"
+        },
+        {
+          "category": "公务员",
+          "name": "香港政府职位空缺查询",
+          "url": "https://www.csb.gov.hk/tc_chi/recruit/7.html"
+        }
+      ],
+      "recruitments": []
+    }
+  ],
+  "universities": [
+    {
+      "name": "香港大学",
+      "city": "香港特别行政区",
+      "cityAdcode": 810001,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hku.hk",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "香港中文大学",
+      "city": "香港特别行政区",
+      "cityAdcode": 810001,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cuhk.edu.hk",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "香港科技大学",
+      "city": "香港特别行政区",
+      "cityAdcode": 810001,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ust.hk",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "香港理工大学",
+      "city": "香港特别行政区",
+      "cityAdcode": 810001,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.polyu.edu.hk",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "香港城市大学",
+      "city": "香港特别行政区",
+      "cityAdcode": 810001,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cityu.edu.hk",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "香港浸会大学",
+      "city": "香港特别行政区",
+      "cityAdcode": 810001,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hkbu.edu.hk",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "香港教育大学",
+      "city": "香港特别行政区",
+      "cityAdcode": 810001,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.eduhk.hk",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "岭南大学",
+      "city": "香港特别行政区",
+      "cityAdcode": 810001,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ln.edu.hk",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "香港都会大学",
+      "city": "香港特别行政区",
+      "cityAdcode": 810001,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hkmu.edu.hk",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "香港恒生大学",
+      "city": "香港特别行政区",
+      "cityAdcode": 810001,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hsu.edu.hk",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    }
+  ]
+}

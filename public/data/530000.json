@@ -1,0 +1,1337 @@
+{
+  "adcode": 530000,
+  "name": "云南省",
+  "updatedAt": "2026-08-25",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "云岭先锋网·云南省公务员招录专栏",
+      "url": "https://ylxf.1237125.cn/TopicWeb/ynskslygwy/index.html"
+    },
+    {
+      "category": "事业单位",
+      "name": "云南省人力资源和社会保障厅",
+      "url": "https://hrss.yn.gov.cn/"
+    },
+    {
+      "category": "事业单位",
+      "name": "云南人事考试网",
+      "url": "https://hrss.yn.gov.cn/ynrsksw/Index.html"
+    },
+    {
+      "category": "选调",
+      "name": "云岭先锋网（中共云南省委组织部）",
+      "url": "https://www.ynylxf.cn/"
+    },
+    {
+      "category": "人才引进",
+      "name": "云南人才网",
+      "url": "https://www.ynhr.com/"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 530100,
+      "name": "昆明市",
+      "districts": [
+        "五华区",
+        "盘龙区",
+        "官渡区",
+        "西山区",
+        "呈贡区",
+        "晋宁区",
+        "东川区",
+        "安宁市",
+        "富民县",
+        "宜良县",
+        "石林彝族自治县",
+        "嵩明县",
+        "禄劝彝族苗族自治县",
+        "寻甸回族彝族自治县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "中共昆明市委组织部（公务员管理）",
+          "url": "http://zzb.km.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "昆明市人力资源和社会保障局",
+          "url": "https://rsj.km.gov.cn/"
+        },
+        {
+          "category": "人才引进",
+          "name": "昆明市卫生健康委员会（公示公告）",
+          "url": "https://wsjkw.km.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "云南省2026年度考试录用公务员公告",
+          "date": "2026-01-30",
+          "headcount": null,
+          "positions": null,
+          "source": "云岭先锋网（云南省公务员局）",
+          "url": "https://hrss.yn.gov.cn/NewsView.aspx?NewsID=64137&ClassID=1129",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "title": "云南省人力资源和社会保障厅2026年面向选定高校招录优秀毕业生拟录用公示",
+          "date": "2026-04-23",
+          "headcount": 4,
+          "positions": null,
+          "source": "云南省人力资源和社会保障厅",
+          "url": "https://hrss.yn.gov.cn/NewsView.aspx?NewsID=64687&ClassID=1129",
+          "attachments": [],
+          "subCategory": "定向选调"
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "昆明市2025年度考试录用公务员拟录用人员公示（一）",
+          "date": "2025-06-05",
+          "headcount": null,
+          "positions": null,
+          "source": "中共昆明市委组织部",
+          "url": "http://zzb.km.gov.cn/c/2025-06-05/4986406.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "昆明市教育体育系统2025年事业单位工作人员招聘公告",
+          "date": "2025-05-07",
+          "headcount": 290,
+          "positions": null,
+          "source": "昆明市人力资源和社会保障局",
+          "url": "https://rsj.km.gov.cn/c/2025-05-07/4976331.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "昆明市卫生健康委员会直属事业单位2025年第二次公开招聘工作人员公告",
+          "date": "2025-06-09",
+          "headcount": 52,
+          "positions": null,
+          "source": "昆明市人力资源和社会保障局",
+          "url": "https://rsj.km.gov.cn/c/2025-06-09/4987658.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "昆明市卫生健康委员会直属事业单位2025年公开引进高层次人才公告",
+          "date": "2025-03-10",
+          "headcount": 56,
+          "positions": null,
+          "source": "昆明市人力资源和社会保障局",
+          "url": "https://rsj.km.gov.cn/c/2025-03-10/4952309.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 530300,
+      "name": "曲靖市",
+      "districts": [
+        "麒麟区",
+        "沾益区",
+        "马龙区",
+        "宣威市",
+        "陆良县",
+        "师宗县",
+        "罗平县",
+        "富源县",
+        "会泽县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "曲靖市人力资源和社会保障网（公示公告，市委组织部发布）",
+          "url": "https://rsj.qj.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "曲靖市人力资源和社会保障网",
+          "url": "http://rsj.qj.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "曲靖市2025年事业单位委托公开招聘工作人员公告（含委托招聘计划）",
+          "date": "2025-02-10",
+          "headcount": 1220,
+          "positions": null,
+          "source": "曲靖市人力资源和社会保障局",
+          "url": "http://rsj.qj.gov.cn/view/gsgg/139310.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "曲靖市2025年度考试录用公务员拟录用人员公示（一）",
+          "date": "2025-06-08",
+          "headcount": null,
+          "positions": null,
+          "source": "中共曲靖市委组织部",
+          "url": "http://rsj.qj.gov.cn/view/gsgg/140627.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "title": "曲靖市2025年度考试录用公务员拟录用人员公示（五）",
+          "date": "2026-03-22",
+          "headcount": null,
+          "positions": null,
+          "source": "中共曲靖市委组织部",
+          "url": "http://rsj.qj.gov.cn/view/gsgg/144258.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 530400,
+      "name": "玉溪市",
+      "districts": [
+        "红塔区",
+        "江川区",
+        "澄江市",
+        "通海县",
+        "华宁县",
+        "易门县",
+        "峨山彝族自治县",
+        "新平彝族傣族自治县",
+        "元江哈尼族彝族傣族自治县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "玉溪市人民政府·人事招考（通知公告）",
+          "url": "https://m.yuxi.gov.cn/yxs/rszk/"
+        },
+        {
+          "category": "事业单位",
+          "name": "玉溪人才网（玉溪市人力资源和社会保障局）",
+          "url": "https://www.yxrc.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "玉溪市2025年事业单位公开招聘工作人员公告",
+          "date": "2025-02-10",
+          "headcount": 1073,
+          "positions": null,
+          "source": "玉溪市人力资源和社会保障局（玉溪人才网）",
+          "url": "https://www.yxrc.cn/yxrc/article.g?m=detailRc&p_id=31356351&cateid=4",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "玉溪市2025年下半年事业单位公开招聘工作人员公告",
+          "date": "2025-09-02",
+          "headcount": 139,
+          "positions": null,
+          "source": "玉溪市人力资源和社会保障局（玉溪人才网）",
+          "url": "https://www.yxrc.cn/yxrc/article.g?m=detailRc&p_id=32620351&cateid=4",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 530500,
+      "name": "保山市",
+      "districts": [
+        "隆阳区",
+        "腾冲市",
+        "施甸县",
+        "龙陵县",
+        "昌宁县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "保山市人民政府门户网站",
+          "url": "https://www.baoshan.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "保山市人力资源和社会保障局网页（考试录用）",
+          "url": "https://www.baoshan.gov.cn/bmym/bssrsj1/zfxxgkpt/fdzdgknr/ksly.htm"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年保山市市直部分事业单位校园公开招聘工作人员公告",
+          "date": "2025-04-16",
+          "headcount": 44,
+          "positions": null,
+          "source": "保山市人力资源和社会保障局",
+          "url": "https://www.baoshan.gov.cn/info/5466/10178424.htm",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "title": "保山市检察系统2026年度考试录用公务员拟录用人员公示",
+          "date": "2026-05-26",
+          "headcount": 11,
+          "positions": null,
+          "source": "云南省保山市人民检察院",
+          "url": "http://www.baoshan.jcy.gov.cn/bjdt/202605/t20260526_7744931.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 530600,
+      "name": "昭通市",
+      "districts": [
+        "昭阳区",
+        "水富市",
+        "鲁甸县",
+        "巧家县",
+        "盐津县",
+        "大关县",
+        "永善县",
+        "绥江县",
+        "镇雄县",
+        "彝良县",
+        "威信县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "昭通市人民政府门户网站·通知公告专栏",
+          "url": "http://www.zt.gov.cn/lanmu/xwzx/15.html"
+        },
+        {
+          "category": "事业单位",
+          "name": "昭通市人民政府门户网站·通知公告专栏（事业单位招聘）",
+          "url": "http://www.zt.gov.cn/lanmu/xwzx/15.html"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "昭通市2025年事业单位公开招聘工作人员通告（第一号）",
+          "date": "2025-02-10",
+          "headcount": 1365,
+          "positions": null,
+          "source": "中共昭通市委组织部、昭通市人力资源和社会保障局",
+          "url": "https://www.zt.gov.cn/lanmu/xwzx/contents/15/237607.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "title": "昭通市2025年事业单位公开招聘工作人员第九批拟办理聘用手续人员公示",
+          "date": "2026-05-26",
+          "headcount": null,
+          "positions": null,
+          "source": "昭通市人力资源和社会保障局",
+          "url": "https://www.zt.gov.cn/lanmu/xwzx/contents/15/250902.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 530700,
+      "name": "丽江市",
+      "districts": [
+        "古城区",
+        "永胜县",
+        "华坪县",
+        "玉龙纳西族自治县",
+        "宁蒗彝族自治县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "丽江市人力资源和社会保障局",
+          "url": "https://ljhrss.lijiang.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "丽江市人力资源和社会保障局（公示公告栏目）",
+          "url": "https://ljhrss.lijiang.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "丽江市2025年事业单位公开招聘工作人员公告",
+          "date": "2025-02-10",
+          "headcount": 398,
+          "positions": null,
+          "source": "丽江市人力资源和社会保障局",
+          "url": "https://ljhrss.lijiang.gov.cn/xljrsj/c101886/202502/f6c7b35c34e5431c9d3ef753cd9bcfbc.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "丽江市2025年度考试录用公务员拟录用人员公示（第一批）",
+          "date": "2025-06-04",
+          "headcount": null,
+          "positions": null,
+          "source": "丽江市人力资源和社会保障局",
+          "url": "https://ljhrss.lijiang.gov.cn/xljrsj/c101886/202506/983a8628ea864bc392aa411a75ad46f7.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 530800,
+      "name": "普洱市",
+      "districts": [
+        "思茅区",
+        "宁洱哈尼族彝族自治县",
+        "墨江哈尼族自治县",
+        "景东彝族自治县",
+        "景谷傣族彝族自治县",
+        "镇沅彝族哈尼族拉祜族自治县",
+        "江城哈尼族彝族自治县",
+        "孟连傣族拉祜族佤族自治县",
+        "澜沧拉祜族自治县",
+        "西盟佤族自治县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "普洱市人民政府门户网站",
+          "url": "https://www.puershi.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "普洱市人民政府门户网站·市人力资源和社会保障局通知公告",
+          "url": "https://www.puershi.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "普洱市2025年事业单位公开招聘工作人员公告",
+          "date": "2025-02-10",
+          "headcount": 1206,
+          "positions": null,
+          "source": "普洱市人力资源和社会保障局",
+          "url": "https://www.puershi.gov.cn/info/16031/1804582.htm",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "普洱市2025年事业单位公开招聘工作人员拟聘用人员公示（第一批）",
+          "date": "2025-08-05",
+          "headcount": 96,
+          "positions": null,
+          "source": "普洱市人力资源和社会保障局",
+          "url": "https://www.puershi.gov.cn/info/16031/1899202.htm",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "title": "普洱市2025年度考试录用公务员拟录用人员公示",
+          "date": "2026-04-28",
+          "headcount": null,
+          "positions": null,
+          "source": "普洱市公务员局",
+          "url": "http://www.puershi.gov.cn/info/94701/1994492.htm",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 530900,
+      "name": "临沧市",
+      "districts": [
+        "临翔区",
+        "凤庆县",
+        "云县",
+        "永德县",
+        "镇康县",
+        "双江拉祜族佤族布朗族傣族自治县",
+        "耿马傣族佤族自治县",
+        "沧源佤族自治县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "临沧市人民政府门户网站",
+          "url": "https://www.lincang.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "临沧市人力资源和社会保障局信息公开专栏",
+          "url": "http://www.lincang.gov.cn/zdbm/rlzyhshbzj/zlsy.htm"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "临沧市人力资源和社会保障局关于2025年全市事业单位公开招聘工作人员考试的公告",
+          "date": "2025-02-10",
+          "headcount": 527,
+          "positions": null,
+          "source": "临沧市人力资源和社会保障局",
+          "url": "https://www.lincang.gov.cn/info/1917/1291554.htm",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "临沧市2025年度考试录用公务员拟录用人员公示（第一批）",
+          "date": "2025-06-03",
+          "headcount": null,
+          "positions": null,
+          "source": "临沧市公务员局",
+          "url": "https://lincang.gov.cn/zfxxgk_lcs/artview/321/323273.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 532300,
+      "name": "楚雄彝族自治州",
+      "districts": [
+        "楚雄市",
+        "禄丰市",
+        "双柏县",
+        "牟定县",
+        "南华县",
+        "姚安县",
+        "大姚县",
+        "永仁县",
+        "元谋县",
+        "武定县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "楚雄彝族自治州人民政府门户网站",
+          "url": "https://www.cxz.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "楚雄彝族自治州人力资源和社会保障局",
+          "url": "http://rsj.cxz.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "楚雄州2025年事业单位公开招聘工作人员公告",
+          "date": "2025-02-10",
+          "headcount": 1790,
+          "positions": null,
+          "source": "楚雄州人力资源和社会保障局",
+          "url": "http://rsj.cxz.gov.cn/info/egovinfo/1074/xxgk_cont/11532300568802305C-/2025-0210002.htm",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "楚雄州2025年考试录用公务员拟录用人员（第一批）公示",
+          "date": "2025-06-03",
+          "headcount": null,
+          "positions": null,
+          "source": "中共楚雄州委组织部",
+          "url": "https://cxz.gov.cn/info/1773/57932.htm",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "楚雄州州级事业单位2025年事业单位公开招聘工作人员第一批拟聘用人员公示",
+          "date": "2025-07-14",
+          "headcount": null,
+          "positions": null,
+          "source": "楚雄州人力资源和社会保障局",
+          "url": "http://rsj.cxz.gov.cn/info/egovinfo/1074/xxgk_cont/11532300568802305C-/2025-0714002.htm",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 532500,
+      "name": "红河哈尼族彝族自治州",
+      "districts": [
+        "个旧市",
+        "开远市",
+        "蒙自市",
+        "弥勒市",
+        "屏边苗族自治县",
+        "建水县",
+        "石屏县",
+        "泸西县",
+        "元阳县",
+        "红河县",
+        "金平苗族瑶族傣族自治县",
+        "绿春县",
+        "河口瑶族自治县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "红河人才网（红河州人才服务中心）",
+          "url": "https://www.hhzrc.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "红河人才网·事业单位栏目",
+          "url": "https://www.hhzrc.cn/"
+        },
+        {
+          "category": "人才引进",
+          "name": "红河人才网·人才招引栏目",
+          "url": "https://www.hhzrc.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "红河州2025年度考试录用公务员拟录用人员公示（一）",
+          "date": "2025-06-09",
+          "headcount": null,
+          "positions": null,
+          "source": "红河州公务员局（红河人才网）",
+          "url": "https://www.hhzrc.cn/Article/Index/Index/show/id/15934",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "红河州2025年事业单位公开招聘工作人员拟聘人员公示",
+          "date": "2025-06-23",
+          "headcount": null,
+          "positions": null,
+          "source": "红河州人力资源和社会保障局（红河人才网）",
+          "url": "https://www.hhzrc.cn/Article/Index/Index/show/id/15996",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "云南省红河州2025年“红河奔腾”教育人才专项招引公告",
+          "date": "2025-04-07",
+          "headcount": 44,
+          "positions": null,
+          "source": "红河州教育体育局（红河人才网）",
+          "url": "https://www.hhzrc.cn/Article/Index/Index/show/id/15695",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 532600,
+      "name": "文山壮族苗族自治州",
+      "districts": [
+        "文山市",
+        "砚山县",
+        "西畴县",
+        "麻栗坡县",
+        "马关县",
+        "丘北县",
+        "广南县",
+        "富宁县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "文山州人民政府门户网站",
+          "url": "https://www.ynws.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "文山州人社网",
+          "url": "https://wszrsj.ynws.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年文山州事业单位公开招聘工作人员通告",
+          "date": "2025-02-10",
+          "headcount": 537,
+          "positions": null,
+          "source": "文山州人力资源和社会保障局（文山州人社网）",
+          "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/pc/content/content_1888909921476763648.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年文山州教育体育局所属事业单位公开招聘工作人员面试通告",
+          "date": "2025-07-25",
+          "headcount": null,
+          "positions": null,
+          "source": "文山州教育体育局（文山州人社网）",
+          "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/pc/content/content_1925850436692467712.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "文山州法院系统2025年度考试录用公务员拟录用人员公示",
+          "date": "2025-06-06",
+          "headcount": null,
+          "positions": null,
+          "source": "云南省文山壮族苗族自治州中级人民法院",
+          "url": "http://fy.wszy.gov.cn/article/detail/2025/06/id/8860106.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 532800,
+      "name": "西双版纳傣族自治州",
+      "districts": [
+        "景洪市",
+        "勐海县",
+        "勐腊县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "西双版纳先锋网（中共西双版纳州委组织部）",
+          "url": "http://zswldj.1237125.cn/html/xsbn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "西双版纳州人民政府门户网站·州人力资源和社会保障局窗口",
+          "url": "https://www.xsbn.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "西双版纳州2025年事业单位公开招聘工作人员公告",
+          "date": "2025-02-10",
+          "headcount": 362,
+          "positions": null,
+          "source": "西双版纳州人力资源和社会保障局",
+          "url": "https://www.xsbn.gov.cn/xsbnzrsj/5400.news.detail.dhtml?news_id=2940412",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 532900,
+      "name": "大理白族自治州",
+      "districts": [
+        "大理市",
+        "漾濞彝族自治县",
+        "祥云县",
+        "宾川县",
+        "弥渡县",
+        "南涧彝族自治县",
+        "巍山彝族回族自治县",
+        "永平县",
+        "云龙县",
+        "洱源县",
+        "剑川县",
+        "鹤庆县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "大理白族自治州人民政府门户网站",
+          "url": "https://www.dali.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "大理白族自治州人民政府门户网站（人事招考信息）",
+          "url": "https://www.dali.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "大理州2025年事业单位公开招聘工作人员公告",
+          "date": "2025-02-10",
+          "headcount": 1020,
+          "positions": null,
+          "source": "大理州人力资源和社会保障局",
+          "url": "https://www.dali.gov.cn/dlrmzf/xxgkml/202502/d74b1edefc9d4b27aa3283a68d91ec53.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "大理州检察机关2025年度考试录用公务员拟录用人员公示",
+          "date": "2025-06-06",
+          "headcount": null,
+          "positions": null,
+          "source": "云南省大理州人民检察院",
+          "url": "http://www.dali.jcy.gov.cn/djkx/202506/t20250606_6986981.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 533100,
+      "name": "德宏傣族景颇族自治州",
+      "districts": [
+        "芒市",
+        "瑞丽市",
+        "梁河县",
+        "盈江县",
+        "陇川县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "德宏党建网（公务员工作）",
+          "url": "https://www.dhdjw.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "德宏州人力资源和社会保障局",
+          "url": "https://www.dh.gov.cn/rsj/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年德宏州事业单位公开考试招聘工作人员公告",
+          "date": "2025-02-10",
+          "headcount": 160,
+          "positions": null,
+          "source": "德宏州人力资源和社会保障局",
+          "url": "https://www.dh.gov.cn/rsj/Web/_F0_0_6332FCHRD21266212DF34B5BA7.htm",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "德宏州2025年州级事业单位公开选调工作人员公告",
+          "date": "2025-09-03",
+          "headcount": 5,
+          "positions": null,
+          "source": "德宏州人力资源和社会保障局",
+          "url": "https://www.dh.gov.cn/rsj/Web/_F0_0_6B8ACJSK74CABB1DBE3A4B618E.htm",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "德宏州2025年度考试录用公务员拟录用人员公示（第三批）",
+          "date": "2025-08-07",
+          "headcount": null,
+          "positions": null,
+          "source": "中共德宏州委组织部（德宏党建网）",
+          "url": "https://www.dhdjw.gov.cn/gwygz/content-37-12513-1.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 533300,
+      "name": "怒江傈僳族自治州",
+      "districts": [
+        "泸水市",
+        "福贡县",
+        "贡山独龙族怒族自治县",
+        "兰坪白族普米族自治县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "怒江傈僳族自治州人民政府门户网站",
+          "url": "https://www.nujiang.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "怒江州人力资源和社会保障局政府信息公开专栏",
+          "url": "https://www.nujiang.gov.cn/rsj/"
+        },
+        {
+          "category": "人才引进",
+          "name": "怒江州人力资源和社会保障局政府信息公开专栏（人才引进）",
+          "url": "https://www.nujiang.gov.cn/rsj/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年怒江州各级事业单位公开招聘人员公告",
+          "date": "2025-02-10",
+          "headcount": 262,
+          "positions": null,
+          "source": "怒江州人力资源和社会保障局",
+          "url": "https://www.nujiang.gov.cn/xxgk/568806162/info/2025-258708.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "怒江州2025年州级事业单位公开选聘工作人员公告",
+          "date": "2025-09-12",
+          "headcount": 21,
+          "positions": null,
+          "source": "怒江州人力资源和社会保障局",
+          "url": "https://www.nujiang.gov.cn/xxgk/568806162/info/2025-268547.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "2025年怒江州重点产业紧缺专业人才引进公告",
+          "date": "2025-04-14",
+          "headcount": 23,
+          "positions": null,
+          "source": "怒江州人力资源和社会保障局",
+          "url": "https://www.nujiang.gov.cn/xxgk/568806162/info/2025-261422.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "怒江州2025年度考试录用公务员拟录用人员公示",
+          "date": "2025-06-09",
+          "headcount": null,
+          "positions": null,
+          "source": "怒江州公务员局",
+          "url": "https://www.nujiang.gov.cn/2025/0609/19620.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 533400,
+      "name": "迪庆藏族自治州",
+      "districts": [
+        "香格里拉市",
+        "德钦县",
+        "维西傈僳族自治县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "迪庆先锋网·公告公示（中共迪庆州委组织部）",
+          "url": "http://zswldj.1237125.cn/dq/newslist/gsgg.htm"
+        },
+        {
+          "category": "事业单位",
+          "name": "迪庆州人力资源和社会保障局",
+          "url": "http://dqzrsj.diqing.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "迪庆州2025年事业单位公开招聘工作人员公告",
+          "date": "2025-02-10",
+          "headcount": 291,
+          "positions": null,
+          "source": "迪庆州人力资源和社会保障局",
+          "url": "http://dqzrsj.diqing.gov.cn/zkzp/202502/20250210_223464.html",
+          "attachments": []
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "name": "云南大学",
+      "city": "昆明市",
+      "cityAdcode": 530100,
+      "tags": [
+        "211",
+        "双一流",
+        "省属重点"
+      ],
+      "website": "https://www.ynu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "昆明理工大学",
+      "city": "昆明市",
+      "cityAdcode": 530100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.kmust.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "云南农业大学",
+      "city": "昆明市",
+      "cityAdcode": 530100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.ynau.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西南林业大学",
+      "city": "昆明市",
+      "cityAdcode": 530100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.swfu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "昆明医科大学",
+      "city": "昆明市",
+      "cityAdcode": 530100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.kmmu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "云南中医药大学",
+      "city": "昆明市",
+      "cityAdcode": 530100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.ynucm.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "云南师范大学",
+      "city": "昆明市",
+      "cityAdcode": 530100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.ynnu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "云南财经大学",
+      "city": "昆明市",
+      "cityAdcode": 530100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.ynufe.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "云南民族大学",
+      "city": "昆明市",
+      "cityAdcode": 530100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.ynni.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "云南艺术学院",
+      "city": "昆明市",
+      "cityAdcode": 530100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ynart.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "云南警官学院",
+      "city": "昆明市",
+      "cityAdcode": 530100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ynpc.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "昆明学院",
+      "city": "昆明市",
+      "cityAdcode": 530100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.kmu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "云南经济管理学院",
+      "city": "昆明市",
+      "cityAdcode": 530100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.ynjgy.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "滇池学院",
+      "city": "昆明市",
+      "cityAdcode": 530100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://dcxy.ynu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "昆明理工大学津桥学院",
+      "city": "昆明市",
+      "cityAdcode": 530100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.oxbridge.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "昆明城市学院",
+      "city": "昆明市",
+      "cityAdcode": 530100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.kmcc.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "昆明文理学院",
+      "city": "昆明市",
+      "cityAdcode": 530100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.caskm.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "昆明医科大学海源学院",
+      "city": "昆明市",
+      "cityAdcode": 530100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "http://www.kyhyxy.com/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "昆明传媒学院",
+      "city": "昆明市",
+      "cityAdcode": 530100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.cukm.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "云南工商学院",
+      "city": "昆明市",
+      "cityAdcode": 530100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.ytbu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "昭通学院",
+      "city": "昭通市",
+      "cityAdcode": 530600,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ztu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "曲靖师范学院",
+      "city": "曲靖市",
+      "cityAdcode": 530300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.qjnu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "玉溪师范学院",
+      "city": "玉溪市",
+      "cityAdcode": 530400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.yxnu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "楚雄师范学院",
+      "city": "楚雄彝族自治州",
+      "cityAdcode": 532300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cxtc.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "红河学院",
+      "city": "红河哈尼族彝族自治州",
+      "cityAdcode": 532500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.uoh.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "文山学院",
+      "city": "文山壮族苗族自治州",
+      "cityAdcode": 532600,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.wsu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "保山学院",
+      "city": "保山市",
+      "cityAdcode": 530500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.bsnc.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "普洱学院",
+      "city": "普洱市",
+      "cityAdcode": 530800,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.peu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "滇西科技师范学院",
+      "city": "临沧市",
+      "cityAdcode": 530900,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.wynu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "大理大学",
+      "city": "大理白族自治州",
+      "cityAdcode": 532900,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.dali.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "滇西应用技术大学",
+      "city": "大理白族自治州",
+      "cityAdcode": 532900,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.wyuas.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "丽江文化旅游学院",
+      "city": "丽江市",
+      "cityAdcode": 530700,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.ljwhlyxy.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "丽江师范学院",
+      "city": "丽江市",
+      "cityAdcode": 530700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.lj-edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    }
+  ]
+}

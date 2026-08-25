@@ -1,0 +1,2356 @@
+{
+  "adcode": 440000,
+  "name": "广东省",
+  "updatedAt": "2026-08-25",
+  "province": "广东省",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "广东组织工作网（中共广东省委组织部）-公务员录用栏目",
+      "url": "https://www.gdzz.gov.cn/gwygz/lypytzgg/mindex.html"
+    },
+    {
+      "category": "公务员",
+      "name": "广东省公务员考试录用管理信息系统",
+      "url": "https://ggfw.hrss.gd.gov.cn/gwyks/index.do"
+    },
+    {
+      "category": "事业单位",
+      "name": "广东省人力资源和社会保障厅-事业单位公开招聘公告",
+      "url": "https://hrss.gd.gov.cn/zwgk/sydwzp/zpgg/"
+    },
+    {
+      "category": "事业单位",
+      "name": "广东省事业单位公开招聘信息管理系统（考生报名）",
+      "url": "https://ggfw.hrss.gd.gov.cn/sydwbk"
+    },
+    {
+      "category": "选调",
+      "name": "广东组织工作网（广东省选调优秀大学毕业生公告发布）",
+      "url": "https://www.gdzz.gov.cn"
+    },
+    {
+      "category": "选调",
+      "name": "广东省选调优秀大学毕业生报名系统",
+      "url": "https://ggfw.hrss.gd.gov.cn/yxks/index.do"
+    },
+    {
+      "category": "人才引进",
+      "name": "广东省人力资源和社会保障厅",
+      "url": "https://hrss.gd.gov.cn"
+    },
+    {
+      "category": "人事考试",
+      "name": "广东人事考试网",
+      "url": "https://rsks.gd.gov.cn"
+    }
+  ],
+  "cities": [
+    {
+      "name": "广州市",
+      "adcode": 440100,
+      "districts": [
+        "越秀区",
+        "海珠区",
+        "荔湾区",
+        "天河区",
+        "白云区",
+        "黄埔区",
+        "花都区",
+        "番禺区",
+        "南沙区",
+        "从化区",
+        "增城区"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "广州市人民政府门户网站",
+          "url": "https://www.gz.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "广州市人力资源和社会保障局-事业单位公开招聘",
+          "url": "https://rsj.gz.gov.cn/ywzt/rszdgg/sydwgkzp/sydwzpgg/"
+        }
+      ],
+      "recruitments": [
+        {
+          "category": "公务员",
+          "title": "广东省2025年考试录用公务员公告",
+          "date": "2025-01-07",
+          "headcount": 17419,
+          "positions": 12377,
+          "source": "中共广东省委组织部、广东省人力资源和社会保障厅（广东组织工作网）",
+          "url": "https://www.gdzz.gov.cn/tzgg/content/post_22222.html",
+          "attachments": []
+        },
+        {
+          "category": "公务员",
+          "title": "广东省2026年考试录用公务员公告",
+          "date": "2025-10-19",
+          "headcount": 11779,
+          "positions": null,
+          "source": "中共广东省委组织部、广东省人力资源和社会保障厅（广州市人民政府门户网站发布）",
+          "url": "https://www.gz.gov.cn/zwfw/zxfw/jyfw/content/post_10497463.html",
+          "attachments": []
+        },
+        {
+          "category": "选调生",
+          "title": "广东省2026年度选调优秀大学毕业生公告",
+          "date": "2025-12-01",
+          "headcount": 1715,
+          "positions": null,
+          "source": "中共广东省委组织部（广东省财政厅官网全文发布）",
+          "url": "https://czt.gd.gov.cn/tpxw/content/post_4807811.html",
+          "attachments": [
+            {
+              "name": "2026年度选调生公告附件（含职位表）",
+              "url": "https://www.gdzz.gov.cn/public/2026%E5%B9%B4%E5%BA%A6%E9%80%89%E8%B0%83%E7%94%9F%E5%85%AC%E5%91%8A%E9%99%84%E4%BB%B6.zip",
+              "local": "attachments/440100/2025年广东省2026年度选调优秀大学毕业生公告附件.zip"
+            }
+          ]
+        },
+        {
+          "category": "事业单位",
+          "title": "广州市人力资源和社会保障局系统事业单位2026年第一次公开招聘事业编制人员公告",
+          "date": "2026-05-27",
+          "headcount": 166,
+          "positions": null,
+          "source": "广州市人力资源和社会保障局",
+          "url": "https://rsj.gz.gov.cn/zwdt/tzgg/content/post_10829332.html",
+          "attachments": [
+            {
+              "name": "2026年广州市人社局系统事业单位第一次公开招聘事业编制人员岗位需求表",
+              "url": "https://rsj.gz.gov.cn/attachment/8/8027/8027278/10829332.xls",
+              "local": "attachments/440100/2026年广州市人力资源和社会保障局系统事业单位第一次公开招聘事业编制人员岗位需求表.xls"
+            }
+          ]
+        },
+        {
+          "category": "人才引进",
+          "title": "广州市人力资源和社会保障局系统事业单位2025年第一次引进高层次人才公告",
+          "date": "2025-11-19",
+          "headcount": 2,
+          "positions": null,
+          "source": "广州市人力资源和社会保障局",
+          "url": "https://rsj.gz.gov.cn/ywzt/rszdgg/sydwgkzp/sydwzpgg/content/post_10555286.html",
+          "attachments": []
+        },
+        {
+          "category": "录用公示",
+          "title": "广东省2025年考试录用公务员广州市海珠区职位拟录用人员公示",
+          "date": "2026-05-12",
+          "headcount": null,
+          "positions": null,
+          "source": "中共广州市海珠区委组织部",
+          "url": "https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/content/post_10809017.html",
+          "attachments": []
+        },
+        {
+          "category": "录用公示",
+          "title": "广东省2025年考试录用公务员广州市应急管理局职位拟录用人员公示",
+          "date": "2025-06-27",
+          "headcount": null,
+          "positions": null,
+          "source": "广州市应急管理局",
+          "url": "https://yjglj.gz.gov.cn/gkmlpt/content/10/10331/post_10331884.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "name": "韶关市",
+      "adcode": 440200,
+      "districts": [
+        "浈江区",
+        "武江区",
+        "曲江区",
+        "乐昌市",
+        "南雄市",
+        "仁化县",
+        "始兴县",
+        "翁源县",
+        "新丰县",
+        "乳源瑶族自治县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "韶关市浈江区人民政府-人事招考",
+          "url": "https://www.sgzj.gov.cn/zw/rszk/"
+        },
+        {
+          "category": "事业单位",
+          "name": "韶关市人力资源和社会保障局-事业单位招聘",
+          "url": "https://rsj.sg.gov.cn/ywzt/rsrc/sydw/"
+        }
+      ],
+      "recruitments": [
+        {
+          "category": "选调生",
+          "title": "韶关市浈江区犁市镇人民政府2025年选调大学毕业生考试录用公务员拟录用名单公示",
+          "date": "2025-04-08",
+          "headcount": null,
+          "positions": null,
+          "source": "韶关市浈江区犁市镇人民政府",
+          "url": "https://www.sgzj.gov.cn/zw/rszk/content/post_2734825.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "韶关市直事业单位2025年公开招聘急需紧缺人才公告",
+          "date": "2025-11-14",
+          "headcount": 18,
+          "positions": null,
+          "source": "韶关市人力资源和社会保障局",
+          "url": "https://rsj.sg.gov.cn/ywzt/rsrc/sydw/content/post_2795716.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "韶关市卫生健康局直属事业单位2025年秋季“百万英才汇南粤”公开招聘工作人员公告",
+          "date": "2025-11-18",
+          "headcount": 110,
+          "positions": null,
+          "source": "韶关市卫生健康局",
+          "url": "https://rsj.sg.gov.cn/ywzt/rsrc/sydw/content/post_2797008.html",
+          "attachments": []
+        },
+        {
+          "category": "人才引进",
+          "title": "韶关市教育局直属学校2025年下半年赴外地院校公开招聘专任教师公告",
+          "date": "2025-11-19",
+          "headcount": 49,
+          "positions": null,
+          "source": "韶关市教育局",
+          "url": "https://rsj.sg.gov.cn/ywzt/rsrc/sydw/content/post_2796673.html",
+          "attachments": []
+        },
+        {
+          "category": "录用公示",
+          "title": "韶关市林业局下属事业单位2025年公开招聘急需紧缺人才拟聘人员公示",
+          "date": "2026-04-13",
+          "headcount": null,
+          "positions": null,
+          "source": "韶关市人力资源和社会保障局",
+          "url": "https://rsj.sg.gov.cn/ywzt/rsrc/sydw/content/post_2834981.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "name": "深圳市",
+      "adcode": 440300,
+      "districts": [
+        "福田区",
+        "罗湖区",
+        "南山区",
+        "盐田区",
+        "宝安区",
+        "龙岗区",
+        "龙华区",
+        "坪山区",
+        "光明区"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "中共深圳市委组织部（深圳先锋网）-公告通知",
+          "url": "http://www.zzb.sz.gov.cn/notice/announcement/"
+        },
+        {
+          "category": "事业单位",
+          "name": "深圳市人力资源和社会保障局",
+          "url": "https://hrss.sz.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "category": "公务员",
+          "title": "广东省2026年考试录用公务员深圳市职位资格审核等有关事项公告",
+          "date": "2026-01-15",
+          "headcount": null,
+          "positions": null,
+          "source": "中共深圳市委组织部",
+          "url": "http://www.zzb.sz.gov.cn/notice/announcement/content/post_1649287.html",
+          "attachments": []
+        },
+        {
+          "category": "选调生",
+          "title": "广东省2026年度选调优秀大学毕业生公告",
+          "date": "2025-12-01",
+          "headcount": 1715,
+          "positions": null,
+          "source": "中共深圳市委组织部（深圳先锋网）",
+          "url": "http://www.zzb.sz.gov.cn/notice/announcement/content/post_1633576.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "广东省事业单位2025年集中公开招聘高校毕业生深圳市商务局直属事业单位招聘岗位面试公告",
+          "date": "2025-05-27",
+          "headcount": null,
+          "positions": null,
+          "source": "深圳市商务局",
+          "url": "http://commerce.sz.gov.cn/gkmlpt/content/12/12198/post_12198268.html",
+          "attachments": []
+        },
+        {
+          "category": "人才引进",
+          "title": "深圳城市职业学院（深圳技师学院）2025年选聘事业编制教师公告",
+          "date": "2025-07-02",
+          "headcount": null,
+          "positions": null,
+          "source": "深圳市人力资源和社会保障局",
+          "url": "https://hrss.sz.gov.cn/xxgk/qt/tzgg/content/post_12259538.html",
+          "attachments": []
+        },
+        {
+          "category": "录用公示",
+          "title": "广东省2025年考试录用公务员深圳市坪山区拟录用人员公示（一）",
+          "date": "2025-06-11",
+          "headcount": null,
+          "positions": null,
+          "source": "中共深圳市坪山区委组织部",
+          "url": "https://www.szpsq.gov.cn/psrlzyj/gkmlpt/content/12/12221/post_12221966.html",
+          "attachments": []
+        },
+        {
+          "category": "录用公示",
+          "title": "深圳市退役军人事务局直属事业单位2025年集中公开招聘拟聘人员公示",
+          "date": "2025-06-12",
+          "headcount": null,
+          "positions": null,
+          "source": "深圳市退役军人事务局",
+          "url": "https://tyjr.sz.gov.cn/gkmlpt/content/12/12221/post_12221981.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "name": "珠海市",
+      "adcode": 440400,
+      "districts": [
+        "香洲区",
+        "斗门区",
+        "金湾区"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "珠海市人力资源和社会保障局-公务员招考",
+          "url": "https://zhrsj.zhuhai.gov.cn/zw/tzgg/gzzk/"
+        },
+        {
+          "category": "事业单位",
+          "name": "珠海市人力资源和社会保障局",
+          "url": "https://zhrsj.zhuhai.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "category": "公务员",
+          "title": "珠海市人力资源和社会保障局2025年考试录用公务员拟录用人员公示（第一批）",
+          "date": "2025-06-19",
+          "headcount": null,
+          "positions": null,
+          "source": "珠海市人力资源和社会保障局",
+          "url": "https://zhrsj.zhuhai.gov.cn/zw/tzgg/gzzk/content/post_3807249.html",
+          "attachments": []
+        },
+        {
+          "category": "公务员",
+          "title": "珠海市公安局2025年考试录用公务员拟录用人员公示（第四批）",
+          "date": "2025-06-20",
+          "headcount": null,
+          "positions": null,
+          "source": "珠海市公安局",
+          "url": "https://ga.zhuhai.gov.cn/zwgk/gsgg/content/post_3807750.html",
+          "attachments": []
+        },
+        {
+          "category": "人才引进",
+          "title": "关于公开选聘2026年度珠海市干部队伍储备人才的公告",
+          "date": "2025-11-06",
+          "headcount": 20,
+          "positions": null,
+          "source": "中共珠海市委组织部",
+          "url": "https://www.zhuhai.gov.cn/xw/gsgg/content/post_3848585.html",
+          "attachments": []
+        },
+        {
+          "category": "录用公示",
+          "title": "2026年度珠海市干部队伍储备人才公开选聘拟聘用人选（第一批）公示",
+          "date": "2026-06-12",
+          "headcount": null,
+          "positions": null,
+          "source": "中共珠海市委组织部",
+          "url": "https://zhrsj.zhuhai.gov.cn/zw/tzgg/shgs/content/post_3914376.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "name": "汕头市",
+      "adcode": 440500,
+      "districts": [
+        "金平区",
+        "龙湖区",
+        "濠江区",
+        "潮阳区",
+        "潮南区",
+        "澄海区",
+        "南澳县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "汕头市人力资源和社会保障局-招考录用",
+          "url": "https://www.shantou.gov.cn/cnst/zwgk/jcxxgk/rsxx/zkly/"
+        },
+        {
+          "category": "事业单位",
+          "name": "汕头市人力资源和社会保障局",
+          "url": "https://www.shantou.gov.cn/hrss/"
+        }
+      ],
+      "recruitments": [
+        {
+          "category": "公务员",
+          "title": "汕头市市场监督管理局2025年考试录用公务员拟录用人员公示",
+          "date": "2025-06-12",
+          "headcount": 11,
+          "positions": null,
+          "source": "汕头市市场监督管理局",
+          "url": "https://www.shantou.gov.cn/stssjgj/gkmlpt/content/2/2446/post_2446314.html",
+          "attachments": []
+        },
+        {
+          "category": "公务员",
+          "title": "汕头市人力资源和社会保障局2025年考试录用公务员拟录用人员公示",
+          "date": "2025-06-05",
+          "headcount": null,
+          "positions": null,
+          "source": "汕头市人力资源和社会保障局",
+          "url": "https://www.shantou.gov.cn/cnst/zwgk/jcxxgk/rsxx/zkly/content/post_2444516.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "汕头市教育局直属学校2025年下半年公开招聘工作人员公告",
+          "date": "2025-11-01",
+          "headcount": 86,
+          "positions": null,
+          "source": "汕头市教育局",
+          "url": "https://www.shantou.gov.cn/edu/ymys/tzgg/content/post_2486748.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "汕头市教育局直属汕头市金山中学2025年公开招聘教师公告",
+          "date": "2025-05-08",
+          "headcount": null,
+          "positions": null,
+          "source": "汕头市教育局、汕头市金山中学",
+          "url": "https://www.shantou.gov.cn/stsrlsbj/gkmlpt/content/2/2435/post_2435230.html",
+          "attachments": []
+        },
+        {
+          "category": "录用公示",
+          "title": "汕头市南澳县云澳镇人民政府2025年考试录用公务员拟录用人员公示",
+          "date": "2025-06-03",
+          "headcount": null,
+          "positions": null,
+          "source": "汕头市南澳县云澳镇人民政府",
+          "url": "https://www.nanao.gov.cn/stynya/gkmlpt/content/2/2443/post_2443798.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "name": "佛山市",
+      "adcode": 440600,
+      "districts": [
+        "禅城区",
+        "南海区",
+        "顺德区",
+        "三水区",
+        "高明区"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "佛山市顺德区人民政府-人员招录",
+          "url": "http://www.shunde.gov.cn/sdqrmzf/zwgk/rsxx/ryzl/"
+        },
+        {
+          "category": "事业单位",
+          "name": "佛山市人力资源和社会保障局-局属事业单位招聘",
+          "url": "http://hrss.foshan.gov.cn/zwgk/jgsydwzl/"
+        }
+      ],
+      "recruitments": [
+        {
+          "category": "公务员",
+          "title": "佛山市卫生健康局2025年度考试录用公务员拟录用名单公示",
+          "date": "2025-06-13",
+          "headcount": null,
+          "positions": null,
+          "source": "佛山市卫生健康局",
+          "url": "https://wjj.foshan.gov.cn/zwgk/rsxx/content/post_6607602.html",
+          "attachments": []
+        },
+        {
+          "category": "公务员",
+          "title": "佛山市公安局2025年考试录用公务员拟录用人员公示（第三批）",
+          "date": "2025-08-08",
+          "headcount": null,
+          "positions": null,
+          "source": "佛山市公安局",
+          "url": "http://fsga.foshan.gov.cn/gkmlpt/content/6/6674/post_6674936.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "佛山市技师学院2025年公开招聘事业编制工作人员公告",
+          "date": "2025-11-24",
+          "headcount": 18,
+          "positions": null,
+          "source": "佛山市人力资源和社会保障局",
+          "url": "http://hrss.foshan.gov.cn/zwgk/jgsydwzl/content/post_6902330.html",
+          "attachments": []
+        },
+        {
+          "category": "人才引进",
+          "title": "佛山市三水区三水中学2025年引进高层次人才公告",
+          "date": "2025-12-29",
+          "headcount": 7,
+          "positions": null,
+          "source": "佛山市三水区教育局",
+          "url": "https://www.ss.gov.cn/zwgk/rsxx/ryzl/content/post_6933573.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "name": "江门市",
+      "adcode": 440700,
+      "districts": [
+        "蓬江区",
+        "江海区",
+        "新会区",
+        "台山市",
+        "开平市",
+        "鹤山市",
+        "恩平市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "江门市人民政府门户网站",
+          "url": "https://www.jiangmen.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "江门市人力资源和社会保障局-事业单位公开招聘",
+          "url": "http://www.jiangmen.gov.cn/bmpd/jmsrlzyhshbzj/sylm/rsks/syks/"
+        }
+      ],
+      "recruitments": [
+        {
+          "category": "公务员",
+          "title": "江门市农业农村局2025年考试录用公务员拟录用人员公示",
+          "date": "2025-06-15",
+          "headcount": 2,
+          "positions": null,
+          "source": "江门市农业农村局",
+          "url": "https://www.jiangmen.gov.cn/jmnyj/gkmlpt/content/3/3315/post_3315174.html",
+          "attachments": []
+        },
+        {
+          "category": "公务员",
+          "title": "江门市公安机关2025年考试录用公务员拟录用人员公示（第二批）",
+          "date": "2025-06-29",
+          "headcount": 122,
+          "positions": null,
+          "source": "江门市公安局",
+          "url": "https://www.jiangmen.gov.cn/jmgaj/gkmlpt/content/3/3321/post_3321963.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "广东省事业单位2025年集中公开招聘高校毕业生恩平市教师岗位面试公告",
+          "date": "2025-05-19",
+          "headcount": null,
+          "positions": null,
+          "source": "恩平市教育局",
+          "url": "https://www.enping.gov.cn/jmepsrsj/gkmlpt/content/3/3301/post_3301125.html",
+          "attachments": []
+        },
+        {
+          "category": "人才引进",
+          "title": "江门市人民医院2025年公开招聘高层次人才公告",
+          "date": "2025-12-16",
+          "headcount": 1,
+          "positions": null,
+          "source": "江门市卫生健康局",
+          "url": "http://www.jiangmen.gov.cn/bmpd/jmsrlzyhshbzj/zwgk/gggs/content/post_3411289.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "name": "湛江市",
+      "adcode": 440800,
+      "districts": [
+        "赤坎区",
+        "霞山区",
+        "坡头区",
+        "麻章区",
+        "廉江市",
+        "雷州市",
+        "吴川市",
+        "遂溪县",
+        "徐闻县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "湛江市人民政府-公务员招录",
+          "url": "https://www.zhanjiang.gov.cn/zwgk/rsxx/gkzl/"
+        },
+        {
+          "category": "事业单位",
+          "name": "湛江市人力资源和社会保障局",
+          "url": "https://www.zhanjiang.gov.cn/rsj/"
+        }
+      ],
+      "recruitments": [
+        {
+          "category": "公务员",
+          "title": "广东省2026年考试录用公务员公告",
+          "date": "2025-10-20",
+          "headcount": 11779,
+          "positions": null,
+          "source": "中共广东省委组织部、广东省人力资源和社会保障厅（湛江市坡头区财政局转发）",
+          "url": "https://www.ptq.gov.cn/zjptczj/gkmlpt/content/2/2119/post_2119600.html",
+          "attachments": []
+        },
+        {
+          "category": "公务员",
+          "title": "湛江市审计局2025年考试录用公务员拟录用人员公示",
+          "date": "2025-06-11",
+          "headcount": 2,
+          "positions": null,
+          "source": "湛江市审计局",
+          "url": "https://www.zhanjiang.gov.cn/sjj/gkmlpt/content/2/2054/post_2054366.html",
+          "attachments": []
+        },
+        {
+          "category": "公务员",
+          "title": "湛江市财政局2025年考试录用公务员拟录用人员公示",
+          "date": "2025-06-15",
+          "headcount": null,
+          "positions": null,
+          "source": "湛江市财政局",
+          "url": "https://www.zjsczj.zhanjiang.gov.cn/gkmlpt/content/2/2055/post_2055442.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "广东省事业单位2025年集中公开招聘高校毕业生湛江市市直公办学校面试公告",
+          "date": "2025-05-23",
+          "headcount": null,
+          "positions": null,
+          "source": "湛江市教育局",
+          "url": "https://www.zhanjiang.gov.cn/zhjedu/gkmlpt/content/2/2048/post_2048493.html",
+          "attachments": []
+        },
+        {
+          "category": "人才引进",
+          "title": "湛江市2025年事业单位公开招聘高层次人才公告",
+          "date": "2025-12-04",
+          "headcount": 246,
+          "positions": null,
+          "source": "湛江市人力资源和社会保障局",
+          "url": "https://www.zhanjiang.gov.cn/zwgk/rsxx/gkzl/content/post_2125139.html",
+          "attachments": []
+        },
+        {
+          "category": "选调生",
+          "title": "湛江市审计局2025年度选调优秀大学毕业生拟录用人员公示名单",
+          "date": "2025-04-01",
+          "headcount": 2,
+          "positions": null,
+          "source": "湛江市审计局",
+          "url": "https://www.zhanjiang.gov.cn/sjj/gkmlpt/content/2/2026/post_2026390.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "name": "茂名市",
+      "adcode": 440900,
+      "districts": [
+        "茂南区",
+        "电白区",
+        "高州市",
+        "化州市",
+        "信宜市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "茂名市人民政府门户网站",
+          "url": "https://www.maoming.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "茂名市人力资源和社会保障局",
+          "url": "http://mmrs.maoming.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "category": "公务员",
+          "title": "茂名市农业农村局2025年考试录用公务员拟录用人员公示",
+          "date": "2025-06-06",
+          "headcount": 3,
+          "positions": null,
+          "source": "茂名市农业农村局",
+          "url": "http://mmny.maoming.gov.cn/gkmlpt/content/1/1487/post_1487140.html",
+          "attachments": []
+        },
+        {
+          "category": "公务员",
+          "title": "茂名市科学技术局2025年考试录用公务员拟录用人员公示",
+          "date": "2025-06-06",
+          "headcount": 1,
+          "positions": null,
+          "source": "茂名市科学技术局",
+          "url": "http://kjj.maoming.gov.cn/gkmlpt/content/1/1487/post_1487062.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "广东省事业单位2025年集中公开招聘高校毕业生茂名市招聘岗位资格复审公告",
+          "date": "2025-04-28",
+          "headcount": null,
+          "positions": null,
+          "source": "茂名市人力资源和社会保障局",
+          "url": "http://mmrs.maoming.gov.cn/gkmlpt/content/1/1473/post_1473905.html",
+          "attachments": []
+        },
+        {
+          "category": "人才引进",
+          "title": "茂名市电白区2025年度公开招聘急需紧缺专业人才公告",
+          "date": "2024-11-07",
+          "headcount": 52,
+          "positions": null,
+          "source": "茂名市电白区人力资源和社会保障局",
+          "url": "http://www.dianbai.gov.cn/mmdbrlzyj/gkmlpt/content/1/1407/post_1407618.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "name": "肇庆市",
+      "adcode": 441200,
+      "districts": [
+        "端州区",
+        "鼎湖区",
+        "高要区",
+        "四会市",
+        "广宁县",
+        "德庆县",
+        "封开县",
+        "怀集县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "肇庆市高要区人民政府-公务员招考",
+          "url": "https://www.gaoyao.gov.cn/xwzx/rsxx/gwyzk/"
+        },
+        {
+          "category": "事业单位",
+          "name": "肇庆市人力资源和社会保障局-信息公开",
+          "url": "https://www.zhaoqing.gov.cn/zqrsj/gkmlpt/"
+        }
+      ],
+      "recruitments": [
+        {
+          "category": "公务员",
+          "title": "肇庆市高要区2025年考试录用公务员拟录用人员公示（第一批）",
+          "date": "2025-06-10",
+          "headcount": 48,
+          "positions": null,
+          "source": "中共肇庆市高要区委组织部",
+          "url": "https://www.gaoyao.gov.cn/xwzx/rsxx/gwyzk/content/post_3125637.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "肇庆市农业农村局所属事业单位2025年公开招聘高层次和急需紧缺人才拟聘人员公示",
+          "date": "2025-08-13",
+          "headcount": null,
+          "positions": null,
+          "source": "肇庆市人力资源和社会保障局",
+          "url": "https://www.zhaoqing.gov.cn/zqrsj/gkmlpt/content/3/3146/post_3146606.html",
+          "attachments": []
+        },
+        {
+          "category": "人才引进",
+          "title": "2025年下半年肇庆市公开招聘高层次人才公告",
+          "date": "2025-10-11",
+          "headcount": 27,
+          "positions": null,
+          "source": "肇庆市人力资源和社会保障局",
+          "url": "https://www.zhaoqing.gov.cn/zqrsj/gkmlpt/content/3/3166/post_3166891.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "肇庆市委政务服务中心2025年集中公开招聘高层次和急需紧缺人才第二轮滚动招聘直接业务考核公告",
+          "date": "2025-09-25",
+          "headcount": null,
+          "positions": null,
+          "source": "肇庆市政务服务和数据管理局",
+          "url": "https://www.zhaoqing.gov.cn/xxgk/zwzx/gggs/content/post_3161777.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "name": "惠州市",
+      "adcode": 441300,
+      "districts": [
+        "惠城区",
+        "惠阳区",
+        "博罗县",
+        "惠东县",
+        "龙门县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "惠州市人民政府门户网站",
+          "url": "https://www.huizhou.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "惠州市人民政府-事业单位招聘",
+          "url": "https://www.huizhou.gov.cn/zwgk/rsxx/sydwzp/"
+        }
+      ],
+      "recruitments": [
+        {
+          "category": "事业单位",
+          "title": "“百万英才汇南粤”——惠州市市直医疗单位2025年公开招聘高层次和急需紧缺人才公告",
+          "date": "2025-11-19",
+          "headcount": 15,
+          "positions": null,
+          "source": "惠州市卫生健康局",
+          "url": "https://www.huizhou.gov.cn/zwgk/rsxx/sydwzp/content/post_5650702.html",
+          "attachments": []
+        },
+        {
+          "category": "人才引进",
+          "title": "惠州市惠阳区事业单位2025年公开招聘急需紧缺人才公告",
+          "date": "2025-11-14",
+          "headcount": 10,
+          "positions": null,
+          "source": "惠州市惠阳区人力资源和社会保障局",
+          "url": "https://www.huiyang.gov.cn/hzhyrsj/gkmlpt/content/5/5650/mpost_5650815.html",
+          "attachments": []
+        },
+        {
+          "category": "公务员",
+          "title": "惠州市惠城区2025年度考试录用公务员拟录用人员公示",
+          "date": "2025-12-17",
+          "headcount": 2,
+          "positions": null,
+          "source": "中共惠州市惠城区委组织部",
+          "url": "http://www.hcq.gov.cn/zwgk/tzgg/content/post_5670668.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "广东省事业单位2025年集中公开招聘高层次和急需紧缺人才（第三轮滚动招聘）惠州市教育局下属事业单位直接业务考核公告",
+          "date": "2025-12-26",
+          "headcount": null,
+          "positions": null,
+          "source": "惠州市教育局",
+          "url": "http://jyj.huizhou.gov.cn/gkmlpt/content/5/5677/post_5677316.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "name": "梅州市",
+      "adcode": 441400,
+      "districts": [
+        "梅江区",
+        "梅县区",
+        "兴宁市",
+        "平远县",
+        "蕉岭县",
+        "大埔县",
+        "丰顺县",
+        "五华县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "梅州市人民政府门户网站",
+          "url": "https://www.meizhou.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "梅州市人力资源和社会保障局",
+          "url": "https://www.meizhou.gov.cn/zwgk/zfjg/srlzyhshbzj/"
+        }
+      ],
+      "recruitments": [
+        {
+          "category": "人才引进",
+          "title": "梅州市2025年引进急需紧缺人才公告",
+          "date": "2025-06-11",
+          "headcount": null,
+          "positions": null,
+          "source": "中共梅州市委组织部、梅州市人力资源和社会保障局",
+          "url": "https://www.meizhou.gov.cn/hrssgk/gkmlpt/content/2/2779/post_2779525.html",
+          "attachments": []
+        },
+        {
+          "category": "公务员",
+          "title": "梅州市发展和改革局2025年考试录用公务员拟录用人员公示",
+          "date": "2025-06-16",
+          "headcount": 1,
+          "positions": null,
+          "source": "梅州市发展和改革局",
+          "url": "https://www.meizhou.gov.cn/zwgk/zfjg/sfzhggj/gggs/content/post_2783200.html",
+          "attachments": []
+        },
+        {
+          "category": "公务员",
+          "title": "大埔县光德镇人民政府2025年考试录用公务员拟录用人员公示",
+          "date": "2025-06-06",
+          "headcount": 2,
+          "positions": null,
+          "source": "大埔县光德镇人民政府",
+          "url": "https://www.dabu.gov.cn/mzdpgdzzf/gkmlpt/content/2/2780/post_2780224.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "2025年梅州市从优秀村（社区）党组织书记中公开招聘基层事业单位人员笔试成绩公告",
+          "date": "2025-04-07",
+          "headcount": null,
+          "positions": null,
+          "source": "梅州市梅江区人力资源和社会保障局",
+          "url": "https://www.meijiang.gov.cn/mjmjrlzyj/gkmlpt/content/2/2749/post_2749524.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "name": "汕尾市",
+      "adcode": 441500,
+      "districts": [
+        "城区",
+        "海丰县",
+        "陆丰市",
+        "陆河县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "汕尾市人民政府门户网站-部门公告",
+          "url": "https://www.shanwei.gov.cn/shanwei/zwgk/jcxx/zfgg/bmgg/"
+        },
+        {
+          "category": "事业单位",
+          "name": "汕尾市人力资源和社会保障局-事业单位招聘",
+          "url": "https://www.shanwei.gov.cn/swrsj/ztzl/rsks/sydwzp/"
+        }
+      ],
+      "recruitments": [
+        {
+          "category": "事业单位",
+          "title": "汕尾市2025年公开招聘事业单位工作人员公告",
+          "date": "2025-05-09",
+          "headcount": 77,
+          "positions": null,
+          "source": "汕尾市人力资源和社会保障局",
+          "url": "https://www.shanwei.gov.cn/swrsj/ztzl/rsks/sydwzp/content/post_1145915.html",
+          "attachments": []
+        },
+        {
+          "category": "公务员",
+          "title": "汕尾市城区2025年考试录用公务员拟录用人员公示（第一批）",
+          "date": "2025-06-10",
+          "headcount": 31,
+          "positions": null,
+          "source": "中共汕尾市城区委组织部",
+          "url": "https://www.swchengqu.gov.cn/gkmlpt/content/1/1155/post_1155200.html",
+          "attachments": []
+        },
+        {
+          "category": "公务员",
+          "title": "汕尾市人力资源和社会保障局2026年考试录用公务员拟录用人员公示",
+          "date": "2026-03-22",
+          "headcount": 1,
+          "positions": null,
+          "source": "汕尾市人力资源和社会保障局",
+          "url": "https://www.shanwei.gov.cn/swsrsj/gkmlpt/content/1/1234/post_1234225.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "广东省事业单位2025年集中公开招聘高层次和急需紧缺人才（汕尾市城区和陆河县教育系统）招聘岗位直接业务考核公告",
+          "date": "2025-06-23",
+          "headcount": null,
+          "positions": null,
+          "source": "汕尾市城区教育局",
+          "url": "http://www.swchengqu.gov.cn/swcqjyj/gkmlpt/content/1/1158/post_1158510.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "name": "河源市",
+      "adcode": 441600,
+      "districts": [
+        "源城区",
+        "东源县",
+        "和平县",
+        "龙川县",
+        "紫金县",
+        "连平县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "河源市人民政府-公务员招考信息专栏",
+          "url": "http://www.heyuan.gov.cn/zwgk/ztzl/gwyzkxx/"
+        },
+        {
+          "category": "事业单位",
+          "name": "河源市人力资源和社会保障局-公告公示",
+          "url": "http://www.heyuan.gov.cn/bmjy/hysrlzyhshbzj/gggs/"
+        }
+      ],
+      "recruitments": [
+        {
+          "category": "事业单位",
+          "title": "河源市2026年事业单位公开招聘工作人员公告",
+          "date": "2026-06-08",
+          "headcount": null,
+          "positions": null,
+          "source": "河源市人力资源和社会保障局",
+          "url": "http://www.heyuan.gov.cn/bmjy/hysrlzyhshbzj/gggs/content/post_705499.html",
+          "attachments": []
+        },
+        {
+          "category": "公务员",
+          "title": "河源市司法局2025年度考试录用公务员拟录用人员公示",
+          "date": "2025-06-13",
+          "headcount": 1,
+          "positions": null,
+          "source": "河源市司法局",
+          "url": "http://www.heyuan.gov.cn/hyssfj/gkmlpt/content/0/658/post_658696.html",
+          "attachments": []
+        },
+        {
+          "category": "公务员",
+          "title": "河源市纪委监委2025年考试录用公务员拟录用人员公示",
+          "date": "2025-05-29",
+          "headcount": null,
+          "positions": null,
+          "source": "中共河源市纪律检查委员会、河源市监察委员会",
+          "url": "http://www.heyuan.gov.cn/zwgk/ztzl/gwyzkxx/content/post_657174.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "广东省事业单位2025年集中公开招聘高层次和急需紧缺人才（河源市市直第三批）拟聘用人员公示",
+          "date": "2025-10-10",
+          "headcount": 32,
+          "positions": null,
+          "source": "河源市人力资源和社会保障局",
+          "url": "http://www.heyuan.gov.cn/bmjy/hysrlzyhshbzj/gggs/content/post_672706.html",
+          "attachments": []
+        },
+        {
+          "category": "录用公示",
+          "title": "广东省事业单位2025年集中公开招聘高层次和急需紧缺人才（河源市东源考区）教育系统拟聘人员名单公示（第五批）",
+          "date": "2025-09-30",
+          "headcount": 1,
+          "positions": null,
+          "source": "东源县教育局",
+          "url": "http://www.gddongyuan.gov.cn/dyzw/zfgs/content/post_672351.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "name": "阳江市",
+      "adcode": 441700,
+      "districts": [
+        "江城区",
+        "阳东区",
+        "阳春市",
+        "阳西县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "阳江市人民政府-公告公示",
+          "url": "http://www.yangjiang.gov.cn/zwgk/ywdt/gggs/"
+        },
+        {
+          "category": "事业单位",
+          "name": "阳江市人力资源和社会保障局-信息公开平台",
+          "url": "http://www.yangjiang.gov.cn/yjrsj/gkmlpt/index"
+        }
+      ],
+      "recruitments": [
+        {
+          "category": "公务员",
+          "title": "阳江市社保基金管理局海陵分局2025年考试录用公务员拟录用人员公示",
+          "date": "2025-06-12",
+          "headcount": 4,
+          "positions": null,
+          "source": "阳江市人力资源和社会保障局",
+          "url": "http://www.yangjiang.gov.cn/yjrsj/gkmlpt/content/0/865/post_865049.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "阳江市市直有关学校2025年公开招聘教师公告",
+          "date": "2025-06-06",
+          "headcount": 27,
+          "positions": null,
+          "source": "阳江市教育局",
+          "url": "http://www.yangjiang.gov.cn/yjjyj/gkmlpt/content/0/867/mpost_867560.html",
+          "attachments": []
+        },
+        {
+          "category": "人才引进",
+          "title": "2025年广东省阳江市“百万英才汇南粤”招聘事业单位高层次（急需紧缺）人才公告",
+          "date": "2025-12-05",
+          "headcount": 32,
+          "positions": null,
+          "source": "阳江市人力资源和社会保障局",
+          "url": "http://www.yangjiang.gov.cn/zwgk/ywdt/gggs/content/post_909168.html",
+          "attachments": []
+        },
+        {
+          "category": "人才引进",
+          "title": "阳江市市直卫生健康单位公开引进高层次（急需紧缺）人才公告",
+          "date": "2025-02-18",
+          "headcount": null,
+          "positions": null,
+          "source": "阳江市卫生健康局",
+          "url": "http://www.yangjiang.gov.cn/yjwsj/gkmlpt/content/0/841/post_841396.html",
+          "attachments": []
+        },
+        {
+          "category": "录用公示",
+          "title": "阳江市阳东区2025年下半年引进高层次人才拟聘用人员公示（第六批）",
+          "date": "2026-08-21",
+          "headcount": 4,
+          "positions": null,
+          "source": "阳江市阳东区人力资源和社会保障局",
+          "url": "http://www.yangdong.gov.cn/yjydrsj/gkmlpt/content/0/975/post_975559.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "name": "清远市",
+      "adcode": 441800,
+      "districts": [
+        "清城区",
+        "清新区",
+        "英德市",
+        "连州市",
+        "佛冈县",
+        "阳山县",
+        "连山壮族瑶族自治县",
+        "连南瑶族自治县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "清远市人民政府-公务员招录",
+          "url": "https://www.gdqy.gov.cn/gdqy/newxxgk/rsxx/gwyzl/"
+        },
+        {
+          "category": "事业单位",
+          "name": "清远市人力资源和社会保障局-通知公告",
+          "url": "http://www.gdqy.gov.cn/xxgk/zzjg/zfjg/srlzyhshbz/zhzx/tzgg/"
+        }
+      ],
+      "recruitments": [
+        {
+          "category": "公务员",
+          "title": "清远市卫生健康局2025年考试录用公务员拟录用人员公示",
+          "date": "2025-06-05",
+          "headcount": 2,
+          "positions": null,
+          "source": "清远市卫生健康局",
+          "url": "http://www.gdqy.gov.cn/qywsj/gkmlpt/content/2/2022/post_2022771.html",
+          "attachments": []
+        },
+        {
+          "category": "公务员",
+          "title": "清远市连山壮族瑶族自治县2025年考试录用公务员拟录用人员公示（第一批）",
+          "date": "2025-05-28",
+          "headcount": 23,
+          "positions": null,
+          "source": "中共连山壮族瑶族自治县委组织部",
+          "url": "http://www.gdls.gov.cn/gkmlpt/content/2/2020/post_2020147.html",
+          "attachments": []
+        },
+        {
+          "category": "人才引进",
+          "title": "清远市2025年招聘事业编制高层次人才公告",
+          "date": "2025-04-22",
+          "headcount": 6,
+          "positions": null,
+          "source": "清远市人力资源和社会保障局",
+          "url": "http://www.gdqy.gov.cn/xxgk/zzjg/zfjg/srlzyhshbz/zhzx/tzgg/content/post_2006701.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "清远市清城区2025年下半年公开招聘事业单位工作人员公告",
+          "date": "2025-10-13",
+          "headcount": 7,
+          "positions": null,
+          "source": "清远市清城区人力资源和社会保障局",
+          "url": "http://www.qingcheng.gov.cn/qyqcrsj/gkmlpt/content/2/2071/post_2071704.html",
+          "attachments": []
+        },
+        {
+          "category": "人才引进",
+          "title": "清远市2025年招聘第二批事业编制高层次人才公告",
+          "date": "2025-09-29",
+          "headcount": 4,
+          "positions": null,
+          "source": "清远市人才储备中心",
+          "url": "https://www.gdqy.gov.cn/qyrlzybzj/gkmlpt/content/2/2067/post_2067312.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "name": "东莞市",
+      "adcode": 441900,
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "东莞市人民政府门户网站",
+          "url": "http://www.dg.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "东莞市人力资源和社会保障局-公开招聘",
+          "url": "http://dghrss.dg.gov.cn/xwzx/gsgg/gkzp/"
+        }
+      ],
+      "recruitments": [
+        {
+          "category": "公务员",
+          "title": "东莞市教育局2025年考试录用公务员拟录用人员公示",
+          "date": "2025-06-11",
+          "headcount": 2,
+          "positions": null,
+          "source": "东莞市教育局",
+          "url": "http://edu.dg.gov.cn/gkmlpt/content/4/4393/post_4393128.html",
+          "attachments": []
+        },
+        {
+          "category": "公务员",
+          "title": "东莞市东城街道2025年考试录用公务员拟录用人员公示",
+          "date": "2025-06-18",
+          "headcount": 12,
+          "positions": null,
+          "source": "东莞市东城街道办事处",
+          "url": "http://www.dg.gov.cn/dgdcjd/gkmlpt/content/4/4396/post_4396109.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "东莞市公立医院2025年公开招聘医学类高校优秀应届毕业生公告",
+          "date": "2025-04-07",
+          "headcount": 105,
+          "positions": null,
+          "source": "东莞市卫生健康局",
+          "url": "http://dghb.dg.gov.cn/gkmlpt/content/4/4365/post_4365601.html",
+          "attachments": []
+        },
+        {
+          "category": "人才引进",
+          "title": "东莞市公立医院2025年集中公开招聘高层次和急需紧缺人才公告",
+          "date": "2025-09-30",
+          "headcount": 422,
+          "positions": null,
+          "source": "东莞市卫生健康局",
+          "url": "http://dghb.dg.gov.cn/gkmlpt/content/4/4442/post_4442442.html",
+          "attachments": []
+        },
+        {
+          "category": "录用公示",
+          "title": "东莞市公立医院2025年集中公开招聘高层次和急需紧缺人才（第二批）拟聘人员公示",
+          "date": "2026-07-28",
+          "headcount": 31,
+          "positions": null,
+          "source": "东莞市卫生健康局",
+          "url": "http://dghb.dg.gov.cn/gkmlpt/content/4/4566/post_4566172.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "name": "中山市",
+      "adcode": 442000,
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "中山市人民政府门户网站",
+          "url": "https://www.zs.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "中山市人力资源和社会保障局-公告公示",
+          "url": "http://hrss.zs.gov.cn/tzgg/gggs/"
+        }
+      ],
+      "recruitments": [
+        {
+          "category": "选调生",
+          "title": "广东省2026年度选调优秀大学毕业生公告",
+          "date": "2025-12-01",
+          "headcount": 1715,
+          "positions": null,
+          "source": "中共广东省委组织部（中山市人力资源和社会保障局转发）",
+          "url": "http://hrss.zs.gov.cn/tzgg/gggs/content/post_2570932.html",
+          "attachments": []
+        },
+        {
+          "category": "公务员",
+          "title": "中山市人力资源和社会保障局拟录用公务员公示",
+          "date": "2025-06-11",
+          "headcount": 10,
+          "positions": null,
+          "source": "中山市人力资源和社会保障局",
+          "url": "http://hrss.zs.gov.cn/tzgg/gggs/content/post_2522023.html",
+          "attachments": []
+        },
+        {
+          "category": "公务员",
+          "title": "中山市司法局拟录用公务员公示",
+          "date": "2025-06-17",
+          "headcount": 12,
+          "positions": null,
+          "source": "中山市司法局",
+          "url": "https://www.zs.gov.cn/zssfj/gkmlpt/content/2/2523/post_2523715.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "中山市卫生健康局所属事业单位2025年公开招聘公告",
+          "date": "2025-10-28",
+          "headcount": 92,
+          "positions": null,
+          "source": "中山市卫生健康局",
+          "url": "http://hrss.zs.gov.cn/tzgg/gggs/content/post_2559802.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "中山市科学技术协会所属事业单位2025年公开招聘公告",
+          "date": "2025-11-28",
+          "headcount": null,
+          "positions": null,
+          "source": "中山市科学技术协会",
+          "url": "http://hrss.zs.gov.cn/tp/gab/gsgg/content/post_2569122.html",
+          "attachments": []
+        },
+        {
+          "category": "人才引进",
+          "title": "关于开展2025年度“中山英才计划”（科技创新领域）特聘人才申报工作的公告",
+          "date": "2025-11-10",
+          "headcount": null,
+          "positions": null,
+          "source": "中山市科学技术局",
+          "url": "http://kj.zs.gov.cn/gkmlpt/content/2/2563/post_2563550.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "name": "潮州市",
+      "adcode": 445100,
+      "districts": [
+        "湘桥区",
+        "潮安区",
+        "饶平县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "潮州市潮安区人民政府-公告公示",
+          "url": "https://www.chaoan.gov.cn/zwgk/gsgg/"
+        },
+        {
+          "category": "事业单位",
+          "name": "潮州市人力资源和社会保障局-通知公告",
+          "url": "https://www.chaozhou.gov.cn/zwgk/szfgz/srlzy/"
+        }
+      ],
+      "recruitments": [
+        {
+          "category": "公务员",
+          "title": "潮州市疾病预防控制中心2025年拟录用公务员公示",
+          "date": "2025-06-13",
+          "headcount": 3,
+          "positions": null,
+          "source": "潮州市卫生健康局",
+          "url": "https://www.chaozhou.gov.cn/czwjj/gkmlpt/content/3/3950/post_3950548.html",
+          "attachments": []
+        },
+        {
+          "category": "公务员",
+          "title": "潮州市潮安区2025年拟录用公务员公示",
+          "date": "2025-06-10",
+          "headcount": 36,
+          "positions": null,
+          "source": "中共潮州市潮安区委组织部",
+          "url": "https://www.chaoan.gov.cn/zwgk/gsgg/content/post_3950068.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "潮州市2025年教育系统公开招聘工作人员公告（广东省事业单位2025年集中公开招聘高层次和急需紧缺人才）",
+          "date": "2025-05-09",
+          "headcount": 39,
+          "positions": null,
+          "source": "潮州市教育局",
+          "url": "https://www.chaozhou.gov.cn/czjyj/gkmlpt/content/3/3946/post_3946485.html",
+          "attachments": []
+        },
+        {
+          "category": "录用公示",
+          "title": "2026年潮州市档案馆属下事业单位公开招聘拟聘用人员公示",
+          "date": "2026-08-18",
+          "headcount": 2,
+          "positions": null,
+          "source": "潮州市档案馆",
+          "url": "https://www.chaozhou.gov.cn/zwgk/szfgz/srlzy/tzgg/content/post_4001846.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "name": "揭阳市",
+      "adcode": 445200,
+      "districts": [
+        "榕城区",
+        "揭东区",
+        "普宁市",
+        "揭西县",
+        "惠来县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "揭阳市人民政府-公务员招考",
+          "url": "http://www.jieyang.gov.cn/zwgk/jcxxgk/rsxx/gwyzk/"
+        },
+        {
+          "category": "事业单位",
+          "name": "揭阳市人力资源和社会保障局-考试信息",
+          "url": "http://www.jieyang.gov.cn/rsj/ksxx/"
+        }
+      ],
+      "recruitments": [
+        {
+          "category": "公务员",
+          "title": "广东省2026年考试录用公务员揭阳市职位资格审核等有关事项公告",
+          "date": "2026-01-15",
+          "headcount": null,
+          "positions": null,
+          "source": "揭阳市人力资源和社会保障局",
+          "url": "http://www.jieyang.gov.cn/rsj/ksxx/content/post_996687.html",
+          "attachments": []
+        },
+        {
+          "category": "公务员",
+          "title": "揭阳市农业农村局2025年考试录用公务员拟录用人员公示",
+          "date": "2025-06-18",
+          "headcount": 3,
+          "positions": null,
+          "source": "揭阳市农业农村局",
+          "url": "http://www.jieyang.gov.cn/jynyj/gkmlpt/content/0/948/post_948620.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "广东省事业单位2025年集中公开招聘高校毕业生拟聘用人员（第四批）公示",
+          "date": "2025-06-26",
+          "headcount": null,
+          "positions": null,
+          "source": "揭阳市人力资源和社会保障局",
+          "url": "http://www.jieyang.gov.cn/rsj/ksxx/content/post_950539.html",
+          "attachments": []
+        },
+        {
+          "category": "人才引进",
+          "title": "揭阳市2025下半年至2026上半年引进基层医疗卫生急需紧缺人才招聘公告",
+          "date": "2025-12-22",
+          "headcount": 350,
+          "positions": null,
+          "source": "揭阳市人力资源和社会保障局、揭阳市卫生健康局",
+          "url": "http://www.jieyang.gov.cn/jyrsj/gkmlpt/content/0/990/post_990230.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "name": "云浮市",
+      "adcode": 445300,
+      "districts": [
+        "云城区",
+        "云安区",
+        "罗定市",
+        "新兴县",
+        "郁南县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "云浮市公安局-政府信息公开",
+          "url": "https://www.yunfu.gov.cn/yfgaj/"
+        },
+        {
+          "category": "事业单位",
+          "name": "云浮市人力资源和社会保障局",
+          "url": "http://www.yunfu.gov.cn/rsj/"
+        }
+      ],
+      "recruitments": [
+        {
+          "category": "公务员",
+          "title": "云浮市2025年度公安机关考试录用公务员拟录用人员第二批名单公示",
+          "date": "2025-07-15",
+          "headcount": null,
+          "positions": null,
+          "source": "云浮市公安局",
+          "url": "https://www.yunfu.gov.cn/yfgaj/gkmlpt/content/1/1933/post_1933274.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "广东省事业单位2025年集中公开招聘高校毕业生（云浮市疾病预防控制中心）拟聘用人员公示",
+          "date": "2025-07-18",
+          "headcount": 2,
+          "positions": null,
+          "source": "云浮市卫生健康局",
+          "url": "https://www.yunfu.gov.cn/yfwsj/gkmlpt/content/1/1934/post_1934440.html",
+          "attachments": []
+        },
+        {
+          "category": "事业单位",
+          "title": "广东省事业单位2025年集中公开招聘高校毕业生（云浮市中等专业学校）拟聘用人员名单公示",
+          "date": "2025-09-05",
+          "headcount": 3,
+          "positions": null,
+          "source": "云浮市教育局",
+          "url": "https://www.yunfu.gov.cn/jyj/tzgg/content/post_1947894.html",
+          "attachments": []
+        },
+        {
+          "category": "录用公示",
+          "title": "广东省事业单位2025年集中公开招聘高层次和急需紧缺人才（云浮市疾病预防控制中心）拟聘用人员公示",
+          "date": "2025-08-25",
+          "headcount": null,
+          "positions": null,
+          "source": "云浮市卫生健康局",
+          "url": "https://www.yunfu.gov.cn/yfwsj/gkmlpt/content/1/1943/post_1943204.html",
+          "attachments": []
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "name": "中山大学",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.sysu.edu.cn",
+      "hrUrl": "https://rsc.sysu.edu.cn/"
+    },
+    {
+      "name": "暨南大学",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.jnu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "华南理工大学",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.scut.edu.cn",
+      "hrUrl": "https://www2.scut.edu.cn/renshi/"
+    },
+    {
+      "name": "华南师范大学",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.scnu.edu.cn",
+      "hrUrl": "https://rsc.scnu.edu.cn/"
+    },
+    {
+      "name": "华南农业大学",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "双一流",
+        "省属重点"
+      ],
+      "website": "https://www.scau.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "南方医科大学",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.smu.edu.cn",
+      "hrUrl": "https://portal.smu.edu.cn/renshi/"
+    },
+    {
+      "name": "广州中医药大学",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "双一流",
+        "省属重点"
+      ],
+      "website": "https://www.gzucm.edu.cn",
+      "hrUrl": "https://rsc.gzucm.edu.cn/"
+    },
+    {
+      "name": "广州医科大学",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "双一流",
+        "省属重点"
+      ],
+      "website": "https://www.gzhmu.edu.cn",
+      "hrUrl": "https://rsc.gzhmu.edu.cn/"
+    },
+    {
+      "name": "广东工业大学",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.gdut.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "广东外语外贸大学",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.gdufs.edu.cn",
+      "hrUrl": "https://rsc.gdufs.edu.cn/"
+    },
+    {
+      "name": "广州大学",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.gzhu.edu.cn",
+      "hrUrl": "https://rsc.gzhu.edu.cn/"
+    },
+    {
+      "name": "广东财经大学",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gdufe.edu.cn",
+      "hrUrl": "https://rsc.gdufe.edu.cn/"
+    },
+    {
+      "name": "广东金融学院",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gduf.edu.cn",
+      "hrUrl": "https://rsc.gduf.edu.cn/"
+    },
+    {
+      "name": "广东技术师范大学",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gpnu.edu.cn",
+      "hrUrl": "https://rsc.gpnu.edu.cn/"
+    },
+    {
+      "name": "广东第二师范学院",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gdei.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "仲恺农业工程学院",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.zhku.edu.cn",
+      "hrUrl": "https://rsc.zhku.edu.cn/"
+    },
+    {
+      "name": "广东警官学院",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gdppla.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "星海音乐学院",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xhcom.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "广州美术学院",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gzarts.edu.cn",
+      "hrUrl": "https://rsc.gzarts.edu.cn/"
+    },
+    {
+      "name": "广州体育学院",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gzsport.edu.cn",
+      "hrUrl": "https://rsc.gzsport.edu.cn/"
+    },
+    {
+      "name": "广东药科大学",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gdpu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "广州航海学院",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gzmtu.edu.cn",
+      "hrUrl": "https://rsc.gzmtu.edu.cn/"
+    },
+    {
+      "name": "香港科技大学(广州)",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hkust-gz.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "广州职业技术大学",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gzpy.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "广州科技职业技术大学",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.gkd.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "广东培正学院",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.peizheng.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "广东白云学院",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.baiyunu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "广州城市理工学院",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.gcu.edu.cn",
+      "hrUrl": "https://rsc.gcu.edu.cn/"
+    },
+    {
+      "name": "广州南方学院",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.nfu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "广州华商学院",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.gdhsc.edu.cn",
+      "hrUrl": "https://rsc.gdhsc.edu.cn/"
+    },
+    {
+      "name": "广州华立学院",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.hualixy.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "广州应用科技学院",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.gzasc.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "广州商学院",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.gcc.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "广州理工学院",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.gzist.edu.cn",
+      "hrUrl": "https://rsc.gzist.edu.cn/"
+    },
+    {
+      "name": "广州工商学院",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.gzgs.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "广州新华学院",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.xhsysu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "广州软件学院",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.seig.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "华南农业大学珠江学院",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.scauzj.edu.cn",
+      "hrUrl": "https://rsc.scauzj.edu.cn/"
+    },
+    {
+      "name": "广东外语外贸大学南国商学院",
+      "city": "广州市",
+      "cityAdcode": 440100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.gwng.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "深圳大学",
+      "city": "深圳市",
+      "cityAdcode": 440300,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.szu.edu.cn",
+      "hrUrl": "https://hr.szu.edu.cn/"
+    },
+    {
+      "name": "南方科技大学",
+      "city": "深圳市",
+      "cityAdcode": 440300,
+      "tags": [
+        "双一流"
+      ],
+      "website": "https://www.sustech.edu.cn",
+      "hrUrl": "https://talent.sustech.edu.cn/"
+    },
+    {
+      "name": "深圳技术大学",
+      "city": "深圳市",
+      "cityAdcode": 440300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sztu.edu.cn",
+      "hrUrl": "https://zp.sztu.edu.cn/"
+    },
+    {
+      "name": "深圳理工大学",
+      "city": "深圳市",
+      "cityAdcode": 440300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.suat-sz.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "香港中文大学(深圳)",
+      "city": "深圳市",
+      "cityAdcode": 440300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cuhk.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "深圳北理莫斯科大学",
+      "city": "深圳市",
+      "cityAdcode": 440300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.smbu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "深圳职业技术大学",
+      "city": "深圳市",
+      "cityAdcode": 440300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.szpt.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "汕头大学",
+      "city": "汕头市",
+      "cityAdcode": 440500,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.stu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "广东以色列理工学院",
+      "city": "汕头市",
+      "cityAdcode": 440500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.giit.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "佛山大学",
+      "city": "佛山市",
+      "cityAdcode": 440600,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.fosu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "广东东软学院",
+      "city": "佛山市",
+      "cityAdcode": 440600,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.nuit.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "顺德职业技术大学",
+      "city": "佛山市",
+      "cityAdcode": 440600,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sdpt.edu.cn",
+      "hrUrl": "https://rsc.sdpt.edu.cn/"
+    },
+    {
+      "name": "五邑大学",
+      "city": "江门市",
+      "cityAdcode": 440700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.wyu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "广东医科大学",
+      "city": "湛江市",
+      "cityAdcode": 440800,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gdmu.edu.cn",
+      "hrUrl": "https://rsc.gdmu.edu.cn/"
+    },
+    {
+      "name": "广东海洋大学",
+      "city": "湛江市",
+      "cityAdcode": 440800,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.gdou.edu.cn",
+      "hrUrl": "https://rsc.gdou.edu.cn/"
+    },
+    {
+      "name": "岭南师范学院",
+      "city": "湛江市",
+      "cityAdcode": 440800,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.lingnan.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "湛江科技学院",
+      "city": "湛江市",
+      "cityAdcode": 440800,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.zjkju.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "广东石油化工学院",
+      "city": "茂名市",
+      "cityAdcode": 440900,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gdupt.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "肇庆学院",
+      "city": "肇庆市",
+      "cityAdcode": 441200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.zqu.edu.cn",
+      "hrUrl": "https://rsc.zqu.edu.cn/"
+    },
+    {
+      "name": "肇庆医学院",
+      "city": "肇庆市",
+      "cityAdcode": 441200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.zqmc.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "广东理工学院",
+      "city": "肇庆市",
+      "cityAdcode": 441200,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.gdlgxy.edu.cn",
+      "hrUrl": "https://rsc.gdlgxy.edu.cn/"
+    },
+    {
+      "name": "广东工商职业技术大学",
+      "city": "肇庆市",
+      "cityAdcode": 441200,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.gdbtu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "惠州学院",
+      "city": "惠州市",
+      "cityAdcode": 441300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hzu.edu.cn",
+      "hrUrl": "https://rsc.hzu.edu.cn/"
+    },
+    {
+      "name": "嘉应学院",
+      "city": "梅州市",
+      "cityAdcode": 441400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.jyu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "韶关学院",
+      "city": "韶关市",
+      "cityAdcode": 440200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sgu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "东莞理工学院",
+      "city": "东莞市",
+      "cityAdcode": 441900,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.dgut.edu.cn",
+      "hrUrl": "https://rsc.dgut.edu.cn/"
+    },
+    {
+      "name": "大湾区大学",
+      "city": "东莞市",
+      "cityAdcode": 441900,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gbu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "香港城市大学(东莞)",
+      "city": "东莞市",
+      "cityAdcode": 441900,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cityu-dg.edu.cn",
+      "hrUrl": "https://www.cityu-dg.edu.cn/careers"
+    },
+    {
+      "name": "广东科技学院",
+      "city": "东莞市",
+      "cityAdcode": 441900,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.gdust.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "东莞城市学院",
+      "city": "东莞市",
+      "cityAdcode": 441900,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.dgcc.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "电子科技大学中山学院",
+      "city": "中山市",
+      "cityAdcode": 442000,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.zsc.edu.cn",
+      "hrUrl": "https://rsc.zsc.edu.cn/"
+    },
+    {
+      "name": "韩山师范学院",
+      "city": "潮州市",
+      "cityAdcode": 445100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hstc.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "珠海科技学院",
+      "city": "珠海市",
+      "cityAdcode": 440400,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.zcst.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "北京师范大学-香港浸会大学联合国际学院",
+      "city": "珠海市",
+      "cityAdcode": 440400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.uic.edu.cn",
+      "hrUrl": "https://hro.uic.edu.cn/"
+    }
+  ]
+}

@@ -1,0 +1,769 @@
+{
+  "adcode": 650000,
+  "name": "新疆维吾尔自治区",
+  "updatedAt": "2026-08-25",
+  "note": "骨架数据：省级官方入口与代表性公告已人工核验；市级明细持续采集中",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "新疆昆仑网（自治区党委组织部）",
+      "url": "http://www.xjkunlun.cn"
+    },
+    {
+      "category": "事业单位",
+      "name": "新疆维吾尔自治区人力资源和社会保障厅",
+      "url": "http://rst.xinjiang.gov.cn"
+    },
+    {
+      "category": "公务员",
+      "name": "新疆人事考试中心网",
+      "url": "https://www.xjrsks.com.cn"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 650100,
+      "name": "乌鲁木齐市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "新疆维吾尔自治区2026年度面向社会公开考试录用公务员公告（3937名）",
+          "date": "2026-02-04",
+          "headcount": 3937,
+          "positions": null,
+          "source": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "https://rst.xinjiang.gov.cn/xjrst/c112487/202602/4e88e7fdf39f4faca7451ca207215388.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2024,
+          "category": "公务员",
+          "title": "新疆维吾尔自治区2024年度面向社会公开考试录用公务员公告",
+          "date": "2024-02-04",
+          "headcount": null,
+          "positions": null,
+          "source": "新疆维吾尔自治区人民政府网",
+          "url": "https://www.xinjiang.gov.cn/xinjiang/zfxxgwygl/202402/de355274013a4fdebd38753d90400a0b.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "新疆维吾尔自治区2025年度面向社会公开考试录用公务员补充录用公告",
+          "date": "2025-07-11",
+          "headcount": null,
+          "positions": null,
+          "source": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 650200,
+      "name": "克拉玛依市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 650400,
+      "name": "吐鲁番市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 650500,
+      "name": "哈密市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 652300,
+      "name": "昌吉回族自治州",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 652700,
+      "name": "博尔塔拉蒙古自治州",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 652800,
+      "name": "巴音郭楞蒙古自治州",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 652900,
+      "name": "阿克苏地区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 653000,
+      "name": "克孜勒苏柯尔克孜自治州",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 653100,
+      "name": "喀什地区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 653200,
+      "name": "和田地区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 654000,
+      "name": "伊犁哈萨克自治州",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 654200,
+      "name": "塔城地区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 654300,
+      "name": "阿勒泰地区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 659001,
+      "name": "石河子市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 659002,
+      "name": "阿拉尔市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 659003,
+      "name": "图木舒克市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 659004,
+      "name": "五家渠市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 659005,
+      "name": "北屯市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 659006,
+      "name": "铁门关市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 659007,
+      "name": "双河市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 659008,
+      "name": "可克达拉市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 659009,
+      "name": "昆玉市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 659010,
+      "name": "胡杨河市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新疆昆仑网（自治区党委组织部）",
+          "url": "http://www.xjkunlun.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "http://rst.xinjiang.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "新疆人事考试中心网",
+          "url": "https://www.xjrsks.com.cn"
+        }
+      ],
+      "recruitments": []
+    }
+  ],
+  "universities": [
+    {
+      "name": "新疆大学",
+      "city": "乌鲁木齐市",
+      "cityAdcode": 650100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.xju.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "石河子大学",
+      "city": "石河子市",
+      "cityAdcode": 659001,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.shzu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "新疆医科大学",
+      "city": "乌鲁木齐市",
+      "cityAdcode": 650100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.xjmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "新疆师范大学",
+      "city": "乌鲁木齐市",
+      "cityAdcode": 650100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.xjnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "新疆农业大学",
+      "city": "乌鲁木齐市",
+      "cityAdcode": 650100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.xjau.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "塔里木大学",
+      "city": "阿拉尔市",
+      "cityAdcode": 659002,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.taru.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "新疆财经大学",
+      "city": "乌鲁木齐市",
+      "cityAdcode": 650100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xjufe.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "喀什大学",
+      "city": "喀什地区",
+      "cityAdcode": 653100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ksu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "伊犁师范大学",
+      "city": "伊犁哈萨克自治州",
+      "cityAdcode": 654000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ylnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "新疆工程学院",
+      "city": "乌鲁木齐市",
+      "cityAdcode": 650100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xjie.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "新疆艺术学院",
+      "city": "乌鲁木齐市",
+      "cityAdcode": 650100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xjart.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "昌吉学院",
+      "city": "昌吉回族自治州",
+      "cityAdcode": 652300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cjc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "新疆理工学院",
+      "city": "阿克苏地区",
+      "cityAdcode": 652900,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xjit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "新疆科技学院",
+      "city": "巴音郭楞蒙古自治州",
+      "cityAdcode": 652800,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xjust.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    }
+  ]
+}

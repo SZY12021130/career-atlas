@@ -1,0 +1,1065 @@
+{
+  "adcode": 460000,
+  "name": "海南省",
+  "updatedAt": "2026-08-25",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "南海先锋网（海南党建网，中共海南省委组织部）",
+      "url": "https://www.nanhaixf.gov.cn/"
+    },
+    {
+      "category": "公务员",
+      "name": "海南省考试局",
+      "url": "https://ea.hainan.gov.cn/"
+    },
+    {
+      "category": "事业单位",
+      "name": "海南省人力资源和社会保障厅·事业单位招聘栏目",
+      "url": "https://hrss.hainan.gov.cn/hrss/sydwzp/"
+    },
+    {
+      "category": "选调",
+      "name": "南海先锋网·公告栏目（海南省选调生招录公告发布平台）",
+      "url": "https://nanhaixf.gov.cn/channels/GG/"
+    },
+    {
+      "category": "人才引进",
+      "name": "海南自贸港人才工作网（中共海南省委人才发展局）",
+      "url": "http://www.zmgrc.gov.cn/"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 460100,
+      "name": "海口市",
+      "districts": [
+        "秀英区",
+        "龙华区",
+        "琼山区",
+        "美兰区"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南海先锋网（海南省公务员/选调生招录公告发布平台）",
+          "url": "https://www.nanhaixf.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "海口市人民政府网",
+          "url": "https://www.haikou.gov.cn/"
+        },
+        {
+          "category": "人才引进",
+          "name": "海南自贸港人才工作网（中共海南省委人才发展局）",
+          "url": "http://www.zmgrc.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "海南省2025年度考试录用公务员公告",
+          "date": "2025-01-10",
+          "headcount": 1752,
+          "positions": null,
+          "source": "南海先锋网（中共海南省委组织部）",
+          "url": "https://www.hainan.gov.cn/hainan/gwyzk/202501/0fc2bceb2a9f45bfa02a08d10365950d.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "海南省2026年度考试录用公务员公告",
+          "date": "2026-01-15",
+          "headcount": 1538,
+          "positions": null,
+          "source": "南海先锋网（中共海南省委组织部）",
+          "url": "https://www.nanhaixf.gov.cn/articles/59/48852.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "海南省2025年度第二批选调应届优秀大学毕业生拟录用人选公告",
+          "date": "2025-07-09",
+          "headcount": null,
+          "positions": null,
+          "source": "南海先锋网（中共海南省委组织部）",
+          "url": "https://www.nanhaixf.gov.cn/articles/59/46364.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "海南省2025年度公开遴选公务员拟任职人员公示",
+          "date": "2025-07-15",
+          "headcount": null,
+          "positions": null,
+          "source": "南海先锋网（中共海南省委组织部）",
+          "url": "https://www.nanhaixf.gov.cn/articles/59/46432.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "海口市美兰区2025年公开招聘事业单位工作人员公告（第一号）",
+          "date": "2025-02-05",
+          "headcount": 68,
+          "positions": null,
+          "source": "海口市美兰区人民政府网",
+          "url": "http://mlqzf.haikou.gov.cn/xgk/gsgg/202502/t1405813.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "海口市美兰区2025年公开招聘事业单位工作人员拟聘用公告（第十一号）",
+          "date": "2025-08-07",
+          "headcount": 65,
+          "positions": null,
+          "source": "海口市美兰区人民政府网",
+          "url": "http://mlqzf.haikou.gov.cn/xgk/gsgg/202508/t1441363.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 460200,
+      "name": "三亚市",
+      "districts": [
+        "海棠区",
+        "吉阳区",
+        "天涯区",
+        "崖州区"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南海先锋网（海南省公务员/选调生招录公告发布平台）",
+          "url": "https://www.nanhaixf.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "三亚市人民政府网",
+          "url": "https://www.sanya.gov.cn/"
+        },
+        {
+          "category": "人才引进",
+          "name": "海南自贸港人才工作网（中共海南省委人才发展局）",
+          "url": "http://www.zmgrc.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "三亚市海棠区2025年公开招聘事业单位工作人员公告（第1号）",
+          "date": "2025-08-15",
+          "headcount": 20,
+          "positions": null,
+          "source": "三亚市海棠区人力资源和社会保障局",
+          "url": "http://ht.sanya.gov.cn/htqrsjsite/bmwjxx/202508/8806b297af564c438cc9b257c9d887bf.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "2025年三亚市吉阳区公开招聘事业单位工作人员公告（第8号）考察合格及拟聘用人员名单公示",
+          "date": "2026-03-11",
+          "headcount": null,
+          "positions": null,
+          "source": "三亚市吉阳区人力资源和社会保障局",
+          "url": "https://jy.sanya.gov.cn/jyqrsjsite/bmwjxx/202603/5b517de81ad0495996c0ab3122e7eb85.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 460300,
+      "name": "三沙市",
+      "districts": [
+        "西沙区",
+        "南沙区"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南海先锋网（海南省公务员/选调生招录公告发布平台）",
+          "url": "https://www.nanhaixf.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "三沙市人民政府网",
+          "url": "http://www.sansha.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2026年三沙市公开招聘事业单位工作人员公告（第1号）",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "三沙市人民政府网",
+          "url": "http://www.sansha.gov.cn/sansha/zwfwxxgs/202608/2b8a435c53be42879fdf7e97e6fe6ee4.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2024年三沙市公开招聘事业编制工作人员公告（第4号）资格初审合格人员名单公告",
+          "date": "2025-02-19",
+          "headcount": null,
+          "positions": null,
+          "source": "三沙市人民政府网",
+          "url": "https://www.sansha.gov.cn/sansha/zwfwxxgs/202502/f3084c41b1a84b8b8ad9d3e6737e2cee.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 460400,
+      "name": "儋州市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南海先锋网（海南省公务员/选调生招录公告发布平台）",
+          "url": "https://www.nanhaixf.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "儋州市人民政府网",
+          "url": "https://www.danzhou.gov.cn/"
+        },
+        {
+          "category": "人才引进",
+          "name": "海南自贸港人才工作网（中共海南省委人才发展局）",
+          "url": "http://www.zmgrc.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2025年儋州市事业单位公开（考核）招聘工作人员公告（第一号）",
+          "date": "2025-01-27",
+          "headcount": 132,
+          "positions": null,
+          "source": "儋州市人民政府网（儋州市人力资源和社会保障局）",
+          "url": "https://www.danzhou.gov.cn/danzhou/zfxxgkzl/bm/rsj/gkml/202501/t20250127_3810290.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "2025年儋州市事业单位公开（考核）招聘工作人员公告（第十二号）拟录用人员公示",
+          "date": "2025-08-19",
+          "headcount": null,
+          "positions": null,
+          "source": "儋州市人民政府网（儋州市人力资源和社会保障局）",
+          "url": "https://www.danzhou.gov.cn/danzhou/zfxxgkzl/bm/rsj/gkml/202508/t20250819_3915511.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 469001,
+      "name": "五指山市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南海先锋网（海南省公务员/选调生招录公告发布平台）",
+          "url": "https://www.nanhaixf.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "五指山市人民政府网",
+          "url": "https://wzs.hainan.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "五指山市2026年公开招聘事业单位工作人员公告（1号）",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "五指山市人民政府网",
+          "url": "http://wzs.hainan.gov.cn/wzs/zkly/202603/fe5ebe8f17bf462493f17c3f2d3ae0f2.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "五指山市2025年公开招聘事业单位工作人员拟聘用情况公示（7号）",
+          "date": "2026-02-03",
+          "headcount": 52,
+          "positions": null,
+          "source": "五指山市人民政府网（五指山市人力资源和社会保障局）",
+          "url": "http://wzs.hainan.gov.cn/wzs/0400/202602/5eaeb15e8d8441f58651006c53634f13.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 469002,
+      "name": "琼海市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南海先锋网（海南省公务员/选调生招录公告发布平台）",
+          "url": "https://www.nanhaixf.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "琼海市人民政府网",
+          "url": "https://qionghai.hainan.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "琼海市2025年公开招聘事业单位工作人员和农垦移交医院工作人员公告（1号）",
+          "date": "2025-02-11",
+          "headcount": 192,
+          "positions": null,
+          "source": "琼海市人力资源和社会保障局",
+          "url": "https://qionghai.hainan.gov.cn/zfxxgkzl/bm/rsj/gkml/202502/t20250211_3814542.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "关于琼海市2025年公开招聘事业单位工作人员和农垦移交医院工作人员拟聘用人员公示（25号）",
+          "date": "2026-02-06",
+          "headcount": null,
+          "positions": null,
+          "source": "琼海市人力资源和社会保障局",
+          "url": "http://qionghai.hainan.gov.cn/zfxxgkzl/bm/rsj/gkml/202602/t20260206_4025540.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 469005,
+      "name": "文昌市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南海先锋网（海南省公务员/选调生招录公告发布平台）",
+          "url": "https://www.nanhaixf.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "文昌市人民政府网",
+          "url": "https://wenchang.hainan.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "文昌市事业单位2025年校园招聘事业单位工作人员公告（1号）（聚四方之才 共建自贸港“封关拓新局·四城同办”校招活动）",
+          "date": "2025-09-30",
+          "headcount": 28,
+          "positions": null,
+          "source": "文昌市人力资源和社会保障局",
+          "url": "http://wenchang.hainan.gov.cn/wcsrlzyhshbzj/gzdt/202509/6f7390e45c9749a6ae7cee30e209417d.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "关于文昌市2025年公开招聘事业单位工作人员拟聘用人员的公示（第二批）（30号）",
+          "date": "2025-08-12",
+          "headcount": 2,
+          "positions": null,
+          "source": "文昌市人民政府网",
+          "url": "http://wenchang.hainan.gov.cn/wenchang/0601/202508/040bb9815af742b08dbf21d3554e9d1e.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 469006,
+      "name": "万宁市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南海先锋网（海南省公务员/选调生招录公告发布平台）",
+          "url": "https://www.nanhaixf.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "万宁市人民政府网",
+          "url": "https://wanning.hainan.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "万宁市2025年下半年公开招聘事业单位工作人员公告（第1号）",
+          "date": "2025-11-07",
+          "headcount": 146,
+          "positions": null,
+          "source": "万宁市人民政府网",
+          "url": "https://wanning.hainan.gov.cn/zfxxgk/sgbmgk/rlzyshbz/gkml/202511/t20251107_3963332.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "海南省2026年度公开遴选公务员公告（万宁市人民政府转发）",
+          "date": "2026-01-20",
+          "headcount": null,
+          "positions": null,
+          "source": "万宁市人民政府网（转发中共海南省委组织部公告）",
+          "url": "https://wanning.hainan.gov.cn/wanning/rdzt/zkly/202601/t20260120_4013938.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 469007,
+      "name": "东方市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南海先锋网（海南省公务员/选调生招录公告发布平台）",
+          "url": "https://www.nanhaixf.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "东方市人民政府网",
+          "url": "https://dongfang.hainan.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "东方市2025年第二次公开招聘事业编制工作人员公告（1号）",
+          "date": "2025-08-22",
+          "headcount": 80,
+          "positions": null,
+          "source": "东方市人力资源和社会保障局",
+          "url": "http://dongfang.hainan.gov.cn/xxgkzl/rsj/xxgkml/202508/t20250822_3917486.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "东方市2025年第二次公开招聘事业编制工作人员第一批拟聘用人员公告（13号）",
+          "date": "2025-11-05",
+          "headcount": null,
+          "positions": null,
+          "source": "东方市人力资源和社会保障局",
+          "url": "http://dongfang.hainan.gov.cn/xxgkzl/rsj/xxgkml/202511/t20251105_3960458.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 469021,
+      "name": "定安县",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南海先锋网（海南省公务员/选调生招录公告发布平台）",
+          "url": "https://www.nanhaixf.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "定安县人民政府网",
+          "url": "https://dingan.hainan.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "定安县2025年公开招聘事业单位工作人员公告一",
+          "date": "2025-08-13",
+          "headcount": 89,
+          "positions": null,
+          "source": "定安县人民政府网",
+          "url": "https://dingan.hainan.gov.cn/dingan/xxgk/zpzl/202508/t20250813_3912820.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "定安县2025年公开招聘事业单位工作人员公告十二（第一批79名拟聘用人员名单公示）",
+          "date": "2025-12-30",
+          "headcount": 79,
+          "positions": null,
+          "source": "定安县人民政府网",
+          "url": "https://dingan.hainan.gov.cn/dingan/xxgk/zpzl/202512/t20251230_4002231.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 469022,
+      "name": "屯昌县",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南海先锋网（海南省公务员/选调生招录公告发布平台）",
+          "url": "https://www.nanhaixf.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "屯昌县人民政府网",
+          "url": "https://tunchang.hainan.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "屯昌县2025年下半年公开招聘事业单位工作人员公告（第1号）",
+          "date": "2025-08-12",
+          "headcount": 59,
+          "positions": null,
+          "source": "屯昌县人民政府网",
+          "url": "https://tunchang.hainan.gov.cn/tunchang/zfxxgk/ggl/202508/t20250812_3911899.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "屯昌县2025年下半年公开招聘事业单位工作人员拟聘用人员公示",
+          "date": "2026-02-11",
+          "headcount": 47,
+          "positions": null,
+          "source": "屯昌县人民政府网",
+          "url": "https://tunchang.hainan.gov.cn/tunchang/zfxxgk/ggl/202602/t20260211_4027300.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 469023,
+      "name": "澄迈县",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南海先锋网（海南省公务员/选调生招录公告发布平台）",
+          "url": "https://www.nanhaixf.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "澄迈县人民政府网",
+          "url": "https://chengmai.hainan.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "澄迈县2025年招才引智活动公开招聘第二批事业单位工作人员公告（第1号）",
+          "date": "2025-09-12",
+          "headcount": null,
+          "positions": 121,
+          "source": "澄迈县人力资源和社会保障局",
+          "url": "https://chengmai.hainan.gov.cn/cmrsj/gsgg/202509/31e54d9397414143858c23cdeb3a4e0f.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "澄迈县2025年招才引智活动公开招聘第二批事业单位工作人员拟聘用人员公告（第10号）",
+          "date": null,
+          "headcount": 117,
+          "positions": null,
+          "source": "澄迈县人力资源和社会保障局",
+          "url": "http://chengmai.hainan.gov.cn/cmrsj/gsgg/202512/a902ce0555004a52affa938fa6b5c96e.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 469024,
+      "name": "临高县",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南海先锋网（海南省公务员/选调生招录公告发布平台）",
+          "url": "https://www.nanhaixf.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "临高县人民政府网",
+          "url": "http://lingao.hainan.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "2025年临高县公开招聘引进教师公告（第1号）",
+          "date": "2025-05-30",
+          "headcount": 136,
+          "positions": null,
+          "source": "临高县人民政府网",
+          "url": "http://lingao.hainan.gov.cn/zwgk_32990/gsgg/202505/t20250530_3872435.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "临高县2025年考核招聘医疗卫生专业技术人才公告（第1号）",
+          "date": "2025-12-12",
+          "headcount": 60,
+          "positions": null,
+          "source": "临高县人民政府网",
+          "url": "http://lingao.hainan.gov.cn/zwgk_32990/gsgg/202512/t20251212_3988062.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 469025,
+      "name": "白沙黎族自治县",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南海先锋网（海南省公务员/选调生招录公告发布平台）",
+          "url": "https://www.nanhaixf.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "白沙黎族自治县人民政府网",
+          "url": "https://baisha.hainan.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "白沙黎族自治县2025年下半年公开招聘事业单位工作人员公告（第1号）",
+          "date": "2025-11-12",
+          "headcount": 14,
+          "positions": null,
+          "source": "白沙黎族自治县人力资源和社会保障局",
+          "url": "https://baisha.hainan.gov.cn/baisha/zfxxgkzl/xgbmzfxxgk/bsxrlzyhshbzj/gkml/202511/t20251112_3969654.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "白沙黎族自治县2025年上半年公开招聘事业单位工作人员公告（第19号）关于第一批拟聘用人员的公告",
+          "date": "2025-08-28",
+          "headcount": 69,
+          "positions": null,
+          "source": "白沙黎族自治县人力资源和社会保障局",
+          "url": "http://baisha.hainan.gov.cn/baisha/zfxxgkzl/xgbmzfxxgk/bsxrlzyhshbzj/gkml/202508/t20250828_3920228.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 469026,
+      "name": "昌江黎族自治县",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南海先锋网（海南省公务员/选调生招录公告发布平台）",
+          "url": "https://www.nanhaixf.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "昌江黎族自治县人民政府网",
+          "url": "https://changjiang.hainan.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "昌江黎族自治县2025年事业单位公开招聘工作人员公告（第1号）",
+          "date": "2025-08-11",
+          "headcount": 100,
+          "positions": null,
+          "source": "昌江黎族自治县人力资源和社会保障局",
+          "url": "http://changjiang.hainan.gov.cn/cjxrlzyhshbzj/rsxx/202508/734aa6cd6dd9422eb5331a5177fefda6.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "昌江黎族自治县2026年公开招聘教育事业编制工作人员公告（第1号）",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "昌江黎族自治县人民政府网",
+          "url": "https://changjiang.hainan.gov.cn/changjiang/0400/202601/b4277873df6d40ffa71f6e11c091f525.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 469027,
+      "name": "乐东黎族自治县",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南海先锋网（海南省公务员/选调生招录公告发布平台）",
+          "url": "https://www.nanhaixf.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "乐东黎族自治县人民政府网",
+          "url": "http://ledong.hainan.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "乐东黎族自治县2025年公开招聘事业编制工作人员公告（第1号）",
+          "date": "2025-05-12",
+          "headcount": 47,
+          "positions": null,
+          "source": "乐东黎族自治县人力资源和社会保障局",
+          "url": "http://ledong.hainan.gov.cn/ldxrlzyhshbzj/0600/202505/118dce0ce5f24dfb922865c4236952d7.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "乐东黎族自治县2025年公开招聘事业编制工作人员公告（第10号）拟聘用人员公示",
+          "date": "2025-09-15",
+          "headcount": 47,
+          "positions": null,
+          "source": "乐东黎族自治县人力资源和社会保障局",
+          "url": "http://ledong.hainan.gov.cn/ledong/0600/202509/c462cce4d2e94d349287caec88a6b9f4.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 469028,
+      "name": "陵水黎族自治县",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南海先锋网（海南省公务员/选调生招录公告发布平台）",
+          "url": "https://www.nanhaixf.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "陵水黎族自治县人民政府网",
+          "url": "https://lingshui.hainan.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "陵水黎族自治县2025年下半年公开招聘事业单位工作人员公告（一）",
+          "date": "2025-08-12",
+          "headcount": 24,
+          "positions": null,
+          "source": "陵水黎族自治县人民政府网",
+          "url": "https://lingshui.hainan.gov.cn/xxgk_57512/0400/202508/t20250812_3912168.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "陵水黎族自治县2025年下半年公开招聘事业单位工作人员公告（九）体检公告",
+          "date": "2026-02-02",
+          "headcount": null,
+          "positions": null,
+          "source": "陵水黎族自治县人民政府网",
+          "url": "http://lingshui.hainan.gov.cn/xxgk_57512/0400/202602/t20260202_4022056.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 469029,
+      "name": "保亭黎族苗族自治县",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南海先锋网（海南省公务员/选调生招录公告发布平台）",
+          "url": "https://www.nanhaixf.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "保亭黎族苗族自治县人民政府网",
+          "url": "https://baoting.hainan.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "保亭黎族苗族自治县2025年第二批公开招聘（考核招聘）事业单位工作人员公告（第1号）",
+          "date": "2025-11-06",
+          "headcount": 9,
+          "positions": null,
+          "source": "保亭黎族苗族自治县人力资源和社会保障局",
+          "url": "https://baoting.hainan.gov.cn/zfxxgk/xgbmgk/rlzyshbz/gkml/202511/t20251106_3961810.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "保亭黎族苗族自治县卫生系统2025年面向社会招聘事业编制及员额制工作人员公告（第1号）",
+          "date": "2025-09-11",
+          "headcount": null,
+          "positions": null,
+          "source": "保亭黎族苗族自治县人民政府网",
+          "url": "https://baoting.hainan.gov.cn/zfxxgk/xgbmgk/wsjhsy/gkml/202509/t20250911_3928595.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 469030,
+      "name": "琼中黎族苗族自治县",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南海先锋网（海南省公务员/选调生招录公告发布平台）",
+          "url": "https://www.nanhaixf.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "琼中黎族苗族自治县人民政府网",
+          "url": "http://qiongzhong.hainan.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "琼中黎族苗族自治县2025年面向社会公开招聘事业单位工作人员公告",
+          "date": "2025-08-12",
+          "headcount": 92,
+          "positions": null,
+          "source": "琼中黎族苗族自治县人力资源和社会保障局",
+          "url": "http://qiongzhong.hainan.gov.cn/xxgkzl/rsj/xxgkml/202508/t20250812_3912149.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "琼中黎族苗族自治县2025年面向社会公开招聘事业单位工作人员拟聘用人员公示",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "琼中黎族苗族自治县人力资源和社会保障局",
+          "url": "http://qiongzhong.hainan.gov.cn/xxgkzl/rsj/xxgkml/202608/t20260807_4124783.html",
+          "attachments": []
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "name": "海南大学",
+      "city": "海口市",
+      "cityAdcode": 460100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.hainanu.edu.cn",
+      "hrUrl": "https://hro.hainanu.edu.cn/",
+      "talentPolicyUrl": "https://hro.hainanu.edu.cn/rcw/rcwsy1.htm"
+    },
+    {
+      "name": "海南师范大学",
+      "city": "海口市",
+      "cityAdcode": 460100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.hainnu.edu.cn",
+      "hrUrl": "https://rsc.hainnu.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "海南医科大学",
+      "city": "海口市",
+      "cityAdcode": 460100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.muhn.edu.cn",
+      "hrUrl": "https://www.muhn.edu.cn/rsc/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "海南热带海洋学院",
+      "city": "三亚市",
+      "cityAdcode": 460200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hntou.edu.cn",
+      "hrUrl": "https://rsc.hntou.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "琼台师范学院",
+      "city": "海口市",
+      "cityAdcode": 460100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.qtnu.edu.cn",
+      "hrUrl": "https://rsc.qtnu.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "海南警察学院",
+      "city": "海口市",
+      "cityAdcode": 460100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hipolice.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "海南经贸职业大学",
+      "city": "海口市",
+      "cityAdcode": 460100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hceb.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "三亚学院",
+      "city": "三亚市",
+      "cityAdcode": 460200,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.sanyau.edu.cn",
+      "hrUrl": "https://hr.sanyau.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "海口经济学院",
+      "city": "海口市",
+      "cityAdcode": 460100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.hkc.edu.cn",
+      "hrUrl": "http://renshi.hkc.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "海南科技职业大学",
+      "city": "海口市",
+      "cityAdcode": 460100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.hvust.edu.cn",
+      "hrUrl": "https://rsc.hnkjedu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "海南比勒费尔德应用科学大学",
+      "city": "陵水黎族自治县",
+      "cityAdcode": 469028,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hainan-biuh.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "海南洛桑旅游大学",
+      "city": "三亚市",
+      "cityAdcode": 460200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hltu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    }
+  ]
+}

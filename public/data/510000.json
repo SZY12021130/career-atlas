@@ -1,0 +1,2120 @@
+{
+  "adcode": 510000,
+  "name": "四川省",
+  "updatedAt": "2026-08-25",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "四川人事考试网（四川省人力资源和社会保障厅人事考试专栏）",
+      "url": "https://www.scpta.com.cn/"
+    },
+    {
+      "category": "公务员",
+      "name": "四川省2026年度公开考试录用公务员（参照管理工作人员）专题",
+      "url": "https://www.scpta.com.cn/front/Special/Info/85887d50aadf43f491088f4a9106c647"
+    },
+    {
+      "category": "事业单位",
+      "name": "四川省人力资源和社会保障厅",
+      "url": "https://rst.sc.gov.cn/"
+    },
+    {
+      "category": "选调",
+      "name": "四川组工网（中共四川省委组织部）",
+      "url": "http://www.gcdr.gov.cn/"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 510100,
+      "name": "成都市",
+      "districts": [
+        "锦江区",
+        "青羊区",
+        "金牛区",
+        "武侯区",
+        "成华区",
+        "龙泉驿区",
+        "青白江区",
+        "新都区",
+        "温江区",
+        "双流区",
+        "郫都区",
+        "新津区",
+        "金堂县",
+        "大邑县",
+        "蒲江县",
+        "都江堰市",
+        "彭州市",
+        "邛崃市",
+        "崇州市",
+        "简阳市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "蓉城先锋网（中共成都市委组织部）",
+          "url": "https://www.cd12371.com/"
+        },
+        {
+          "category": "事业单位",
+          "name": "成都人事考试网",
+          "url": "https://cdpta.cdrsigc.com/"
+        },
+        {
+          "category": "事业单位",
+          "name": "成都市人力资源和社会保障局",
+          "url": "https://cdhrss.chengdu.gov.cn/"
+        },
+        {
+          "category": "录用公示",
+          "name": "蓉城先锋网 公务员考录公示",
+          "url": "https://www.cd12371.com/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "中共成都市委组织部关于成都市2026年度公开考试录用公务员（参照管理工作人员）的公告",
+          "date": "2025-10-29",
+          "headcount": 713,
+          "positions": null,
+          "source": "四川省人力资源和社会保障厅人事考试专栏",
+          "url": "https://www.scpta.com.cn/front/News/info/d578235f02ff4c1ea7a701dfbd4714e4?t=56",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "成都市2025年度公开考试录用公务员拟录用人员公示（第一批）",
+          "date": "2025-05-09",
+          "headcount": null,
+          "positions": null,
+          "source": "蓉城先锋网（中共成都市委组织部）",
+          "url": "https://www.cd12371.com/info/2025/2130995.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "2025“蓉漂人才荟”成都市新都区赴高校考核招聘事业单位工作人员公告（257名）",
+          "date": "2025-09-11",
+          "headcount": 257,
+          "positions": null,
+          "source": "成都市新都区人民政府",
+          "url": "https://www.xindu.gov.cn/xdqzfmhwz/c139846/2025-09/11/content_f3ce9aeaad594714ab92856eb4f63d5b.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "成都市2025年上半年事业单位公开招聘工作人员拟聘人员公示",
+          "date": "2025-09-12",
+          "headcount": 5,
+          "positions": null,
+          "source": "成都市人力资源和社会保障局",
+          "url": "https://cdhrss.chengdu.gov.cn/cdrsj/c151971/2025-09/12/content_5e397ac900c0411ebee67d9355d8a8d0.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 510300,
+      "name": "自贡市",
+      "districts": [
+        "自流井区",
+        "贡井区",
+        "大安区",
+        "沿滩区",
+        "荣县",
+        "富顺县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "自贡人事考试网",
+          "url": "http://www.zgrsks.com.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "自贡人事考试网",
+          "url": "http://www.zgrsks.com.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "四川省自贡市事业单位2025年上半年公开考试招聘工作人员公告",
+          "date": "2025-03-07",
+          "headcount": null,
+          "positions": null,
+          "source": "自贡人事考试网",
+          "url": "http://www.zgrsks.com.cn/newsDetail/15376.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "自贡市人力资源和社会保障局 自贡市教育和体育局2025年市属事业单位公开考试招聘足球教练员的公告（5名）",
+          "date": "2025-11-06",
+          "headcount": 5,
+          "positions": null,
+          "source": "自贡人事考试网",
+          "url": "http://www.zgrsks.com.cn/newsDetail/15849.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "中共自贡市委组织部关于自贡市2025年度公开考试录用公务员（基层选调生、定向招考、四级联考）拟录用人员的公示（第一批）",
+          "date": "2025-05-11",
+          "headcount": null,
+          "positions": null,
+          "source": "自贡人事考试网",
+          "url": "http://www.zgrsks.com.cn/newsDetail/15464.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "中共自贡市委组织部关于自贡市2025年度公开考试录用公务员拟录用人员的公示（第二批）",
+          "date": "2025-08-05",
+          "headcount": null,
+          "positions": null,
+          "source": "自贡人事考试网",
+          "url": "http://www.zgrsks.com.cn/newsDetail/15704.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "自贡市贡井区2026年上半年事业单位公开考试聘用工作人员及公开考核聘用工作人员拟聘用人员名单公示（第一批，38名）",
+          "date": "2026-07-23",
+          "headcount": 38,
+          "positions": null,
+          "source": "自贡人事考试网",
+          "url": "http://www.zgrsks.com.cn/newsDetail/16398.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 510400,
+      "name": "攀枝花市",
+      "districts": [
+        "东区",
+        "西区",
+        "仁和区",
+        "米易县",
+        "盐边县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "攀西人才网（中共攀枝花市委组织部）",
+          "url": "http://www.pxrc.com.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "攀西人才网",
+          "url": "http://www.pxrc.com.cn/"
+        },
+        {
+          "category": "人才引进",
+          "name": "攀西人才网 人才招聘栏目",
+          "url": "http://www.pxrc.com.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "2025年攀枝花市市级事业单位春季引才公告（112名）",
+          "date": "2025-03-11",
+          "headcount": 112,
+          "positions": null,
+          "source": "攀西人才网",
+          "url": "http://www.pxrc.com.cn/article/23374.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "攀枝花市2025年度公开考试录用公务员（司法行政系统）拟录用人员公示",
+          "date": "2025-05-14",
+          "headcount": null,
+          "positions": null,
+          "source": "攀西人才网",
+          "url": "http://www.pxrc.com.cn/article/23516.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "攀枝花市事业单位2025年下半年公开考试招聘工作人员拟聘用人员公示（第十三批）",
+          "date": "2026-07-28",
+          "headcount": null,
+          "positions": null,
+          "source": "攀西人才网",
+          "url": "http://www.pxrc.com.cn/article/24593.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "攀枝花市事业单位2025年下半年公开考试招聘工作人员市本级岗位拟聘用人员公示（第一批）",
+          "date": "2026-01-30",
+          "headcount": null,
+          "positions": null,
+          "source": "攀西人才网",
+          "url": "https://www.pxrc.com.cn/article/24165.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 510500,
+      "name": "泸州市",
+      "districts": [
+        "江阳区",
+        "纳溪区",
+        "龙马潭区",
+        "泸县",
+        "合江县",
+        "叙永县",
+        "古蔺县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "泸州人事考试网",
+          "url": "https://www.lzsrsks.com/"
+        },
+        {
+          "category": "事业单位",
+          "name": "泸州人事考试网",
+          "url": "https://www.lzsrsks.com/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "关于2025年上半年泸州市部分事业单位公开考试招聘工作人员调减（取消）招聘岗位的公告",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "泸州人事考试网",
+          "url": "https://www.lzsrsks.com/News/NewsDetailed.aspx?newsId=78289d02e3db449e82d4c4748fd02e22",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "泸州市2025年度公开考试录用公务员（人民警察）拟录用人员公示",
+          "date": "2025-09-01",
+          "headcount": null,
+          "positions": null,
+          "source": "泸州人事考试网",
+          "url": "https://www.lzsrsks.com/News/NewsDetailed.aspx?newsId=22fbe3a7e497445f8762b1cdd3df88a6",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "泸州市龙马潭区2025年上半年事业单位公开考试招聘工作人员递补体检人员公告",
+          "date": "2025-08-15",
+          "headcount": null,
+          "positions": null,
+          "source": "泸州市龙马潭区人民政府",
+          "url": "https://www.longmatan.gov.cn/zw/fdzdgknr/rszk1/content_80077",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "中共泸县县委组织部关于2026年公开考试录用公务员（参照管理工作人员）及定向考录公务员拟录用人员的公示（55人）",
+          "date": "2026-04-14",
+          "headcount": 55,
+          "positions": null,
+          "source": "泸州人事考试网",
+          "url": "https://www.lzsrsks.cn/web/info/detail/8ac981829d235619019d89dd9a471b53",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 510600,
+      "name": "德阳市",
+      "districts": [
+        "旌阳区",
+        "罗江区",
+        "中江县",
+        "广汉市",
+        "什邡市",
+        "绵竹市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "德阳人事考试网",
+          "url": "https://www.dykszx.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "德阳人事考试网",
+          "url": "https://www.dykszx.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "德阳市2025年下半年事业单位公开考试招聘工作人员公告",
+          "date": "2025-09-26",
+          "headcount": null,
+          "positions": null,
+          "source": "德阳人事考试网",
+          "url": "https://www.dykszx.cn/index.php?id=2761",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "德阳市2025年度公开考试录用公务员补充录用拟录用人员公示",
+          "date": "2025-09-04",
+          "headcount": null,
+          "positions": null,
+          "source": "德阳人事考试网",
+          "url": "https://www.dykszx.cn/index.php?id=2744",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "“心有所蜀 来德正好”德阳市2025年校园招聘公告",
+          "date": "2025-10-20",
+          "headcount": null,
+          "positions": null,
+          "source": "德阳人事考试网",
+          "url": "https://www.dykszx.cn/index.php?id=2793",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 510700,
+      "name": "绵阳市",
+      "districts": [
+        "涪城区",
+        "游仙区",
+        "安州区",
+        "三台县",
+        "盐亭县",
+        "梓潼县",
+        "北川羌族自治县",
+        "平武县",
+        "江油市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "绵阳人事考试网",
+          "url": "http://www.myrsks.com.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "绵阳人事考试网",
+          "url": "http://www.myrsks.com.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "四川省绵阳市事业单位2025年下半年公开考试招聘工作人员公告",
+          "date": "2025-09-26",
+          "headcount": 126,
+          "positions": null,
+          "source": "绵阳人事考试网",
+          "url": "http://www.myrsks.com.cn/newsDetail/12676.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "绵阳市事业单位2025年公开选调工作人员公告",
+          "date": "2025-05-16",
+          "headcount": 70,
+          "positions": null,
+          "source": "绵阳人事考试网",
+          "url": "http://www.myrsks.com.cn/newsDetail/12141.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "急需紧缺专业选调",
+          "title": "中共绵阳市委组织部关于绵阳市2026届急需紧缺专业选调生面试资格审查及面试有关事项的公告",
+          "date": "2025-11-06",
+          "headcount": null,
+          "positions": null,
+          "source": "绵阳人事考试网",
+          "url": "http://www.myrsks.com.cn/newsDetail/12770.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "绵阳市市属事业单位2025年上半年公开考试招聘工作人员拟聘用人员公示（第一批）",
+          "date": "2025-08-26",
+          "headcount": null,
+          "positions": null,
+          "source": "绵阳人事考试网",
+          "url": "http://www.myrsks.com.cn/newsDetail/12562.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 510800,
+      "name": "广元市",
+      "districts": [
+        "利州区",
+        "昭化区",
+        "朝天区",
+        "旺苍县",
+        "青川县",
+        "剑阁县",
+        "苍溪县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "广元人事考试网",
+          "url": "http://gypta.e21cn.com/"
+        },
+        {
+          "category": "公务员",
+          "name": "广元市党建网（中共广元市委组织部）",
+          "url": "https://www.gyzzb.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "广元市人力资源和社会保障局",
+          "url": "https://srsj.cngy.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "广元市2025年上半年事业单位公开考试招聘工作人员公告（351人）",
+          "date": "2025-03-07",
+          "headcount": 351,
+          "positions": null,
+          "source": "四川省人力资源和社会保障厅人事考试专栏",
+          "url": "https://www.scpta.com.cn/content-63-E68F3CFD661205A0",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "广元市2025年下半年事业单位公开考试招聘工作人员公告",
+          "date": "2025-09-26",
+          "headcount": 201,
+          "positions": null,
+          "source": "广元市人力资源和社会保障局",
+          "url": "https://srsj.cngy.gov.cn/New/Detail/3fe154ea89c44835b903fafd44226e4c.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "广元市2025年度公开考试录用公务员拟录用人员公示（补充录用第三批）",
+          "date": "2025-12-09",
+          "headcount": null,
+          "positions": null,
+          "source": "广元市党建网",
+          "url": "https://www.gyzzb.gov.cn/gyzzb/article.html?id=19809",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 510900,
+      "name": "遂宁市",
+      "districts": [
+        "船山区",
+        "安居区",
+        "蓬溪县",
+        "大英县",
+        "射洪市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "遂宁市人民政府 招录信息",
+          "url": "https://www.suining.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "遂宁市人力资源和社会保障局",
+          "url": "https://rsj.suining.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2024,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "中共遂宁市委组织部关于遂宁市2025年度公开考试录用公务员（参照管理工作人员）的公告（298人）",
+          "date": "2024-10-31",
+          "headcount": 298,
+          "positions": null,
+          "source": "遂宁市人民政府",
+          "url": "https://www.suining.gov.cn/gongkai/show/03a20f952158fbce1f74ddcab036cd15.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "遂宁市人力资源和社会保障局2025年上半年遂宁市事业单位公开考试招聘工作人员的公告（632名）",
+          "date": "2025-03-07",
+          "headcount": 632,
+          "positions": null,
+          "source": "遂宁市人民政府",
+          "url": "https://www.suining.gov.cn/gongkai/show/d835e36b4f7c1abdfbe12b5e01e7b4de.html",
+          "attachments": []
+        },
+        {
+          "year": 2024,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "四川省遂宁市2024年“遂州英才”考核招聘事业单位高层次和急需紧缺人才公告（272名）",
+          "date": "2024-12-17",
+          "headcount": 272,
+          "positions": null,
+          "source": "遂宁市人力资源和社会保障局",
+          "url": "https://rsj.suining.gov.cn/xinwen/show/778d97b2aee6b6a3cd10d907477e4459.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "中共遂宁市委组织部关于2025年遂宁市公开考试录用公务员（参照管理工作人员）有关考试项目拟录用人员名单的公示",
+          "date": "2025-05-06",
+          "headcount": null,
+          "positions": null,
+          "source": "遂宁市人民政府",
+          "url": "https://www.suining.gov.cn/phone/show/ebb1e97ec3c0e3cea91bda9d2bc6ea11.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 511000,
+      "name": "内江市",
+      "districts": [
+        "市中区",
+        "东兴区",
+        "威远县",
+        "资中县",
+        "隆昌市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "内江人事考试网",
+          "url": "http://www.njpta.org.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "内江人事考试网",
+          "url": "http://www.njpta.org.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "中共内江市委组织部 内江市人力资源和社会保障局关于2025年上半年内江市部分事业单位公开考试招聘工作人员的公告",
+          "date": "2025-03-07",
+          "headcount": null,
+          "positions": null,
+          "source": "四川省人力资源和社会保障厅人事考试专栏",
+          "url": "https://www.scpta.com.cn/content-63-5B3BABA586A0D0BA",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "中共内江市委组织部关于内江市2025年度公开考试录用公务员（基层选调生、定向公务员、司法系统、四级联考）拟录用人员名单（第一批）的公示",
+          "date": "2025-05-12",
+          "headcount": null,
+          "positions": null,
+          "source": "内江人事考试网",
+          "url": "http://www.njpta.org.cn/newsDetail/14706.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "内江市2025年度公开考试录用公务员拟录用人员公示（第三批）",
+          "date": "2026-01-19",
+          "headcount": null,
+          "positions": null,
+          "source": "内江人事考试网",
+          "url": "http://www.njpta.org.cn/newsDetail/15183.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 511100,
+      "name": "乐山市",
+      "districts": [
+        "市中区",
+        "沙湾区",
+        "五通桥区",
+        "金口河区",
+        "犍为县",
+        "井研县",
+        "夹江县",
+        "沐川县",
+        "峨边彝族自治县",
+        "马边彝族自治县",
+        "峨眉山市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "乐山人事考试网",
+          "url": "http://www.lspta.com.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "乐山人事考试网",
+          "url": "http://www.lspta.com.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "中共乐山市委组织部关于乐山市2026年度公开考试录用公务员（含定向招考、四级联考、公安机关招考和基层选调生）笔试成绩及排名的公告",
+          "date": "2026-01-15",
+          "headcount": null,
+          "positions": null,
+          "source": "乐山人事考试网",
+          "url": "http://www.lspta.com.cn/newsDetail/6959.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "乐山市市中区2026年度公开考试录用公务员拟录用人员公示",
+          "date": "2026-04-16",
+          "headcount": 64,
+          "positions": null,
+          "source": "乐山人事考试网",
+          "url": "http://www.lspta.com.cn/newsDetail/7058.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "乐山市2025年上半年公开考试招聘事业单位工作人员拟聘用人员公示（第四批）",
+          "date": "2025-09-09",
+          "headcount": null,
+          "positions": null,
+          "source": "乐山人事考试网",
+          "url": "http://www.lspta.com.cn/newsDetail/6763.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 511300,
+      "name": "南充市",
+      "districts": [
+        "顺庆区",
+        "高坪区",
+        "嘉陵区",
+        "南部县",
+        "营山县",
+        "蓬安县",
+        "仪陇县",
+        "西充县",
+        "阆中市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南充人事考试中心",
+          "url": "http://ncpta.e21cn.com/"
+        },
+        {
+          "category": "事业单位",
+          "name": "南充人事考试中心",
+          "url": "http://ncpta.e21cn.com/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "中共南充市委组织部 南充市人力资源和社会保障局关于南充市2025年上半年事业单位公开考试招聘工作人员公告（580人）",
+          "date": "2025-03-07",
+          "headcount": 580,
+          "positions": null,
+          "source": "南充人事考试中心",
+          "url": "http://ncpta.e21cn.com/newsDetail/10171.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "南充市2025年度公开考试录用公务员拟录用人员公示（三）",
+          "date": "2025-08-20",
+          "headcount": null,
+          "positions": null,
+          "source": "南充人事考试中心",
+          "url": "http://ncpta.e21cn.com/newsDetail/10573.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "急需紧缺专业选调",
+          "title": "中共南充市委组织部关于南充市2026届急需紧缺专业选调生面试资格审查及面试有关事项的公告",
+          "date": "2025-11-06",
+          "headcount": null,
+          "positions": null,
+          "source": "四川省人力资源和社会保障厅人事考试专栏",
+          "url": "https://www.scpta.com.cn/front/News/info/ad9e5b48d16a4475be1bc9556a85bf5d?t=56",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 511400,
+      "name": "眉山市",
+      "districts": [
+        "东坡区",
+        "彭山区",
+        "仁寿县",
+        "洪雅县",
+        "丹棱县",
+        "青神县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "中共眉山市委 眉山市人民政府门户网站 招考录用",
+          "url": "https://www.ms.gov.cn/zfxxgk/fdzdgknr/zkly.htm"
+        },
+        {
+          "category": "事业单位",
+          "name": "中共眉山市委 眉山市人民政府门户网站 招考录用",
+          "url": "https://www.ms.gov.cn/zfxxgk/fdzdgknr/zkly.htm"
+        },
+        {
+          "category": "人才引进",
+          "name": "眉州人才网",
+          "url": "https://www.msdprc.com/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "中共眉山市委组织部 眉山市人力资源和社会保障局关于四川省眉山市2025年引进人才公告（207名）",
+          "date": "2025-09-22",
+          "headcount": 207,
+          "positions": null,
+          "source": "中共眉山市委 眉山市人民政府门户网站",
+          "url": "https://www.ms.gov.cn/info/6611/1191606.htm",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "中共眉山市委组织部关于眉山市2026年度考试录用公务员（四级联考、公安系统、基层选调生）拟录用人员名单的公示",
+          "date": "2026-04-14",
+          "headcount": null,
+          "positions": null,
+          "source": "中共眉山市委 眉山市人民政府门户网站",
+          "url": "https://www.ms.gov.cn/info/6610/1198985.htm",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "眉山市文化广播电视和旅游局关于眉山市美术馆2025年公开引进优秀人才拟聘用人员公示",
+          "date": "2026-06-08",
+          "headcount": null,
+          "positions": null,
+          "source": "中共眉山市委 眉山市人民政府门户网站",
+          "url": "https://www.ms.gov.cn/info/6611/1200191.htm",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 511500,
+      "name": "宜宾市",
+      "districts": [
+        "翠屏区",
+        "南溪区",
+        "叙州区",
+        "江安县",
+        "长宁县",
+        "高县",
+        "珙县",
+        "筠连县",
+        "兴文县",
+        "屏山县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "宜宾人事考试网",
+          "url": "https://www.ybrsks.com.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "宜宾人事考试网",
+          "url": "https://www.ybrsks.com.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "四川省宜宾市2025年下半年引进人才公告（3938名）",
+          "date": "2025-09-15",
+          "headcount": 3938,
+          "positions": null,
+          "source": "宜宾人事考试网",
+          "url": "https://www.ybrsks.com.cn/#/websitepublicnewsone?newsId=0c72b85e-9280-41ec-94f3-5f654e7c67b2",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "宜宾市2026年度公开考试录用公务员笔试成绩和职位排名公告",
+          "date": "2026-01-13",
+          "headcount": null,
+          "positions": null,
+          "source": "宜宾人事考试网",
+          "url": "https://www.ybrsks.com.cn/#/websitepublicnewsone?newsId=4bed7463-4a66-4b10-89e2-0259065f7093",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "宜宾市叙州区2026年度公开考试录用公务员拟补充录用人员公示",
+          "date": "2026-07-31",
+          "headcount": null,
+          "positions": null,
+          "source": "宜宾人事考试网",
+          "url": "https://www.ybrsks.com.cn/#/websitepublicnewsone?newsId=b10b4276-4a66-44cd-8c7c-23d6247bb1aa",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 511600,
+      "name": "广安市",
+      "districts": [
+        "广安区",
+        "前锋区",
+        "岳池县",
+        "武胜县",
+        "邻水县",
+        "华蓥市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "广安党建网（小平故里先锋）",
+          "url": "https://www.gadj.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "广安市人民政府 招考信息",
+          "url": "https://www.guang-an.gov.cn/zfxxgk/c112411/common_list.shtml"
+        },
+        {
+          "category": "人才引进",
+          "name": "广安党建网 通知公告",
+          "url": "https://www.gadj.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "广安市2025年上半年公开考试招聘事业单位工作人员公告（502名）",
+          "date": "2025-03-07",
+          "headcount": 502,
+          "positions": null,
+          "source": "广安市人民政府",
+          "url": "https://www.guang-an.gov.cn/zfxxgk/c112411/pc/content/content_1897838482750517248.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "广安市2025年度公开考试录用公务员拟录用人员公示（第二批）",
+          "date": "2025-11-27",
+          "headcount": null,
+          "positions": null,
+          "source": "广安党建网",
+          "url": "https://www.gadj.gov.cn/news/newsNoticeInfo.html?id=c5b3d9af3aa446ba9a01c7190aa6d512",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "华蓥市2025年上半年“小平故里英才计划”引进急需紧缺专业人才公告",
+          "date": "2025-04-25",
+          "headcount": null,
+          "positions": null,
+          "source": "广安党建网",
+          "url": "https://www.gadj.gov.cn/news/noticeinfo.html?id=af1519ea3b0e41768be6b3e7825817f6&num=1",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 511700,
+      "name": "达州市",
+      "districts": [
+        "通川区",
+        "达川区",
+        "宣汉县",
+        "开江县",
+        "大竹县",
+        "渠县",
+        "万源市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "达州人事考试网",
+          "url": "https://www.dzrsks.com.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "达州人事考试网",
+          "url": "https://www.dzrsks.com.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "四川省达州市“达人英才计划”2025年事业单位引才公告（北京场，196人）",
+          "date": "2025-10-22",
+          "headcount": 196,
+          "positions": null,
+          "source": "达州人事考试网",
+          "url": "https://www.dzrsks.com.cn/newsDetail/8964.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "达州市2025年度公开考试录用公务员（补充录用第二批）拟录用人员公示",
+          "date": "2025-09-10",
+          "headcount": null,
+          "positions": null,
+          "source": "达州人事考试网",
+          "url": "https://www.dzrsks.com.cn/newsDetail/8916.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "达州市2025年度四级联考等公开考试录用公务员拟录用人员公示（第一批）",
+          "date": "2025-05-07",
+          "headcount": null,
+          "positions": null,
+          "source": "达州人事考试网",
+          "url": "https://www.dzrsks.com.cn/newsDetail/8629.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "急需紧缺专业选调",
+          "title": "中共达州市委组织部关于达州市2026届急需紧缺专业选调生面试资格审查及面试有关事项的公告",
+          "date": "2025-11-06",
+          "headcount": null,
+          "positions": null,
+          "source": "四川省人力资源和社会保障厅人事考试专栏",
+          "url": "https://www.scpta.com.cn/front/News/info/7898adaa1ae946d2ae909529e3b2e6a4?t=56",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 511800,
+      "name": "雅安市",
+      "districts": [
+        "雨城区",
+        "名山区",
+        "荥经县",
+        "汉源县",
+        "石棉县",
+        "天全县",
+        "芦山县",
+        "宝兴县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "雅安人事考试网",
+          "url": "https://www.yarsks.com.cn/"
+        },
+        {
+          "category": "公务员",
+          "name": "雅安党建网",
+          "url": "https://www.yadjw.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "雅安人事考试网",
+          "url": "https://www.yarsks.com.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "雅安市人力资源和社会保障局关于公开考试招聘2025年事业单位工作人员公告（59名）",
+          "date": "2025-12-01",
+          "headcount": 59,
+          "positions": null,
+          "source": "雅安人事考试网",
+          "url": "https://www.yarsks.com.cn/newsDetail/12146.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "雅安市2026年度公开考试录用公务员面试资格审查公告",
+          "date": "2026-01-14",
+          "headcount": null,
+          "positions": null,
+          "source": "雅安党建网",
+          "url": "https://www.yadjw.gov.cn/news/yadjw_01/202623/2623865.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "雅安市2026年度公开考试录用公务员拟录用人员公示（二）",
+          "date": "2026-05-15",
+          "headcount": null,
+          "positions": null,
+          "source": "雅安人事考试网",
+          "url": "https://www.yarsks.com.cn/newsDetail/12515.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 511900,
+      "name": "巴中市",
+      "districts": [
+        "巴州区",
+        "恩阳区",
+        "通江县",
+        "南江县",
+        "平昌县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "巴中党建网（中共巴中市委组织部）",
+          "url": "https://www.bzswzzb.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "巴中市人力资源和社会保障局 人事考试专栏",
+          "url": "https://rlzyshbzj.cnbz.gov.cn/ztzl/bzrsks/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "四川省巴中市2025年上半年公开考试招聘事业单位工作人员公告（医疗卫生岗位206名）",
+          "date": "2025-03-07",
+          "headcount": 206,
+          "positions": null,
+          "source": "巴中市人力资源和社会保障局",
+          "url": "https://rlzyshbzj.cnbz.gov.cn/ztzl/bzrsks/ksdt/23137659.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "巴中市2025年度公开考试录用公务员拟录用人员公示（第三批）",
+          "date": "2025-06-16",
+          "headcount": null,
+          "positions": null,
+          "source": "巴中党建网",
+          "url": "https://www.bzswzzb.gov.cn/tzgg/23185221.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 512000,
+      "name": "资阳市",
+      "districts": [
+        "雁江区",
+        "安岳县",
+        "乐至县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "资阳人事考试网",
+          "url": "https://www.zypta.org.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "资阳人事考试网",
+          "url": "https://www.zypta.org.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "资阳市2025年上半年公开考试招聘事业单位工作人员公告（206人）",
+          "date": "2025-03-07",
+          "headcount": 206,
+          "positions": null,
+          "source": "四川省人力资源和社会保障厅人事考试专栏",
+          "url": "https://www.scpta.com.cn/content-61-552E920644CAED0C",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "资阳市2025年公开考试录用公务员补充录用拟录用人员公示（第二批）",
+          "date": "2025-08-21",
+          "headcount": null,
+          "positions": null,
+          "source": "资阳人事考试网",
+          "url": "https://www.zypta.org.cn/zyks/news/show/17983",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "中共资阳市雁江区委组织部 资阳市雁江区人力资源和社会保障局关于资阳市雁江区事业单位2026年度公开引进急需紧缺专业人才笔试面试及资格复审有关事项的公告",
+          "date": "2026-05-22",
+          "headcount": null,
+          "positions": null,
+          "source": "资阳人事考试网",
+          "url": "https://www.zypta.org.cn/zyks/news/show/18440",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 513200,
+      "name": "阿坝藏族羌族自治州",
+      "districts": [
+        "马尔康市",
+        "汶川县",
+        "理县",
+        "茂县",
+        "松潘县",
+        "九寨沟县",
+        "金川县",
+        "小金县",
+        "黑水县",
+        "壤塘县",
+        "阿坝县",
+        "若尔盖县",
+        "红原县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "阿坝州人民政府 招考信息",
+          "url": "https://abazhou.gov.cn/abazhou/c101965/nav_list_10.shtml"
+        },
+        {
+          "category": "事业单位",
+          "name": "阿坝州人民政府 招考信息",
+          "url": "https://abazhou.gov.cn/abazhou/c101965/nav_list_10.shtml"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "阿坝州2025年上半年事业单位公开考试招聘工作人员岗位调减公告",
+          "date": "2025-03-24",
+          "headcount": null,
+          "positions": null,
+          "source": "四川省人力资源和社会保障厅人事考试专栏",
+          "url": "https://www.scpta.com.cn/content-63-FA6545D639BFB082",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "阿坝州2025年上半年公开考试招聘事业单位工作人员拟聘用人员公示（第二批，244名）",
+          "date": "2025-09-26",
+          "headcount": 244,
+          "positions": null,
+          "source": "阿坝州人民政府",
+          "url": "https://abazhou.gov.cn/abazhou/c101965/202509/f452511482574ffeb266a117f673b7e4.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 513300,
+      "name": "甘孜藏族自治州",
+      "districts": [
+        "康定市",
+        "泸定县",
+        "丹巴县",
+        "九龙县",
+        "雅江县",
+        "道孚县",
+        "炉霍县",
+        "甘孜县",
+        "新龙县",
+        "德格县",
+        "白玉县",
+        "石渠县",
+        "色达县",
+        "理塘县",
+        "巴塘县",
+        "乡城县",
+        "稻城县",
+        "得荣县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "甘孜人事考试网",
+          "url": "https://www.gzzrsks.com.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "甘孜人事考试网",
+          "url": "https://www.gzzrsks.com.cn/"
+        },
+        {
+          "category": "公务员",
+          "name": "甘孜州人民政府 公示公告",
+          "url": "https://www.gzz.gov.cn/gsgg/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "甘孜州2026年度公开遴选（考调）公务员公告",
+          "date": "2026-07-10",
+          "headcount": null,
+          "positions": null,
+          "source": "甘孜州人民政府",
+          "url": "https://www.gzz.gov.cn/gsgg/article/722320",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "甘孜州2026年度公开考试录用公务员（人民警察）拟录用人员公示",
+          "date": "2026-05-12",
+          "headcount": null,
+          "positions": null,
+          "source": "甘孜人事考试网",
+          "url": "https://www.gzzrsks.com.cn/newsDetail/29953.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "甘孜州2026年度公开考试录用公务员考察结果公告",
+          "date": "2026-04-15",
+          "headcount": null,
+          "positions": null,
+          "source": "甘孜人事考试网",
+          "url": "https://www.gzzrsks.com.cn/newsDetail/29927.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 513400,
+      "name": "凉山彝族自治州",
+      "districts": [
+        "西昌市",
+        "会理市",
+        "盐源县",
+        "德昌县",
+        "会东县",
+        "宁南县",
+        "普格县",
+        "布拖县",
+        "金阳县",
+        "昭觉县",
+        "喜德县",
+        "冕宁县",
+        "越西县",
+        "甘洛县",
+        "美姑县",
+        "雷波县",
+        "木里藏族自治县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "凉山州人力资源和社会保障局 人事考试专栏",
+          "url": "https://rsj.lsz.gov.cn/lszrsks/rsksxwzx/"
+        },
+        {
+          "category": "事业单位",
+          "name": "凉山州人力资源和社会保障局 人事考试专栏",
+          "url": "https://rsj.lsz.gov.cn/lszrsks/rsksxwzx/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "凉山州2026年度公开考试录用公务员公告（556名）",
+          "date": "2025-10-29",
+          "headcount": 556,
+          "positions": null,
+          "source": "四川省人力资源和社会保障厅人事考试专栏",
+          "url": "https://www.scpta.com.cn/front/News/info/7cb585b02ba44be19753300ec8e3d164?t=56",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "凉山州2026年度公开考试录用公务员职位调整公告",
+          "date": "2025-11-12",
+          "headcount": null,
+          "positions": null,
+          "source": "凉山州人力资源和社会保障局",
+          "url": "https://rsj.lsz.gov.cn/lszrsks/rsksxwzx/202511/t20251112_2905650.html",
+          "attachments": []
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "name": "四川大学",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.scu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "电子科技大学",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.uestc.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西南交通大学",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.swjtu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西南财经大学",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.swufe.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "四川农业大学",
+      "city": "雅安市",
+      "cityAdcode": 511800,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.sicau.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西南石油大学",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "双一流"
+      ],
+      "website": "https://www.swpu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "成都理工大学",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "双一流"
+      ],
+      "website": "https://www.cdut.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "成都中医药大学",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "双一流"
+      ],
+      "website": "https://www.cdutcm.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西南民族大学",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.swun.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西南科技大学",
+      "city": "绵阳市",
+      "cityAdcode": 510700,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.swust.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "成都信息工程大学",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.cuit.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "四川轻化工大学",
+      "city": "自贡市",
+      "cityAdcode": 510300,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.suse.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西华大学",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.xhu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国民用航空飞行学院",
+      "city": "德阳市",
+      "cityAdcode": 510600,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.cafuc.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西昌学院",
+      "city": "凉山彝族自治州",
+      "cityAdcode": 513400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xcc.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西南医科大学",
+      "city": "泸州",
+      "cityAdcode": 510500,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.swmu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "川北医学院",
+      "city": "南充市",
+      "cityAdcode": 511300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.nsmc.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "四川师范大学",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.sicnu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西华师范大学",
+      "city": "南充市",
+      "cityAdcode": 511300,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.cwnu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "绵阳师范学院",
+      "city": "绵阳市",
+      "cityAdcode": 510700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.mnu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "内江师范学院",
+      "city": "内江市",
+      "cityAdcode": 511000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.njtc.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "宜宾学院",
+      "city": "宜宾市",
+      "cityAdcode": 511500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.yibinu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "四川文理学院",
+      "city": "达州",
+      "cityAdcode": 511700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sasu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "阿坝师范学院",
+      "city": "阿坝藏族羌族自治州",
+      "cityAdcode": 513200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.abtu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "乐山师范学院",
+      "city": "乐山市",
+      "cityAdcode": 511100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.lsnu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "成都体育学院",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.cdsu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "四川音乐学院",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.sccm.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "成都大学",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.cdu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "成都工业学院",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cdtu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "攀枝花学院",
+      "city": "攀枝花市",
+      "cityAdcode": 510400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.pzhu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "四川旅游学院",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sctu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "四川民族学院",
+      "city": "甘孜藏族自治州",
+      "cityAdcode": 513300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.scun.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "四川警察学院",
+      "city": "泸州",
+      "cityAdcode": 510500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.scpolicec.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "成都医学院",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cmc.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "成都师范学院",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cdnu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "四川工程职业技术大学",
+      "city": "德阳市",
+      "cityAdcode": 510600,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.scpu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "成都航空职业技术大学",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cap.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "成都东软学院",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.nsu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "成都艺术职业大学",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.cdau.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "电子科技大学成都学院",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.cduestc.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "成都理工大学工程技术学院",
+      "city": "乐山市",
+      "cityAdcode": 511100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.cdutetc.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "四川传媒学院",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.scmc.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "成都银杏酒店管理学院",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.gingkoc.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "成都文理学院",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.cdcas.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "四川工商学院",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.stbu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "成都外国语学院",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.cisisu.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "四川工业科技学院",
+      "city": "德阳市",
+      "cityAdcode": 510600,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.scit.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "成都锦城学院",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.cdjcc.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西南财经大学天府学院",
+      "city": "绵阳市",
+      "cityAdcode": 510700,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.tfswufe.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "四川大学锦江学院",
+      "city": "眉山市",
+      "cityAdcode": 511400,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.scujj.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "四川文化艺术学院",
+      "city": "绵阳市",
+      "cityAdcode": 510700,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.scaart.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "绵阳城市学院",
+      "city": "绵阳市",
+      "cityAdcode": 510700,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.mycc.edu.cn/",
+      "hrUrl": "https://www.mycc.edu.cn/rczp.htm",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西南交通大学希望学院",
+      "city": "南充市",
+      "cityAdcode": 511300,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.swjtuhc.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "四川电影电视学院",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.sfc.edu.cn/",
+      "hrUrl": "https://zhaopin.sfc.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "吉利学院",
+      "city": "成都市",
+      "cityAdcode": 510100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.guc.edu.cn/",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    }
+  ]
+}

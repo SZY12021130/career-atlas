@@ -129,7 +129,7 @@ export default function AboutPage() {
           >
             <div className="flex items-center gap-3 mb-4">
               <span className="w-9 h-9 rounded-xl bg-cinnabar/10 flex items-center justify-center">
-                <sec.icon className="w-4.5 h-4.5 text-cinnabar" />
+                <sec.icon className="w-5 h-5 text-cinnabar" />
               </span>
               <h2 className="font-serif font-bold text-lg text-ink">{sec.title}</h2>
             </div>

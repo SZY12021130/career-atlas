@@ -1,0 +1,2053 @@
+{
+ "adcode": 370000,
+ "name": "山东省",
+ "updatedAt": "2026-08-25",
+ "provincePortals": [
+  {
+   "category": "公务员",
+   "name": "灯塔-党建在线（山东省公务员招录）",
+   "url": "https://www.dtdjzx.gov.cn/"
+  },
+  {
+   "category": "事业单位",
+   "name": "山东省人力资源和社会保障厅",
+   "url": "https://hrss.shandong.gov.cn/"
+  },
+  {
+   "category": "事业单位",
+   "name": "山东人事考试信息网",
+   "url": "http://hrss.shandong.gov.cn/rsks/"
+  },
+  {
+   "category": "选调",
+   "name": "灯塔-党建在线（山东省选调生招录）",
+   "url": "https://www.dtdjzx.gov.cn/"
+  },
+  {
+   "category": "人才引进",
+   "name": "山东省人民政府门户网站",
+   "url": "https://www.shandong.gov.cn/"
+  }
+ ],
+ "cities": [
+  {
+   "adcode": 370100,
+   "name": "济南市",
+   "districts": [
+    "历下区",
+    "市中区",
+    "槐荫区",
+    "天桥区",
+    "历城区",
+    "长清区",
+    "章丘区",
+    "济阳区",
+    "莱芜区",
+    "钢城区",
+    "平阴县",
+    "商河县"
+   ],
+   "portals": [
+    {
+     "category": "公务员",
+     "name": "灯塔-泉城党建（济南市公务员招录）",
+     "url": "https://jinan.dtdjzx.gov.cn/"
+    },
+    {
+     "category": "事业单位",
+     "name": "济南市人力资源和社会保障局",
+     "url": "http://jnhrss.jinan.gov.cn/"
+    },
+    {
+     "category": "事业单位",
+     "name": "济南事业单位公开招聘专题专栏",
+     "url": "http://jnhrss.jinan.gov.cn/col/col18625/index.html"
+    }
+   ],
+   "recruitments": [
+    {
+     "year": 2025,
+     "category": "事业单位",
+     "title": "2025年度济南市市属事业单位公开招聘初级综合类岗位人员公告",
+     "date": "2025-02-13",
+     "headcount": 213,
+     "positions": null,
+     "source": "济南市人力资源和社会保障局",
+     "url": "http://jnhrss.jinan.gov.cn/art/2025/2/13/art_18625_4805501.html"
+    },
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年度济南市人力资源和社会保障局所属事业单位初级综合类岗位公开招聘拟聘用人员名单公示",
+     "date": "2025-06-26",
+     "headcount": null,
+     "positions": null,
+     "source": "济南市人力资源和社会保障局",
+     "url": "http://jnhrss.jinan.gov.cn/art/2025/6/26/art_18578_4808864.html"
+    },
+    {
+     "year": 2025,
+     "category": "公务员",
+     "title": "2025年度济南市各级机关补充录用公务员面试有关事项公告",
+     "date": "2025-05-15",
+     "headcount": null,
+     "positions": null,
+     "source": "济南市公务员局",
+     "url": "https://jinan.dtdjzx.gov.cn/cmsx/p582/tzgg/57410.html"
+    },
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年度济南市各级机关考试录用公务员第一批拟录用人员公示",
+     "date": "2025-04-15",
+     "headcount": null,
+     "positions": null,
+     "source": "济南市公务员局",
+     "url": "https://jinan.dtdjzx.gov.cn/cmsx/p582/tzgg/55774.html"
+    },
+    {
+     "year": 2025,
+     "category": "公务员",
+     "title": "2025年度济南市各级机关考试录用公务员取消招录计划公告",
+     "date": "2024-11-15",
+     "headcount": null,
+     "positions": null,
+     "source": "济南市公务员局",
+     "url": "https://jinan.dtdjzx.gov.cn/cmsx/p582/tzgg/49558.html"
+    }
+   ]
+  },
+  {
+   "adcode": 370200,
+   "name": "青岛市",
+   "districts": [
+    "市南区",
+    "市北区",
+    "黄岛区",
+    "崂山区",
+    "李沧区",
+    "城阳区",
+    "即墨区",
+    "胶州市",
+    "平度市",
+    "莱西市"
+   ],
+   "portals": [
+    {
+     "category": "公务员",
+     "name": "灯塔-青岛组工（录用公务员专题）",
+     "url": "http://zzb.qingdao.gov.cn/ztzl/gwykszl/tzgg/"
+    },
+    {
+     "category": "事业单位",
+     "name": "青岛市人力资源和社会保障局（事业单位招聘专栏）",
+     "url": "https://hrss.qingdao.gov.cn/ztzl_47/sydwzp_47/zpjz_47/"
+    },
+    {
+     "category": "选调",
+     "name": "灯塔-青岛组工（青选计划专栏）",
+     "url": "http://zzb.qingdao.gov.cn/ztzl/qxjh/"
+    }
+   ],
+   "recruitments": [
+    {
+     "year": 2025,
+     "category": "公务员",
+     "title": "2025年度青岛市各级机关补充录用公务员公告",
+     "date": "2025-05-09",
+     "headcount": 46,
+     "positions": null,
+     "source": "青岛市公务员局",
+     "url": "http://zzb.qingdao.gov.cn/ztzl/gwykszl/tzgg/202505/t20250508_9448193.html"
+    },
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年度青岛市各级机关考试录用公务员第一批拟录用人员公示",
+     "date": "2025-04-23",
+     "headcount": 763,
+     "positions": null,
+     "source": "青岛市公务员局",
+     "url": "http://zzb.qingdao.gov.cn/ztzl/gwykszl/tzgg/202504/t20250423_9355995.html"
+    },
+    {
+     "year": 2025,
+     "category": "事业单位",
+     "title": "2025年度青岛市市属事业单位公开招聘工作人员简章",
+     "date": "2025-02-13",
+     "headcount": 222,
+     "positions": null,
+     "source": "青岛市人力资源和社会保障局",
+     "url": "https://hrss.qingdao.gov.cn/ztzl_47/sydwzp_47/zpjz_47/202502/t20250213_8944001.shtml",
+     "attachments": [
+      {
+       "name": "2025年青岛市市属事业单位公开招聘工作人员岗位汇总表.xlsx",
+       "url": "https://hrss.qingdao.gov.cn/ztzl_47/sydwzp_47/zpjz_47/202502/P020250213367165771644.xlsx",
+       "local": "attachments/370200/2025年青岛市市属事业单位公开招聘工作人员岗位汇总表.xlsx"
+      },
+      {
+       "name": "2025年青岛市市属事业单位公开招聘工作人员应聘须知.doc",
+       "url": "https://hrss.qingdao.gov.cn/ztzl_47/sydwzp_47/zpjz_47/202502/P020250213367165904044.doc",
+       "local": "attachments/370200/2025年青岛市市属事业单位公开招聘工作人员应聘须知.doc"
+      }
+     ]
+    },
+    {
+     "year": 2025,
+     "category": "选调生",
+     "title": "青岛市2025年“青选计划”选调公告",
+     "date": "2024-11-18",
+     "headcount": 420,
+     "positions": null,
+     "source": "青岛市公务员局",
+     "url": "http://zzb.qingdao.gov.cn/ztzl/qxjh/202411/t20241118_8587264.html",
+     "subCategory": "定向选调"
+    }
+   ]
+  },
+  {
+   "adcode": 370300,
+   "name": "淄博市",
+   "districts": [
+    "淄川区",
+    "张店区",
+    "博山区",
+    "临淄区",
+    "周村区",
+    "桓台县",
+    "高青县",
+    "沂源县"
+   ],
+   "portals": [
+    {
+     "category": "公务员",
+     "name": "灯塔-淄博党建（公务员管理专栏）",
+     "url": "https://zb.dtdjzx.gov.cn/"
+    },
+    {
+     "category": "事业单位",
+     "name": "淄博市人力资源和社会保障局",
+     "url": "https://hrss.zibo.gov.cn/"
+    },
+    {
+     "category": "事业单位",
+     "name": "淄博市事业单位招聘专栏",
+     "url": "https://hrss.zibo.gov.cn/col/col2387/index.html"
+    }
+   ],
+   "recruitments": [
+    {
+     "year": 2025,
+     "category": "公务员",
+     "title": "2025年度淄博市各级机关考试录用公务员核减招录计划公告",
+     "date": "2024-11-14",
+     "headcount": null,
+     "positions": null,
+     "source": "淄博市公务员局",
+     "url": "http://www.zbdj.gov.cn/tzgg/14739.jhtml"
+    },
+    {
+     "year": 2025,
+     "category": "事业单位",
+     "title": "2025年度淄博市市属事业单位公开招聘综合类岗位工作人员公告",
+     "date": "2025-02-13",
+     "headcount": 24,
+     "positions": null,
+     "source": "淄博市人力资源和社会保障局",
+     "url": "https://hrss.zibo.gov.cn/art/2025/2/13/art_1059_2893041.html"
+    },
+    {
+     "year": 2025,
+     "category": "公务员",
+     "title": "2025年度淄博市各级机关补充录用公务员通过网上资格审查人员名单",
+     "date": "2025-05-15",
+     "headcount": null,
+     "positions": null,
+     "source": "淄博市公务员局",
+     "url": "https://zb.dtdjzx.gov.cn/cmsx/p926/gwygl/56919.html"
+    },
+    {
+     "year": 2026,
+     "category": "公务员",
+     "title": "2026年度淄博市面向优秀本土人才招录基层公务员公告",
+     "date": "2025-11-05",
+     "headcount": null,
+     "positions": null,
+     "source": "淄博市公务员局",
+     "url": "https://zb.dtdjzx.gov.cn/cmsx/p926/gwygl/68618.html"
+    }
+   ]
+  },
+  {
+   "adcode": 370400,
+   "name": "枣庄市",
+   "districts": [
+    "市中区",
+    "薛城区",
+    "峄城区",
+    "台儿庄区",
+    "山亭区",
+    "滕州市"
+   ],
+   "portals": [
+    {
+     "category": "公务员",
+     "name": "灯塔-枣庄党建在线（录用公务员专题）",
+     "url": "http://www.dtzz.gov.cn/"
+    },
+    {
+     "category": "事业单位",
+     "name": "枣庄市人力资源和社会保障局（事业单位公开招聘专题）",
+     "url": "http://zzhrss.zaozhuang.gov.cn/ztzl/sydwgkzpzt/zpxx/"
+    }
+   ],
+   "recruitments": [
+    {
+     "year": 2025,
+     "category": "事业单位",
+     "title": "2025年度枣庄市市直事业单位公开招聘初级综合类岗位工作人员公告",
+     "date": "2025-02-13",
+     "headcount": 57,
+     "positions": null,
+     "source": "枣庄市人力资源和社会保障局",
+     "url": "http://zzhrss.zaozhuang.gov.cn/ywdt/tzgg/202502/t20250213_2011436.html",
+     "attachments": [
+      {
+       "name": "2025年枣庄市市直事业单位公开招聘初级综合类岗位人员岗位汇总表.xlsx",
+       "url": "http://zzhrss.zaozhuang.gov.cn/ywdt/tzgg/202502/W020250213560167584720.xlsx",
+       "local": "attachments/370400/2025年枣庄市市直事业单位公开招聘初级综合类岗位人员岗位汇总表.xlsx"
+      }
+     ]
+    },
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年度枣庄市市直事业单位公开招聘初级综合类岗位拟聘用人员公示",
+     "date": "2025-07-07",
+     "headcount": 56,
+     "positions": null,
+     "source": "枣庄市人力资源和社会保障局",
+     "url": "http://zzhrss.zaozhuang.gov.cn/ztzl/sydwgkzpzt/wsgs/202507/t20250707_2112323.html"
+    },
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年度枣庄市各级机关考试录用公务员（参公人员）第六批拟录用人员公示",
+     "date": "2026-03-16",
+     "headcount": null,
+     "positions": null,
+     "source": "枣庄市公务员局",
+     "url": "https://zz.dtdjzx.gov.cn/cmsx/p958/gwyzlgs/74687.html"
+    }
+   ]
+  },
+  {
+   "adcode": 370500,
+   "name": "东营市",
+   "districts": [
+    "东营区",
+    "河口区",
+    "垦利区",
+    "利津县",
+    "广饶县"
+   ],
+   "portals": [
+    {
+     "category": "公务员",
+     "name": "灯塔-东营党建在线",
+     "url": "http://www.dongyingdj.gov.cn/"
+    },
+    {
+     "category": "事业单位",
+     "name": "东营市人事考试信息网",
+     "url": "http://www.dyrsks.cn/"
+    }
+   ],
+   "recruitments": [
+    {
+     "year": 2025,
+     "category": "事业单位",
+     "title": "2025年度东营市市属事业单位公开招聘工作人员公告",
+     "date": "2025-02-13",
+     "headcount": null,
+     "positions": null,
+     "source": "东营市人力资源和社会保障局/东营市人事考试信息网",
+     "url": "http://www.dyrsks.cn/gwysydwks_5007.html"
+    },
+    {
+     "year": 2025,
+     "category": "人才引进",
+     "title": "东营市市属事业单位2025年“千名英才”选聘公告",
+     "date": "2025-04-21",
+     "headcount": 162,
+     "positions": null,
+     "source": "东营市人事考试信息网",
+     "url": "http://www.dyrsks.cn/gwysydwks_5043.html"
+    },
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年度东营市各级机关考试录用公务员第一批拟录用人员公示",
+     "date": "2025-04-23",
+     "headcount": null,
+     "positions": null,
+     "source": "东营市公务员局",
+     "url": "http://www.dongyingdj.gov.cn/home/article/index/id/29512/cid/45"
+    }
+   ]
+  },
+  {
+   "adcode": 370600,
+   "name": "烟台市",
+   "districts": [
+    "芝罘区",
+    "福山区",
+    "牟平区",
+    "莱山区",
+    "蓬莱区",
+    "龙口市",
+    "莱阳市",
+    "莱州市",
+    "招远市",
+    "栖霞市",
+    "海阳市"
+   ],
+   "portals": [
+    {
+     "category": "公务员",
+     "name": "灯塔·烟台智慧党建（录用公务员专栏）",
+     "url": "https://ytdangjian.yantai.gov.cn/"
+    },
+    {
+     "category": "事业单位",
+     "name": "烟台市人力资源和社会保障局",
+     "url": "http://rshj.yantai.gov.cn/"
+    }
+   ],
+   "recruitments": [
+    {
+     "year": 2025,
+     "category": "公务员",
+     "title": "2025年度烟台市各级机关考试录用公务员公告",
+     "date": "2024-11-05",
+     "headcount": 849,
+     "positions": null,
+     "source": "烟台市公务员局",
+     "url": "https://ytdangjian.yantai.gov.cn/art/2024/11/5/art_101633_18573.html"
+    },
+    {
+     "year": 2025,
+     "category": "事业单位",
+     "title": "2025年烟台市市属事业单位公开招聘初级综合类岗位人员简章",
+     "date": "2025-02-13",
+     "headcount": null,
+     "positions": null,
+     "source": "烟台市人力资源和社会保障局",
+     "url": "https://rshj.yantai.gov.cn/art/2025/2/13/art_117627_2908651.html",
+     "attachments": [
+      {
+       "name": "2025年烟台市市属事业单位公开招聘初级综合类岗位人员岗位汇总表.xls",
+       "url": "https://rshj.yantai.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web178/site/attach/0/b9f80bc1bdd14fbf8f5953b270120e7a.xls",
+       "local": "attachments/370600/2025年烟台市市属事业单位公开招聘初级综合类岗位人员岗位汇总表.xls"
+      },
+      {
+       "name": "2025年烟台市市属事业单位公开招聘初级综合类岗位人员应聘须知.doc",
+       "url": "https://rshj.yantai.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web178/site/attach/0/9a33180e6b0a43b9ab3cc2721688fe81.doc",
+       "local": "attachments/370600/2025年烟台市市属事业单位公开招聘初级综合类岗位人员应聘须知.doc"
+      }
+     ]
+    },
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年烟台市市属事业单位公开招聘初级综合类岗位拟聘用人员公示（一）",
+     "date": "2025-07-11",
+     "headcount": null,
+     "positions": null,
+     "source": "烟台市人力资源和社会保障局",
+     "url": "http://rshj.yantai.gov.cn/art/2025/7/11/art_117628_2909832.html"
+    }
+   ]
+  },
+  {
+   "adcode": 370700,
+   "name": "潍坊市",
+   "districts": [
+    "潍城区",
+    "寒亭区",
+    "坊子区",
+    "奎文区",
+    "临朐县",
+    "昌乐县",
+    "青州市",
+    "诸城市",
+    "寿光市",
+    "安丘市",
+    "高密市",
+    "昌邑市"
+   ],
+   "portals": [
+    {
+     "category": "公务员",
+     "name": "灯塔-潍坊党建在线（录用公务员专栏）",
+     "url": "http://www.wfzzb.gov.cn/"
+    },
+    {
+     "category": "事业单位",
+     "name": "潍坊市人力资源和社会保障局",
+     "url": "http://rsj.weifang.gov.cn/"
+    }
+   ],
+   "recruitments": [
+    {
+     "year": 2025,
+     "category": "事业单位",
+     "title": "2025年潍坊市市直事业单位公开招聘初级综合类岗位人员公告",
+     "date": "2025-02-13",
+     "headcount": 87,
+     "positions": null,
+     "source": "潍坊市人力资源和社会保障局",
+     "url": "http://rsj.weifang.gov.cn/fwdt/ksjd/sydw/202502/t20250213_6471568.html"
+    },
+    {
+     "year": 2025,
+     "category": "公务员",
+     "title": "2025年度潍坊市各级机关补充录用公务员公告",
+     "date": "2025-05-09",
+     "headcount": null,
+     "positions": null,
+     "source": "潍坊市公务员局",
+     "url": "http://www.wfzzb.gov.cn/html/gwy/20347.html"
+    },
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年度潍坊市各级机关考试录用公务员拟录用人员公示",
+     "date": "2025-04-17",
+     "headcount": 605,
+     "positions": null,
+     "source": "潍坊市公务员局",
+     "url": "http://www.wfzzb.gov.cn/html/gwy/20329.html"
+    }
+   ]
+  },
+  {
+   "adcode": 370800,
+   "name": "济宁市",
+   "districts": [
+    "任城区",
+    "兖州区",
+    "微山县",
+    "鱼台县",
+    "金乡县",
+    "嘉祥县",
+    "汶上县",
+    "泗水县",
+    "梁山县",
+    "曲阜市",
+    "邹城市"
+   ],
+   "portals": [
+    {
+     "category": "公务员",
+     "name": "灯塔-济宁党建",
+     "url": "http://jnswzzb.jndq.gov.cn/"
+    },
+    {
+     "category": "事业单位",
+     "name": "济宁市人力资源和社会保障局（事业单位招聘专题）",
+     "url": "https://hrss.jining.gov.cn/col/col71291/index.html"
+    }
+   ],
+   "recruitments": [
+    {
+     "year": 2026,
+     "category": "公务员",
+     "title": "2026年度济宁市面向优秀本土人才招录基层公务员公告",
+     "date": "2025-11-05",
+     "headcount": null,
+     "positions": null,
+     "source": "济宁市公务员局",
+     "url": "http://jnswzzb.jndq.gov.cn/art/2025/11/5/art_36306_2707823.html"
+    },
+    {
+     "year": 2025,
+     "category": "公务员",
+     "title": "2025年度济宁市市级机关公开遴选公务员公告",
+     "date": "2025-06-09",
+     "headcount": null,
+     "positions": null,
+     "source": "济宁市公务员局",
+     "url": "https://zgjnds.jining.gov.cn/art/2025/6/9/art_62650_2683664.html"
+    },
+    {
+     "year": 2025,
+     "category": "事业单位",
+     "title": "2025年济宁市属事业单位公开招聘初级综合类岗位人员公告",
+     "date": "2025-02-13",
+     "headcount": null,
+     "positions": null,
+     "source": "济宁市人力资源和社会保障局",
+     "url": "http://hrss.jining.gov.cn/art/2025/2/13/art_71291_2716756.html"
+    },
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年济宁市属事业单位公开招聘初级综合类岗位拟聘用人员公示（一）",
+     "date": "2025-07-08",
+     "headcount": null,
+     "positions": null,
+     "source": "济宁市人力资源和社会保障局",
+     "url": "http://hrss.jining.gov.cn/art/2025/7/8/art_71291_2717603.html"
+    }
+   ]
+  },
+  {
+   "adcode": 370900,
+   "name": "泰安市",
+   "districts": [
+    "泰山区",
+    "岱岳区",
+    "宁阳县",
+    "东平县",
+    "新泰市",
+    "肥城市"
+   ],
+   "portals": [
+    {
+     "category": "公务员",
+     "name": "灯塔-泰山先锋",
+     "url": "https://taian.dtdjzx.gov.cn/"
+    },
+    {
+     "category": "事业单位",
+     "name": "泰安市人力资源和社会保障局",
+     "url": "https://rsj.taian.gov.cn/"
+    }
+   ],
+   "recruitments": [
+    {
+     "year": 2025,
+     "category": "事业单位",
+     "title": "2025年度泰安市属事业单位公开招聘初级综合类岗位人员公告",
+     "date": "2025-02-13",
+     "headcount": 127,
+     "positions": null,
+     "source": "泰安市人力资源和社会保障局",
+     "url": "https://rsj.taian.gov.cn/art/2025/2/13/art_317827_10314997.html",
+     "attachments": [
+      {
+       "name": "2025年度泰安市属事业单位公开招聘初级综合类岗位人员岗位汇总表.xlsx",
+       "url": "https://rsj.taian.gov.cn/module/download/downfile.jsp?classid=0&filename=8561e748354e412bb81c3a016712d6c3.xlsx",
+       "local": "attachments/370900/2025年度泰安市属事业单位公开招聘初级综合类岗位人员岗位汇总表.xlsx"
+      }
+     ]
+    },
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年度泰安市各级机关考试录用公务员拟录用人员公示",
+     "date": "2025-04-24",
+     "headcount": null,
+     "positions": null,
+     "source": "泰安市公务员局",
+     "url": "http://www.dtts.gov.cn/staticPage/zhuanti/gwyzkggzkgg/20250424/2409668.html"
+    },
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年度泰安市市级机关公开遴选公务员拟任职人员公示",
+     "date": "2025-08-12",
+     "headcount": 41,
+     "positions": null,
+     "source": "泰安市公务员局",
+     "url": "http://www.dtts.gov.cn/staticPage/zhuanti/lxxdzkgg/20250812/2409978.html"
+    }
+   ]
+  },
+  {
+   "adcode": 371000,
+   "name": "威海市",
+   "districts": [
+    "环翠区",
+    "文登区",
+    "荣成市",
+    "乳山市"
+   ],
+   "portals": [
+    {
+     "category": "公务员",
+     "name": "灯塔-威海党建在线",
+     "url": "https://wh.dtdjzx.gov.cn/"
+    },
+    {
+     "category": "公务员",
+     "name": "威海市人民政府（公务员招考招聘栏目）",
+     "url": "https://www.weihai.gov.cn/col/col59525/index.html"
+    },
+    {
+     "category": "事业单位",
+     "name": "威海市人力资源和社会保障局",
+     "url": "https://rsj.weihai.gov.cn/"
+    }
+   ],
+   "recruitments": [
+    {
+     "year": 2025,
+     "category": "公务员",
+     "title": "2025年度威海市各级机关补充录用公务员公告",
+     "date": "2025-05-09",
+     "headcount": null,
+     "positions": null,
+     "source": "威海市公务员局",
+     "url": "https://www.weihai.gov.cn/art/2025/5/9/art_59525_5544650.html"
+    },
+    {
+     "year": 2025,
+     "category": "公务员",
+     "title": "2025年度威海市各级机关考试录用公务员面试公告",
+     "date": "2025-01-17",
+     "headcount": null,
+     "positions": null,
+     "source": "威海市公务员局",
+     "url": "https://www.weihai.gov.cn/art/2025/1/17/art_59525_5545086.html"
+    },
+    {
+     "year": 2025,
+     "category": "事业单位",
+     "title": "2025年度威海市市属事业单位公开招聘初级综合类岗位人员公告",
+     "date": "2025-02-13",
+     "headcount": null,
+     "positions": null,
+     "source": "威海市人力资源和社会保障局",
+     "url": "https://www.weihai.gov.cn/art/2025/2/13/art_74500_5244906.html"
+    },
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年度威海市市属事业单位公开招聘初级综合类岗位拟聘用人员公示（一）",
+     "date": "2025-06-23",
+     "headcount": null,
+     "positions": null,
+     "source": "威海市人力资源和社会保障局",
+     "url": "https://www.weihai.gov.cn/art/2025/6/23/art_74500_5597085.html"
+    }
+   ]
+  },
+  {
+   "adcode": 371100,
+   "name": "日照市",
+   "districts": [
+    "东港区",
+    "岚山区",
+    "五莲县",
+    "莒县"
+   ],
+   "portals": [
+    {
+     "category": "公务员",
+     "name": "灯塔-日照先锋",
+     "url": "http://www.rzzzb.gov.cn/"
+    },
+    {
+     "category": "事业单位",
+     "name": "日照市人力资源和社会保障局（事业单位公开招聘专题）",
+     "url": "http://hrss.rizhao.gov.cn/"
+    }
+   ],
+   "recruitments": [
+    {
+     "year": 2025,
+     "category": "公务员",
+     "title": "2025年度日照市各级机关补充录用公务员公告",
+     "date": "2025-05-09",
+     "headcount": null,
+     "positions": null,
+     "source": "日照市公务员局",
+     "url": "http://www.rzzzb.gov.cn/web/articles?id=2420"
+    },
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年度日照市各级机关考试录用公务员拟录用人员公示（第三批）",
+     "date": "2025-04-29",
+     "headcount": null,
+     "positions": null,
+     "source": "日照市公务员局",
+     "url": "http://www.rzzzb.gov.cn/web/articles?id=2404"
+    },
+    {
+     "year": 2025,
+     "category": "事业单位",
+     "title": "2025年度日照市市属事业单位公开招聘初级综合类岗位人员面试资格审查公告",
+     "date": "2025-04-29",
+     "headcount": null,
+     "positions": null,
+     "source": "中共日照市委组织部、日照市人力资源和社会保障局",
+     "url": "http://hrss.rizhao.gov.cn/art/2025/4/29/art_33298_10323372.html"
+    },
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年度日照市市属事业单位公开招聘初级综合类岗位人员拟聘用人员公示（一）",
+     "date": "2025-07-07",
+     "headcount": 19,
+     "positions": null,
+     "source": "中共日照市委组织部、日照市人力资源和社会保障局",
+     "url": "http://hrss.rizhao.gov.cn/art/2025/7/7/art_33298_10324334.html"
+    },
+    {
+     "year": 2025,
+     "category": "人才引进",
+     "title": "日照市“逐日追梦·照亮未来”优秀青年人才引进公告",
+     "date": "2025-04-02",
+     "headcount": 110,
+     "positions": null,
+     "source": "日照市人力资源和社会保障局",
+     "url": "http://hrss.rizhao.gov.cn/art/2025/4/2/art_33298_10323054.html"
+    }
+   ]
+  },
+  {
+   "adcode": 371300,
+   "name": "临沂市",
+   "districts": [
+    "兰山区",
+    "罗庄区",
+    "河东区",
+    "沂南县",
+    "郯城县",
+    "沂水县",
+    "兰陵县",
+    "费县",
+    "平邑县",
+    "莒南县",
+    "蒙阴县",
+    "临沭县"
+   ],
+   "portals": [
+    {
+     "category": "公务员",
+     "name": "灯塔-临沂党建（录用公务员专栏）",
+     "url": "http://www.linyidj.gov.cn/"
+    },
+    {
+     "category": "事业单位",
+     "name": "临沂市人力资源和社会保障局",
+     "url": "http://rsj.linyi.gov.cn/"
+    }
+   ],
+   "recruitments": [
+    {
+     "year": 2025,
+     "category": "事业单位",
+     "title": "2025年临沂市市直部分事业单位公开招聘综合类岗位工作人员公告",
+     "date": "2025-02-13",
+     "headcount": 18,
+     "positions": null,
+     "source": "临沂市人力资源和社会保障局",
+     "url": "http://rsj.linyi.gov.cn/info/1024/37778.htm"
+    },
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年度临沂市各级机关考试录用公务员拟录用人员公示（第三批）",
+     "date": "2025-09-11",
+     "headcount": null,
+     "positions": null,
+     "source": "临沂市公务员局",
+     "url": "http://www.linyidj.gov.cn/gwyDetail.action?uuid=ff80808198d9e9f501993804f5f65811&organCode=001"
+    },
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年度临沂市各级机关补充录用公务员拟录用人员公示（第一批）",
+     "date": "2025-06-30",
+     "headcount": null,
+     "positions": null,
+     "source": "临沂市公务员局",
+     "url": "http://www.linyidj.gov.cn/gwyDetail.action?uuid=ff80808197bfaac70197bfc8b9d100ef&organCode=001"
+    }
+   ]
+  },
+  {
+   "adcode": 371400,
+   "name": "德州市",
+   "districts": [
+    "德城区",
+    "陵城区",
+    "宁津县",
+    "庆云县",
+    "临邑县",
+    "齐河县",
+    "平原县",
+    "夏津县",
+    "武城县",
+    "乐陵市",
+    "禹城市"
+   ],
+   "portals": [
+    {
+     "category": "公务员",
+     "name": "灯塔-德州党建",
+     "url": "http://dzdj.dezhou.gov.cn/"
+    },
+    {
+     "category": "事业单位",
+     "name": "德州市人力资源和社会保障局",
+     "url": "http://hrss.dezhou.gov.cn/"
+    }
+   ],
+   "recruitments": [
+    {
+     "year": 2025,
+     "category": "事业单位",
+     "title": "2025年度德州市事业单位公开招聘初级综合类岗位人员公告",
+     "date": "2025-02-13",
+     "headcount": 723,
+     "positions": null,
+     "source": "德州市人力资源和社会保障局",
+     "url": "http://hrss.dezhou.gov.cn/n49554914/n49555085/c92631813/content.html"
+    },
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年度德州市各级机关考录公务员第一批拟录用人员公示",
+     "date": "2025-04-24",
+     "headcount": 474,
+     "positions": null,
+     "source": "德州市公务员局",
+     "url": "http://dzdj.dezhou.gov.cn/n49970419/n49970453/c93610954/content.html"
+    },
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年度德州市各级机关补充录用公务员拟录用人员公示",
+     "date": "2025-06-30",
+     "headcount": 21,
+     "positions": null,
+     "source": "德州市公务员局",
+     "url": "http://dzdj.dezhou.gov.cn/n49970419/n49970453/c94617307/content.html"
+    }
+   ]
+  },
+  {
+   "adcode": 371500,
+   "name": "聊城市",
+   "districts": [
+    "东昌府区",
+    "茌平区",
+    "阳谷县",
+    "莘县",
+    "东阿县",
+    "冠县",
+    "高唐县",
+    "临清市"
+   ],
+   "portals": [
+    {
+     "category": "公务员",
+     "name": "灯塔-聊城组工网",
+     "url": "http://www.lczgw.gov.cn/"
+    },
+    {
+     "category": "事业单位",
+     "name": "聊城市人力资源和社会保障局",
+     "url": "http://rsj.liaocheng.gov.cn/"
+    }
+   ],
+   "recruitments": [
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年度聊城市各级机关考试录用公务员拟录用人员公示名单（第二批）",
+     "date": "2025-06-17",
+     "headcount": 42,
+     "positions": null,
+     "source": "中共聊城市委组织部",
+     "url": "http://www.lczgw.gov.cn/32614.html"
+    },
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年度聊城市各级机关补充录用公务员拟录用人员公示名单（第一批）",
+     "date": "2025-06-23",
+     "headcount": 32,
+     "positions": null,
+     "source": "中共聊城市委组织部",
+     "url": "http://www.lczgw.gov.cn/32615.html"
+    },
+    {
+     "year": 2025,
+     "category": "事业单位",
+     "title": "2025年聊城市市属事业单位初级综合类岗位公开招聘人员面试公告",
+     "date": "2025-05-20",
+     "headcount": null,
+     "positions": null,
+     "source": "聊城市人力资源和社会保障局",
+     "url": "http://rsj.liaocheng.gov.cn/channel_t_190_13627/doc_682c313e1a22fb7716550d6c.html"
+    },
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年聊城市市属事业单位初级综合类岗位公开招聘拟聘用人员公示",
+     "date": "2025-08-11",
+     "headcount": 66,
+     "positions": null,
+     "source": "中共聊城市委组织部、聊城市人力资源和社会保障局",
+     "url": "http://rsj.liaocheng.gov.cn/channel_t_190_13627/doc_6899babed2aabfa1c8e39cc0.html",
+     "attachments": [
+      {
+       "name": "2025年聊城市市属事业单位初级综合类岗位公开招聘拟聘用人员名单.pdf",
+       "url": "http://rsj.liaocheng.gov.cn/resources/public/20250811/6899baa9ab7169fe512ffc26.pdf",
+       "local": "attachments/371500/2025年聊城市市属事业单位初级综合类岗位公开招聘拟聘用人员名单.pdf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "adcode": 371600,
+   "name": "滨州市",
+   "districts": [
+    "滨城区",
+    "沾化区",
+    "惠民县",
+    "阳信县",
+    "无棣县",
+    "博兴县",
+    "邹平市"
+   ],
+   "portals": [
+    {
+     "category": "公务员",
+     "name": "灯塔-滨州党建",
+     "url": "http://www.bzzzb.gov.cn/"
+    },
+    {
+     "category": "事业单位",
+     "name": "滨州市人力资源和社会保障局",
+     "url": "http://rs.binzhou.gov.cn/"
+    }
+   ],
+   "recruitments": [
+    {
+     "year": 2026,
+     "category": "公务员",
+     "title": "2026年度滨州市各级机关考试录用公务员公告",
+     "date": "2025-11-05",
+     "headcount": null,
+     "positions": null,
+     "source": "滨州市公务员局",
+     "url": "http://www.bzzzb.gov.cn/contents/365/34594.html"
+    },
+    {
+     "year": 2025,
+     "category": "公务员",
+     "title": "2025年度滨州市各级机关补充录用公务员公告",
+     "date": "2025-05-09",
+     "headcount": 28,
+     "positions": null,
+     "source": "滨州市公务员局",
+     "url": "http://www.bzzzb.gov.cn/contents/14/34099.html"
+    },
+    {
+     "year": 2025,
+     "category": "事业单位",
+     "title": "2025年滨州市市属事业单位公开招聘人员公告",
+     "date": "2025-02-13",
+     "headcount": null,
+     "positions": null,
+     "source": "滨州市人力资源和社会保障局",
+     "url": "http://rs.binzhou.gov.cn/art/2025/2/13/art_120544_10312381.html"
+    },
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年滨州市市属事业单位公开招聘拟聘用人员公示",
+     "date": "2025-07-14",
+     "headcount": 60,
+     "positions": null,
+     "source": "滨州市人力资源和社会保障局",
+     "url": "http://rs.binzhou.gov.cn/art/2025/7/14/art_120545_10316138.html"
+    },
+    {
+     "year": 2025,
+     "category": "人才引进",
+     "title": "2025年滨州市面向社会公开招聘硕博士高层次人才公告",
+     "date": "2025-04-16",
+     "headcount": 168,
+     "positions": null,
+     "source": "中共滨州市委组织部",
+     "url": "http://www.bzzzb.gov.cn/contents/14/34038.html"
+    }
+   ]
+  },
+  {
+   "adcode": 371700,
+   "name": "菏泽市",
+   "districts": [
+    "牡丹区",
+    "定陶区",
+    "曹县",
+    "单县",
+    "成武县",
+    "巨野县",
+    "郓城县",
+    "鄄城县",
+    "东明县"
+   ],
+   "portals": [
+    {
+     "category": "公务员",
+     "name": "灯塔-菏泽党建",
+     "url": "https://hz.dtdjzx.gov.cn/"
+    },
+    {
+     "category": "事业单位",
+     "name": "菏泽市人力资源和社会保障局（菏泽人事考试网）",
+     "url": "http://hzrsj.heze.gov.cn/col/col120190/index.html"
+    }
+   ],
+   "recruitments": [
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年度菏泽市各级机关考试录用公务员第三批及补充录用公务员拟录用人员公示",
+     "date": "2025-06-23",
+     "headcount": 35,
+     "positions": null,
+     "source": "中共菏泽市委组织部",
+     "url": "http://www.hezedj.gov.cn/2c908088819842f70181ad7718a300f9/1937079713017257984.html"
+    },
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年度菏泽市各级机关考试录用公务员第二批拟录用人员公示",
+     "date": "2025-06-03",
+     "headcount": 27,
+     "positions": null,
+     "source": "中共菏泽市委组织部",
+     "url": "http://www.hezedj.gov.cn/2c908088819842f70181ad7718a300f9/1929815478272925696.html"
+    },
+    {
+     "year": 2025,
+     "category": "事业单位",
+     "title": "2025年度菏泽市属事业单位选聘工作人员公告",
+     "date": "2025-02-13",
+     "headcount": 23,
+     "positions": null,
+     "source": "中共菏泽市委组织部、菏泽市人力资源和社会保障局",
+     "url": "http://hzrsj.heze.gov.cn/2c908088819842f701819a1930070001/1894931520825827328.html"
+    },
+    {
+     "year": 2025,
+     "category": "录用公示",
+     "title": "2025年度菏泽市属事业单位公开招聘初级综合类岗位人员拟聘用人员公示",
+     "date": "2025-06-30",
+     "headcount": 33,
+     "positions": null,
+     "source": "中共菏泽市委组织部、菏泽市人力资源和社会保障局",
+     "url": "http://hzrsj.heze.gov.cn/2c908088819842f701819a1930070001/1939633668293341184.html"
+    }
+   ]
+  }
+ ],
+ "universities": [
+  {
+   "name": "山东大学",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "985",
+    "211",
+    "双一流"
+   ],
+   "website": "https://www.sdu.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "中国海洋大学",
+   "city": "青岛市",
+   "cityAdcode": 370200,
+   "tags": [
+    "985",
+    "211",
+    "双一流"
+   ],
+   "website": "https://www.ouc.edu.cn",
+   "hrUrl": "https://rsc.ouc.edu.cn",
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "中国石油大学（华东）",
+   "city": "青岛市",
+   "cityAdcode": 370200,
+   "tags": [
+    "211",
+    "双一流"
+   ],
+   "website": "https://www.upc.edu.cn",
+   "hrUrl": "https://rsc.upc.edu.cn",
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东科技大学",
+   "city": "青岛市",
+   "cityAdcode": 370200,
+   "tags": [
+    "省属重点",
+    "普通本科"
+   ],
+   "website": "https://www.sdust.edu.cn",
+   "hrUrl": "https://rsc.sdust.edu.cn",
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "青岛科技大学",
+   "city": "青岛市",
+   "cityAdcode": 370200,
+   "tags": [
+    "省属重点",
+    "普通本科"
+   ],
+   "website": "https://www.qust.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "济南大学",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "省属重点",
+    "普通本科"
+   ],
+   "website": "https://www.ujn.edu.cn",
+   "hrUrl": "https://rsc.ujn.edu.cn",
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "青岛理工大学",
+   "city": "青岛市",
+   "cityAdcode": 370200,
+   "tags": [
+    "省属重点",
+    "普通本科"
+   ],
+   "website": "https://www.qut.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东建筑大学",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.sdjzu.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "齐鲁工业大学",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "省属重点",
+    "普通本科"
+   ],
+   "website": "https://www.qlu.edu.cn",
+   "hrUrl": "https://rsc.qlu.edu.cn",
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东理工大学",
+   "city": "淄博市",
+   "cityAdcode": 370300,
+   "tags": [
+    "省属重点",
+    "普通本科"
+   ],
+   "website": "https://www.sdut.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东农业大学",
+   "city": "泰安市",
+   "cityAdcode": 370900,
+   "tags": [
+    "省属重点",
+    "普通本科"
+   ],
+   "website": "https://www.sdau.edu.cn",
+   "hrUrl": "https://rsc.sdau.edu.cn",
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "青岛农业大学",
+   "city": "青岛市",
+   "cityAdcode": 370200,
+   "tags": [
+    "省属重点",
+    "普通本科"
+   ],
+   "website": "https://www.qau.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东第二医科大学",
+   "city": "潍坊市",
+   "cityAdcode": 370700,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.sdsmu.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东第一医科大学",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "省属重点",
+    "普通本科"
+   ],
+   "website": "https://www.sdfmu.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东医药大学",
+   "city": "滨州市",
+   "cityAdcode": 371600,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.bzmc.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东中医药大学",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "省属重点",
+    "普通本科"
+   ],
+   "website": "https://www.sdutcm.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "济宁医学院",
+   "city": "济宁市",
+   "cityAdcode": 370800,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.jnmc.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东师范大学",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "省属重点",
+    "普通本科"
+   ],
+   "website": "https://www.sdnu.edu.cn",
+   "hrUrl": "https://rsc.sdnu.edu.cn",
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "曲阜师范大学",
+   "city": "济宁市",
+   "cityAdcode": 370800,
+   "tags": [
+    "省属重点",
+    "普通本科"
+   ],
+   "website": "https://www.qfnu.edu.cn",
+   "hrUrl": "https://rsc.qfnu.edu.cn",
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "聊城大学",
+   "city": "聊城市",
+   "cityAdcode": 371500,
+   "tags": [
+    "省属重点",
+    "普通本科"
+   ],
+   "website": "https://www.lcu.edu.cn",
+   "hrUrl": "https://rsc.lcu.edu.cn",
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "德州学院",
+   "city": "德州市",
+   "cityAdcode": 371400,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.dzu.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东航空学院",
+   "city": "滨州市",
+   "cityAdcode": 371600,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.bzu.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "鲁东大学",
+   "city": "烟台市",
+   "cityAdcode": 370600,
+   "tags": [
+    "省属重点",
+    "普通本科"
+   ],
+   "website": "https://www.ldu.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "临沂大学",
+   "city": "临沂市",
+   "cityAdcode": 371300,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.lyu.edu.cn",
+   "hrUrl": "https://rsc.lyu.edu.cn",
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "泰山学院",
+   "city": "泰安市",
+   "cityAdcode": 370900,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.tsu.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "济宁学院",
+   "city": "济宁市",
+   "cityAdcode": 370800,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.jnxy.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "菏泽学院",
+   "city": "菏泽市",
+   "cityAdcode": 371700,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.hezeu.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东财经大学",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "省属重点",
+    "普通本科"
+   ],
+   "website": "https://www.sdufe.edu.cn",
+   "hrUrl": "https://rsc.sdufe.edu.cn",
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东体育学院",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.sdpei.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东艺术学院",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.sdca.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "枣庄学院",
+   "city": "枣庄市",
+   "cityAdcode": 370400,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.uzz.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东工艺美术学院",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.sdada.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "青岛大学",
+   "city": "青岛市",
+   "cityAdcode": 370200,
+   "tags": [
+    "省属重点",
+    "普通本科"
+   ],
+   "website": "https://www.qdu.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "烟台大学",
+   "city": "烟台市",
+   "cityAdcode": 370600,
+   "tags": [
+    "省属重点",
+    "普通本科"
+   ],
+   "website": "https://www.ytu.edu.cn",
+   "hrUrl": "https://rsc.ytu.edu.cn",
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "潍坊学院",
+   "city": "潍坊市",
+   "cityAdcode": 370700,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.wfu.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东警察学院",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.sdpc.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东交通学院",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.sdjtu.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东工商学院",
+   "city": "烟台市",
+   "cityAdcode": 370600,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.sdtbu.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东女子学院",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.sdwu.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东石油化工学院",
+   "city": "东营市",
+   "cityAdcode": 370500,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.sdipct.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东政法学院",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.sdupsl.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "齐鲁师范学院",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.qlnu.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东青年政治学院",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.sdyu.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东管理学院",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.sdmu.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东农业工程学院",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.sdaeu.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东商业职业技术大学",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.sict.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "日照职业技术大学",
+   "city": "日照市",
+   "cityAdcode": 371100,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.rzpt.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "滨州职业技术大学",
+   "city": "滨州市",
+   "cityAdcode": 371600,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.bzpt.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东科技职业大学",
+   "city": "潍坊市",
+   "cityAdcode": 370700,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.sdvcst.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "淄博职业技术大学",
+   "city": "淄博市",
+   "cityAdcode": 370300,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.zbpu.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "康复大学",
+   "city": "青岛市",
+   "cityAdcode": 370200,
+   "tags": [
+    "普通本科"
+   ],
+   "website": "https://www.uhrs.edu.cn",
+   "hrUrl": "http://hr.uhrs.edu.cn/",
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "齐鲁医药学院",
+   "city": "淄博市",
+   "cityAdcode": 370300,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://www.qlmu.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "青岛滨海学院",
+   "city": "青岛市",
+   "cityAdcode": 370200,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://www.qdbhu.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "烟台南山学院",
+   "city": "烟台市",
+   "cityAdcode": 370600,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://www.nanshan.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "潍坊科技学院",
+   "city": "潍坊市",
+   "cityAdcode": 370700,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://www.wfust.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东英才学院",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://www.sdycu.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "青岛恒星科技学院",
+   "city": "青岛市",
+   "cityAdcode": 370200,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://www.hx.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "青岛黄海学院",
+   "city": "青岛市",
+   "cityAdcode": 370200,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://www.qdhhc.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东现代学院",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://www.sdxd.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东协和学院",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://www.sdxiehe.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东工程职业技术大学",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://www.suet.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "烟台理工学院",
+   "city": "烟台市",
+   "cityAdcode": 370600,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://www.yitsd.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "聊城大学东昌学院",
+   "city": "聊城市",
+   "cityAdcode": 371500,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://www.lcudcc.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "青岛城市学院",
+   "city": "青岛市",
+   "cityAdcode": 370200,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://www.qdc.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "潍坊理工学院",
+   "city": "潍坊市",
+   "cityAdcode": 370700,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://www.wfit.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东财经大学燕山学院",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://ys.sdufe.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东外国语职业技术大学",
+   "city": "日照市",
+   "cityAdcode": 371100,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://www.swut.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "泰山科技学院",
+   "city": "泰安市",
+   "cityAdcode": 370900,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://www.tskjxy.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东华宇工学院",
+   "city": "德州市",
+   "cityAdcode": 371400,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://www.huayu.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东外事职业大学",
+   "city": "威海市",
+   "cityAdcode": 371000,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://www.sdws.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "青岛工学院",
+   "city": "青岛市",
+   "cityAdcode": 370200,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://www.qit.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "青岛农业大学海都学院",
+   "city": "烟台市",
+   "cityAdcode": 370600,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "http://www.hdxy.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "齐鲁理工学院",
+   "city": "济南市",
+   "cityAdcode": 370100,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://www.qlit.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "山东财经大学东方学院",
+   "city": "泰安市",
+   "cityAdcode": 370900,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://www.sdor.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "烟台科技学院",
+   "city": "烟台市",
+   "cityAdcode": 370600,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://www.ytkj.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "青岛电影学院",
+   "city": "青岛市",
+   "cityAdcode": 370200,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": "https://www.qdfa.edu.cn",
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  },
+  {
+   "name": "临沂工学院",
+   "city": "临沂市",
+   "cityAdcode": 371300,
+   "tags": [
+    "普通本科",
+    "民办"
+   ],
+   "website": null,
+   "hrUrl": null,
+   "talentPolicyUrl": null
+  }
+ ]
+}
