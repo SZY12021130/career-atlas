@@ -1,0 +1,2151 @@
+{
+  "adcode": 450000,
+  "name": "广西壮族自治区",
+  "updatedAt": "2026-08-25",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "八桂先锋网（中共广西壮族自治区委员会组织部）",
+      "url": "https://www.bgxf.gov.cn"
+    },
+    {
+      "category": "公务员",
+      "name": "广西人事考试网",
+      "url": "http://www.gxpta.com.cn"
+    },
+    {
+      "category": "事业单位",
+      "name": "广西壮族自治区人力资源和社会保障厅",
+      "url": "http://rst.gxzf.gov.cn"
+    },
+    {
+      "category": "事业单位",
+      "name": "广西人事考试网·事业单位公开招聘考试栏目",
+      "url": "https://www.gxpta.com.cn/ksxm/sydwzpks/"
+    },
+    {
+      "category": "选调",
+      "name": "八桂先锋网·选调生招录",
+      "url": "https://www.bgxf.gov.cn"
+    },
+    {
+      "category": "人才引进",
+      "name": "广西人才网（中国广西人才市场）",
+      "url": "https://www.gxrc.com"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 450100,
+      "name": "南宁市",
+      "districts": [
+        "兴宁区",
+        "青秀区",
+        "江南区",
+        "西乡塘区",
+        "良庆区",
+        "邕宁区",
+        "武鸣区",
+        "隆安县",
+        "马山县",
+        "上林县",
+        "宾阳县",
+        "横州市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南宁党建网（中共南宁市委组织部）",
+          "url": "https://www.nndj.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "南宁市人力资源和社会保障局",
+          "url": "http://rsj.nanning.gov.cn"
+        },
+        {
+          "category": "录用公示",
+          "name": "南宁市人民政府门户网站·公务员考录栏目",
+          "url": "https://www.nanning.gov.cn/zwgk/fdzdgknr/rsxx/gwyzk/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "广西壮族自治区2025年度考试录用公务员公告",
+          "date": "2025-02-08",
+          "headcount": 7532,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20250208/newgx67a6d011-124772.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "广西壮族自治区2026年度考试录用公务员公告",
+          "date": "2026-01-18",
+          "headcount": 5630,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20260118/newgx696c5be6-21059155.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2025年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2025-02-08",
+          "headcount": 565,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/sy/kstz/t2315.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2026年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2026-01-18",
+          "headcount": null,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/ksxm/gwyzlks/gx2026ndkslygwyxdszt/2026nxdsgg/t13231.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "南宁市2025年下半年公开考试招聘事业单位工作人员简章",
+          "date": "2025-08-31",
+          "headcount": 307,
+          "positions": null,
+          "source": "南宁市人民政府门户网站",
+          "url": "https://www.nanning.gov.cn/ggfw/bmfw/jyfw/jgsydwzk/t6403454.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "南宁市政务服务局2025年下半年公开考试招聘事业单位工作人员考察人选公告",
+          "date": "2025-12-15",
+          "headcount": null,
+          "positions": null,
+          "source": "南宁市人民政府门户网站",
+          "url": "https://www.nanning.gov.cn/zwgk/fdzdgknr/rsxx/klzp/t6498214.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "南宁市卫生健康委员会所属事业单位2025年公开招聘医药卫生类急需紧缺人才公告",
+          "date": "2025-05-13",
+          "headcount": null,
+          "positions": null,
+          "source": "南宁市人力资源和社会保障局",
+          "url": "https://rsj.nanning.gov.cn/tzgg/t6337378.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "南宁职业技术大学2025年公开招聘急需紧缺专业人才公告",
+          "date": "2025-06-16",
+          "headcount": null,
+          "positions": null,
+          "source": "南宁市人力资源和社会保障局",
+          "url": "http://rsj.nanning.gov.cn/tzgg/t6357527.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "南宁市审计局2025年度考试录用公务员拟录用人选公示（一）",
+          "date": "2025-06-30",
+          "headcount": null,
+          "positions": null,
+          "source": "南宁市人民政府门户网站",
+          "url": "https://www.nanning.gov.cn/zwgk/fdzdgknr/rsxx/gwyzk/t6369666.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 450200,
+      "name": "柳州市",
+      "districts": [
+        "城中区",
+        "鱼峰区",
+        "柳南区",
+        "柳北区",
+        "柳江区",
+        "柳城县",
+        "鹿寨县",
+        "融安县",
+        "融水苗族自治县",
+        "三江侗族自治县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "柳州党建网（中共柳州市委组织部）",
+          "url": "http://www.lzdj.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "柳州市人力资源和社会保障局·事业单位招聘专题",
+          "url": "http://rsj.liuzhou.gov.cn/ztzl/ywzt/lzsrcfwhrspxkszx/sydwzp/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "广西壮族自治区2025年度考试录用公务员公告",
+          "date": "2025-02-08",
+          "headcount": 7532,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20250208/newgx67a6d011-124772.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "广西壮族自治区2026年度考试录用公务员公告",
+          "date": "2026-01-18",
+          "headcount": 5630,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20260118/newgx696c5be6-21059155.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2025年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2025-02-08",
+          "headcount": 565,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/sy/kstz/t2315.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2026年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2026-01-18",
+          "headcount": null,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/ksxm/gwyzlks/gx2026ndkslygwyxdszt/2026nxdsgg/t13231.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "柳州市2025年度下半年事业单位公开考试招聘工作人员公告",
+          "date": "2025-08-29",
+          "headcount": null,
+          "positions": null,
+          "source": "柳州市人力资源和社会保障局",
+          "url": "http://rsj.liuzhou.gov.cn/ztzl/ywzt/lzsrcfwhrspxkszx/sydwzp/zpjz/202508/t20250829_3662507.shtml",
+          "attachments": [
+            {
+              "name": "2025年柳州市下半年事业单位公开考试招聘工作人员岗位表.xls",
+              "url": "http://rsj.liuzhou.gov.cn/ztzl/ywzt/lzsrcfwhrspxkszx/sydwzp/zpjz/202508/P020250901607132718076.xls",
+              "local": "attachments/450200/2025年柳州市下半年事业单位公开考试招聘工作人员岗位表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "2025年度柳州市事业单位公开招聘中高级（急需紧缺）人才公告（第二批）",
+          "date": "2025-05-16",
+          "headcount": null,
+          "positions": null,
+          "source": "柳州市人力资源和社会保障局",
+          "url": "http://rsj.liuzhou.gov.cn/ztzl/ywzt/lzsrcfwhrspxkszx/sydwzp/zpjz/202505/t20250516_3622330.shtml",
+          "attachments": [
+            {
+              "name": "2025年柳州市事业单位中高级（急需紧缺）人才公开招聘岗位表（第二批）.xls",
+              "url": "http://rsj.liuzhou.gov.cn/ztzl/ywzt/lzsrcfwhrspxkszx/sydwzp/zpjz/202505/P020250521506846542762.xls",
+              "local": "attachments/450200/2025年柳州市事业单位中高级（急需紧缺）人才公开招聘岗位表（第二批）.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "柳城县2025年度考试录用公务员拟录用人员公示（第四批）",
+          "date": "2025-07-21",
+          "headcount": null,
+          "positions": null,
+          "source": "柳州党建网",
+          "url": "http://www.lzdj.gov.cn/gsgg2016/gggs/202507/t20250721_3647413.html",
+          "attachments": [
+            {
+              "name": "2025年柳州市柳城县考试录用公务员拟录用人员名单（第四批）.xls",
+              "url": "http://www.lzdj.gov.cn/gsgg2016/gggs/202507/P020250721398885769901.xls",
+              "local": "attachments/450200/2025年柳州市柳城县考试录用公务员拟录用人员名单（第四批）.xls"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adcode": 450300,
+      "name": "桂林市",
+      "districts": [
+        "秀峰区",
+        "叠彩区",
+        "象山区",
+        "七星区",
+        "雁山区",
+        "临桂区",
+        "阳朔县",
+        "灵川县",
+        "全州县",
+        "兴安县",
+        "永福县",
+        "灌阳县",
+        "龙胜各族自治县",
+        "资源县",
+        "平乐县",
+        "恭城瑶族自治县",
+        "荔浦市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "桂林市人民政府门户网站·公务员招考录用栏目",
+          "url": "https://www.guilin.gov.cn/zfxxgk/fdzdgknr/jcxxgk/rsxx/gwyzkly/"
+        },
+        {
+          "category": "事业单位",
+          "name": "桂林市人力资源和社会保障局",
+          "url": "http://rsj.guilin.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "广西壮族自治区2025年度考试录用公务员公告",
+          "date": "2025-02-08",
+          "headcount": 7532,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20250208/newgx67a6d011-124772.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "广西壮族自治区2026年度考试录用公务员公告",
+          "date": "2026-01-18",
+          "headcount": 5630,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20260118/newgx696c5be6-21059155.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2025年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2025-02-08",
+          "headcount": 565,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/sy/kstz/t2315.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2026年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2026-01-18",
+          "headcount": null,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/ksxm/gwyzlks/gx2026ndkslygwyxdszt/2026nxdsgg/t13231.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "桂林市2025年度事业单位公开考试招聘工作人员面试公告",
+          "date": "2025-06-06",
+          "headcount": null,
+          "positions": null,
+          "source": "桂林市人力资源和社会保障局",
+          "url": "http://rsj.guilin.gov.cn/xwzx/tzgg/202506/t20250606_2871377.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "桂林市2025年度事业单位公开考试招聘工作人员体检公告（第一批）",
+          "date": "2025-07-15",
+          "headcount": null,
+          "positions": null,
+          "source": "桂林市人力资源和社会保障局",
+          "url": "https://rsj.guilin.gov.cn/xwzx/tzgg/202507/t20250715_2885742.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "桂林市2025年面向全国高校招聘急需紧缺专业人才公告",
+          "date": "2025-11-26",
+          "headcount": 147,
+          "positions": null,
+          "source": "桂林市人力资源和社会保障局",
+          "url": "https://rsj.guilin.gov.cn/xwzx/tzgg/202511/t20251126_2944451.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "中共桂林市纪律检查委员会2025年度考试录用公务员拟录用人员公示（第二批）",
+          "date": "2025-11-17",
+          "headcount": 1,
+          "positions": null,
+          "source": "桂林市人民政府门户网站",
+          "url": "https://www.guilin.gov.cn/zfxxgk/fdzdgknr/jcxxgk/rsxx/gwyzkly/t27148249.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 450400,
+      "name": "梧州市",
+      "districts": [
+        "万秀区",
+        "长洲区",
+        "龙圩区",
+        "苍梧县",
+        "藤县",
+        "蒙山县",
+        "岑溪市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "梧州市人民政府门户网站·公务员招考栏目",
+          "url": "http://www.wuzhou.gov.cn/zfxxgk_2/fdzdgknr/ldjy/gwyzk/"
+        },
+        {
+          "category": "事业单位",
+          "name": "梧州市人力资源和社会保障局·事业单位招聘栏目",
+          "url": "http://rsj.wuzhou.gov.cn/sydwzp/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "广西壮族自治区2025年度考试录用公务员公告",
+          "date": "2025-02-08",
+          "headcount": 7532,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20250208/newgx67a6d011-124772.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "广西壮族自治区2026年度考试录用公务员公告",
+          "date": "2026-01-18",
+          "headcount": 5630,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20260118/newgx696c5be6-21059155.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2025年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2025-02-08",
+          "headcount": 565,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/sy/kstz/t2315.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2026年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2026-01-18",
+          "headcount": null,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/ksxm/gwyzlks/gx2026ndkslygwyxdszt/2026nxdsgg/t13231.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "梧州市2025年面向社会公开考试招聘事业单位（非中小学教师岗位）人员拟聘用人员公示（二）",
+          "date": "2025-07-29",
+          "headcount": 445,
+          "positions": null,
+          "source": "梧州市人力资源和社会保障局",
+          "url": "http://rsj.wuzhou.gov.cn/sydwzp/t23361005.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "梧州市2025年面向社会公开考试招聘事业单位（非中小学教师岗位）人员面试公告",
+          "date": "2025-06-05",
+          "headcount": null,
+          "positions": null,
+          "source": "梧州市人力资源和社会保障局",
+          "url": "http://rsj.wuzhou.gov.cn/sydwzp/t21183554.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "苍梧县2025年度考试录用公务员拟录用人员公示（四）",
+          "date": "2025-09-25",
+          "headcount": null,
+          "positions": null,
+          "source": "梧州市人民政府门户网站",
+          "url": "http://www.wuzhou.gov.cn/zfxxgk_2/fdzdgknr/ldjy/gwyzk/t25999744.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "2025年下半年梧州市“梧桐英才”引进公告",
+          "date": "2025-09-24",
+          "headcount": null,
+          "positions": null,
+          "source": "梧州市委人才工作领导小组办公室（广州大学就业信息网转载）",
+          "url": "https://jy.gzhu.edu.cn/index.php/web/index/jobs-brief-detail?id=SVUXST6",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 450500,
+      "name": "北海市",
+      "districts": [
+        "海城区",
+        "银海区",
+        "铁山港区",
+        "合浦县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "北海市人民政府门户网站",
+          "url": "https://www.beihai.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "北海市人力资源和社会保障局·考录招聘栏目",
+          "url": "http://www.beihai.gov.cn/xxgkbm/bhsrlzyhshbzj/rszl_33/klzp/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "广西壮族自治区2025年度考试录用公务员公告",
+          "date": "2025-02-08",
+          "headcount": 7532,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20250208/newgx67a6d011-124772.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "广西壮族自治区2026年度考试录用公务员公告",
+          "date": "2026-01-18",
+          "headcount": 5630,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20260118/newgx696c5be6-21059155.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2025年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2025-02-08",
+          "headcount": 565,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/sy/kstz/t2315.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2026年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2026-01-18",
+          "headcount": null,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/ksxm/gwyzlks/gx2026ndkslygwyxdszt/2026nxdsgg/t13231.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "北海市2025年事业单位公开招聘工作人员面试公告",
+          "date": "2025-06-09",
+          "headcount": null,
+          "positions": null,
+          "source": "北海市人力资源和社会保障局",
+          "url": "http://www.beihai.gov.cn/xxgkbm/bhsrlzyhshbzj/rszl_33/klzp/t21185063.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "北海市2025年事业单位公开招聘拟聘用人员公示（第二批）",
+          "date": "2025-08-04",
+          "headcount": 24,
+          "positions": null,
+          "source": "北海市人力资源和社会保障局",
+          "url": "http://www.beihai.gov.cn/xxgkbm/bhsrlzyhshbzj/rszl_33/klzp/t23380166.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "北海市2025年秋季“智汇珠城”招聘事业单位急需紧缺专业人才公告",
+          "date": "2025-11-03",
+          "headcount": 90,
+          "positions": null,
+          "source": "北海先锋（中共北海市委组织部）",
+          "url": "https://mp.weixin.qq.com/s/bUx-s-6PtYG9rt77VZgleg",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 450600,
+      "name": "防城港市",
+      "districts": [
+        "港口区",
+        "防城区",
+        "上思县",
+        "东兴市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "防城港人才网",
+          "url": "https://fcg.gxrc.com"
+        },
+        {
+          "category": "事业单位",
+          "name": "防城港市人力资源和社会保障局·招聘信息栏目",
+          "url": "http://rsj.fcgs.gov.cn/zpxx/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "广西壮族自治区2025年度考试录用公务员公告",
+          "date": "2025-02-08",
+          "headcount": 7532,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20250208/newgx67a6d011-124772.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "广西壮族自治区2026年度考试录用公务员公告",
+          "date": "2026-01-18",
+          "headcount": 5630,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20260118/newgx696c5be6-21059155.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2025年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2025-02-08",
+          "headcount": 565,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/sy/kstz/t2315.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2026年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2026-01-18",
+          "headcount": null,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/ksxm/gwyzlks/gx2026ndkslygwyxdszt/2026nxdsgg/t13231.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年度防城港市公开招聘事业单位工作人员公告",
+          "date": "2025-02-08",
+          "headcount": 820,
+          "positions": null,
+          "source": "防城港市人力资源和社会保障局",
+          "url": "http://rsj.fcgs.gov.cn/zpxx/t19571682.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "防城港市交通运输局2025年公开招聘事业单位工作人员拟聘用人员公示",
+          "date": "2025-07-24",
+          "headcount": 21,
+          "positions": null,
+          "source": "防城港市人民政府门户网站",
+          "url": "https://www.fcgs.gov.cn/jtj/tzgg/t23350635.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "防城港市公安局2025年度考试录用公务员拟录用人员公示",
+          "date": "2025-06-17",
+          "headcount": 9,
+          "positions": null,
+          "source": "防城港人才网",
+          "url": "https://fcg.gxrc.com/Article/info/595d5e0d-053a-4cbd-8d86-1f5c6a5f61b4",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "防城港市2025年面向国内外招聘急需紧缺人才公告",
+          "date": "2025-05-14",
+          "headcount": 167,
+          "positions": null,
+          "source": "防城港人才网",
+          "url": "https://fcg.gxrc.com/Article/info/eb219c69-d0f1-44b8-82d2-0bd1b5678b85",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 450700,
+      "name": "钦州市",
+      "districts": [
+        "钦南区",
+        "钦北区",
+        "灵山县",
+        "浦北县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "钦州党建网（中共钦州市委组织部）",
+          "url": "http://www.gxqzdj.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "钦州市人力资源和社会保障局·考录招聘栏目",
+          "url": "http://www.qinzhou.gov.cn/zfxxgk/qzszfxxgkpt/qzsrlzyhshbzj/fdzdgknr_16/klzp_2/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "广西壮族自治区2025年度考试录用公务员公告",
+          "date": "2025-02-08",
+          "headcount": 7532,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20250208/newgx67a6d011-124772.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "广西壮族自治区2026年度考试录用公务员公告",
+          "date": "2026-01-18",
+          "headcount": 5630,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20260118/newgx696c5be6-21059155.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2025年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2025-02-08",
+          "headcount": 565,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/sy/kstz/t2315.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2026年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2026-01-18",
+          "headcount": null,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/ksxm/gwyzlks/gx2026ndkslygwyxdszt/2026nxdsgg/t13231.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年钦州市事业单位公开招聘工作人员拟聘用人员公示（第一批）",
+          "date": "2025-07-24",
+          "headcount": 75,
+          "positions": null,
+          "source": "钦州市人力资源和社会保障局",
+          "url": "http://www.qinzhou.gov.cn/zfxxgk/qzszfxxgkpt/qzsrlzyhshbzj/fdzdgknr_16/klzp_2/t26166383.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年钦州市市直事业单位公开招聘工作人员拟聘用人员公示（第三批）",
+          "date": "2025-09-28",
+          "headcount": null,
+          "positions": null,
+          "source": "钦州市人力资源和社会保障局",
+          "url": "http://www.qinzhou.gov.cn/zfxxgk/qzszfxxgkpt/qzsrlzyhshbzj/fdzdgknr_16/klzp_2/t26168052.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "钦州市2025年度考试录用公务员拟录用人员公示（十）",
+          "date": "2025-08-21",
+          "headcount": null,
+          "positions": null,
+          "source": "钦州党建网",
+          "url": "http://www.gxqzdj.gov.cn/tzgg/t25444356.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "title": "钦州市教育系统2026年“钦聚英才”专场招聘公告",
+          "date": "2025-12-03",
+          "headcount": null,
+          "positions": null,
+          "source": "钦州市教育局",
+          "url": "http://jyj.qinzhou.gov.cn/zw/zfxxgk/fdzdgknr/tzgg/t26266201.shtml",
+          "attachments": [
+            {
+              "name": "2025年钦州市教育系统2026年钦聚英才专场招聘岗位需求表.xlsx",
+              "url": "http://jyj.qinzhou.gov.cn/zw/zfxxgk/fdzdgknr/tzgg/P020251203668559132570.xlsx",
+              "local": "attachments/450700/2025年钦州市教育系统2026年钦聚英才专场招聘岗位需求表.xlsx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adcode": 450800,
+      "name": "贵港市",
+      "districts": [
+        "港北区",
+        "港南区",
+        "覃塘区",
+        "平南县",
+        "桂平市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "贵港市人民政府门户网站·公务员和事业单位招录栏目",
+          "url": "http://www.gxgg.gov.cn/xxgk/rsxx/zpxx1/"
+        },
+        {
+          "category": "事业单位",
+          "name": "贵港市人力资源和社会保障局",
+          "url": "http://rsj.gxgg.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "广西壮族自治区2025年度考试录用公务员公告",
+          "date": "2025-02-08",
+          "headcount": 7532,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20250208/newgx67a6d011-124772.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "广西壮族自治区2026年度考试录用公务员公告",
+          "date": "2026-01-18",
+          "headcount": 5630,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20260118/newgx696c5be6-21059155.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2025年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2025-02-08",
+          "headcount": 565,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/sy/kstz/t2315.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2026年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2026-01-18",
+          "headcount": null,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/ksxm/gwyzlks/gx2026ndkslygwyxdszt/2026nxdsgg/t13231.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年上半年贵港市事业单位公开招聘工作人员公告",
+          "date": "2025-02-08",
+          "headcount": 1090,
+          "positions": null,
+          "source": "贵港市人力资源和社会保障局",
+          "url": "http://rsj.gxgg.gov.cn/tzgg/t19572970.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年贵港市事业单位公开招聘工作人员拟聘用人员公示（第二批）",
+          "date": "2025-07-20",
+          "headcount": 31,
+          "positions": null,
+          "source": "贵港市人民政府门户网站",
+          "url": "http://www.gxgg.gov.cn/xxgk/rsxx/zpxx1/t22621541.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "贵港市桂平市2025年度考试录用公务员拟录用人员公示（第一批）",
+          "date": "2025-06-06",
+          "headcount": 47,
+          "positions": null,
+          "source": "贵港先锋（中共贵港市委组织部）",
+          "url": "https://mp.weixin.qq.com/s/v01ly934F6ke-6sYnghnLw",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 450900,
+      "name": "玉林市",
+      "districts": [
+        "玉州区",
+        "福绵区",
+        "容县",
+        "陆川县",
+        "博白县",
+        "兴业县",
+        "北流市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "玉林市人民政府门户网站·公务员招考栏目",
+          "url": "http://www.yulin.gov.cn/gkzl/fadingzhudonggongkaineirong/rsxx/klzp/"
+        },
+        {
+          "category": "事业单位",
+          "name": "玉林市人力资源和社会保障局·事业单位招考栏目",
+          "url": "http://rsj.yulin.gov.cn/tszl/rsrc/sydwzk/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "广西壮族自治区2025年度考试录用公务员公告",
+          "date": "2025-02-08",
+          "headcount": 7532,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20250208/newgx67a6d011-124772.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "广西壮族自治区2026年度考试录用公务员公告",
+          "date": "2026-01-18",
+          "headcount": 5630,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20260118/newgx696c5be6-21059155.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2025年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2025-02-08",
+          "headcount": 565,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/sy/kstz/t2315.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2026年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2026-01-18",
+          "headcount": null,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/ksxm/gwyzlks/gx2026ndkslygwyxdszt/2026nxdsgg/t13231.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "玉林市卫生健康委员会2025年公开招聘事业单位工作人员聘用前公示（二）",
+          "date": "2025-09-11",
+          "headcount": 10,
+          "positions": null,
+          "source": "玉林市人力资源和社会保障局",
+          "url": "http://rsj.yulin.gov.cn/tszl/rsrc/sydwzk/t25956764.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "玉林市玉州区2025年事业单位公开招聘工作人员聘用前公示（九）",
+          "date": "2025-10-15",
+          "headcount": null,
+          "positions": null,
+          "source": "玉林市人力资源和社会保障局",
+          "url": "http://rsj.yulin.gov.cn/tszl/rsrc/sydwzk/t26053948.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "玉林市玉州区2025年度考试录用公务员拟录用人员公示（第一批）",
+          "date": "2025-06-17",
+          "headcount": 60,
+          "positions": null,
+          "source": "玉林市人民政府门户网站",
+          "url": "http://www.yulin.gov.cn/gkzl/fadingzhudonggongkaineirong/rsxx/klzp/t21210934.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "玉林市玉州区2025年度考试录用公务员拟录用人员公示（第二批）",
+          "date": "2025-07-17",
+          "headcount": null,
+          "positions": null,
+          "source": "玉林市人民政府门户网站",
+          "url": "http://www.yulin.gov.cn/gkzl/fadingzhudonggongkaineirong/rsxx/klzp/t22613835.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 451000,
+      "name": "百色市",
+      "districts": [
+        "右江区",
+        "田阳区",
+        "田东县",
+        "德保县",
+        "那坡县",
+        "凌云县",
+        "乐业县",
+        "田林县",
+        "西林县",
+        "隆林各族自治县",
+        "靖西市",
+        "平果市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "百色党建网（中共百色市委组织部）",
+          "url": "https://www.bsdjw.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "百色人才网",
+          "url": "https://bs.gxrc.com"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "广西壮族自治区2025年度考试录用公务员公告",
+          "date": "2025-02-08",
+          "headcount": 7532,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20250208/newgx67a6d011-124772.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "广西壮族自治区2026年度考试录用公务员公告",
+          "date": "2026-01-18",
+          "headcount": 5630,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20260118/newgx696c5be6-21059155.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2025年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2025-02-08",
+          "headcount": 565,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/sy/kstz/t2315.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2026年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2026-01-18",
+          "headcount": null,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/ksxm/gwyzlks/gx2026ndkslygwyxdszt/2026nxdsgg/t13231.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "百色市2025年度事业单位公开招聘工作人员公告",
+          "date": "2025-02-08",
+          "headcount": null,
+          "positions": null,
+          "source": "百色人才网",
+          "url": "https://bs.gxrc.com/Article/info/4ed17d94-2781-4804-9ab2-e17a1e4752e9",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "百色市2025年度市直事业单位公开招聘工作人员入围面试人选资格审查公告",
+          "date": "2025-05-23",
+          "headcount": null,
+          "positions": null,
+          "source": "广西人才网",
+          "url": "https://www.gxrc.com/Article/info/61425664-a07f-46b9-a835-796ce7c9c3cb",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "百色市右江区2025年度考试录用公务员拟录用人员公示（第二批）",
+          "date": "2025-07-03",
+          "headcount": 15,
+          "positions": null,
+          "source": "百色党建网",
+          "url": "https://www.bsdjw.gov.cn/tzgg/15996.jhtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 451100,
+      "name": "贺州市",
+      "districts": [
+        "八步区",
+        "平桂区",
+        "昭平县",
+        "钟山县",
+        "富川瑶族自治县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "贺州市人民政府门户网站·考录招聘栏目",
+          "url": "http://www.gxhz.gov.cn/zfxxgk/fdzdgknr/rsxx/klzp/"
+        },
+        {
+          "category": "事业单位",
+          "name": "贺州市人民政府门户网站·考录招聘栏目",
+          "url": "http://www.gxhz.gov.cn/zfxxgk/fdzdgknr/rsxx/klzp/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "广西壮族自治区2025年度考试录用公务员公告",
+          "date": "2025-02-08",
+          "headcount": 7532,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20250208/newgx67a6d011-124772.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "广西壮族自治区2026年度考试录用公务员公告",
+          "date": "2026-01-18",
+          "headcount": 5630,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20260118/newgx696c5be6-21059155.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2025年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2025-02-08",
+          "headcount": 565,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/sy/kstz/t2315.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2026年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2026-01-18",
+          "headcount": null,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/ksxm/gwyzlks/gx2026ndkslygwyxdszt/2026nxdsgg/t13231.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "贺州市2025年下半年事业单位公开招聘工作人员公告",
+          "date": "2025-09-01",
+          "headcount": 103,
+          "positions": null,
+          "source": "贺州市人民政府门户网站",
+          "url": "http://www.gxhz.gov.cn/zfxxgk/fdzdgknr/rsxx/klzp/t25913335.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "贺州市2025年下半年事业单位公开招聘工作人员拟聘人员公示（第一批）",
+          "date": "2026-01-16",
+          "headcount": 73,
+          "positions": null,
+          "source": "贺州市人民政府门户网站",
+          "url": "http://www.gxhz.gov.cn/zfxxgk/fdzdgknr/rsxx/klzp/t27139313.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "贺州市八步区2025年度考试录用公务员拟录用人员公示（第三批）",
+          "date": "2025-12-10",
+          "headcount": null,
+          "positions": null,
+          "source": "贺州市八步区人民政府门户网站",
+          "url": "http://www.gxbabu.gov.cn/zwgk_81325/rsxx/klzp/t26555603.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 451200,
+      "name": "河池市",
+      "districts": [
+        "金城江区",
+        "宜州区",
+        "南丹县",
+        "天峨县",
+        "凤山县",
+        "东兰县",
+        "罗城仫佬族自治县",
+        "环江毛南族自治县",
+        "巴马瑶族自治县",
+        "都安瑶族自治县",
+        "大化瑶族自治县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "河池人才网",
+          "url": "https://hc.gxrc.com"
+        },
+        {
+          "category": "事业单位",
+          "name": "河池市人民政府门户网站·事业单位招考栏目",
+          "url": "http://www.hechi.gov.cn/zfxxgk/fdzdgknr/fd_rsxx/sydwzk/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "广西壮族自治区2025年度考试录用公务员公告",
+          "date": "2025-02-08",
+          "headcount": 7532,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20250208/newgx67a6d011-124772.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "广西壮族自治区2026年度考试录用公务员公告",
+          "date": "2026-01-18",
+          "headcount": 5630,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20260118/newgx696c5be6-21059155.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2025年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2025-02-08",
+          "headcount": 565,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/sy/kstz/t2315.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2026年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2026-01-18",
+          "headcount": null,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/ksxm/gwyzlks/gx2026ndkslygwyxdszt/2026nxdsgg/t13231.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "河池市2025年事业单位公开招聘工作人员面试公告",
+          "date": "2025-06-05",
+          "headcount": null,
+          "positions": null,
+          "source": "河池市人民政府门户网站",
+          "url": "http://www.hechi.gov.cn/zfxxgk/fdzdgknr/fd_rsxx/sydwzk/t22615652.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "河池市2025年事业单位公开招聘工作人员面试入围人选资格审查公告",
+          "date": "2025-05-19",
+          "headcount": null,
+          "positions": null,
+          "source": "广西人才网",
+          "url": "https://www.gxrc.com/Article/info/22e31497-172c-4ab1-8e6d-30440a6c8e31",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "河池市公安局2025年度考试录用公务员拟录用人员公示",
+          "date": "2025-06-24",
+          "headcount": 11,
+          "positions": null,
+          "source": "广西人才网",
+          "url": "https://www.gxrc.com/Article/info/09150a44-cd1a-4c8c-b0b9-fef470617400",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "河池市罗城仫佬族自治县2025年度考试录用公务员拟录用人员公示",
+          "date": "2025-06-11",
+          "headcount": 63,
+          "positions": null,
+          "source": "广西人才网",
+          "url": "https://www.gxrc.com/article/info/031d264d-b0e4-4ebe-9ade-1d5812ec04cb",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "广西河池市2025年赴高校招聘高层次急需紧缺人才公告",
+          "date": "2025-02-25",
+          "headcount": 152,
+          "positions": null,
+          "source": "河池人才网",
+          "url": "https://hc.gxrc.com/Article/info/309b1b85-c2da-4395-8d4f-ef74342bc119",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "河池市2025年第二轮赴高校招聘高层次急需紧缺人才公告",
+          "date": "2025-09-24",
+          "headcount": 72,
+          "positions": null,
+          "source": "河池人才网",
+          "url": "https://mhc.gxrc.com/article/47f8ea38-7ac7-44e9-9bc9-0be415964c11",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 451300,
+      "name": "来宾市",
+      "districts": [
+        "兴宾区",
+        "忻城县",
+        "象州县",
+        "武宣县",
+        "金秀瑶族自治县",
+        "合山市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "来宾人才网",
+          "url": "https://lb.gxrc.com"
+        },
+        {
+          "category": "事业单位",
+          "name": "来宾人才网·事业单位公告栏",
+          "url": "https://lb.gxrc.com"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "广西壮族自治区2025年度考试录用公务员公告",
+          "date": "2025-02-08",
+          "headcount": 7532,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20250208/newgx67a6d011-124772.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "广西壮族自治区2026年度考试录用公务员公告",
+          "date": "2026-01-18",
+          "headcount": 5630,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20260118/newgx696c5be6-21059155.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2025年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2025-02-08",
+          "headcount": 565,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/sy/kstz/t2315.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2026年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2026-01-18",
+          "headcount": null,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/ksxm/gwyzlks/gx2026ndkslygwyxdszt/2026nxdsgg/t13231.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "来宾市兴宾区2025年事业单位公开招聘拟聘用人员公示（第一批）",
+          "date": "2025-07-16",
+          "headcount": null,
+          "positions": null,
+          "source": "来宾人才网",
+          "url": "https://lb.gxrc.com/Article/info/7f7d1767-5762-4315-8f45-5c2e66af347c",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "来宾市人民政府办公室2025年事业单位公开招聘拟聘用人员公示",
+          "date": "2025-07-18",
+          "headcount": null,
+          "positions": null,
+          "source": "来宾人才网",
+          "url": "https://lb.gxrc.com/Article/info/afae298e-4edd-4064-b0ef-465f36b68201",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "忻城县2025年度考试录用公务员拟录用人员公示（第三批）",
+          "date": "2025-12-30",
+          "headcount": null,
+          "positions": null,
+          "source": "忻城县人民政府门户网站",
+          "url": "http://www.gxxc.gov.cn/zfxxgk/fdzdgknr/rsxx/klzp/t27067862.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 451400,
+      "name": "崇左市",
+      "districts": [
+        "江州区",
+        "扶绥县",
+        "宁明县",
+        "龙州县",
+        "大新县",
+        "天等县",
+        "凭祥市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "崇左市人民政府门户网站·招考招录栏目",
+          "url": "http://www.chongzuo.gov.cn/zfxxgkzl/xxgkzn_fdzdgknr/rsxx/zkzl/"
+        },
+        {
+          "category": "事业单位",
+          "name": "崇左人才网",
+          "url": "https://cz.gxrc.com"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "广西壮族自治区2025年度考试录用公务员公告",
+          "date": "2025-02-08",
+          "headcount": 7532,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20250208/newgx67a6d011-124772.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "广西壮族自治区2026年度考试录用公务员公告",
+          "date": "2026-01-18",
+          "headcount": 5630,
+          "positions": null,
+          "source": "八桂先锋网（广西组工）",
+          "url": "https://www.bgxf.gov.cn/staticpages/20260118/newgx696c5be6-21059155.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2025年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2025-02-08",
+          "headcount": 565,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/sy/kstz/t2315.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "广西壮族自治区2026年从应届优秀大学毕业生中招录选调生工作公告",
+          "date": "2026-01-18",
+          "headcount": null,
+          "positions": null,
+          "source": "广西人事考试网",
+          "url": "https://www.gxpta.com.cn/ksxm/gwyzlks/gx2026ndkslygwyxdszt/2026nxdsgg/t13231.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "崇左市2025年度上半年事业单位公开招聘工作人员公告",
+          "date": "2025-02-10",
+          "headcount": 1028,
+          "positions": null,
+          "source": "广西人才网",
+          "url": "https://www.gxrc.com/Article/info/e99445df-a99c-497e-a62c-ec84cc025b68",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "崇左市2025年度考试录用公务员拟录用人员名单公示（第一批）",
+          "date": "2025-06-06",
+          "headcount": 385,
+          "positions": null,
+          "source": "崇左市人民政府门户网站",
+          "url": "http://www.chongzuo.gov.cn/zfxxgkzl/xxgkzn_fdzdgknr/rsxx/zkzl/t22615031.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "崇左市2025年急需紧缺人才公开招聘面试公告",
+          "date": "2025-12-08",
+          "headcount": null,
+          "positions": null,
+          "source": "崇左人才网",
+          "url": "https://cz.gxrc.com/Article/info/67a0532c-6b71-4304-8ce1-313980b016a3",
+          "attachments": []
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "name": "广西大学",
+      "city": "南宁市",
+      "cityAdcode": 450100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.gxu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "广西科技大学",
+      "city": "柳州市",
+      "cityAdcode": 450200,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.gxust.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "桂林电子科技大学",
+      "city": "桂林市",
+      "cityAdcode": 450300,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.guet.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "桂林理工大学",
+      "city": "桂林市",
+      "cityAdcode": 450300,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.glut.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "广西医科大学",
+      "city": "南宁市",
+      "cityAdcode": 450100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.gxmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "右江民族医学院",
+      "city": "百色市",
+      "cityAdcode": 451000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ymun.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "广西中医药大学",
+      "city": "南宁市",
+      "cityAdcode": 450100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.gxtcmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "桂林医科大学",
+      "city": "桂林市",
+      "cityAdcode": 450300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.glmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "广西师范大学",
+      "city": "桂林市",
+      "cityAdcode": 450300,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.gxnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南宁师范大学",
+      "city": "南宁市",
+      "cityAdcode": 450100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.nnnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "广西民族师范学院",
+      "city": "崇左市",
+      "cityAdcode": 451400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gxnun.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "河池学院",
+      "city": "河池市",
+      "cityAdcode": 451200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hcnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "玉林师范学院",
+      "city": "玉林市",
+      "cityAdcode": 450900,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ylu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "广西艺术学院",
+      "city": "南宁市",
+      "cityAdcode": 450100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.gxau.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "广西民族大学",
+      "city": "南宁市",
+      "cityAdcode": 450100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.gxmzu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "百色学院",
+      "city": "百色市",
+      "cityAdcode": 451000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.bsuc.edu.cn",
+      "hrUrl": "http://rsc.bsuc.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "梧州学院",
+      "city": "梧州市",
+      "cityAdcode": 450400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gxuwz.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "广西科技师范学院",
+      "city": "来宾市",
+      "cityAdcode": 451300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gxstnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "广西财经学院",
+      "city": "南宁市",
+      "cityAdcode": 450100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gxufe.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南宁学院",
+      "city": "南宁市",
+      "cityAdcode": 450100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "http://www.nnxy.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北部湾大学",
+      "city": "钦州市",
+      "cityAdcode": 450700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.bbgu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "桂林航天工业学院",
+      "city": "桂林市",
+      "cityAdcode": 450300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.guat.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "桂林旅游学院",
+      "city": "桂林市",
+      "cityAdcode": 450300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gltu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "贺州学院",
+      "city": "贺州市",
+      "cityAdcode": 451100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hzu.gx.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "广西警察学院",
+      "city": "南宁市",
+      "cityAdcode": 450100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.gxjcxy.com",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北海艺术设计学院",
+      "city": "北海市",
+      "cityAdcode": 450500,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "http://www.sszss.com",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "广西农业职业技术大学",
+      "city": "南宁市",
+      "cityAdcode": 450100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gxnzd.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "柳州工学院",
+      "city": "柳州市",
+      "cityAdcode": 450200,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.lzhit.edu.cn",
+      "hrUrl": "https://www.lzhit.edu.cn/rlzy/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "广西民族大学相思湖学院",
+      "city": "南宁市",
+      "cityAdcode": 450100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.xshxy.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "桂林学院",
+      "city": "桂林市",
+      "cityAdcode": 450300,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.gxljc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南宁师范大学师园学院",
+      "city": "南宁市",
+      "cityAdcode": 450100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.gxsy.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "广西中医药大学赛恩斯新医药学院",
+      "city": "南宁市",
+      "cityAdcode": 450100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "http://www.sains.com.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "桂林信息科技学院",
+      "city": "桂林市",
+      "cityAdcode": 450300,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.guit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南宁理工学院",
+      "city": "南宁市",
+      "cityAdcode": 450100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.bwgl.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "广西外国语学院",
+      "city": "南宁市",
+      "cityAdcode": 450100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.gxufl.com",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "广西工业学院",
+      "city": "北海市",
+      "cityAdcode": 450500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": null,
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "广西城市职业大学",
+      "city": "崇左市",
+      "cityAdcode": 451400,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.gxcvu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "广西职业师范学院",
+      "city": "南宁市",
+      "cityAdcode": 450100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gxvnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南宁职业技术大学",
+      "city": "南宁市",
+      "cityAdcode": 450100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.nncvt.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "柳州职业技术大学",
+      "city": "柳州市",
+      "cityAdcode": 450200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.lzpu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "桂林师范学院",
+      "city": "桂林市",
+      "cityAdcode": 450300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.glnc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "广西职业技术大学",
+      "city": "南宁市",
+      "cityAdcode": 450100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gxzjy.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    }
+  ]
+}

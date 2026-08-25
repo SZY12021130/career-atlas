@@ -1,0 +1,1147 @@
+{
+  "adcode": 110000,
+  "name": "北京市",
+  "updatedAt": "2026-08-25",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "北京组工网（中共北京市委组织部）",
+      "url": "https://www.bjdj.gov.cn/"
+    },
+    {
+      "category": "公务员",
+      "name": "北京市各级机关考试录用公务员（北京市人事考试通用平台）",
+      "url": "http://rsj.beijing.gov.cn/bm/ztzl/gwy/"
+    },
+    {
+      "category": "公务员",
+      "name": "首都之窗-公务员招考专栏",
+      "url": "https://www.beijing.gov.cn/gongkai/rsxx/gwyzk/"
+    },
+    {
+      "category": "事业单位",
+      "name": "北京市人力资源和社会保障局-事业单位公开招聘",
+      "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/"
+    },
+    {
+      "category": "选调",
+      "name": "北京市人力资源和社会保障局人事考试频道（定向选调和优培计划报名系统）",
+      "url": "http://rsj.beijing.gov.cn/ywsite/bjpta/"
+    },
+    {
+      "category": "人才引进",
+      "name": "北京国际人才网",
+      "url": "http://www.bjrcgz.gov.cn/"
+    },
+    {
+      "category": "综合",
+      "name": "北京市人力资源和社会保障局",
+      "url": "https://rsj.beijing.gov.cn/"
+    },
+    {
+      "category": "综合",
+      "name": "北京市人事考试网（人事考试服务频道）",
+      "url": "https://rsj.beijing.gov.cn/bjpta/"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 110000,
+      "name": "北京市",
+      "districts": [
+        "东城区",
+        "西城区",
+        "朝阳区",
+        "丰台区",
+        "石景山区",
+        "海淀区",
+        "门头沟区",
+        "房山区",
+        "通州区",
+        "顺义区",
+        "昌平区",
+        "大兴区",
+        "怀柔区",
+        "平谷区",
+        "密云区",
+        "延庆区"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "首都之窗-公务员招考",
+          "url": "https://www.beijing.gov.cn/gongkai/rsxx/gwyzk/"
+        },
+        {
+          "category": "事业单位",
+          "name": "北京市人力资源和社会保障局-事业单位公开招聘",
+          "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/"
+        },
+        {
+          "category": "选调",
+          "name": "北京组工网",
+          "url": "https://www.bjdj.gov.cn/"
+        },
+        {
+          "category": "人才引进",
+          "name": "北京国际人才网（人才引进、工作居住证办理）",
+          "url": "http://www.bjrcgz.gov.cn/"
+        },
+        {
+          "category": "录用公示",
+          "name": "北京市人力资源和社会保障局-公示公告",
+          "url": "https://rsj.beijing.gov.cn/xxgk/tzgg/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "北京市各级机关2026年度考试录用公务员公告",
+          "date": "2025-11-10",
+          "headcount": null,
+          "positions": null,
+          "source": "北京组工网（北京市公务员局）",
+          "url": "https://www.bjdj.gov.cn/article/3000206044.html",
+          "attachments": [
+            {
+              "name": "2026年北京市公务员招录招考简章.xlsx",
+              "url": "https://ks3-cn-beijing.ksyun.com/zgw/article/3000206044/content/20251110095621_574.xlsx",
+              "local": "attachments/110000/2026年北京市公务员招录招考简章.xlsx"
+            },
+            {
+              "name": "2026年北京市公务员招录报考指南.docx",
+              "url": "https://ks3-cn-beijing.ksyun.com/zgw/article/3000206044/content/20251110095632_703.docx",
+              "local": null
+            },
+            {
+              "name": "2026年北京市公务员招录公共科目笔试考试大纲.docx",
+              "url": "https://ks3-cn-beijing.ksyun.com/zgw/article/3000206044/content/20251110095705_931.docx",
+              "local": null
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "北京市各级机关2025年度考试录用公务员公告",
+          "date": "2024-11-12",
+          "headcount": null,
+          "positions": null,
+          "source": "北京组工网（北京市公务员局）",
+          "url": "https://www.bjdj.gov.cn/article/3000199569.html",
+          "attachments": [
+            {
+              "name": "2025年北京市公务员招录招考简章.xls",
+              "url": "https://ks3-cn-beijing.ksyun.com/zgw/article/3000199569/content/20241112104253_190.xls",
+              "local": "attachments/110000/2025年北京市公务员招录招考简章.xls"
+            },
+            {
+              "name": "2025年北京市公务员招录报考指南.doc",
+              "url": "https://ks3-cn-beijing.ksyun.com/zgw/article/3000199569/content/20241112104303_615.doc",
+              "local": null
+            },
+            {
+              "name": "2025年北京市公务员招录公共科目笔试考试大纲.doc",
+              "url": "https://ks3-cn-beijing.ksyun.com/zgw/article/3000199569/content/20241112104322_882.doc",
+              "local": null
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "北京市各级机关2025年度补充录用公务员公告",
+          "date": "2025-05-06",
+          "headcount": null,
+          "positions": null,
+          "source": "北京组工网（北京市公务员局）",
+          "url": "https://www.bjdj.gov.cn/article/3000202639.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "北京市各级机关2026年度补充录用公务员公告",
+          "date": "2026-05-07",
+          "headcount": null,
+          "positions": null,
+          "source": "北京组工网（北京市公务员局）",
+          "url": "https://www.bjdj.gov.cn/article/3000209573.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "title": "北京市2026年度定向选调和“优培计划”招聘应届优秀大学毕业生公告",
+          "date": "2025-09-12",
+          "headcount": 930,
+          "positions": null,
+          "source": "北京组工网（中共北京市委组织部）",
+          "url": "https://www.bjdj.gov.cn/article/3000205110.html",
+          "attachments": [
+            {
+              "name": "2026年北京市定向选调应届优秀大学毕业生简章.xlsx",
+              "url": "https://ks3-cn-beijing.ksyun.com/zgw/article/3000205110/content/20250912105912_300.xlsx",
+              "local": "attachments/110000/2026年北京市定向选调应届优秀大学毕业生简章.xlsx"
+            },
+            {
+              "name": "2026年北京市优培计划招聘应届优秀大学毕业生简章.xlsx",
+              "url": "https://ks3-cn-beijing.ksyun.com/zgw/article/3000205110/content/20250912105922_825.xlsx",
+              "local": "attachments/110000/2026年北京市优培计划招聘应届优秀大学毕业生简章.xlsx"
+            }
+          ],
+          "subCategory": "定向选调"
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "title": "北京市2025年度定向选调和“优培计划”招聘应届优秀大学毕业生公告",
+          "date": "2024-09-19",
+          "headcount": 1015,
+          "positions": null,
+          "source": "北京市人力资源和社会保障局",
+          "url": "https://rsj.beijing.gov.cn/ywsite/bjpta/xwzx/zytz/202409/t20240919_3894681.html",
+          "attachments": [
+            {
+              "name": "2025年北京市定向选调招聘应届优秀大学毕业生简章.xls",
+              "url": "https://rsj.beijing.gov.cn/ywsite/bjpta/xwzx/zytz/202409/P020260513385007458022.xls",
+              "local": "attachments/110000/2025年北京市定向选调招聘应届优秀大学毕业生简章.xls"
+            },
+            {
+              "name": "2025年北京市优培计划招聘应届优秀大学毕业生简章.xls",
+              "url": "https://rsj.beijing.gov.cn/ywsite/bjpta/xwzx/zytz/202409/P020260513385007616085.xls",
+              "local": "attachments/110000/2025年北京市优培计划招聘应届优秀大学毕业生简章.xls"
+            }
+          ],
+          "subCategory": "定向选调"
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "title": "北京市2025年度定向选调应届优秀大学毕业生补录公告",
+          "date": "2025-02-27",
+          "headcount": null,
+          "positions": null,
+          "source": "北京市人力资源和社会保障局（中共北京市委组织部）",
+          "url": "https://rsj.beijing.gov.cn/xxgk/tzgg/202502/t20250227_4020475_ext.html",
+          "attachments": [],
+          "subCategory": "定向选调"
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "title": "北京市2026年度定向选调应届优秀大学毕业生补录公告",
+          "date": "2026-02-26",
+          "headcount": null,
+          "positions": null,
+          "source": "北京市人力资源和社会保障局（中共北京市委组织部）",
+          "url": "https://rsj.beijing.gov.cn/xxgk/tzgg/202602/t20260226_4541768.html",
+          "attachments": [],
+          "subCategory": "定向选调"
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "北京市朝阳区2025年度下半年事业单位公开招聘公告",
+          "date": "2025-09-08",
+          "headcount": 92,
+          "positions": null,
+          "source": "北京市人力资源和社会保障局",
+          "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202509/t20250908_4192558.html",
+          "attachments": [
+            {
+              "name": "2025年北京市朝阳区下半年事业单位公开招聘岗位信息目录.xlsx",
+              "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202509/P020250908341783520291.xlsx",
+              "local": "attachments/110000/2025年北京市朝阳区下半年事业单位公开招聘岗位信息目录.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "中共北京市延庆区委党校2025年公开招聘事业单位工作人员公告",
+          "date": "2025-11-12",
+          "headcount": 2,
+          "positions": null,
+          "source": "北京市人力资源和社会保障局",
+          "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202511/t20251112_4278811.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "北京市昌平区教委2026年公开招聘教育人才公告",
+          "date": "2026-08-25",
+          "headcount": 7,
+          "positions": null,
+          "source": "北京市人力资源和社会保障局",
+          "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202608/t20260825_4835587.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "门头沟区教育系统事业单位2026年第三次公开招聘教师公告",
+          "date": "2026-08-17",
+          "headcount": 26,
+          "positions": null,
+          "source": "北京市人力资源和社会保障局",
+          "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202608/t20260817_4825274.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "title": "北京联合大学2026年高层次人才引进（第二批）公告",
+          "date": "2026-08-19",
+          "headcount": 2,
+          "positions": null,
+          "source": "北京市人力资源和社会保障局",
+          "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202608/t20260819_4828611.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "海淀区“海淀十条”人才引进服务事项（应届毕业生引进、留学回国人才引进、外埠人才引进）",
+          "date": "2025-04-28",
+          "headcount": null,
+          "positions": null,
+          "source": "北京市海淀区人民政府",
+          "url": "https://www.bjhd.gov.cn/ztzx/2025/hdst/zccs/202504/t20250429_4767785.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "title": "中共北京市委经济技术开发区工委组织人事部关于开展2026年北京经济技术开发区亦城优秀人才保租房意向登记工作的公告",
+          "date": "2026-06-30",
+          "headcount": null,
+          "positions": null,
+          "source": "北京经济技术开发区管理委员会",
+          "url": "https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/202606/t20260630_4738597.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "北京市人力资源和社会保障局2025年度考试录用公务员拟录用人员公示",
+          "date": "2025-04-02",
+          "headcount": 11,
+          "positions": null,
+          "source": "北京市人力资源和社会保障局",
+          "url": "https://rsj.beijing.gov.cn/xxgk/tzgg/202504/t20250402_4052908_ext.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "北京市经济和信息化局机关2025年考试录用公务员拟录用人员公示公告",
+          "date": "2025-03-26",
+          "headcount": 9,
+          "positions": null,
+          "source": "北京市经济和信息化局",
+          "url": "https://jxj.beijing.gov.cn/jxdt/tzgg/202503/t20250326_4045983.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "title": "北京市门头沟区2026年度定向选调应届优秀大学毕业生拟录用人员公示公告",
+          "date": "2025-12-04",
+          "headcount": 6,
+          "positions": null,
+          "source": "北京市门头沟区人民政府",
+          "url": "https://www.bjmtg.gov.cn/bjmtg/gwyzp/202512/868efd5afb1f45d8a8134a82dfa115c0.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "title": "北京市怀柔区2026年度定向选调应届优秀大学毕业生补录拟录用人员公示公告",
+          "date": "2026-04-01",
+          "headcount": 12,
+          "positions": null,
+          "source": "北京市怀柔区人民政府",
+          "url": "https://www.bjhr.gov.cn/zwgk/gwyzk/202604/t20260401_4572504.html",
+          "attachments": []
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "name": "北京大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.pku.edu.cn",
+      "hrUrl": "https://hr.pku.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "清华大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.tsinghua.edu.cn",
+      "hrUrl": "https://hr.tsinghua.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国人民大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.ruc.edu.cn",
+      "hrUrl": "http://hr.ruc.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京航空航天大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.buaa.edu.cn",
+      "hrUrl": "https://rsc.buaa.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京理工大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.bit.edu.cn",
+      "hrUrl": "https://renshichu.bit.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京师范大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.bnu.edu.cn",
+      "hrUrl": "https://hr.bnu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国农业大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.cau.edu.cn",
+      "hrUrl": "https://rsc.cau.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中央民族大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.muc.edu.cn",
+      "hrUrl": "https://rsc.muc.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京交通大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.bjtu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京工业大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.bjut.edu.cn",
+      "hrUrl": "https://zhaopin.bjut.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京科技大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.ustb.edu.cn",
+      "hrUrl": "https://rsc.ustb.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京化工大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.buct.edu.cn",
+      "hrUrl": "https://rsc.buct.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京邮电大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.bupt.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京林业大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.bjfu.edu.cn",
+      "hrUrl": "https://rsc.bjfu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京中医药大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.bucm.edu.cn",
+      "hrUrl": "https://rsc.bucm.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京外国语大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.bfsu.edu.cn",
+      "hrUrl": "https://rsc.bfsu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国传媒大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.cuc.edu.cn",
+      "hrUrl": "https://rsc.cuc.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中央财经大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.cufe.edu.cn",
+      "hrUrl": "https://hr.cufe.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "对外经济贸易大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.uibe.edu.cn",
+      "hrUrl": "https://hr.uibe.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京体育大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.bsu.edu.cn",
+      "hrUrl": "https://rsc.bsu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中央音乐学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.ccom.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国政法大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.cupl.edu.cn",
+      "hrUrl": "https://rsc.cupl.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "华北电力大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.ncepu.edu.cn",
+      "hrUrl": "https://rsc.ncepu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国石油大学（北京）",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.cup.edu.cn",
+      "hrUrl": "https://www.cup.edu.cn/rsc/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国地质大学（北京）",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.cugb.edu.cn",
+      "hrUrl": "https://bm.cugb.edu.cn/rscnew/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国矿业大学（北京）",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.cumtb.edu.cn",
+      "hrUrl": "https://rs.cumtb.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国科学院大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "双一流"
+      ],
+      "website": "https://www.ucas.ac.cn",
+      "hrUrl": "https://recruit.ucas.ac.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京协和医学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "双一流"
+      ],
+      "website": "https://www.pumc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "首都师范大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "双一流",
+        "省属重点"
+      ],
+      "website": "https://www.cnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "外交学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "双一流"
+      ],
+      "website": "https://www.cfau.edu.cn",
+      "hrUrl": "https://rsc.cfau.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国人民公安大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "双一流"
+      ],
+      "website": "https://www.ppsuc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国音乐学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "双一流"
+      ],
+      "website": "https://www.ccmusic.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中央美术学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "双一流"
+      ],
+      "website": "https://www.cafa.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中央戏剧学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "双一流"
+      ],
+      "website": "https://www.chntheatre.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京工商大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.btbu.edu.cn",
+      "hrUrl": "https://rsc.btbu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京服装学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.bift.edu.cn",
+      "hrUrl": "https://rsc.bift.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京印刷学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.bigc.edu.cn",
+      "hrUrl": "https://rsc.bigc.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京建筑大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.bucea.edu.cn",
+      "hrUrl": "https://rsc.bucea.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京石油化工学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.bipt.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京电子科技学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.besti.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京农学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.bua.edu.cn",
+      "hrUrl": "https://rsc.bua.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "首都医科大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.ccmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "首都体育学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cupes.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京第二外国语学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.bisu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京语言大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.blcu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京物资学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.bwu.edu.cn",
+      "hrUrl": "https://rsc.bwu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "首都经济贸易大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.cueb.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "国际关系学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.uir.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京信息科技大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.bistu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京联合大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.buu.edu.cn",
+      "hrUrl": "https://www.buu.edu.cn/col/col38007/index.html",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中华女子学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cwu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国劳动关系学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.culr.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京警察学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.bjpc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "首钢工学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sgit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国消防救援学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cfri.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国社会科学院大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ucass.edu.cn",
+      "hrUrl": "https://rsc.ucass.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京电影学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.bfa.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京舞蹈学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.bda.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国戏曲学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.nacta.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "民政职业大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.bcsa.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京科技职业大学",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.bpu.edu.cn",
+      "hrUrl": "https://www.bpu.edu.cn/rsc/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京城市学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.bcu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京工业大学耿丹学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.gengdan.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京邮电大学世纪学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.ccbupt.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "首都师范大学科德学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.kdcnu.com",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京金融科技学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.canvard.net.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京第二外国语学院中瑞酒店管理学院",
+      "city": "北京市",
+      "cityAdcode": 110000,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.bhi.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "adcode": 820000,
+  "name": "澳门特别行政区",
+  "updatedAt": "2026-08-25",
+  "note": "骨架数据：省级官方入口与代表性公告已人工核验；市级明细持续采集中",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "澳门特别行政区行政公职局（公职开考）",
+      "url": "https://www.safp.gov.mo"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 820001,
+      "name": "花地玛堂区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "澳门特别行政区行政公职局（公职开考）",
+          "url": "https://www.safp.gov.mo"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 820002,
+      "name": "花王堂区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "澳门特别行政区行政公职局（公职开考）",
+          "url": "https://www.safp.gov.mo"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 820003,
+      "name": "望德堂区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "澳门特别行政区行政公职局（公职开考）",
+          "url": "https://www.safp.gov.mo"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 820004,
+      "name": "大堂区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "澳门特别行政区行政公职局（公职开考）",
+          "url": "https://www.safp.gov.mo"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 820005,
+      "name": "风顺堂区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "澳门特别行政区行政公职局（公职开考）",
+          "url": "https://www.safp.gov.mo"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 820006,
+      "name": "嘉模堂区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "澳门特别行政区行政公职局（公职开考）",
+          "url": "https://www.safp.gov.mo"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 820007,
+      "name": "路凼填海区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "澳门特别行政区行政公职局（公职开考）",
+          "url": "https://www.safp.gov.mo"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 820008,
+      "name": "圣方济各堂区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "澳门特别行政区行政公职局（公职开考）",
+          "url": "https://www.safp.gov.mo"
+        }
+      ],
+      "recruitments": []
+    }
+  ],
+  "universities": [
+    {
+      "name": "澳门大学",
+      "city": "澳门特别行政区",
+      "cityAdcode": 820001,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.um.edu.mo",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "澳门科技大学",
+      "city": "澳门特别行政区",
+      "cityAdcode": 820001,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.must.edu.mo",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "澳门理工大学",
+      "city": "澳门特别行政区",
+      "cityAdcode": 820001,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.mpu.edu.mo",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "澳门城市大学",
+      "city": "澳门特别行政区",
+      "cityAdcode": 820001,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cityu.edu.mo",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "澳门旅游大学",
+      "city": "澳门特别行政区",
+      "cityAdcode": 820001,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.utm.edu.mo",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "圣若瑟大学",
+      "city": "澳门特别行政区",
+      "cityAdcode": 820001,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.usj.edu.mo",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    }
+  ]
+}

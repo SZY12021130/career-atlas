@@ -1,0 +1,1753 @@
+{
+  "adcode": 330000,
+  "name": "浙江省",
+  "updatedAt": "2026-08-25",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "浙江省公务员考试录用网",
+      "url": "http://gwy.zjks.gov.cn"
+    },
+    {
+      "category": "事业单位",
+      "name": "浙江省人力资源和社会保障厅",
+      "url": "https://rlsbt.zj.gov.cn"
+    },
+    {
+      "category": "选调",
+      "name": "浙江组织工作网（浙江组工网）",
+      "url": "http://www.zjzzgz.gov.cn"
+    },
+    {
+      "category": "人才引进",
+      "name": "浙江人才网（浙江人力资源大市场）",
+      "url": "http://www.zjrc.com"
+    },
+    {
+      "category": "人事考试",
+      "name": "浙江人事考试网",
+      "url": "https://zjks.rlsbt.zj.gov.cn"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 330100,
+      "name": "杭州市",
+      "districts": [
+        "上城区",
+        "拱墅区",
+        "西湖区",
+        "滨江区",
+        "萧山区",
+        "余杭区",
+        "临平区",
+        "钱塘区",
+        "富阳区",
+        "临安区",
+        "桐庐县",
+        "淳安县",
+        "建德市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "杭州党建网",
+          "url": "http://www.hzdj.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "杭州市人力资源和社会保障局",
+          "url": "https://hrss.hangzhou.gov.cn"
+        },
+        {
+          "category": "录用公示",
+          "name": "浙江省公务员考试录用网杭州市录用公示专栏",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryMore.htm?mkxh=5&dsdm=13301"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "杭州市各级机关单位2026年度考试录用公务员公告",
+          "date": "2025-11-04",
+          "headcount": 818,
+          "positions": null,
+          "source": "浙江省公务员考试录用网",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm?mkxh=2&tzid=16513",
+          "attachments": [
+            {
+              "name": "2026年杭州市公务员招考计划一览表.xls",
+              "url": "http://omwb.oss-cn-beijing.aliyuncs.com/zjgwy2025/827c4f00698b03261cf3cdc357925812",
+              "local": "attachments/330100/2026年杭州市公务员招考计划一览表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2025年杭州市市属事业单位统一公开招聘工作人员公告",
+          "date": "2025-03-18",
+          "headcount": 345,
+          "positions": null,
+          "source": "杭州市人力资源和社会保障局",
+          "url": "https://www.hangzhou.gov.cn/art/2025/3/18/art_1229063421_4338344.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "常规选调",
+          "title": "2026年度浙江省党政机关选调应届优秀大学毕业生公告（全省计划1018名，含杭州职位）",
+          "date": "2025-10-09",
+          "headcount": null,
+          "positions": null,
+          "source": "中共浙江省委组织部（浙江选调生报考专栏）",
+          "url": "http://xd.zjks.com",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "2026年杭州市市直机关单位考试录用公务员拟录用公示名单（十三）",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "浙江省公务员考试录用网",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm?mkxh=5&tzid=18556",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "浙大城市学院2025年下半年公开招聘教学科研人员公告",
+          "date": "2025-09-25",
+          "headcount": null,
+          "positions": null,
+          "source": "杭州市人力资源和社会保障局",
+          "url": "https://hrss.hangzhou.gov.cn/art/2025/9/25/art_1229782005_4407661.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 330200,
+      "name": "宁波市",
+      "districts": [
+        "海曙区",
+        "江北区",
+        "北仑区",
+        "镇海区",
+        "鄞州区",
+        "奉化区",
+        "象山县",
+        "宁海县",
+        "余姚市",
+        "慈溪市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "宁波党建网",
+          "url": "http://web.nbdj.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "宁波市人力资源和社会保障局",
+          "url": "http://rsj.ningbo.gov.cn"
+        },
+        {
+          "category": "录用公示",
+          "name": "浙江省公务员考试录用网宁波市录用公示专栏",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryMore.htm?mkxh=5&dsdm=13302"
+        },
+        {
+          "category": "人才引进",
+          "name": "宁波人才网",
+          "url": "https://www.nbrc.com.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "宁波市各级机关单位2026年度考试录用公务员公告",
+          "date": "2025-11-04",
+          "headcount": 679,
+          "positions": null,
+          "source": "浙江省公务员考试录用网",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm?mkxh=2&tzid=16514",
+          "attachments": [
+            {
+              "name": "2026年宁波市公务员招考计划一览表.xlsx",
+              "url": "http://omwb.oss-cn-beijing.aliyuncs.com/zjgwy2025/827c4f00698b03267d9b65201ef85e93",
+              "local": "attachments/330200/2026年宁波市公务员招考计划一览表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2025年宁波市市属事业单位集中公开招聘工作人员公告",
+          "date": "2025-02-21",
+          "headcount": 132,
+          "positions": null,
+          "source": "宁波市人力资源和社会保障局",
+          "url": "http://rsj.ningbo.gov.cn/art/2025/2/21/art_1229676740_4598577.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "常规选调",
+          "title": "2026年度浙江省党政机关选调应届优秀大学毕业生公告（全省计划1018名，含宁波职位）",
+          "date": "2025-10-09",
+          "headcount": null,
+          "positions": null,
+          "source": "中共浙江省委组织部（浙江选调生报考专栏）",
+          "url": "http://xd.zjks.com",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "宁波市级机关单位2026年度考试录用公务员拟录用人员公示（一）",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "浙江省公务员考试录用网",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm?mkxh=5&tzid=18262",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "2026年度宁波市甬江人才工程（引进类）公告",
+          "date": "2026-02-13",
+          "headcount": null,
+          "positions": null,
+          "source": "宁波党建网（东方党建网）",
+          "url": "http://web.dfdj.gov.cn/info_show.asp?ArticleID=156472&newstype_id=436",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 330300,
+      "name": "温州市",
+      "districts": [
+        "鹿城区",
+        "龙湾区",
+        "瓯海区",
+        "洞头区",
+        "永嘉县",
+        "平阳县",
+        "苍南县",
+        "文成县",
+        "泰顺县",
+        "瑞安市",
+        "乐清市",
+        "龙港市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "温州党建网",
+          "url": "https://www.wzdj.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "温州市人力资源和社会保障局",
+          "url": "https://hrss.wenzhou.gov.cn"
+        },
+        {
+          "category": "录用公示",
+          "name": "浙江省公务员考试录用网温州市录用公示专栏",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryMore.htm?mkxh=5&dsdm=13303"
+        },
+        {
+          "category": "人才引进",
+          "name": "温州人才网",
+          "url": "http://www.wzrc.net"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "温州市各级机关单位2026年度考试录用公务员公告",
+          "date": "2025-11-04",
+          "headcount": 701,
+          "positions": null,
+          "source": "浙江省公务员考试录用网",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm?mkxh=2&tzid=16518",
+          "attachments": [
+            {
+              "name": "2026年温州市公务员招考计划一览表.xls",
+              "url": "http://omwb.oss-cn-beijing.aliyuncs.com/zjgwy2025/827c4f00698b0326cd5dcf57b79a1db6",
+              "local": "attachments/330300/2026年温州市公务员招考计划一览表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2025年上半年温州市市级事业单位面向社会公开招聘工作人员公告",
+          "date": "2025-03-18",
+          "headcount": null,
+          "positions": null,
+          "source": "温州市人力资源和社会保障局",
+          "url": "https://hrss.wenzhou.gov.cn/art/2025/3/18/art_1330496_58925332.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "常规选调",
+          "title": "2026年度浙江省党政机关选调应届优秀大学毕业生公告（全省计划1018名，含温州职位）",
+          "date": "2025-10-09",
+          "headcount": null,
+          "positions": null,
+          "source": "中共浙江省委组织部（浙江选调生报考专栏）",
+          "url": "http://xd.zjks.com",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "2026年温州市市级机关单位考试录用公务员拟录用人员公示（四）",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "浙江省公务员考试录用网",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm?mkxh=5&tzid=18538",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "关于2025年“瓯越英才计划-市卓越工程师青年人才项目”拟认定人选名单的公示",
+          "date": "2025-12-15",
+          "headcount": 55,
+          "positions": null,
+          "source": "温州市经济和信息化局",
+          "url": "https://wzjxj.wenzhou.gov.cn/col/col1229253758/art/2025/art_d1dff0bdb02b41edabde76cc63e42e3b.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 330400,
+      "name": "嘉兴市",
+      "districts": [
+        "南湖区",
+        "秀洲区",
+        "嘉善县",
+        "海盐县",
+        "海宁市",
+        "平湖市",
+        "桐乡市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "嘉兴考试培训网",
+          "url": "http://www.jxkp.com"
+        },
+        {
+          "category": "事业单位",
+          "name": "嘉兴市人力资源和社会保障局",
+          "url": "http://rlsbj.jiaxing.gov.cn"
+        },
+        {
+          "category": "录用公示",
+          "name": "浙江省公务员考试录用网嘉兴市录用公示专栏",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryMore.htm?mkxh=5&dsdm=13304"
+        },
+        {
+          "category": "人才引进",
+          "name": "嘉兴人事人才网",
+          "url": "http://www.jxrsrc.com"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "嘉兴市各级机关单位2026年度考试录用公务员公告",
+          "date": "2025-11-04",
+          "headcount": 507,
+          "positions": null,
+          "source": "浙江省公务员考试录用网",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm?mkxh=2&tzid=16519",
+          "attachments": [
+            {
+              "name": "2026年嘉兴市公务员招考计划一览表.xlsx",
+              "url": "http://omwb.oss-cn-beijing.aliyuncs.com/zjgwy2025/9f2dcc285ba63e3b359bd73068376f4e",
+              "local": "attachments/330400/2026年嘉兴市公务员招考计划一览表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2025年嘉兴市属事业单位公开招聘工作人员公告",
+          "date": "2025-03-21",
+          "headcount": 86,
+          "positions": null,
+          "source": "浙江省通用招聘网报平台（嘉兴市人力资源和社会保障局）",
+          "url": "http://qssy.zjks.com/tyzpwb/website/queryDetail.htm?mkxh=2&tzid=2453",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "常规选调",
+          "title": "2026年度浙江省党政机关选调应届优秀大学毕业生公告（全省计划1018名，含嘉兴职位）",
+          "date": "2025-10-09",
+          "headcount": null,
+          "positions": null,
+          "source": "中共浙江省委组织部（浙江选调生报考专栏）",
+          "url": "http://xd.zjks.com",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "2026年嘉兴市级机关考试录用公务员拟录用人员公示（一）",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "浙江省公务员考试录用网",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm?mkxh=5&tzid=18161",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 330500,
+      "name": "湖州市",
+      "districts": [
+        "吴兴区",
+        "南浔区",
+        "德清县",
+        "长兴县",
+        "安吉县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "湖州组织工作网",
+          "url": "https://zzb.huzhou.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "湖州市人力资源和社会保障局",
+          "url": "http://hrss.huzhou.gov.cn"
+        },
+        {
+          "category": "录用公示",
+          "name": "浙江省公务员考试录用网湖州市录用公示专栏",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryMore.htm?mkxh=5&dsdm=13305"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "湖州市各级机关单位2026年度考试录用公务员公告",
+          "date": "2025-11-04",
+          "headcount": 242,
+          "positions": null,
+          "source": "浙江省公务员考试录用网",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm?mkxh=2&tzid=16531",
+          "attachments": [
+            {
+              "name": "2026年湖州市公务员招考计划一览表.xlsx",
+              "url": "http://omwb.oss-cn-beijing.aliyuncs.com/zjgwy2026/c1e18b52fbe0cc220dc26b52ae64c568",
+              "local": "attachments/330500/2026年湖州市公务员招考计划一览表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2025年湖州市市属事业单位公开招聘工作人员公告",
+          "date": "2025-03-18",
+          "headcount": 48,
+          "positions": null,
+          "source": "湖州市人力资源和社会保障局",
+          "url": "http://hrss.huzhou.gov.cn/art/2025/3/18/art_1229208499_58934741.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "常规选调",
+          "title": "2026年度浙江省党政机关选调应届优秀大学毕业生公告（全省计划1018名，含湖州职位）",
+          "date": "2025-10-09",
+          "headcount": null,
+          "positions": null,
+          "source": "中共浙江省委组织部（浙江选调生报考专栏）",
+          "url": "http://xd.zjks.com",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "2026年湖州市市级机关单位考试录用公务员拟录用人员名单（一）",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "浙江省公务员考试录用网",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm?mkxh=5&tzid=18253",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 330600,
+      "name": "绍兴市",
+      "districts": [
+        "越城区",
+        "柯桥区",
+        "上虞区",
+        "新昌县",
+        "诸暨市",
+        "嵊州市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "绍兴组织工作网",
+          "url": "http://www.sxdj.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "绍兴市人力资源和社会保障局",
+          "url": "https://rsj.sx.gov.cn"
+        },
+        {
+          "category": "录用公示",
+          "name": "浙江省公务员考试录用网绍兴市录用公示专栏",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryMore.htm?mkxh=5&dsdm=13306"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "绍兴市各级机关单位2026年度考试录用公务员公告",
+          "date": "2025-11-04",
+          "headcount": 417,
+          "positions": null,
+          "source": "浙江省公务员考试录用网",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm?mkxh=2&tzid=16528",
+          "attachments": [
+            {
+              "name": "2026年绍兴市公务员招考计划一览表.xls",
+              "url": "http://omwb.oss-cn-beijing.aliyuncs.com/zjgwy2025/4bd42501f1d7525d0dc26b52ae64c568",
+              "local": "attachments/330600/2026年绍兴市公务员招考计划一览表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "绍兴市人力资源和社会保障局关于2025年绍兴市直事业单位公开招聘岗位报名缴费情况和核减、取消招聘岗位的公告",
+          "date": "2025-04-03",
+          "headcount": 97,
+          "positions": null,
+          "source": "绍兴市人力资源和社会保障局",
+          "url": "https://rsj.sx.gov.cn/art/2025/4/3/art_1229454481_4217909.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "常规选调",
+          "title": "2026年度浙江省党政机关选调应届优秀大学毕业生公告（全省计划1018名，含绍兴职位）",
+          "date": "2025-10-09",
+          "headcount": null,
+          "positions": null,
+          "source": "中共浙江省委组织部（浙江选调生报考专栏）",
+          "url": "http://xd.zjks.com",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "绍兴市市级机关单位2026年度考试录用公务员拟录用人员名单（一）",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "浙江省公务员考试录用网",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm?mkxh=5&tzid=17846",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "2025年绍兴市直事业单位公开招聘工作人员公示名单（一）",
+          "date": "2025-07-17",
+          "headcount": null,
+          "positions": null,
+          "source": "绍兴市人力资源和社会保障局",
+          "url": "https://rsj.sx.gov.cn/art/2025/7/17/art_1229454481_4227536.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 330700,
+      "name": "金华市",
+      "districts": [
+        "婺城区",
+        "金东区",
+        "武义县",
+        "浦江县",
+        "磐安县",
+        "兰溪市",
+        "义乌市",
+        "东阳市",
+        "永康市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "金华人才网",
+          "url": "http://www.jhrcsc.com"
+        },
+        {
+          "category": "事业单位",
+          "name": "金华市人力资源和社会保障局",
+          "url": "http://rsj.jinhua.gov.cn"
+        },
+        {
+          "category": "录用公示",
+          "name": "浙江省公务员考试录用网金华市录用公示专栏",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryMore.htm?mkxh=5&dsdm=13307"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "金华市各级机关单位2026年度考试录用公务员公告",
+          "date": "2025-11-04",
+          "headcount": 610,
+          "positions": null,
+          "source": "浙江省公务员考试录用网",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm?mkxh=2&tzid=16512",
+          "attachments": [
+            {
+              "name": "2026年金华市公务员招考计划一览表.xls",
+              "url": "http://omwb.oss-cn-beijing.aliyuncs.com/zjgwy2025/b6e1508b56508a7ecd5dcf57b79a1db6",
+              "local": "attachments/330700/2026年金华市公务员招考计划一览表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "金华市2025年市属事业单位公开招聘工作人员公告",
+          "date": "2025-03-18",
+          "headcount": 101,
+          "positions": null,
+          "source": "金华市人力资源和社会保障局",
+          "url": "http://rsj.jinhua.gov.cn/art/2025/3/18/art_1229708695_4217894.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "常规选调",
+          "title": "2026年度浙江省党政机关选调应届优秀大学毕业生公告（全省计划1018名，含金华职位）",
+          "date": "2025-10-09",
+          "headcount": null,
+          "positions": null,
+          "source": "中共浙江省委组织部（浙江选调生报考专栏）",
+          "url": "http://xd.zjks.com",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "2026年金华市本级考试录用公务员拟录用人员公示（一）",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "浙江省公务员考试录用网",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm?mkxh=5&tzid=18125",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 330800,
+      "name": "衢州市",
+      "districts": [
+        "柯城区",
+        "衢江区",
+        "常山县",
+        "开化县",
+        "龙游县",
+        "江山市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "衢州市人民政府网",
+          "url": "http://www.qz.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "衢州市人力资源和社会保障局",
+          "url": "http://rsj.qz.gov.cn"
+        },
+        {
+          "category": "录用公示",
+          "name": "浙江省公务员考试录用网衢州市录用公示专栏",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryMore.htm?mkxh=5&dsdm=13308"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "衢州市各级机关单位2026年度考试录用公务员公告",
+          "date": "2025-11-04",
+          "headcount": 333,
+          "positions": null,
+          "source": "浙江省公务员考试录用网",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm?mkxh=2&tzid=16522",
+          "attachments": [
+            {
+              "name": "2026年衢州市公务员招考计划一览表.xls",
+              "url": "http://omwb.oss-cn-beijing.aliyuncs.com/zjgwy2025/9f2dcc285ba63e3b0dc26b52ae64c568",
+              "local": "attachments/330800/2026年衢州市公务员招考计划一览表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "衢州市人力资源和社会保障局关于2025年下半年衢州市属事业单位公开招聘工作人员公告",
+          "date": "2025-08-20",
+          "headcount": 27,
+          "positions": null,
+          "source": "衢州市人力资源和社会保障局",
+          "url": "http://rsj.qz.gov.cn/art/2025/8/20/art_1229850746_58929371.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "常规选调",
+          "title": "2026年度浙江省党政机关选调应届优秀大学毕业生公告（全省计划1018名，含衢州职位）",
+          "date": "2025-10-09",
+          "headcount": null,
+          "positions": null,
+          "source": "中共浙江省委组织部（浙江选调生报考专栏）",
+          "url": "http://xd.zjks.com",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "2026年衢州市级机关单位考试录用公务员拟录用人员名单公示",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "浙江省公务员考试录用网",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm?mkxh=5&tzid=18214",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 330900,
+      "name": "舟山市",
+      "districts": [
+        "定海区",
+        "普陀区",
+        "岱山县",
+        "嵊泗县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "舟山党建网",
+          "url": "http://www.zsdj.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "舟山市人力资源和社会保障局",
+          "url": "http://zsrls.zhoushan.gov.cn"
+        },
+        {
+          "category": "录用公示",
+          "name": "浙江省公务员考试录用网舟山市录用公示专栏",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryMore.htm?mkxh=5&dsdm=13309"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "舟山市各级机关单位2026年度考试录用公务员公告",
+          "date": "2025-11-04",
+          "headcount": 138,
+          "positions": null,
+          "source": "浙江省公务员考试录用网",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm?mkxh=2&tzid=16525",
+          "attachments": [
+            {
+              "name": "2026年舟山市公务员招考计划一览表.xls",
+              "url": "http://omwb.oss-cn-beijing.aliyuncs.com/zjgwy2025/4bd42501f1d7525d7d9b65201ef85e93",
+              "local": "attachments/330900/2026年舟山市公务员招考计划一览表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2025年下半年浙江舟山市属事业单位公开招聘工作人员公告",
+          "date": "2025-08-15",
+          "headcount": 27,
+          "positions": null,
+          "source": "舟山市人力资源和社会保障局",
+          "url": "https://www.zhoushan.gov.cn/art/2025/8/15/art_1229294426_3926312.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "常规选调",
+          "title": "2026年度浙江省党政机关选调应届优秀大学毕业生公告（全省计划1018名，含舟山职位）",
+          "date": "2025-10-09",
+          "headcount": null,
+          "positions": null,
+          "source": "中共浙江省委组织部（浙江选调生报考专栏）",
+          "url": "http://xd.zjks.com",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "舟山市市级机关单位2026年度考试录用公务员拟录用人员公示",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "浙江省公务员考试录用网",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm?mkxh=5&tzid=18190",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 331000,
+      "name": "台州市",
+      "districts": [
+        "椒江区",
+        "黄岩区",
+        "路桥区",
+        "三门县",
+        "天台县",
+        "仙居县",
+        "温岭市",
+        "临海市",
+        "玉环市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "台州党建网",
+          "url": "http://zzb.zjtz.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "台州市人力资源和社会保障局",
+          "url": "https://rsj.zjtz.gov.cn"
+        },
+        {
+          "category": "录用公示",
+          "name": "浙江省公务员考试录用网台州市录用公示专栏",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryMore.htm?mkxh=5&dsdm=13310"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "台州市各级机关单位2026年度考试录用公务员公告",
+          "date": "2025-11-04",
+          "headcount": 624,
+          "positions": null,
+          "source": "浙江省公务员考试录用网",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm?mkxh=2&tzid=16535",
+          "attachments": [
+            {
+              "name": "2026年台州市公务员招考计划一览表.xls",
+              "url": "http://omwb.oss-cn-beijing.aliyuncs.com/zjgwy2026/57134dbfae4887a4f3105d2febb62954",
+              "local": "attachments/331000/2026年台州市公务员招考计划一览表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2025年上半年台州市属事业单位公开招聘工作人员公告",
+          "date": "2025-03-19",
+          "headcount": 129,
+          "positions": null,
+          "source": "台州市人力资源和社会保障局",
+          "url": "https://rsj.zjtz.gov.cn/art/2025/3/19/art_1229045970_4029293.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "常规选调",
+          "title": "2026年度浙江省党政机关选调应届优秀大学毕业生公告（全省计划1018名，含台州职位）",
+          "date": "2025-10-09",
+          "headcount": null,
+          "positions": null,
+          "source": "中共浙江省委组织部（浙江选调生报考专栏）",
+          "url": "http://xd.zjks.com",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "台州市市级机关单位2026年度考试录用公务员拟录用人员名单公示",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "浙江省公务员考试录用网",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm?mkxh=5&tzid=18332",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 331100,
+      "name": "丽水市",
+      "districts": [
+        "莲都区",
+        "青田县",
+        "缙云县",
+        "遂昌县",
+        "松阳县",
+        "云和县",
+        "庆元县",
+        "景宁畲族自治县",
+        "龙泉市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "丽水先锋网",
+          "url": "http://www.lsxfw.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "丽水市人力资源和社会保障局",
+          "url": "http://rsj.lishui.gov.cn"
+        },
+        {
+          "category": "录用公示",
+          "name": "浙江省公务员考试录用网丽水市录用公示专栏",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryMore.htm?mkxh=5&dsdm=13311"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "丽水市各级机关单位2026年度考试录用公务员公告",
+          "date": "2025-11-04",
+          "headcount": 309,
+          "positions": null,
+          "source": "浙江省公务员考试录用网",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm?mkxh=2&tzid=16527",
+          "attachments": [
+            {
+              "name": "2026年丽水市公务员招考计划一览表.xls",
+              "url": "http://omwb.oss-cn-beijing.aliyuncs.com/zjgwy2025/4bd42501f1d7525d47ff63fd016c48c0",
+              "local": "attachments/331100/2026年丽水市公务员招考计划一览表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2025年下半年丽水市直事业单位公开招（选）聘人员公告",
+          "date": "2025-08-28",
+          "headcount": 27,
+          "positions": null,
+          "source": "丽水市人力资源和社会保障局",
+          "url": "http://rsj.lishui.gov.cn/art/2025/8/28/art_1229574716_5589963.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "常规选调",
+          "title": "2026年度浙江省党政机关选调应届优秀大学毕业生公告（全省计划1018名，含丽水职位）",
+          "date": "2025-10-09",
+          "headcount": null,
+          "positions": null,
+          "source": "中共浙江省委组织部（浙江选调生报考专栏）",
+          "url": "http://xd.zjks.com",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "2026丽水市市级机关单位专项招录公务员拟录用人员公示",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "浙江省公务员考试录用网",
+          "url": "http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm?mkxh=5&tzid=18490",
+          "attachments": []
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "name": "浙江大学",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.zju.edu.cn",
+      "hrUrl": "https://hr.zju.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国美术学院",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "双一流"
+      ],
+      "website": "https://www.caa.edu.cn",
+      "hrUrl": "https://rsps.caa.edu.cn/zp/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江工业大学",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.zjut.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "杭州电子科技大学",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.hdu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江工商大学",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.zjgsu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江理工大学",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.zstu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江中医药大学",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.zcmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江农林大学",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.zafu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "杭州师范大学",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.hznu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国计量大学",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cjlu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江财经大学",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.zufe.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江传媒学院",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cuz.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江警察学院",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.zjpc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江科技大学",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.zust.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江水利水电学院",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.zjweu.edu.cn",
+      "hrUrl": "https://rsc.zjweu.edu.cn/zp/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江音乐学院",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.zjcm.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "杭州医学院",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hmc.edu.cn",
+      "hrUrl": "http://rczp.hmc.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江外国语学院",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.zisu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙大城市学院",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hzcu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西湖大学",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.westlake.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "杭州职业技术大学",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hzvtc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江机电职业技术大学",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.zime.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北京航空航天大学中法航空学院",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://zfai.buaa.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江树人学院",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.zjsru.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "杭州电子科技大学信息工程学院",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.hziee.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江工商大学杭州商学院",
+      "city": "杭州市",
+      "cityAdcode": 330100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.zjhzcc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "宁波大学",
+      "city": "宁波市",
+      "cityAdcode": 330200,
+      "tags": [
+        "双一流"
+      ],
+      "website": "https://www.nbu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "宁波工程学院",
+      "city": "宁波市",
+      "cityAdcode": 330200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.nbut.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙大宁波理工学院",
+      "city": "宁波市",
+      "cityAdcode": 330200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.nbt.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江万里学院",
+      "city": "宁波市",
+      "cityAdcode": 330200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.zwu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "宁波诺丁汉大学",
+      "city": "宁波市",
+      "cityAdcode": 330200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.nottingham.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "宁波东方理工大学",
+      "city": "宁波市",
+      "cityAdcode": 330200,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.eitech.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "宁波职业技术大学",
+      "city": "宁波市",
+      "cityAdcode": 330200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.nbpt.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江药科职业大学",
+      "city": "宁波市",
+      "cityAdcode": 330200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.zjpc.net.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "宁波财经学院",
+      "city": "宁波市",
+      "cityAdcode": 330200,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.nbufe.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "宁波大学科学技术学院",
+      "city": "宁波市",
+      "cityAdcode": 330200,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.ndky.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "温州医科大学",
+      "city": "温州市",
+      "cityAdcode": 330300,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.wmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "温州大学",
+      "city": "温州市",
+      "cityAdcode": 330300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.wzu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "温州理工学院",
+      "city": "温州市",
+      "cityAdcode": 330300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.wzut.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "温州肯恩大学",
+      "city": "温州市",
+      "cityAdcode": 330300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.wku.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "温州职业技术大学",
+      "city": "温州市",
+      "cityAdcode": 330300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.wzvtc.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "温州商学院",
+      "city": "温州市",
+      "cityAdcode": 330300,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.wzbc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "温州医科大学仁济学院",
+      "city": "温州市",
+      "cityAdcode": 330300,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://rjxy.wmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "嘉兴大学",
+      "city": "嘉兴市",
+      "cityAdcode": 330400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.zjxu.edu.cn",
+      "hrUrl": "http://rczp.zjxu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "嘉兴南湖学院",
+      "city": "嘉兴市",
+      "cityAdcode": 330400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.jxnhu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江财经大学东方学院",
+      "city": "嘉兴市",
+      "cityAdcode": 330400,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.zufedfc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖州师范学院",
+      "city": "湖州市",
+      "cityAdcode": 330500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.zjhu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖州学院",
+      "city": "湖州市",
+      "cityAdcode": 330500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.zjhzu.edu.cn",
+      "hrUrl": "https://rsc.zjhzu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "绍兴文理学院",
+      "city": "绍兴市",
+      "cityAdcode": 330600,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.usx.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江工业大学之江学院",
+      "city": "绍兴市",
+      "cityAdcode": 330600,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.zzjc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "绍兴文理学院元培学院",
+      "city": "绍兴市",
+      "cityAdcode": 330600,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.ypc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江理工大学科技与艺术学院",
+      "city": "绍兴市",
+      "cityAdcode": 330600,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.ky.zstu.edu.cn",
+      "hrUrl": "https://www.ky.zstu.edu.cn/rczp.htm",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江农林大学暨阳学院",
+      "city": "绍兴市",
+      "cityAdcode": 330600,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.zjyc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江师范大学",
+      "city": "金华市",
+      "cityAdcode": 330700,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.zjnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "金华职业技术大学",
+      "city": "金华市",
+      "cityAdcode": 330700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.jhc.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江广厦建设职业技术大学",
+      "city": "金华市",
+      "cityAdcode": 330700,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.zjgsdx.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江师范大学行知学院",
+      "city": "金华市",
+      "cityAdcode": 330700,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.zjxz.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国计量大学现代科技学院",
+      "city": "金华市",
+      "cityAdcode": 330700,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.ldxk.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "上海财经大学浙江学院",
+      "city": "金华市",
+      "cityAdcode": 330700,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.shufe-zj.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "衢州学院",
+      "city": "衢州市",
+      "cityAdcode": 330800,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.qzc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "浙江海洋大学",
+      "city": "舟山市",
+      "cityAdcode": 330900,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.zjou.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "台州学院",
+      "city": "台州市",
+      "cityAdcode": 331000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.tzc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "丽水学院",
+      "city": "丽水市",
+      "cityAdcode": 331100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.lsu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    }
+  ]
+}

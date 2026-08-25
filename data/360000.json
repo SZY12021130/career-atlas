@@ -1,0 +1,650 @@
+{
+  "adcode": 360000,
+  "name": "江西省",
+  "updatedAt": "2026-08-25",
+  "provincePortals": [
+    {"category": "公务员", "name": "江西人事考试网（江西省人事考试中心）", "url": "http://www.jxpta.com/"},
+    {"category": "事业单位", "name": "江西省人力资源和社会保障厅", "url": "https://rst.jiangxi.gov.cn/"},
+    {"category": "选调", "name": "人才江西网（江西组工网·江西省选调生报名系统）", "url": "https://rc.jxzzb.gov.cn/"},
+    {"category": "录用公示", "name": "江西人事考试网-工作动态", "url": "http://www.jxpta.com/jxsrskszx/gzdt140/pc/index.html"}
+  ],
+  "cities": [
+    {
+      "adcode": 360100,
+      "name": "南昌市",
+      "districts": ["东湖区", "西湖区", "青云谱区", "青山湖区", "新建区", "红谷滩区", "南昌县", "安义县", "进贤县"],
+      "portals": [
+        {"category": "公务员", "name": "南昌市人民政府门户网站", "url": "https://www.nc.gov.cn/"},
+        {"category": "事业单位", "name": "南昌市人力资源和社会保障局-通知公告", "url": "http://rsj.nc.gov.cn/ncsrsj/tzgg/nav_list.shtml"}
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "江西省2025年度考试录用公务员公告",
+          "date": "2025-01-15",
+          "headcount": null,
+          "positions": null,
+          "source": "江西组工微讯（中共江西省委组织部官方公众号）",
+          "url": "https://mp.weixin.qq.com/s/SCMZ351C4pOb_Ha_uPmi6w",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "南昌市事业单位2025年统一公开招聘工作人员公告",
+          "date": "2025-02-13",
+          "headcount": 315,
+          "positions": null,
+          "source": "南昌市人力资源和社会保障局",
+          "url": "https://rsj.nc.gov.cn/ncsrsj/zkly/202502/6363408c37414e2e83b1808385b8f48b.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "南昌市2025年度考试录用公务员拟录用人员公示（第一批）",
+          "date": "2025-06-20",
+          "headcount": 547,
+          "positions": null,
+          "source": "中共南昌市委组织部（南昌市城市管理和综合执法局网站转载）",
+          "url": "https://cgw.nc.gov.cn/nccsglwyh/rsrm/202512/49a115cf34a54c27a9926d5300c03e54.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "江西省2026年度面向部分高校选调应届优秀大学毕业生公告",
+          "date": "2025-11-17",
+          "headcount": null,
+          "positions": null,
+          "source": "江西组工微讯（上高县人民政府网站转载）",
+          "url": "http://shanggao.gov.cn/sgxrmzf/klzp1/202512/ff317d6858fa430b8bc67f8381f310c1.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "南昌市第一医院2025年高层次人才引进公告",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "南昌市第一医院（南昌大学附属第三医院）",
+          "url": "https://www.ncsdyyy.com/list/225/10558.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 360200,
+      "name": "景德镇市",
+      "districts": ["昌江区", "珠山区", "浮梁县", "乐平市"],
+      "portals": [
+        {"category": "公务员", "name": "景德镇市人民政府-招考录用", "url": "https://www.jdz.gov.cn/zwgk/fdzdgknr/rsxx/zkly/"},
+        {"category": "事业单位", "name": "景德镇市人力资源和社会保障局-公告公示", "url": "https://hrss.jdz.gov.cn/zwzx/gggs/"}
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "景德镇市事业单位2025年统一公开招聘工作人员公告",
+          "date": "2025-02-13",
+          "headcount": 235,
+          "positions": null,
+          "source": "景德镇市人力资源和社会保障局",
+          "url": "https://hrss.jdz.gov.cn/zwzx/gggs/t1011821.shtml",
+          "attachments": [
+            {"name": "2025年景德镇市事业单位统一公开招聘工作人员岗位表.xlsx", "url": "https://hrss.jdz.gov.cn/zwzx/gggs/P020251023629319732314.xlsx", "local": "attachments/360200/2025年景德镇市事业单位统一公开招聘工作人员岗位表.xlsx"}
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "景德镇市事业单位2026年统一公开招聘工作人员公告",
+          "date": "2026-02-02",
+          "headcount": 281,
+          "positions": null,
+          "source": "景德镇市人力资源和社会保障局",
+          "url": "https://hrss.jdz.gov.cn/zwzx/gggs/t1078832.shtml",
+          "attachments": [
+            {"name": "2026年景德镇市事业单位统一公开招聘工作人员岗位表.xlsx", "url": "https://hrss.jdz.gov.cn/zwzx/gggs/P020260202602114996274.xlsx", "local": "attachments/360200/2026年景德镇市事业单位统一公开招聘工作人员岗位表.xlsx"}
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "景德镇市事业单位2025年统一公开选聘高素质人才公告",
+          "date": "2025-02-13",
+          "headcount": 49,
+          "positions": null,
+          "source": "景德镇市人力资源和社会保障局",
+          "url": "https://hrss.jdz.gov.cn/zwzx/gggs/t1011823.shtml",
+          "attachments": [
+            {"name": "2025年景德镇市事业单位统一公开选聘高素质人才岗位表.xlsx", "url": "https://hrss.jdz.gov.cn/zwzx/gggs/P020250213666554926609.xlsx", "local": "attachments/360200/2025年景德镇市事业单位统一公开选聘高素质人才岗位表.xlsx"}
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "景德镇市2025年度考试录用公务员拟录用人员公示（第一批）",
+          "date": "2025-06-19",
+          "headcount": 245,
+          "positions": null,
+          "source": "中共景德镇市委组织部（景德镇市人民政府网站招考录用栏目）",
+          "url": "https://www.jdz.gov.cn/zwgk/fdzdgknr/rsxx/zkly/t1031775.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 360300,
+      "name": "萍乡市",
+      "districts": ["安源区", "湘东区", "莲花县", "上栗县", "芦溪县"],
+      "portals": [
+        {"category": "公务员", "name": "萍乡市人民政府门户网站", "url": "https://www.pingxiang.gov.cn/"},
+        {"category": "事业单位", "name": "萍乡市人力资源和社会保障局-通知公告", "url": "https://rsj.pingxiang.gov.cn/pxsrsj/tzgg/nav_list.shtml"}
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "萍乡市事业单位2025年统一公开招聘工作人员公告",
+          "date": "2025-02-13",
+          "headcount": 396,
+          "positions": null,
+          "source": "萍乡市人力资源和社会保障局（江西人事考试网萍乡频道发布）",
+          "url": "http://www.jxpta.com/art/2025/2/13/art_83012_5126502.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "萍乡市市直事业单位2025年引进高层次和急需紧缺人才公告",
+          "date": "2025-07-29",
+          "headcount": 94,
+          "positions": null,
+          "source": "萍乡市人力资源和社会保障局（江西人事考试网发布）",
+          "url": "http://www.jxpta.com/jxsrskszx/jqks518/pc/content/content_1950098917987008512.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "萍乡市2025年度考试录用公务员第一批拟录用人员公示",
+          "date": "2025-06-19",
+          "headcount": 301,
+          "positions": null,
+          "source": "萍乡组工微讯（中共萍乡市委组织部官方公众号）",
+          "url": "https://mp.weixin.qq.com/s/Sy1fb6IQIzeP0Y7FZV7sKQ",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 360400,
+      "name": "九江市",
+      "districts": ["濂溪区", "浔阳区", "柴桑区", "武宁县", "修水县", "永修县", "德安县", "都昌县", "湖口县", "彭泽县", "瑞昌市", "共青城市", "庐山市"],
+      "portals": [
+        {"category": "公务员", "name": "九江市人民政府-公务员考录", "url": "https://www.jiujiang.gov.cn/xxgk/xzwgk/glgk/rsxx/gwyzk/"},
+        {"category": "事业单位", "name": "九江市人力资源和社会保障局-公告公示", "url": "https://rsj.jiujiang.gov.cn/zwzx_211/gggs/"}
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "九江市事业单位2025年统一公开招聘工作人员公告",
+          "date": "2025-02-13",
+          "headcount": 714,
+          "positions": null,
+          "source": "九江市人力资源和社会保障局（湖口县人民政府网站转载）",
+          "url": "https://www.hukou.gov.cn/zw/zfxxgkzl/fdzdgknr/rsxx/zkzl/202503/t20250301_6861096.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "九江市2025年度考试录用公务员拟录用人员公示（第一批）",
+          "date": "2025-06-16",
+          "headcount": 774,
+          "positions": null,
+          "source": "中共九江市委组织部（九江市人民政府网站公务员考录栏目）",
+          "url": "https://www.jiujiang.gov.cn/xxgk/xzwgk/glgk/rsxx/gwyzk/202506/t20250616_6930946.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "九江市事业单位2025年下半年高层次人才招聘公告",
+          "date": "2025-10-30",
+          "headcount": 276,
+          "positions": null,
+          "source": "九江市人力资源和社会保障局",
+          "url": "https://rsj.jiujiang.gov.cn/zwzx_211/gggs/202510/t20251030_7043939.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 360500,
+      "name": "新余市",
+      "districts": ["渝水区", "分宜县"],
+      "portals": [
+        {"category": "公务员", "name": "新余市人力资源和社会保障局-公告公示", "url": "http://rsj.xinyu.gov.cn/rsj/gggs/"},
+        {"category": "事业单位", "name": "新余市人力资源和社会保障局", "url": "http://rsj.xinyu.gov.cn/"}
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "新余市2025年事业单位统一公开招聘工作人员公告",
+          "date": "2025-02-13",
+          "headcount": 133,
+          "positions": null,
+          "source": "新余市人力资源和社会保障局",
+          "url": "http://rsj.xinyu.gov.cn/rsj/gggs1/2025-02/13/content_eed8fc15e1044c79951f57752a5efb05.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "新余市2025年度考试录用公务员拟录用人员公示",
+          "date": "2025-06-18",
+          "headcount": 155,
+          "positions": null,
+          "source": "新余党建（中共新余市委组织部官方公众号）",
+          "url": "https://mp.weixin.qq.com/s/vjI_E3F7U-N4CulpsB9wRw",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "2025年新余市事业单位公开招聘优秀青年人才（研究生）公告",
+          "date": "2025-07-24",
+          "headcount": 41,
+          "positions": null,
+          "source": "新余市人力资源和社会保障局",
+          "url": "https://rsj.xinyu.gov.cn/rsj/gggs1/2025-07/24/content_0a9dada4b27e48d5ae94ea86b78d896d.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 360600,
+      "name": "鹰潭市",
+      "districts": ["月湖区", "余江区", "贵溪市"],
+      "portals": [
+        {"category": "公务员", "name": "鹰潭市人民政府门户网站（考录招聘栏目）", "url": "http://www.yingtan.gov.cn/"},
+        {"category": "事业单位", "name": "鹰潭市人力资源和社会保障局", "url": "http://rsj.yingtan.gov.cn/"}
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "鹰潭市2025年度统一公开招聘事业单位工作人员和卫生专业技术人员公告",
+          "date": "2025-02-13",
+          "headcount": 301,
+          "positions": null,
+          "source": "鹰潭市人力资源和社会保障局",
+          "url": "http://rsj.yingtan.gov.cn/art/2025/2/13/art_2751_1452606.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "鹰潭市2025年度考试录用公务员拟录用人员公示（第一批）",
+          "date": "2025-06-19",
+          "headcount": 251,
+          "positions": null,
+          "source": "中共鹰潭市委组织部（鹰潭市文化广电旅游局网站考录招聘栏目转载）",
+          "url": "http://wgxlj.yingtan.gov.cn/art/2025/6/19/art_2531_1493383.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "鹰潭市2025年上半年事业单位人才专场引进（招聘）公告（南京站、武汉站）",
+          "date": "2025-03-17",
+          "headcount": 81,
+          "positions": null,
+          "source": "鹰潭市人力资源和社会保障局（江西人事考试网发布）",
+          "url": "http://www.jxpta.com/jxsrskszx/gzdt140/pc/content/content_1901651345816920064.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 360700,
+      "name": "赣州市",
+      "districts": ["章贡区", "南康区", "赣县区", "信丰县", "大余县", "上犹县", "崇义县", "安远县", "定南县", "全南县", "宁都县", "于都县", "兴国县", "会昌县", "寻乌县", "石城县", "瑞金市", "龙南市"],
+      "portals": [
+        {"category": "公务员", "name": "赣州市人力资源和社会保障局-考录招聘", "url": "http://rsj.ganzhou.gov.cn/gzsrsj/c100244/zwzx.shtml"},
+        {"category": "事业单位", "name": "赣州市人民政府-人事信息", "url": "https://www.ganzhou.gov.cn/zfxxgk/c143975/xxgk_list.shtml"}
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "赣州市事业单位2025年统一公开招聘工作人员公告",
+          "date": "2025-02-13",
+          "headcount": 1894,
+          "positions": null,
+          "source": "赣州市人力资源和社会保障局",
+          "url": "http://rsj.ganzhou.gov.cn/gzsrsj/c100244/202502/ea3d189266d3498b941406aae659e916.shtml",
+          "attachments": [
+            {"name": "2025年赣州市事业单位统一公开招聘工作人员岗位表.xlsx", "url": "http://rsj.ganzhou.gov.cn/gzsrsj/c100244/202502/ea3d189266d3498b941406aae659e916/files/4b649777b90a43839ad8dc9c9ae66897.xlsx", "local": "attachments/360700/2025年赣州市事业单位统一公开招聘工作人员岗位表.xlsx"}
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "赣州市事业单位2026年统一公开招聘工作人员公告",
+          "date": "2026-02-02",
+          "headcount": 1170,
+          "positions": null,
+          "source": "赣州市人力资源和社会保障局",
+          "url": "http://rsj.ganzhou.gov.cn/gzsrsj/c100244/202602/ce2e6cc57c154b12adda7c274bc7ab94.shtml",
+          "attachments": [
+            {"name": "2026年赣州市事业单位统一公开招聘工作人员岗位表.xls", "url": "http://rsj.ganzhou.gov.cn/gzsrsj/c100244/202602/ce2e6cc57c154b12adda7c274bc7ab94/files/e75fe0b1e22c43068d945180702a1d2c.xls", "local": "attachments/360700/2026年赣州市事业单位统一公开招聘工作人员岗位表.xls"}
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "赣州市2025年度考试录用公务员拟录用人员公示（第一批）",
+          "date": "2025-06-18",
+          "headcount": 1331,
+          "positions": null,
+          "source": "中共赣州市委组织部（宁都县人民政府网站转载）",
+          "url": "https://www.ningdu.gov.cn/ndxxxgk/c100087/202510/36eb4848067d4daeb5a672602e059549.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "赣州市2025年“十万英才聚赣南”事业单位招聘硕士研究生及以上学历人才公告（兰州站）",
+          "date": "2025-09-12",
+          "headcount": 444,
+          "positions": 340,
+          "source": "赣州市人力资源和社会保障局",
+          "url": "http://rsj.ganzhou.gov.cn/c101390/202509/350ac9ef839d47debe1d56723a9549ff.shtml",
+          "attachments": [
+            {"name": "2025年赣州市十万英才聚赣南事业单位招聘硕士研究生岗位表(兰州站).xlsx", "url": "http://rsj.ganzhou.gov.cn/c101390/202509/350ac9ef839d47debe1d56723a9549ff/files/be19e02df53043829fadc8456d2a5d54.xlsx", "local": "attachments/360700/2025年赣州市十万英才聚赣南事业单位招聘硕士研究生岗位表(兰州站).xlsx"}
+          ]
+        }
+      ]
+    },
+    {
+      "adcode": 360800,
+      "name": "吉安市",
+      "districts": ["吉州区", "青原区", "吉安县", "吉水县", "峡江县", "新干县", "永丰县", "泰和县", "遂川县", "万安县", "安福县", "永新县", "井冈山市"],
+      "portals": [
+        {"category": "公务员", "name": "吉安市人民政府门户网站（考录招聘栏目）", "url": "http://www.jian.gov.cn/"},
+        {"category": "事业单位", "name": "吉安市人力资源和社会保障局", "url": "http://hrss.jian.gov.cn/"}
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2025年吉安市事业单位公开招聘工作人员（含卫生专业技术人员）公告",
+          "date": "2025-02-13",
+          "headcount": 1193,
+          "positions": null,
+          "source": "吉安市人力资源和社会保障局",
+          "url": "http://hrss.jian.gov.cn/news-show-17318.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "2025年吉安市教育卫生及遂川县硅基研究院等事业单位公开招聘普通高层次人才公告",
+          "date": "2025-09-26",
+          "headcount": 261,
+          "positions": null,
+          "source": "吉安市人力资源和社会保障局",
+          "url": "http://hrss.jian.gov.cn/news-show-17692.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "吉安市2025年度考试录用公务员第一批拟录用人员公示",
+          "date": "2025-06-19",
+          "headcount": 671,
+          "positions": null,
+          "source": "中共吉安市委组织部（吉安市人民政府网站考录招聘栏目）",
+          "url": "http://www.jian.gov.cn/xxgk-show-10227708.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 360900,
+      "name": "宜春市",
+      "districts": ["袁州区", "奉新县", "万载县", "上高县", "宜丰县", "靖安县", "铜鼓县", "丰城市", "樟树市", "高安市"],
+      "portals": [
+        {"category": "公务员", "name": "中国宜春（宜春市人民政府）-考录招聘", "url": "https://www.yichun.gov.cn/ycsrmzf/klzp/"},
+        {"category": "事业单位", "name": "宜春市人力资源和社会保障局-通知公告", "url": "http://hrss.yichun.gov.cn/ycsshbzj/tzwj/"}
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "宜春市事业单位2025年统一公开招聘工作人员公告",
+          "date": "2025-02-13",
+          "headcount": 311,
+          "positions": null,
+          "source": "宜春市人力资源和社会保障局（宜春市人民政府网站考录招聘栏目）",
+          "url": "https://www.yichun.gov.cn/ycsrmzf/klzp/202502/d916224e8f2e4d6c99569085649eb85d.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "宜春市2025年度考试录用公务员第一批拟录用人员公示",
+          "date": "2025-06-19",
+          "headcount": 582,
+          "positions": null,
+          "source": "中共宜春市委组织部（宜春市人力资源和社会保障局网站）",
+          "url": "https://hrss.yichun.gov.cn/ycsshbzj/sydwzk/pc/content/1998639521155887104/content_1998639521155887104.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "宜春市事业单位2025年引进高层次和急需紧缺人才公告",
+          "date": "2025-07-15",
+          "headcount": 124,
+          "positions": null,
+          "source": "宜春市人力资源和社会保障局（铜鼓县人民政府网站转载）",
+          "url": "http://www.tonggu.gov.cn/tgxrmzf/zpkl1c/202507/fb7f20ebb23e41d9adbdf3264029d861.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 361000,
+      "name": "抚州市",
+      "districts": ["临川区", "东乡区", "南城县", "黎川县", "南丰县", "崇仁县", "乐安县", "宜黄县", "金溪县", "资溪县", "广昌县"],
+      "portals": [
+        {"category": "公务员", "name": "抚州市人民政府-招考录用", "url": "https://www.jxfz.gov.cn/col/col3831/index.html"},
+        {"category": "事业单位", "name": "抚州市人力资源和社会保障局", "url": "http://rsj.jxfz.gov.cn/"}
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "抚州市事业单位2025年统一公开招聘工作人员公告",
+          "date": "2025-02-13",
+          "headcount": 956,
+          "positions": null,
+          "source": "抚州市人力资源和社会保障局",
+          "url": "https://rsj.jxfz.gov.cn/art/2025/2/13/art_6432_4271650.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "抚州市事业单位2025年公开招聘高素质人才公告",
+          "date": "2025-07-14",
+          "headcount": 155,
+          "positions": null,
+          "source": "抚州市人力资源和社会保障局",
+          "url": "http://rsj.jxfz.gov.cn/art/2025/7/14/art_6432_4331138.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "抚州市2025年度考试录用公务员第一批拟录用人员公示",
+          "date": "2025-06-23",
+          "headcount": 785,
+          "positions": null,
+          "source": "中共抚州市委组织部（抚州市人民政府网站招考录用栏目）",
+          "url": "https://www.jxfz.gov.cn/art/2025/6/23/art_3831_4322596.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 361100,
+      "name": "上饶市",
+      "districts": ["信州区", "广丰区", "广信区", "玉山县", "铅山县", "横峰县", "弋阳县", "余干县", "鄱阳县", "万年县", "婺源县", "德兴市"],
+      "portals": [
+        {"category": "公务员", "name": "上饶市人民政府门户网站（考录招聘栏目）", "url": "https://www.zgsr.gov.cn/"},
+        {"category": "事业单位", "name": "上饶市人力资源和社会保障局-公告公示", "url": "http://hrss.zgsr.gov.cn/hrss/gsgg/"}
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "上饶市事业单位2025年统一公开招聘工作人员公告",
+          "date": "2025-02-13",
+          "headcount": 340,
+          "positions": null,
+          "source": "上饶市人力资源和社会保障局（上饶市人民政府网站转载）",
+          "url": "https://www.zgsr.gov.cn/slj/klzp/202504/012667f7492642a28e500614e4ee0660.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "上饶市事业单位2026年统一公开招聘工作人员公告",
+          "date": "2026-02-02",
+          "headcount": 394,
+          "positions": null,
+          "source": "上饶市人力资源和社会保障局",
+          "url": "http://hrss.zgsr.gov.cn/hrss/gsgg/202602/2a3701035f2e40bfb7dfd448f2ee1f26.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "上饶市2025年度考试录用公务员拟录用人员公示（第一批）",
+          "date": "2025-06-20",
+          "headcount": 680,
+          "positions": null,
+          "source": "中共上饶市委组织部（上饶市广信区人民政府网站考录招聘栏目转载）",
+          "url": "https://www.srx.gov.cn/srx/klzp/202506/a10e8a3090b64cc7a66b8e5bf329ffec.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "上饶市人民医院2025年高层次人才招聘公告",
+          "date": "2025-08-25",
+          "headcount": 2,
+          "positions": null,
+          "source": "上饶市人力资源和社会保障局",
+          "url": "http://hrss.zgsr.gov.cn/hrss/gsgg/202508/efc610a41cee4af198e9a6269f1dae1a.shtml",
+          "attachments": []
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {"name": "南昌大学", "city": "南昌市", "cityAdcode": 360100, "tags": ["211", "双一流"], "website": "https://www.ncu.edu.cn", "hrUrl": "https://rsc.ncu.edu.cn", "talentPolicyUrl": null},
+    {"name": "江西师范大学", "city": "南昌市", "cityAdcode": 360100, "tags": ["省属重点"], "website": "https://www.jxnu.edu.cn", "hrUrl": "https://rsc.jxnu.edu.cn", "talentPolicyUrl": null},
+    {"name": "江西农业大学", "city": "南昌市", "cityAdcode": 360100, "tags": ["省属重点"], "website": "https://www.jxau.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "江西财经大学", "city": "南昌市", "cityAdcode": 360100, "tags": ["省属重点"], "website": "https://www.jxufe.edu.cn", "hrUrl": "https://rsc.jxufe.edu.cn", "talentPolicyUrl": null},
+    {"name": "华东交通大学", "city": "南昌市", "cityAdcode": 360100, "tags": ["省属重点"], "website": "https://www.ecjtu.edu.cn", "hrUrl": "https://rsc.ecjtu.edu.cn", "talentPolicyUrl": null},
+    {"name": "南昌航空大学", "city": "南昌市", "cityAdcode": 360100, "tags": ["省属重点"], "website": "https://www.nchu.edu.cn", "hrUrl": "https://rsc.nchu.edu.cn", "talentPolicyUrl": null},
+    {"name": "江西理工大学", "city": "赣州市", "cityAdcode": 360700, "tags": ["省属重点"], "website": "https://www.jxust.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "东华理工大学", "city": "南昌市", "cityAdcode": 360100, "tags": ["省属重点"], "website": "https://www.ecut.edu.cn", "hrUrl": "https://rsc.ecut.edu.cn", "talentPolicyUrl": null},
+    {"name": "江西中医药大学", "city": "南昌市", "cityAdcode": 360100, "tags": ["省属重点"], "website": "https://www.jxutcm.edu.cn", "hrUrl": "https://rsc.jxutcm.edu.cn", "talentPolicyUrl": null},
+    {"name": "赣南师范大学", "city": "赣州市", "cityAdcode": 360700, "tags": ["省属重点"], "website": "https://www.gnnu.edu.cn", "hrUrl": "https://rsc.gnnu.edu.cn", "talentPolicyUrl": null},
+    {"name": "赣南医科大学", "city": "赣州市", "cityAdcode": 360700, "tags": ["普通本科"], "website": "https://www.gmu.cn", "hrUrl": "https://rsc.gmu.cn", "talentPolicyUrl": null},
+    {"name": "井冈山大学", "city": "吉安市", "cityAdcode": 360800, "tags": ["普通本科"], "website": "https://www.jgsu.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "景德镇陶瓷大学", "city": "景德镇市", "cityAdcode": 360200, "tags": ["省属重点"], "website": "https://www.jcu.edu.cn", "hrUrl": "https://rsc.jcu.edu.cn", "talentPolicyUrl": null},
+    {"name": "江西科技师范大学", "city": "南昌市", "cityAdcode": 360100, "tags": ["普通本科"], "website": "https://www.jxstnu.edu.cn", "hrUrl": "https://rsc.jxstnu.edu.cn", "talentPolicyUrl": null},
+    {"name": "南昌工程学院", "city": "南昌市", "cityAdcode": 360100, "tags": ["普通本科"], "website": "https://www.nit.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "江西警察学院", "city": "南昌市", "cityAdcode": 360100, "tags": ["普通本科"], "website": "https://www.jxga.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "南昌师范学院", "city": "南昌市", "cityAdcode": 360100, "tags": ["普通本科"], "website": "https://www.ncnu.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "上饶师范学院", "city": "上饶市", "cityAdcode": 361100, "tags": ["普通本科"], "website": "https://www.sru.edu.cn", "hrUrl": "https://rsc.sru.edu.cn", "talentPolicyUrl": null},
+    {"name": "宜春学院", "city": "宜春市", "cityAdcode": 360900, "tags": ["普通本科"], "website": "https://www.jxycu.edu.cn", "hrUrl": "https://rsc.jxycu.edu.cn", "talentPolicyUrl": null},
+    {"name": "赣南科技学院", "city": "赣州市", "cityAdcode": 360700, "tags": ["普通本科"], "website": "https://www.gnust.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "九江学院", "city": "九江市", "cityAdcode": 360400, "tags": ["普通本科"], "website": "https://www.jju.edu.cn", "hrUrl": "https://rsc.jju.edu.cn", "talentPolicyUrl": null},
+    {"name": "萍乡学院", "city": "萍乡市", "cityAdcode": 360300, "tags": ["普通本科"], "website": "https://www.pxc.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "新余学院", "city": "新余市", "cityAdcode": 360500, "tags": ["普通本科"], "website": "https://www.xyc.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "景德镇学院", "city": "景德镇市", "cityAdcode": 360200, "tags": ["普通本科"], "website": "https://www.jdzu.edu.cn", "hrUrl": "https://rsc.jdzu.edu.cn", "talentPolicyUrl": null},
+    {"name": "豫章师范学院", "city": "南昌市", "cityAdcode": 360100, "tags": ["普通本科"], "website": "https://www.yznu.edu.cn", "hrUrl": "https://rsc.yznu.edu.cn", "talentPolicyUrl": null},
+    {"name": "南昌医学院", "city": "南昌市", "cityAdcode": 360100, "tags": ["普通本科"], "website": "https://www.ncmc.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "赣东学院", "city": "抚州市", "cityAdcode": 361000, "tags": ["普通本科"], "website": "https://www.gdc.edu.cn", "hrUrl": "https://rsc.gdc.edu.cn", "talentPolicyUrl": null},
+    {"name": "江西飞行学院", "city": "南昌市", "cityAdcode": 360100, "tags": ["普通本科"], "website": "https://www.jxfu.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "江西科技学院", "city": "南昌市", "cityAdcode": 360100, "tags": ["民办", "普通本科"], "website": "https://www.jxut.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "南昌理工学院", "city": "南昌市", "cityAdcode": 360100, "tags": ["民办", "普通本科"], "website": "https://www.nut.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "江西应用科技学院", "city": "南昌市", "cityAdcode": 360100, "tags": ["民办", "普通本科"], "website": "https://www.jxcsu.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "江西服装学院", "city": "南昌市", "cityAdcode": 360100, "tags": ["民办", "普通本科"], "website": "https://www.jift.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "南昌职业大学", "city": "南昌市", "cityAdcode": 360100, "tags": ["民办", "普通本科"], "website": "https://www.nvu.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "江西软件职业技术大学", "city": "南昌市", "cityAdcode": 360100, "tags": ["民办", "普通本科"], "website": "https://www.jxuspt.com", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "南昌工学院", "city": "南昌市", "cityAdcode": 360100, "tags": ["民办", "普通本科"], "website": "https://www.ncpu.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "江西工程学院", "city": "新余市", "cityAdcode": 360500, "tags": ["民办", "普通本科"], "website": "http://www.jxue.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "南昌大学科学技术学院", "city": "九江市", "cityAdcode": 360400, "tags": ["民办", "普通本科"], "website": "https://ncuky.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "南昌大学共青学院", "city": "九江市", "cityAdcode": 360400, "tags": ["民办", "普通本科"], "website": "http://www.ndgy.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "南昌交通学院", "city": "南昌市", "cityAdcode": 360100, "tags": ["民办", "普通本科"], "website": "https://www.ncjtu.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "南昌航空大学科技学院", "city": "九江市", "cityAdcode": 360400, "tags": ["民办", "普通本科"], "website": "http://www.stcnchu.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "景德镇艺术职业大学", "city": "景德镇市", "cityAdcode": 360200, "tags": ["民办", "普通本科"], "website": "https://www.jdzvua.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "江西农业大学南昌商学院", "city": "九江市", "cityAdcode": 360400, "tags": ["民办", "普通本科"], "website": "http://www.ncsxy.com", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "江西师范大学科学技术学院", "city": "九江市", "cityAdcode": 360400, "tags": ["民办", "普通本科"], "website": "http://kjxy.jxnu.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "赣南师范大学科技学院", "city": "赣州市", "cityAdcode": 360700, "tags": ["民办", "普通本科"], "website": "http://www.gnnukjxy.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "南昌应用技术师范学院", "city": "南昌市", "cityAdcode": 360100, "tags": ["民办", "普通本科"], "website": "https://www.nncat.edu.cn", "hrUrl": null, "talentPolicyUrl": null},
+    {"name": "江西财经大学现代经济管理学院", "city": "九江市", "cityAdcode": 360400, "tags": ["民办", "普通本科"], "website": "http://www.xdjjglxy.com", "hrUrl": null, "talentPolicyUrl": null}
+  ]
+}

@@ -1,0 +1,704 @@
+{
+  "adcode": 500000,
+  "name": "重庆市",
+  "updatedAt": "2026-08-25",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "重庆市人力资源和社会保障局（公务员考试栏目）",
+      "url": "https://rlsbj.cq.gov.cn/ywzl/rsks/gwyks/"
+    },
+    {
+      "category": "事业单位",
+      "name": "重庆市人力资源和社会保障局（事业单位公开招聘栏目）",
+      "url": "https://rlsbj.cq.gov.cn/zwxx_182/sydw/"
+    },
+    {
+      "category": "选调",
+      "name": "七一网（重庆组织工作网）选调生招录栏目",
+      "url": "https://www.12371.gov.cn/web/column/col5010891.html"
+    },
+    {
+      "category": "人才引进",
+      "name": "重庆市人力资源和社会保障局（人才公共服务栏目，原重庆英才网业务2025年9月迁入）",
+      "url": "https://rlsbj.cq.gov.cn/ywzl/rcggfw/"
+    },
+    {
+      "category": "录用公示",
+      "name": "重庆市人力资源和社会保障局（公示信息栏目）",
+      "url": "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 500000,
+      "name": "重庆市",
+      "districts": [
+        "万州区",
+        "黔江区",
+        "涪陵区",
+        "渝中区",
+        "大渡口区",
+        "江北区",
+        "沙坪坝区",
+        "九龙坡区",
+        "南岸区",
+        "北碚区",
+        "渝北区",
+        "巴南区",
+        "长寿区",
+        "江津区",
+        "合川区",
+        "永川区",
+        "南川区",
+        "綦江区",
+        "大足区",
+        "璧山区",
+        "铜梁区",
+        "潼南区",
+        "荣昌区",
+        "开州区",
+        "梁平区",
+        "武隆区",
+        "城口县",
+        "丰都县",
+        "垫江县",
+        "忠县",
+        "云阳县",
+        "奉节县",
+        "巫山县",
+        "巫溪县",
+        "石柱土家族自治县",
+        "秀山土家族苗族自治县",
+        "酉阳土家族苗族自治县",
+        "彭水苗族土家族自治县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "重庆市人力资源和社会保障局公务员考试栏目",
+          "url": "https://rlsbj.cq.gov.cn/ywzl/rsks/gwyks/"
+        },
+        {
+          "category": "事业单位",
+          "name": "重庆市人力资源和社会保障局事业单位公开招聘栏目",
+          "url": "https://rlsbj.cq.gov.cn/zwxx_182/sydw/"
+        },
+        {
+          "category": "选调",
+          "name": "七一网选调生招录栏目（中共重庆市委组织部）",
+          "url": "https://www.12371.gov.cn/web/column/col5010891.html"
+        },
+        {
+          "category": "人才引进",
+          "name": "重庆市人力资源和社会保障局人才公共服务栏目（原重庆英才网）",
+          "url": "https://rlsbj.cq.gov.cn/ywzl/rcggfw/"
+        },
+        {
+          "category": "录用公示",
+          "name": "重庆市人力资源和社会保障局公示信息栏目",
+          "url": "https://rlsbj.cq.gov.cn/zwxx_182/gsxx/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "重庆市2026年度考试录用公务员公告",
+          "date": "2026-01-15",
+          "headcount": 4150,
+          "positions": null,
+          "source": "重庆市人力资源和社会保障局",
+          "url": "https://rlsbj.cq.gov.cn/ztzl/zqs2020ndkslygwyzl/gwyks2026/202601/t20260115_15323576.html",
+          "attachments": [
+            {
+              "name": "2026年重庆市考试录用公务员职位计划表.xlsx",
+              "url": "https://rlsbj.cq.gov.cn/ztzl/zqs2020ndkslygwyzl/gwyks2026/202601/P020260115741647496249.xlsx",
+              "local": "attachments/500000/2026年重庆市考试录用公务员职位计划表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "重庆市2025年度公开考试录用公务员公告",
+          "date": "2025-02-11",
+          "headcount": 5517,
+          "positions": null,
+          "source": "重庆市人力资源和社会保障局",
+          "url": "https://rlsbj.cq.gov.cn/ztzl/zqs2020ndkslygwyzl/gwyks2025/202502/t20250211_14290785.html",
+          "attachments": [
+            {
+              "name": "2025年重庆市公务员招考职位情况一览表.xlsx",
+              "url": "https://rlsbj.cq.gov.cn/ztzl/zqs2020ndkslygwyzl/gwyks2025/202502/P020250211397238772291.xlsx",
+              "local": "attachments/500000/2025年重庆市公务员招考职位情况一览表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "重庆市2024年度公开考试录用公务员公告",
+          "date": "2024-01-30",
+          "headcount": 4530,
+          "positions": null,
+          "source": "重庆市人民政府网",
+          "url": "http://www.cq.gov.cn/ywdt/tzgg/202401/t20240130_12882826.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "2025年度重庆市公开遴选公务员公告",
+          "date": "2025-07-24",
+          "headcount": 302,
+          "positions": null,
+          "source": "重庆市人民政府网",
+          "url": "https://www.cq.gov.cn/ywdt/tzgg/202507/t20250724_14843507.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "重庆市定向选调2026届急需紧缺专业应届优秀大学毕业生简章",
+          "date": "2025-09-29",
+          "headcount": null,
+          "positions": null,
+          "source": "七一网（重庆组织工作网）",
+          "url": "https://m.12371.gov.cn/content/2025-09/29/content_499722.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "重庆市集中选调2026届应届优秀大学毕业生到基层工作简章",
+          "date": "2026-02-28",
+          "headcount": 400,
+          "positions": null,
+          "source": "七一网（重庆组织工作网）",
+          "url": "https://www.12371.gov.cn/web/article/1477049683833933824/web/content_1477049683833933824.html",
+          "attachments": [
+            {
+              "name": "2026年重庆市集中选调2026届应届优秀大学毕业生职位表.pdf",
+              "url": "https://www.12371.gov.cn/stacteresource/30061/ORIGINAL/MEDIA/DOCUMENT/2026/2/27/e59bdc69c8144704ad7034fc2b7e1349.pdf",
+              "local": "attachments/500000/2026年重庆市集中选调2026届应届优秀大学毕业生职位表.pdf"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "重庆市集中选调2025届应届优秀大学毕业生到基层工作简章",
+          "date": "2025-02-13",
+          "headcount": 600,
+          "positions": null,
+          "source": "七一网（重庆组织工作网）",
+          "url": "https://www.12371.gov.cn/web/article/1438692018925273088/web/content_1438692018925273088.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "重庆市属事业单位2026年第一季度公开招聘工作人员公告",
+          "date": "2026-01-30",
+          "headcount": 242,
+          "positions": null,
+          "source": "重庆市人力资源和社会保障局",
+          "url": "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2026/202601/t20260130_15369605.html",
+          "attachments": [
+            {
+              "name": "2026年重庆市属事业单位第一季度公开招聘工作人员岗位表.xlsx",
+              "url": "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2026/202601/P020260130585170262814.xlsx",
+              "local": "attachments/500000/2026年重庆市属事业单位第一季度公开招聘工作人员岗位表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "重庆市区县事业单位2026年第一季度公开招聘工作人员公告",
+          "date": "2026-01-30",
+          "headcount": 1378,
+          "positions": null,
+          "source": "重庆市人力资源和社会保障局",
+          "url": "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2026/202601/t20260130_15369627.html",
+          "attachments": [
+            {
+              "name": "2026年重庆市区县事业单位第一季度公开招聘工作人员岗位表.xlsx",
+              "url": "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2026/202601/P020260130628313955106.xlsx",
+              "local": "attachments/500000/2026年重庆市区县事业单位第一季度公开招聘工作人员岗位表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "重庆市属事业单位2025年第三季度公开招聘工作人员公告",
+          "date": "2025-09-05",
+          "headcount": 605,
+          "positions": null,
+          "source": "重庆市人力资源和社会保障局",
+          "url": "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024_490546/202509/t20250905_14980818.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "重庆市区县事业单位2025年第三季度公开招聘工作人员公告",
+          "date": "2025-09-05",
+          "headcount": 785,
+          "positions": null,
+          "source": "重庆市人力资源和社会保障局",
+          "url": "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024_490546/202509/t20250905_14980804.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "重庆市属事业单位2025年第四季度公开招聘工作人员公告",
+          "date": "2025-11-21",
+          "headcount": 335,
+          "positions": null,
+          "source": "重庆市人力资源和社会保障局",
+          "url": "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024_490546/202511/t20251121_15180533.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "重庆市区县事业单位2025年第四季度公开招聘工作人员公告",
+          "date": "2025-11-21",
+          "headcount": 606,
+          "positions": null,
+          "source": "重庆市人力资源和社会保障局",
+          "url": "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024_490546/202511/t20251121_15180535.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "重庆市属事业单位2026年第一季度考核招聘高层次和紧缺人才公告",
+          "date": "2026-01-30",
+          "headcount": 310,
+          "positions": null,
+          "source": "重庆市人力资源和社会保障局",
+          "url": "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2026/202601/t20260130_15369555.html",
+          "attachments": [
+            {
+              "name": "2026年重庆市属事业单位第一季度考核招聘高层次和紧缺人才岗位表.xlsx",
+              "url": "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2026/202601/P020260130582927091944.xlsx",
+              "local": "attachments/500000/2026年重庆市属事业单位第一季度考核招聘高层次和紧缺人才岗位表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "重庆市属事业单位2025年第二季度考核招聘高层次和紧缺人才公告",
+          "date": "2025-05-19",
+          "headcount": 952,
+          "positions": null,
+          "source": "重庆市人力资源和社会保障局",
+          "url": "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024_490546/202505/t20250519_14633863.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "重庆国际人才交流大会·武陵山人才节2025年事业单位考核招聘工作人员公告",
+          "date": "2025-10-10",
+          "headcount": 47,
+          "positions": null,
+          "source": "重庆市人力资源和社会保障局",
+          "url": "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024_490546/202510/t20251010_15068738.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "重庆市2025年集中选调拟录用人员公示",
+          "date": "2025-05-25",
+          "headcount": null,
+          "positions": null,
+          "source": "七一网（重庆组织工作网）",
+          "url": "https://www.12371.gov.cn/web/article/1438697279451955200/web/content_1438697279451955200.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "重庆市渝中区2026年度考试录用公务员（参照公务员法管理单位工作人员）拟录用人员公示（第一批）",
+          "date": "2026-06-05",
+          "headcount": null,
+          "positions": null,
+          "source": "重庆市渝中区人民政府",
+          "url": "https://www.cqyz.gov.cn/zwgk_229/fdzdgknr/zkly_31707/gglm/202606/t20260605_15734005.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "开州区2026年度考试录用公务员（参照公务员法管理工作人员、公安人民警察）拟录用人员公示（第一批）",
+          "date": "2026-06-11",
+          "headcount": null,
+          "positions": null,
+          "source": "重庆市开州区人民政府",
+          "url": "http://www.cqkz.gov.cn/zwgk_238/fdzdgknr/rszl/gwyzk/202606/t20260611_15747807.html",
+          "attachments": []
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "name": "重庆大学",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.cqu.edu.cn",
+      "hrUrl": "https://rsc.cqu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西南大学",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.swu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "重庆邮电大学",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cqupt.edu.cn",
+      "hrUrl": "https://rsc.cqupt.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "重庆交通大学",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cqjtu.edu.cn",
+      "hrUrl": "https://rsc.cqjtu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "重庆医科大学",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cqmu.edu.cn",
+      "hrUrl": "https://rsc.cqmu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "重庆师范大学",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cqnu.edu.cn",
+      "hrUrl": "https://rsc.cqnu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "重庆文理学院",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.cqwu.net",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "重庆三峡学院",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sanxiau.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长江师范学院",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.yznu.edu.cn",
+      "hrUrl": "https://rsc.yznu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "四川外国语大学",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sisu.edu.cn",
+      "hrUrl": "https://rsc.sisu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西南政法大学",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.swupl.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "四川美术学院",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.scfai.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "重庆科技大学",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cqust.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "重庆理工大学",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cqut.edu.cn",
+      "hrUrl": "https://rsc.cqut.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "重庆工商大学",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ctbu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "重庆警察学院",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.cqpc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "重庆第二师范学院",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cque.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "重庆中医药学院",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cqctcm.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "重庆电子科技职业大学",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cquet.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "重庆工业职业技术大学",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.cqipu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "重庆机电职业技术大学",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.cqvtu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "重庆工程学院",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.cqie.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "重庆城市科技学院",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.cqcst.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "重庆人文科技学院",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.cqrk.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "重庆外语外事学院",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.cqifs.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "重庆对外经贸学院",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.ccibe.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "重庆财经学院",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.cfec.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "重庆工商大学派斯学院",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.paisi.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "重庆移通学院",
+      "city": "重庆市",
+      "cityAdcode": 500000,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.cqyti.com",
+      "hrUrl": "http://rsc.cqyti.com/index.asp",
+      "talentPolicyUrl": null
+    }
+  ]
+}

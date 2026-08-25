@@ -1,0 +1,678 @@
+{
+  "adcode": 540000,
+  "name": "西藏自治区",
+  "updatedAt": "2026-08-25",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "西藏自治区人力资源和社会保障厅-通知公告（公务员考录公告发布平台）",
+      "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/"
+    },
+    {
+      "category": "事业单位",
+      "name": "西藏自治区人力资源和社会保障厅",
+      "url": "https://hrss.xizang.gov.cn/"
+    },
+    {
+      "category": "选调",
+      "name": "中国共产党西藏自治区委员会（西藏自治区党委组织部/西藏组工）",
+      "url": "https://www.xzdw.gov.cn/"
+    },
+    {
+      "category": "人才引进",
+      "name": "西藏自治区人力资源和社会保障厅-通知公告（高层次人才引进公告）",
+      "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/"
+    },
+    {
+      "category": "公务员",
+      "name": "全国人事考试服务平台（西藏自治区考录报名入口）",
+      "url": "http://zp.cpta.com.cn"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 540100,
+      "name": "拉萨市",
+      "districts": [
+        "城关区",
+        "堆龙德庆区",
+        "达孜区",
+        "林周县",
+        "当雄县",
+        "尼木县",
+        "曲水县",
+        "墨竹工卡县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "拉萨市人民政府-招考录用",
+          "url": "https://www.lasa.gov.cn/lasa/rszk/jump.shtml"
+        },
+        {
+          "category": "事业单位",
+          "name": "拉萨市人力资源和社会保障局",
+          "url": "https://hrss.lasa.gov.cn/"
+        },
+        {
+          "category": "录用公示",
+          "name": "西藏自治区人力资源和社会保障厅-通知公告",
+          "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "西藏自治区2026年高校毕业生公开考录公务员公告",
+          "date": "2025-12-02",
+          "headcount": 475,
+          "positions": null,
+          "source": "西藏自治区人力资源和社会保障厅",
+          "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/202512/t20251202_512168.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "西藏自治区2025年高校毕业生公开考录公务员公告",
+          "date": "2025-01-13",
+          "headcount": 385,
+          "positions": null,
+          "source": "西藏自治区人力资源和社会保障厅",
+          "url": "http://hrss.xizang.gov.cn/xwzx/tzgg/202501/t20250113_456938.html",
+          "attachments": []
+        },
+        {
+          "year": 2024,
+          "category": "公务员",
+          "title": "西藏自治区2024年高校毕业生公开考录公务员公告",
+          "date": "2024-03-29",
+          "headcount": 303,
+          "positions": null,
+          "source": "西藏自治区人力资源和社会保障厅",
+          "url": "http://hrss.xizang.gov.cn/xwzx/tzgg/202403/t20240329_409829.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "西藏自治区2025年拉萨市事业单位公开招聘高校毕业生公告",
+          "date": "2025-05-28",
+          "headcount": 236,
+          "positions": null,
+          "source": "拉萨市人力资源和社会保障局",
+          "url": "https://hrss.lasa.gov.cn/rsj/c100699/202505/799b806ac1304c9ebac3673b20f51c66.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "西藏自治区2025年区直事业单位公开招聘高校毕业生公告",
+          "date": "2025-05-28",
+          "headcount": 621,
+          "positions": null,
+          "source": "西藏自治区人力资源和社会保障厅",
+          "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/202505/t20250528_480992.html",
+          "attachments": [
+            {
+              "name": "2025年西藏自治区区直事业单位招聘岗位计划表.xlsx",
+              "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/202505/P020250528376171246123.xlsx",
+              "local": "attachments/540100/2025年西藏自治区区直事业单位招聘岗位计划表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "西藏自治区2026年事业单位公开招聘高校毕业生公告（含拉萨市岗位计划表）",
+          "date": "2026-07-07",
+          "headcount": null,
+          "positions": null,
+          "source": "西藏自治区人力资源和社会保障厅",
+          "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/202607/t20260707_548820.html",
+          "attachments": [
+            {
+              "name": "2026年拉萨市事业单位招聘岗位计划表.xls",
+              "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/202607/P020260707288672861866.xls",
+              "local": "attachments/540100/2026年拉萨市事业单位招聘岗位计划表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "西藏自治区2025年度定向选调应届优秀大学毕业生公告（自治区直属机关4人，拉萨市县级机关7人）",
+          "date": "2025-01-06",
+          "headcount": 50,
+          "positions": null,
+          "source": "中共西藏自治区委员会组织部（北京大学学生就业指导服务中心转发）",
+          "url": "https://scc.pku.edu.cn/frontpage/pku/html/newsDetail_zdtj.html?id=f2b5e7386f2b4abca809504ddd70dc31",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "关于公示西藏自治区2025年高校毕业生公开考录公务员拟录用人员名单的通知",
+          "date": "2025-06-05",
+          "headcount": 377,
+          "positions": null,
+          "source": "西藏自治区人力资源和社会保障厅",
+          "url": "http://hrss.xizang.gov.cn/xwzx/tzgg/202506/t20250605_482359.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "title": "关于2025年西藏籍少数民族高校毕业生专项招录公务员拟录用人员名单的公示",
+          "date": "2026-03-06",
+          "headcount": 298,
+          "positions": null,
+          "source": "西藏自治区人力资源和社会保障厅",
+          "url": "http://hrss.xizang.gov.cn/xwzx/tzgg/202603/t20260306_527401.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 540200,
+      "name": "日喀则市",
+      "districts": [
+        "桑珠孜区",
+        "南木林县",
+        "江孜县",
+        "定日县",
+        "萨迦县",
+        "拉孜县",
+        "昂仁县",
+        "谢通门县",
+        "白朗县",
+        "仁布县",
+        "康马县",
+        "定结县",
+        "仲巴县",
+        "亚东县",
+        "吉隆县",
+        "聂拉木县",
+        "萨嘎县",
+        "岗巴县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "中共日喀则市委员会-公示公告",
+          "url": "https://rikaze.xzdw.gov.cn/fbt/gsgg_367/"
+        },
+        {
+          "category": "事业单位",
+          "name": "中共日喀则市委员会-公示公告（事业单位招聘公告）",
+          "url": "https://rikaze.xzdw.gov.cn/fbt/gsgg_367/"
+        },
+        {
+          "category": "录用公示",
+          "name": "西藏自治区人力资源和社会保障厅-通知公告",
+          "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "西藏自治区2025年日喀则市事业单位公开招聘高校毕业生公告",
+          "date": "2025-05-28",
+          "headcount": 266,
+          "positions": null,
+          "source": "日喀则市人力资源和社会保障局",
+          "url": "https://rikaze.xzdw.gov.cn/fbt/gsgg_367/202505/t20250529_574520.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "西藏自治区2026年事业单位公开招聘高校毕业生公告（含日喀则市岗位计划表）",
+          "date": "2026-07-07",
+          "headcount": null,
+          "positions": null,
+          "source": "西藏自治区人力资源和社会保障厅",
+          "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/202607/t20260707_548820.html",
+          "attachments": [
+            {
+              "name": "2026年日喀则市事业单位招聘岗位计划表.xls",
+              "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/202607/P020260707288673205285.xls",
+              "local": "attachments/540200/2026年日喀则市事业单位招聘岗位计划表.xls"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adcode": 540300,
+      "name": "昌都市",
+      "districts": [
+        "卡若区",
+        "江达县",
+        "贡觉县",
+        "类乌齐县",
+        "丁青县",
+        "察雅县",
+        "八宿县",
+        "左贡县",
+        "芒康县",
+        "洛隆县",
+        "边坝县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "昌都市人民政府（遴选/考录公告）",
+          "url": "https://www.changdu.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "昌都市人民政府（事业单位招聘公告）",
+          "url": "https://www.changdu.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "西藏自治区2025年昌都市事业单位公开招聘高校毕业生公告",
+          "date": "2025-05-28",
+          "headcount": 241,
+          "positions": null,
+          "source": "昌都市人力资源和社会保障局",
+          "url": "https://www.changdu.gov.cn/cdrmzf/c101569/202505/59fd997391944217841489615b5f9890.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "昌都市2025年市直机关事业单位公开遴选（招聘）公务员（工作人员）公告",
+          "date": "2025-07-08",
+          "headcount": 75,
+          "positions": null,
+          "source": "中共昌都市委组织部、昌都市人力资源和社会保障局",
+          "url": "https://www.changdu.gov.cn/cdrmzf/c101585/202605/4b8c1dde3bff40ed96261790052dd8cf.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "西藏自治区2026年事业单位公开招聘高校毕业生公告（含昌都市岗位计划表）",
+          "date": "2026-07-07",
+          "headcount": null,
+          "positions": null,
+          "source": "西藏自治区人力资源和社会保障厅",
+          "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/202607/t20260707_548820.html",
+          "attachments": [
+            {
+              "name": "2026年昌都市事业单位招聘岗位计划表.xls",
+              "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/202607/P020260707288674411793.xls",
+              "local": "attachments/540300/2026年昌都市事业单位招聘岗位计划表.xls"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adcode": 540400,
+      "name": "林芝市",
+      "districts": [
+        "巴宜区",
+        "工布江达县",
+        "米林市",
+        "墨脱县",
+        "波密县",
+        "察隅县",
+        "朗县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "西藏自治区人力资源和社会保障厅-通知公告（公务员考录）",
+          "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/"
+        },
+        {
+          "category": "事业单位",
+          "name": "林芝市人力资源和社会保障局",
+          "url": "https://rsj.linzhi.gov.cn/"
+        },
+        {
+          "category": "人才引进",
+          "name": "林芝市人力资源和社会保障局-通告公示",
+          "url": "https://rsj.linzhi.gov.cn/rsj/c104497/zfxxgk_gknrz.shtml"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "西藏自治区2025年林芝市事业单位公开招聘高校毕业生公告",
+          "date": "2025-05-28",
+          "headcount": 196,
+          "positions": null,
+          "source": "林芝市人力资源和社会保障局（官方微信公众号发布，察隅县人力资源和社会保障局公众号转发）",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODI0NTQwNg==&mid=2247500808&idx=1&sn=5b466eed16ca20813abc66b9059c3979",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "西藏自治区2026年事业单位公开招聘高校毕业生公告（含林芝市岗位计划表）",
+          "date": "2026-07-07",
+          "headcount": null,
+          "positions": null,
+          "source": "西藏自治区人力资源和社会保障厅",
+          "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/202607/t20260707_548820.html",
+          "attachments": [
+            {
+              "name": "2026年林芝市事业单位招聘岗位计划表.xls",
+              "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/202607/P020260707288674017892.xls",
+              "local": "attachments/540400/2026年林芝市事业单位招聘岗位计划表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "category": "人才引进",
+          "title": "林芝市2024年审批引进菁英人才公告",
+          "date": "2024-06-27",
+          "headcount": 16,
+          "positions": null,
+          "source": "中共林芝市委组织部（官方微信公众号）",
+          "url": "https://mp.weixin.qq.com/s/V70kCyFLLYk4N5uxzIMHiA",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 540500,
+      "name": "山南市",
+      "districts": [
+        "乃东区",
+        "扎囊县",
+        "贡嘎县",
+        "桑日县",
+        "琼结县",
+        "曲松县",
+        "措美县",
+        "洛扎县",
+        "加查县",
+        "隆子县",
+        "错那市",
+        "浪卡子县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "中共山南市委员会-公示公告",
+          "url": "https://sn.xzdw.gov.cn/fbt/gsgg_334/"
+        },
+        {
+          "category": "事业单位",
+          "name": "山南市人民政府-政府信息公开（市人社局公告）",
+          "url": "https://www.shannan.gov.cn/"
+        },
+        {
+          "category": "录用公示",
+          "name": "中共山南市委员会-公示公告",
+          "url": "https://sn.xzdw.gov.cn/fbt/gsgg_334/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "西藏自治区山南市2025年事业单位公开招聘高校毕业生公告",
+          "date": "2025-05-28",
+          "headcount": 220,
+          "positions": null,
+          "source": "山南市人力资源和社会保障局",
+          "url": "https://www.shannan.gov.cn/zwgk/zfxxgkml/202505/t20250528_151283.html",
+          "attachments": [
+            {
+              "name": "2025年山南市事业单位招聘岗位计划表.et",
+              "url": "https://www.shannan.gov.cn/zwgk/zfxxgkml/202505/P020250528707934353078.et",
+              "local": "attachments/540500/2025年山南市事业单位招聘岗位计划表.et"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年山南籍高校毕业生专项公开补聘事业单位工作人员公告（安徽省、湖南省就业援藏专项）",
+          "date": "2025-10-31",
+          "headcount": 33,
+          "positions": null,
+          "source": "山南市人力资源和社会保障局",
+          "url": "https://sn.xzdw.gov.cn/fbt/gsgg_334/202511/t20251103_619986.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "关于公布2025年西藏自治区山南市事业单位公开招聘高校毕业生笔试合格人员及进入面试人员名单的通知",
+          "date": "2025-07-16",
+          "headcount": null,
+          "positions": null,
+          "source": "山南市人力资源和社会保障局",
+          "url": "https://www.shannan.gov.cn/zwgk/zfxxgkml/202507/t20250718_152503.html",
+          "attachments": [
+            {
+              "name": "2025年山南市事业单位招聘笔试合格人员及进入面试人员名单.et",
+              "url": "https://www.shannan.gov.cn/zwgk/zfxxgkml/202507/P020250718555925711207.et",
+              "local": "attachments/540500/2025年山南市事业单位招聘笔试合格人员及进入面试人员名单.et"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "西藏自治区2026年事业单位公开招聘高校毕业生公告（含山南市岗位计划表）",
+          "date": "2026-07-07",
+          "headcount": null,
+          "positions": null,
+          "source": "西藏自治区人力资源和社会保障厅",
+          "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/202607/t20260707_548820.html",
+          "attachments": [
+            {
+              "name": "2026年山南市事业单位招聘岗位计划表.xls",
+              "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/202607/P020260707288673618987.xls",
+              "local": "attachments/540500/2026年山南市事业单位招聘岗位计划表.xls"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adcode": 540600,
+      "name": "那曲市",
+      "districts": [
+        "色尼区",
+        "嘉黎县",
+        "比如县",
+        "聂荣县",
+        "安多县",
+        "申扎县",
+        "索县",
+        "班戈县",
+        "巴青县",
+        "尼玛县",
+        "双湖县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "西藏自治区人力资源和社会保障厅-通知公告（公务员考录）",
+          "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/"
+        },
+        {
+          "category": "事业单位",
+          "name": "那曲市人力资源和社会保障局",
+          "url": "http://rsj.naqu.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "西藏自治区2025年那曲市事业单位公开招聘高校毕业生公告",
+          "date": "2025-05-28",
+          "headcount": 428,
+          "positions": null,
+          "source": "那曲市人力资源和社会保障局",
+          "url": "http://rsj.naqu.gov.cn/nqsrlzyhshbzj/tggs/202505/78b796ad48f3431e8445354c0819664a.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "西藏自治区2026年事业单位公开招聘高校毕业生公告（含那曲市岗位计划表）",
+          "date": "2026-07-07",
+          "headcount": null,
+          "positions": null,
+          "source": "西藏自治区人力资源和社会保障厅",
+          "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/202607/t20260707_548820.html",
+          "attachments": [
+            {
+              "name": "2026年那曲市事业单位招聘岗位计划表.xls",
+              "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/202607/P020260707288674862523.xls",
+              "local": "attachments/540600/2026年那曲市事业单位招聘岗位计划表.xls"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adcode": 542500,
+      "name": "阿里地区",
+      "districts": [
+        "普兰县",
+        "札达县",
+        "噶尔县",
+        "日土县",
+        "革吉县",
+        "改则县",
+        "措勤县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "西藏自治区人力资源和社会保障厅-通知公告（公务员考录）",
+          "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/"
+        },
+        {
+          "category": "事业单位",
+          "name": "阿里地区人力资源和社会保障局",
+          "url": "http://hrss.al.gov.cn/"
+        },
+        {
+          "category": "录用公示",
+          "name": "阿里地区人力资源和社会保障局",
+          "url": "http://hrss.al.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "西藏自治区2025年阿里地区事业单位公开招聘高校毕业生公告",
+          "date": "2025-05-28",
+          "headcount": 307,
+          "positions": null,
+          "source": "阿里地区人力资源和社会保障局",
+          "url": "http://hrss.al.gov.cn/info/2273/28182.htm",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "关于公示2025年阿里地区事业单位公开招聘高校毕业生递补人员名单的通知",
+          "date": "2025-10-27",
+          "headcount": 1,
+          "positions": null,
+          "source": "阿里地区人力资源和社会保障局",
+          "url": "https://hrss.al.gov.cn/info/2303/52462.htm",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "西藏自治区2026年事业单位公开招聘高校毕业生公告（含阿里地区岗位计划表）",
+          "date": "2026-07-07",
+          "headcount": null,
+          "positions": null,
+          "source": "西藏自治区人力资源和社会保障厅",
+          "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/202607/t20260707_548820.html",
+          "attachments": [
+            {
+              "name": "2026年阿里地区事业单位招聘岗位计划表.xls",
+              "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/202607/P020260707288675260592.xls",
+              "local": "attachments/542500/2026年阿里地区事业单位招聘岗位计划表.xls"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "name": "西藏大学",
+      "city": "拉萨市",
+      "cityAdcode": 540100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.utibet.edu.cn",
+      "hrUrl": "https://zzb.utibet.edu.cn/",
+      "talentPolicyUrl": "https://www.utibet.edu.cn/page/gw_content.html?channel=551cffEE-a7b7-B522-dEb7-61c26c2EbBBA&content=41cFE16C-6185-ce2B-CbaB-ec149fdBBA2C"
+    },
+    {
+      "name": "西藏民族大学",
+      "city": "咸阳市（陕西省）",
+      "cityAdcode": null,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xzmu.edu.cn",
+      "hrUrl": "https://www3.xzmu.edu.cn/rsc/",
+      "talentPolicyUrl": "https://www3.xzmu.edu.cn/rsc/getcontent?id=111442&url=show"
+    },
+    {
+      "name": "西藏藏医药大学",
+      "city": "拉萨市",
+      "cityAdcode": 540100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ttmc.edu.cn",
+      "hrUrl": "https://zzb.ttmc.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西藏农牧大学",
+      "city": "林芝市",
+      "cityAdcode": 540400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.xza.edu.cn",
+      "hrUrl": "http://www.xza.edu.cn/zzb/",
+      "talentPolicyUrl": "http://www.xza.edu.cn/xww/info/1121/166091.htm"
+    },
+    {
+      "name": "拉萨师范学院",
+      "city": "拉萨市",
+      "cityAdcode": 540100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.xzlssf.org",
+      "hrUrl": "http://www.xzlssf.org/zhaosheng/zhaopinxinxi/",
+      "talentPolicyUrl": null
+    }
+  ]
+}

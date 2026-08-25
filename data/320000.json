@@ -1,0 +1,2103 @@
+{
+  "adcode": 320000,
+  "name": "江苏省",
+  "updatedAt": "2026-08-25",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "中共江苏省委组织部（江苏先锋网）",
+      "url": "https://www.jszzb.gov.cn/"
+    },
+    {
+      "category": "公务员",
+      "name": "江苏先锋网",
+      "url": "https://www.jsxf.gov.cn/"
+    },
+    {
+      "category": "事业单位",
+      "name": "江苏省人力资源和社会保障厅",
+      "url": "https://jshrss.jiangsu.gov.cn/"
+    },
+    {
+      "category": "事业单位",
+      "name": "江苏人事考试网（江苏省人事考试中心）",
+      "url": "https://jshrss.jiangsu.gov.cn/col/col57253/"
+    },
+    {
+      "category": "选调",
+      "name": "江苏省委组织部通知公告（选调生招录专栏）",
+      "url": "https://www.jszzb.gov.cn/tzgg/index.html"
+    },
+    {
+      "category": "人才引进",
+      "name": "江苏省委组织部（江苏先锋网·人才工作）",
+      "url": "https://www.jszzb.gov.cn/"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 320100,
+      "name": "南京市",
+      "districts": [
+        "玄武区",
+        "秦淮区",
+        "建邺区",
+        "鼓楼区",
+        "浦口区",
+        "栖霞区",
+        "雨花台区",
+        "江宁区",
+        "六合区",
+        "溧水区",
+        "高淳区"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南京市委组织部（南京党建网）公务员工作专栏",
+          "url": "https://zzb.nanjing.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "南京市人力资源和社会保障局",
+          "url": "https://rsj.nanjing.gov.cn/"
+        },
+        {
+          "category": "公务员",
+          "name": "南京人事考试网",
+          "url": "https://www.njrsks.net/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "南京市2026年度考试录用公务员简章",
+          "date": "2025-10-31",
+          "headcount": 988,
+          "positions": null,
+          "source": "中共南京市委组织部、南京市公务员局",
+          "url": "https://zzb.nanjing.gov.cn/gwygz/202510/t20251030_5680295.html",
+          "attachments": [
+            {
+              "name": "南京市2026年度考试录用公务员招录单位咨询电话",
+              "url": "https://zzb.nanjing.gov.cn/gwygz/202510/P020251030634753771415.docx",
+              "local": "attachments/320100/2026年南京市考试录用公务员招录单位咨询电话.docx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "江苏省2026年度考试录用公务员公告",
+          "date": "2025-10-31",
+          "headcount": 8179,
+          "positions": null,
+          "source": "江苏省公务员局",
+          "url": "https://www.wxjkq.wuxi.gov.cn/doc/2025/11/06/4677369.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "南京市2026年事业单位统一公开招聘人员公告",
+          "date": "2026-03-19",
+          "headcount": 607,
+          "positions": 541,
+          "source": "南京市人力资源和社会保障局",
+          "url": "https://www.nanjing.gov.cn/bmdt/202603/t20260319_5808677.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": null,
+          "title": "江苏省2026年应届优秀大学毕业生选调县级以上机关职位（名校优生）拟录用人选有关工作公告",
+          "date": "2026-01-23",
+          "headcount": 632,
+          "positions": null,
+          "source": "中共江苏省委组织部",
+          "url": "https://www.jszzb.gov.cn/tzgg/art/2026/art_6c025ce562584307b2803532e5724a66.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "南京市江宁区定向选聘2025届优秀高校毕业生公告",
+          "date": "2025-04-21",
+          "headcount": 52,
+          "positions": null,
+          "source": "南京江宁人才集团（南京高层人才网）",
+          "url": "https://gcczp.njgcrc.gov.cn/cms/gsgg/gsggxx/1377.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "江苏省2026年度考试录用公务员省级机关职位拟录用人员名单（第三批）公示",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "中共江苏省委组织部",
+          "url": "https://www.jszzb.gov.cn/tzgg/art/2026/art_7b7a50811dc14b329598134b4fe0c226.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 320200,
+      "name": "无锡市",
+      "districts": [
+        "梁溪区",
+        "锡山区",
+        "惠山区",
+        "滨湖区",
+        "新吴区",
+        "江阴市",
+        "宜兴市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "无锡市委组织部（无锡党建网）",
+          "url": "https://zzb.wuxi.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "无锡市人力资源和社会保障局",
+          "url": "https://hrss.wuxi.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "无锡人事考试专栏",
+          "url": "https://hrss.wuxi.gov.cn/ztzl/wxrskszl/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "无锡市2026年度考试录用公务员简章",
+          "date": "2025-11-01",
+          "headcount": 579,
+          "positions": null,
+          "source": "中共无锡市委组织部、无锡市公务员局",
+          "url": "https://zzb.wuxi.gov.cn/doc/2025/11/01/4674865.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "无锡市2026年市属事业单位统一公开招聘人员公告",
+          "date": "2026-03-18",
+          "headcount": 39,
+          "positions": null,
+          "source": "无锡市人力资源和社会保障局",
+          "url": "https://hrss.wuxi.gov.cn/doc/2026/03/18/4747264.shtml",
+          "attachments": [
+            {
+              "name": "无锡市2026年市属事业单位统一公开招聘人员岗位简介表",
+              "url": "https://hrss.wuxi.gov.cn/uploadfiles/202603/18/2026031816105785930490.xlsx",
+              "local": "attachments/320200/2026年无锡市市属事业单位统一公开招聘人员岗位简介表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": null,
+          "title": "无锡市2025年事业单位公开选调海内外优秀青年人才公告",
+          "date": "2025-03-21",
+          "headcount": 184,
+          "positions": null,
+          "source": "中共无锡市委组织部、无锡市人力资源和社会保障局",
+          "url": "https://zzb.wuxi.gov.cn/doc/2025/03/21/4526188.shtml",
+          "attachments": [
+            {
+              "name": "无锡市2025年事业单位公开选调海内外优秀青年人才一般岗位情况",
+              "url": "https://zzb.wuxi.gov.cn/uploadfiles/202503/21/2025032115124373693431.pdf",
+              "local": "attachments/320200/2025年无锡市事业单位公开选调海内外优秀青年人才一般岗位情况.pdf"
+            },
+            {
+              "name": "无锡市2025年事业单位公开选调海内外优秀青年人才高层次岗位情况",
+              "url": "https://zzb.wuxi.gov.cn/uploadfiles/202503/21/202503211513094728250.pdf",
+              "local": "attachments/320200/2025年无锡市事业单位公开选调海内外优秀青年人才高层次岗位情况.pdf"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "无锡市2026年市属事业单位统一公开招聘拟聘用人员名单公示（一）",
+          "date": "2026-07-21",
+          "headcount": null,
+          "positions": null,
+          "source": "无锡市人力资源和社会保障局",
+          "url": "https://hrss.wuxi.gov.cn/doc/2026/07/21/4807979.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 320300,
+      "name": "徐州市",
+      "districts": [
+        "云龙区",
+        "鼓楼区",
+        "泉山区",
+        "铜山区",
+        "贾汪区",
+        "丰县",
+        "沛县",
+        "睢宁县",
+        "邳州市",
+        "新沂市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "徐州党建网（徐州市委组织部）公务员考录专栏",
+          "url": "http://www.xzdj.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "徐州市人力资源和社会保障局",
+          "url": "http://hrss.xz.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "徐州人事考试网",
+          "url": "http://hrss.xz.gov.cn/rsks"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "徐州市2026年度考试录用公务员简章",
+          "date": "2025-10-31",
+          "headcount": 888,
+          "positions": null,
+          "source": "中共徐州市委组织部、徐州市公务员局",
+          "url": "http://www.xzdj.cn/Item/24182.aspx",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "徐州市2026年事业单位统一公开招聘人员公告",
+          "date": "2026-03-20",
+          "headcount": 247,
+          "positions": null,
+          "source": "中共徐州市委组织部、徐州市人力资源和社会保障局",
+          "url": "https://hrss.xz.gov.cn/001/001004/20260320/9545437c-677a-4dac-bcc9-476e7e0773d1.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": null,
+          "title": "江苏省2026年应届优秀大学毕业生选调县级以上机关职位（名校优生）拟录用人选有关工作公告",
+          "date": "2026-01-23",
+          "headcount": 632,
+          "positions": null,
+          "source": "中共江苏省委组织部",
+          "url": "https://www.jszzb.gov.cn/tzgg/art/2026/art_6c025ce562584307b2803532e5724a66.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "2025年度徐州市市直事业单位高层次紧缺型人才目录",
+          "date": "2025-03-04",
+          "headcount": null,
+          "positions": null,
+          "source": "徐州市人力资源和社会保障局",
+          "url": "https://hrss.xz.gov.cn/001/001004/20250304/ec75a3b6-e966-4e3a-84d6-d53883e9a5d8.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "徐州市2026年事业单位统一公开招聘拟聘人员名单公示（四）",
+          "date": "2026-08-05",
+          "headcount": null,
+          "positions": null,
+          "source": "徐州市人力资源和社会保障局",
+          "url": "http://hrss.xz.gov.cn/001/001004/20260805/10ccf562-4f00-42a9-b9b2-a6c4fe0b490f.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 320400,
+      "name": "常州市",
+      "districts": [
+        "天宁区",
+        "钟楼区",
+        "新北区",
+        "武进区",
+        "金坛区",
+        "溧阳市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "常州组工网（常州市委组织部）",
+          "url": "https://zg.changzhou.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "常州市人力资源和社会保障局",
+          "url": "https://rsj.changzhou.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "常州人事考试网",
+          "url": "http://czks.czrsj.cn/info.do?op=ks_index"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "常州市2026年度考试录用公务员简章",
+          "date": "2025-10-31",
+          "headcount": 364,
+          "positions": null,
+          "source": "中共常州市委组织部、常州市公务员局",
+          "url": "https://zg.changzhou.gov.cn/class/JLKQOPBH",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2026年常州市事业单位统一公开招聘工作人员公告",
+          "date": "2026-03-19",
+          "headcount": 155,
+          "positions": null,
+          "source": "常州市人力资源和社会保障局",
+          "url": "https://rsj.changzhou.gov.cn/html/czrsj/2026/IQCNPLQO_0318/49674.html",
+          "attachments": [
+            {
+              "name": "2026年常州市事业单位统一公开招聘工作人员岗位表",
+              "url": "https://rsj.changzhou.gov.cn/uploadfile/czrsj/2026/0318/20260318164643_76475.xlsx",
+              "local": "attachments/320400/2026年常州市事业单位统一公开招聘工作人员岗位表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "category": "选调生",
+          "subCategory": null,
+          "title": "2024年江苏省常州市面向部分重点高校选调优秀青年人才的公告",
+          "date": "2024-03-06",
+          "headcount": null,
+          "positions": null,
+          "source": "中共常州市委组织部",
+          "url": "https://zg.changzhou.gov.cn/class/JLKQOPBH",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": null,
+          "title": "江苏省2026年应届优秀大学毕业生选调县级以上机关职位（名校优生）拟录用人选有关工作公告",
+          "date": "2026-01-23",
+          "headcount": 632,
+          "positions": null,
+          "source": "中共江苏省委组织部",
+          "url": "https://www.jszzb.gov.cn/tzgg/art/2026/art_6c025ce562584307b2803532e5724a66.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 320500,
+      "name": "苏州市",
+      "districts": [
+        "姑苏区",
+        "虎丘区",
+        "吴中区",
+        "相城区",
+        "吴江区",
+        "常熟市",
+        "张家港市",
+        "昆山市",
+        "太仓市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "苏州先锋网（苏州市委组织部）",
+          "url": "https://www.szzzb.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "苏州市人力资源和社会保障局人事考试专栏",
+          "url": "https://hrss.suzhou.gov.cn/szrskszl/index.shtml"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "苏州市2026年度考试录用公务员简章",
+          "date": "2025-10-31",
+          "headcount": 687,
+          "positions": null,
+          "source": "中共苏州市委组织部、苏州市公务员局",
+          "url": "https://www.suzhou.gov.cn/szsrmzf/gwyjsydwklxx/202510/a45abee782ad42e4bad5f0ab076f3bd1.shtml",
+          "attachments": [
+            {
+              "name": "苏州市2026年度考试录用公务员职位简介表",
+              "url": "https://www.suzhou.gov.cn/szsrmzf/gwyjsydwklxx/202510/a45abee782ad42e4bad5f0ab076f3bd1/files/8373982bdec245b298.xls",
+              "local": "attachments/320500/2026年苏州市考试录用公务员职位简介表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "苏州市2026年市属事业单位公开招聘工作人员公告",
+          "date": "2026-03-18",
+          "headcount": 107,
+          "positions": null,
+          "source": "苏州市人力资源和社会保障局",
+          "url": "https://hrss.suzhou.gov.cn/szrskszl/sydwkszt/202603/c6fb537f773c4ef7a953b94ab20eeead.shtml",
+          "attachments": [
+            {
+              "name": "苏州市2026年市属事业单位公开招聘工作人员岗位简介表",
+              "url": "https://hrss.suzhou.gov.cn/szrskszl/sydwkszt/202603/c6fb537f773c4ef7a953b94ab20eeead/files/f76efb5e55614cad86c.xls",
+              "local": "attachments/320500/2026年苏州市市属事业单位公开招聘工作人员岗位简介表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": null,
+          "title": "江苏省2026年应届优秀大学毕业生选调县级以上机关职位（名校优生）拟录用人选有关工作公告",
+          "date": "2026-01-23",
+          "headcount": 632,
+          "positions": null,
+          "source": "中共江苏省委组织部",
+          "url": "https://www.jszzb.gov.cn/tzgg/art/2026/art_6c025ce562584307b2803532e5724a66.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "关于组织申报2026年度第一批苏州创新创业领军人才计划项目的通知",
+          "date": "2025-12-02",
+          "headcount": null,
+          "positions": null,
+          "source": "苏州市科学技术局、苏州市人力资源和社会保障局",
+          "url": "https://www.suzhou.gov.cn/szsrmzf/zwgg/202512/c357e36dc6b446df947c384292513a5c.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 320600,
+      "name": "南通市",
+      "districts": [
+        "崇川区",
+        "通州区",
+        "海门区",
+        "如东县",
+        "启东市",
+        "如皋市",
+        "海安市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南通党建网（南通市委组织部）",
+          "url": "https://dj.nantong.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "南通市人力资源和社会保障局",
+          "url": "https://rsj.nantong.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "南通人事考试网上服务平台",
+          "url": "https://rsks.rsj.nantong.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "南通市2026年度考试录用公务员简章",
+          "date": "2025-10-31",
+          "headcount": 637,
+          "positions": null,
+          "source": "中共南通市委组织部、南通市公务员局",
+          "url": "https://rsj.nantong.gov.cn/ntsrsj/gwyzlkszl/content/ed514208-64eb-446c-aef7-a36a21938641.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "南通市2026年市属事业单位统一公开招聘人员公告",
+          "date": "2026-03-18",
+          "headcount": 120,
+          "positions": null,
+          "source": "中共南通市委组织部、南通市人力资源和社会保障局",
+          "url": "https://dj.nantong.gov.cn/ntdjw/tzggt/content/cf83902e-12cd-4b9f-a50f-0ca628f50a78.html",
+          "attachments": []
+        },
+        {
+          "year": 2024,
+          "category": "选调生",
+          "subCategory": null,
+          "title": "2024年江苏省南通市公开选调优秀紧缺专业青年人才简章",
+          "date": "2024-01-03",
+          "headcount": 269,
+          "positions": null,
+          "source": "中共南通市委组织部、南通市人力资源和社会保障局",
+          "url": "https://dj.nantong.gov.cn/",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": null,
+          "title": "江苏省2026年应届优秀大学毕业生选调县级以上机关职位（名校优生）拟录用人选有关工作公告",
+          "date": "2026-01-23",
+          "headcount": 632,
+          "positions": null,
+          "source": "中共江苏省委组织部",
+          "url": "https://www.jszzb.gov.cn/tzgg/art/2026/art_6c025ce562584307b2803532e5724a66.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 320700,
+      "name": "连云港市",
+      "districts": [
+        "海州区",
+        "连云区",
+        "赣榆区",
+        "东海县",
+        "灌云县",
+        "灌南县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "连云港党建网（连云港市委组织部）",
+          "url": "http://www.lygdj.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "连云港市人力资源和社会保障局",
+          "url": "http://rsj.lyg.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "连云港市人事考试报名平台",
+          "url": "https://bm.rsj.lyg.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "连云港市2026年度考试录用公务员简章",
+          "date": "2025-10-31",
+          "headcount": 641,
+          "positions": null,
+          "source": "中共连云港市委组织部、连云港市公务员局",
+          "url": "http://www.lygdj.gov.cn/djw/tzgg/content/4978e309-4518-4b3f-9af2-7d38b0a15cd7.html",
+          "attachments": [
+            {
+              "name": "连云港市2026年度考录职位简介表",
+              "url": "http://www.lygdj.gov.cn/djw/upload/c1e85311-ee5b-41dc-a0a9-51b53ebf7d58.xls",
+              "local": "attachments/320700/2026年连云港市考试录用公务员考录职位简介表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "连云港市2025年市属事业单位统一公开招聘人员公告",
+          "date": "2025-03-21",
+          "headcount": null,
+          "positions": null,
+          "source": "中共连云港市委组织部、连云港市人力资源和社会保障局",
+          "url": "https://bm.rsj.lyg.gov.cn/",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": null,
+          "title": "江苏省2026年应届优秀大学毕业生选调县级以上机关职位（名校优生）拟录用人选有关工作公告",
+          "date": "2026-01-23",
+          "headcount": 632,
+          "positions": null,
+          "source": "中共江苏省委组织部",
+          "url": "https://www.jszzb.gov.cn/tzgg/art/2026/art_6c025ce562584307b2803532e5724a66.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "连云港市2025年事业单位高层次人才引进公告（“花果山英才”计划）",
+          "date": "2025-09-08",
+          "headcount": 544,
+          "positions": null,
+          "source": "中共连云港市委组织部、连云港市人力资源和社会保障局",
+          "url": "http://www.lygdj.gov.cn/djw/tzgg/index.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "连云港市2025年度考试录用公务员拟录用人员名单（第四批）公示",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "中共连云港市委组织部",
+          "url": "http://www.lygdj.gov.cn/djw/tzgg/content/ad29156a-2fee-434f-9748-629ca2342528.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 320800,
+      "name": "淮安市",
+      "districts": [
+        "清江浦区",
+        "淮安区",
+        "淮阴区",
+        "洪泽区",
+        "涟水县",
+        "盱眙县",
+        "金湖县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "淮安市委组织部",
+          "url": "http://zzb.huaian.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "淮安市人力资源和社会保障局",
+          "url": "http://rsj.huaian.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "淮安市人事考试专栏",
+          "url": "http://rsj.huaian.gov.cn/col/4729_463783/index.html"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "淮安市2026年度考试录用公务员简章",
+          "date": "2025-10-31",
+          "headcount": 655,
+          "positions": null,
+          "source": "中共淮安市委组织部、淮安市公务员局",
+          "url": "http://zzb.huaian.gov.cn/col/13489_621588/art/17592480/1761882935398Ng0a54vu.html",
+          "attachments": [
+            {
+              "name": "淮安市2026年度考试录用公务员职位简介表",
+              "url": "http://zzb.huaian.gov.cn/upload/2025-10/90eb21a1-1933-438c-9b7e-8a88d0531436.xls",
+              "local": "attachments/320800/2026年淮安市考试录用公务员职位简介表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2026年淮安市事业单位统一公开招聘人员公告",
+          "date": "2026-03-20",
+          "headcount": 368,
+          "positions": null,
+          "source": "淮安市人力资源和社会保障局",
+          "url": "http://rsj.huaian.gov.cn/col/4591_344588/art/17722944/1773974597653cq6XtA6K.html",
+          "attachments": [
+            {
+              "name": "2026年淮安市事业单位统一公开招聘人员岗位表",
+              "url": "http://rsj.huaian.gov.cn/upload/2026-03/39aaa73c-1d0f-4fef-8bae-dcf79f8e32b4.xls",
+              "local": "attachments/320800/2026年淮安市事业单位统一公开招聘人员岗位表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": null,
+          "title": "江苏省2026年应届优秀大学毕业生选调县级以上机关职位（名校优生）拟录用人选有关工作公告",
+          "date": "2026-01-23",
+          "headcount": 632,
+          "positions": null,
+          "source": "中共江苏省委组织部",
+          "url": "https://www.jszzb.gov.cn/tzgg/art/2026/art_6c025ce562584307b2803532e5724a66.html",
+          "attachments": []
+        },
+        {
+          "year": 2024,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "2025年江苏省淮安市引进“名校优生”（教育类）公告",
+          "date": "2024-11-13",
+          "headcount": 278,
+          "positions": null,
+          "source": "中共淮安市委组织部、淮安市人力资源和社会保障局",
+          "url": "http://rsj.huaian.gov.cn/col/4588_227787/art/17303904/1731464442399bXe0Q41P.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 320900,
+      "name": "盐城市",
+      "districts": [
+        "亭湖区",
+        "盐都区",
+        "大丰区",
+        "响水县",
+        "滨海县",
+        "阜宁县",
+        "射阳县",
+        "建湖县",
+        "东台市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "盐城先锋网（盐城市委组织部）",
+          "url": "https://www.hsyf.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "盐城市人力资源和社会保障局",
+          "url": "https://jsychrss.yancheng.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "盐城市2026年度考试录用公务员简章",
+          "date": "2025-10-31",
+          "headcount": 859,
+          "positions": null,
+          "source": "中共盐城市委组织部、盐城市公务员局",
+          "url": "https://www.hsyf.gov.cn/p/9344.html",
+          "attachments": [
+            {
+              "name": "盐城市2026年度考录职位简介表（含垂直管理机构）",
+              "url": "http://site.ycnews.cn/a/10007/202510/0908d196fc2acfeab754083e6a42ca3d.xls",
+              "local": "attachments/320900/2026年盐城市考试录用公务员考录职位简介表（含垂直管理机构）.xls"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "盐城市2026年事业单位统一公开招聘人员公告",
+          "date": "2026-03-19",
+          "headcount": 611,
+          "positions": null,
+          "source": "盐城市人力资源和社会保障局",
+          "url": "https://jsychrss.yancheng.gov.cn/art/2026/3/19/art_3431_4411072.html",
+          "attachments": [
+            {
+              "name": "盐城市2026年事业单位统一公开招聘岗位表",
+              "url": "https://jsychrss.yancheng.gov.cn/module/download/downfile.jsp?classid=0&filename=63f6c9f18bbc4747b782d39df0b343ee.xls",
+              "local": "attachments/320900/2026年盐城市事业单位统一公开招聘岗位表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": null,
+          "title": "江苏省2026年应届优秀大学毕业生选调县级以上机关职位（名校优生）拟录用人选有关工作公告",
+          "date": "2026-01-23",
+          "headcount": 632,
+          "positions": null,
+          "source": "中共江苏省委组织部",
+          "url": "https://www.jszzb.gov.cn/tzgg/art/2026/art_6c025ce562584307b2803532e5724a66.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "江苏省盐城市2026年事业单位公开招聘优秀青年人才公告",
+          "date": "2025-11-03",
+          "headcount": null,
+          "positions": null,
+          "source": "中共盐城市委组织部、盐城市人力资源和社会保障局",
+          "url": "https://jsychrss.yancheng.gov.cn/",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 321000,
+      "name": "扬州市",
+      "districts": [
+        "广陵区",
+        "邗江区",
+        "江都区",
+        "宝应县",
+        "仪征市",
+        "高邮市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "扬州党建网（扬州市委组织部）",
+          "url": "https://dj.yangzhou.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "扬州市人力资源和社会保障局",
+          "url": "https://hrss.yangzhou.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "扬州人事考试专栏",
+          "url": "https://hrss.yangzhou.gov.cn/yzrsks/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "扬州市2026年度考试录用公务员简章",
+          "date": "2025-10-31",
+          "headcount": 499,
+          "positions": null,
+          "source": "中共扬州市委组织部、扬州市公务员局",
+          "url": "https://dj.yangzhou.gov.cn/",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2026年扬州市市属事业单位统一公开招聘工作人员公告",
+          "date": "2026-03-19",
+          "headcount": 110,
+          "positions": null,
+          "source": "扬州市人力资源和社会保障局",
+          "url": "https://dj.yangzhou.gov.cn/tzgg/art/2026/art_5937085d5e3443cfbb890e1dfc399cd9.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": null,
+          "title": "江苏省2026年应届优秀大学毕业生选调县级以上机关职位（名校优生）拟录用人选有关工作公告",
+          "date": "2026-01-23",
+          "headcount": 632,
+          "positions": null,
+          "source": "中共江苏省委组织部",
+          "url": "https://www.jszzb.gov.cn/tzgg/art/2026/art_6c025ce562584307b2803532e5724a66.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "扬州市2025年国有企业选聘优秀青年人才公告",
+          "date": "2025-03-27",
+          "headcount": 86,
+          "positions": null,
+          "source": "中共扬州市委组织部、扬州市国资委",
+          "url": "https://dj.yangzhou.gov.cn/tzgg/art/2025/art_f190e7a5349249a0bc4a18b4ed2e7b1d.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "扬州市2026年市属事业单位公开招聘拟聘用人员名单公示（第一批）",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "扬州市人力资源和社会保障局",
+          "url": "https://hrss.yangzhou.gov.cn/ztzl/zlzp/art/2026/art_9897011dca7f41c99df5505b0558dc67.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 321100,
+      "name": "镇江市",
+      "districts": [
+        "京口区",
+        "润州区",
+        "丹徒区",
+        "丹阳市",
+        "扬中市",
+        "句容市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "镇江党建网（镇江市委组织部）",
+          "url": "https://www.zjdj.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "镇江市人力资源和社会保障局",
+          "url": "https://hrss.zhenjiang.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "镇江市人事考试考工服务平台",
+          "url": "https://hrss.zhenjiang.gov.cn/hrss/kskg/ztzl_ks.shtml"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "镇江市2026年度考试录用公务员简章",
+          "date": "2025-10-31",
+          "headcount": 514,
+          "positions": null,
+          "source": "中共镇江市委组织部、镇江市公务员局",
+          "url": "https://www.zjdj.gov.cn/",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "镇江市2026年事业单位统一公开招聘人员公告",
+          "date": "2026-03-18",
+          "headcount": null,
+          "positions": null,
+          "source": "镇江市人力资源和社会保障局",
+          "url": "https://hrss.zhenjiang.gov.cn/hrss/kskg/ztzl_ks.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": null,
+          "title": "江苏省2026年应届优秀大学毕业生选调县级以上机关职位（名校优生）拟录用人选有关工作公告",
+          "date": "2026-01-23",
+          "headcount": 632,
+          "positions": null,
+          "source": "中共江苏省委组织部",
+          "url": "https://www.jszzb.gov.cn/tzgg/art/2026/art_6c025ce562584307b2803532e5724a66.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "镇江市2025年优秀应届大学毕业生定岗特选公告",
+          "date": "2025-04-24",
+          "headcount": 22,
+          "positions": null,
+          "source": "中共镇江市委组织部、镇江市人力资源和社会保障局",
+          "url": "https://hrss.zhenjiang.gov.cn/hrss/ksqtkszl/202504/ae5959f78ab84615bfb7066ccb3c17a3.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 321200,
+      "name": "泰州市",
+      "districts": [
+        "海陵区",
+        "高港区",
+        "姜堰区",
+        "兴化市",
+        "靖江市",
+        "泰兴市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "泰州党建网（泰州市委组织部）",
+          "url": "http://djw.taizhou.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "泰州市人力资源和社会保障局",
+          "url": "https://rsj.taizhou.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "泰州市人事考试服务平台",
+          "url": "https://rsj.taizhou.gov.cn/ztzl/tzsrsksfwpt/index.html"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "泰州市2026年度考试录用公务员简章",
+          "date": "2025-10-31",
+          "headcount": 331,
+          "positions": null,
+          "source": "中共泰州市委组织部、泰州市公务员局",
+          "url": "https://www.taixing.gov.cn/zwgk/xxgk/gwyzk/art/2026/art_254c7adca7d5460bb2cbd6eedc987519.html",
+          "attachments": [
+            {
+              "name": "泰州市2026年度考试录用公务员职位简介表（含垂直管理机构）",
+              "url": "http://djw.taizhou.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2Ft",
+              "local": "attachments/321200/2026年泰州市考试录用公务员职位简介表（含垂直管理机构）.xls"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "泰州市2026年市直事业单位统一公开招聘人员公告",
+          "date": null,
+          "headcount": 56,
+          "positions": null,
+          "source": "泰州市人力资源和社会保障局",
+          "url": "https://rsj.taizhou.gov.cn/ztzl/tzs2026nszsydwgkzp/gsgg/art/2026/art_36f0500e908f461482753993334e4768.html",
+          "attachments": [
+            {
+              "name": "泰州市2026年市直事业单位公开招聘工作人员岗位表",
+              "url": "https://rsj.taizhou.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2F",
+              "local": "attachments/321200/2026年泰州市市直事业单位公开招聘工作人员岗位表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": null,
+          "title": "江苏省2026年应届优秀大学毕业生选调县级以上机关职位（名校优生）拟录用人选有关工作公告",
+          "date": "2026-01-23",
+          "headcount": 632,
+          "positions": null,
+          "source": "中共江苏省委组织部",
+          "url": "https://www.jszzb.gov.cn/tzgg/art/2026/art_6c025ce562584307b2803532e5724a66.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "泰州市姜堰区国有企业2025年选聘青年人才公告",
+          "date": "2025-05-31",
+          "headcount": 20,
+          "positions": null,
+          "source": "泰州市姜堰区委组织部、区国资委",
+          "url": "https://www.jiangyan.gov.cn/bmgg/art/2025/art_02ed5326586b4fbfaac1e96deb16dc12.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "泰州市姜堰区国有企业2025年度公开选聘青年人才拟聘用人员名单公示",
+          "date": "2025-07-21",
+          "headcount": null,
+          "positions": null,
+          "source": "泰州市姜堰区人民政府国有资产监督管理办公室",
+          "url": "https://www.jiangyan.gov.cn/bmgg/art/2025/art_3b0d583763c54838893dd14deea3a700.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 321300,
+      "name": "宿迁市",
+      "districts": [
+        "宿城区",
+        "宿豫区",
+        "沭阳县",
+        "泗阳县",
+        "泗洪县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "宿迁党建网（宿迁市委组织部）",
+          "url": "http://www.sqdj.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "宿迁市人力资源和社会保障局",
+          "url": "https://sqhrss.suqian.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "宿迁市考试鉴定中心专栏",
+          "url": "https://sqhrss.suqian.gov.cn/rlzyj/ksjdzx/index_1.shtml"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "宿迁市2026年度考试录用公务员简章",
+          "date": "2025-10-31",
+          "headcount": 319,
+          "positions": null,
+          "source": "中共宿迁市委组织部、宿迁市公务员局",
+          "url": "http://www.sqdj.gov.cn/zzb/gsgg/202510/e73f9c0ba6154b5a8f1575dcbdf44d76.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "宿迁市2026年市属事业单位统一公开招聘人员公告",
+          "date": "2026-03-19",
+          "headcount": 92,
+          "positions": null,
+          "source": "宿迁市人力资源和社会保障局",
+          "url": "https://sqhrss.suqian.gov.cn/rlzyj/rsxx/202603/65d58cc33c89406bac17ae1da67b445a.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": null,
+          "title": "江苏省2026年应届优秀大学毕业生选调县级以上机关职位（名校优生）拟录用人选有关工作公告",
+          "date": "2026-01-23",
+          "headcount": 632,
+          "positions": null,
+          "source": "中共江苏省委组织部",
+          "url": "https://www.jszzb.gov.cn/tzgg/art/2026/art_6c025ce562584307b2803532e5724a66.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "宿迁市2025年选聘应届紧缺专业毕业生公告",
+          "date": "2025-03-15",
+          "headcount": 100,
+          "positions": null,
+          "source": "中共宿迁市委组织部、宿迁市人力资源和社会保障局",
+          "url": "http://www.sqdj.gov.cn/zzb/gsgg/202503/d37cde2798c1483386cb1d82c39e60a8.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "宿迁市2025年选聘应届紧缺专业毕业生拟聘用人员公示（第二批）",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "中共宿迁市委组织部",
+          "url": "http://www.sqdj.gov.cn/zzb/gsgg/202507/d86fd6827dfb41c2a23259f3883890b6.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "宿迁市2025年度考试录用公务员拟录用人员名单（第一批）公示",
+          "date": "2025-06-13",
+          "headcount": null,
+          "positions": null,
+          "source": "宿迁市公务员局",
+          "url": "http://www.sqdj.gov.cn/zzb/gsgg/202506/f7809983e8de4a2db912061c5994e8da.shtml",
+          "attachments": []
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "name": "南京大学",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.nju.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "东南大学",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.seu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京航空航天大学",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.nuaa.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京理工大学",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.njust.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京工业大学",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.njtech.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京邮电大学",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "双一流"
+      ],
+      "website": "https://www.njupt.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "河海大学",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.hhu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京林业大学",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "双一流"
+      ],
+      "website": "https://www.njfu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京信息工程大学",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "双一流"
+      ],
+      "website": "https://www.nuist.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京农业大学",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.njau.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京医科大学",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "双一流"
+      ],
+      "website": "https://www.njmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京中医药大学",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "双一流"
+      ],
+      "website": "https://www.njucm.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国药科大学",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.cpu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京师范大学",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.njnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京财经大学",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.nufe.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "江苏警官学院",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.jspi.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京森林警察学院",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.forestpolice.net",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京体育学院",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.nipes.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京艺术学院",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.nua.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京工程学院",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.njit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京审计大学",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.nau.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京晓庄学院",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.njxzc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京特殊教育师范学院",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.njts.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "金陵科技学院",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.jit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "江苏第二师范学院",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.jssnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京工业职业技术大学",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.niit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "三江学院",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.sju.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京传媒学院",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.cucn.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "东南大学成贤学院",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://cxxy.seu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京航空航天大学金城学院",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://jc.nuaa.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京理工大学紫金学院",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://zj.njust.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京工业大学浦江学院",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.njpji.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京师范大学中北学院",
+      "city": "镇江市",
+      "cityAdcode": 321100,
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.nnudy.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京财经大学红山学院",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://hs.nufe.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京审计大学金审学院",
+      "city": "南京市",
+      "cityAdcode": 320100,
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.naujsc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "江南大学",
+      "city": "无锡市",
+      "cityAdcode": 320200,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.jiangnan.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "无锡学院",
+      "city": "无锡市",
+      "cityAdcode": 320200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.wxu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "无锡太湖学院",
+      "city": "无锡市",
+      "cityAdcode": 320200,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.thxy.org",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国矿业大学",
+      "city": "徐州市",
+      "cityAdcode": 320300,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.cumt.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "江苏师范大学",
+      "city": "徐州市",
+      "cityAdcode": 320300,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.jsnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "徐州医科大学",
+      "city": "徐州市",
+      "cityAdcode": 320300,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.xzhmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "徐州工程学院",
+      "city": "徐州市",
+      "cityAdcode": 320300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xzit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "江苏师范大学科文学院",
+      "city": "徐州市",
+      "cityAdcode": 320300,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://kwxy.jsnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国矿业大学徐海学院",
+      "city": "徐州市",
+      "cityAdcode": 320300,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://xhxy.cumt.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "常州大学",
+      "city": "常州市",
+      "cityAdcode": 320400,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.cczu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "常州工学院",
+      "city": "常州市",
+      "cityAdcode": 320400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.czu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "江苏理工学院",
+      "city": "常州市",
+      "cityAdcode": 320400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.jstu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "常州大学怀德学院",
+      "city": "泰州市",
+      "cityAdcode": 321200,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://hdc.cczu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "苏州大学",
+      "city": "苏州市",
+      "cityAdcode": 320500,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.suda.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "苏州科技大学",
+      "city": "苏州市",
+      "cityAdcode": 320500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.usts.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "苏州工学院",
+      "city": "苏州市",
+      "cityAdcode": 320500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cslg.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "苏州城市学院",
+      "city": "苏州市",
+      "cityAdcode": 320500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.szcu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西交利物浦大学",
+      "city": "苏州市",
+      "cityAdcode": 320500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xjtlu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "昆山杜克大学",
+      "city": "苏州市",
+      "cityAdcode": 320500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.dukekunshan.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "苏州大学应用技术学院",
+      "city": "苏州市",
+      "cityAdcode": 320500,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://tec.suda.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "苏州科技大学天平学院",
+      "city": "苏州市",
+      "cityAdcode": 320500,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://tpxy.usts.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "江苏科技大学苏州理工学院",
+      "city": "苏州市",
+      "cityAdcode": 320500,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.justsit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南通大学",
+      "city": "南通市",
+      "cityAdcode": 320600,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.ntu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南通理工学院",
+      "city": "南通市",
+      "cityAdcode": 320600,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.ntit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南通大学杏林学院",
+      "city": "南通市",
+      "cityAdcode": 320600,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://xlxy.ntu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "江苏海洋大学",
+      "city": "连云港市",
+      "cityAdcode": 320700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.jou.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京医科大学康达学院",
+      "city": "连云港市",
+      "cityAdcode": 320700,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://kdc.njmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "淮阴师范学院",
+      "city": "淮安市",
+      "cityAdcode": 320800,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hytc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "淮阴工学院",
+      "city": "淮安市",
+      "cityAdcode": 320800,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hyit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "盐城师范学院",
+      "city": "盐城市",
+      "cityAdcode": 320900,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.yctc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "盐城工学院",
+      "city": "盐城市",
+      "cityAdcode": 320900,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ycit.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "扬州大学",
+      "city": "扬州市",
+      "cityAdcode": 321000,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.yzu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "扬州大学广陵学院",
+      "city": "扬州市",
+      "cityAdcode": 321000,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://glxy.yzu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京邮电大学通达学院",
+      "city": "扬州市",
+      "cityAdcode": 321000,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.nytdc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "江苏大学",
+      "city": "镇江市",
+      "cityAdcode": 321100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.ujs.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "江苏科技大学",
+      "city": "镇江市",
+      "cityAdcode": 321100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.just.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "江苏大学京江学院",
+      "city": "镇江市",
+      "cityAdcode": 321100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://jjxy.ujs.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京理工大学泰州科技学院",
+      "city": "泰州市",
+      "cityAdcode": 321200,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.nustti.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南京师范大学泰州学院",
+      "city": "泰州市",
+      "cityAdcode": 321200,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.nnutc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "泰州学院",
+      "city": "泰州市",
+      "cityAdcode": 321200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.tzu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "宿迁学院",
+      "city": "宿迁市",
+      "cityAdcode": 321300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.squ.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    }
+  ]
+}

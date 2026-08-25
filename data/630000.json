@@ -1,0 +1,256 @@
+{
+  "adcode": 630000,
+  "name": "青海省",
+  "updatedAt": "2026-08-25",
+  "note": "骨架数据：省级官方入口与代表性公告已人工核验；市级明细持续采集中",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "青海党建网（青海省委组织部）",
+      "url": "https://www.qhsdj.gov.cn"
+    },
+    {
+      "category": "公务员",
+      "name": "青海省人事考试信息网",
+      "url": "http://www.qhpta.com"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 630100,
+      "name": "西宁市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "青海党建网（青海省委组织部）",
+          "url": "https://www.qhsdj.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "青海省人事考试信息网",
+          "url": "http://www.qhpta.com"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "青海省2025年公开考录公务员公告（2380名）",
+          "date": "2025-02-17",
+          "headcount": 2380,
+          "positions": null,
+          "source": "青海党建网",
+          "url": "https://www.qhsdj.gov.cn/cmsx/p894/tzgg/37503.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "青海省2025年度公开遴选和公开选调公务员公告",
+          "date": "2025-11-28",
+          "headcount": null,
+          "positions": null,
+          "source": "青海党建网",
+          "url": "https://www.qhsdj.gov.cn/cmsx/p894/tzgg/37969.html",
+          "attachments": []
+        },
+        {
+          "year": 2024,
+          "category": "公务员",
+          "title": "青海省2024年公开考录公务员公告",
+          "date": "2024-02-26",
+          "headcount": null,
+          "positions": null,
+          "source": "青海党建网",
+          "url": "https://www.qhsdj.gov.cn/cmsx/p894/tzgg/37233.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 630200,
+      "name": "海东市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "青海党建网（青海省委组织部）",
+          "url": "https://www.qhsdj.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "青海省人事考试信息网",
+          "url": "http://www.qhpta.com"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 632200,
+      "name": "海北藏族自治州",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "青海党建网（青海省委组织部）",
+          "url": "https://www.qhsdj.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "青海省人事考试信息网",
+          "url": "http://www.qhpta.com"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 632300,
+      "name": "黄南藏族自治州",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "青海党建网（青海省委组织部）",
+          "url": "https://www.qhsdj.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "青海省人事考试信息网",
+          "url": "http://www.qhpta.com"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 632500,
+      "name": "海南藏族自治州",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "青海党建网（青海省委组织部）",
+          "url": "https://www.qhsdj.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "青海省人事考试信息网",
+          "url": "http://www.qhpta.com"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 632600,
+      "name": "果洛藏族自治州",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "青海党建网（青海省委组织部）",
+          "url": "https://www.qhsdj.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "青海省人事考试信息网",
+          "url": "http://www.qhpta.com"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 632700,
+      "name": "玉树藏族自治州",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "青海党建网（青海省委组织部）",
+          "url": "https://www.qhsdj.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "青海省人事考试信息网",
+          "url": "http://www.qhpta.com"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 632800,
+      "name": "海西蒙古族藏族自治州",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "青海党建网（青海省委组织部）",
+          "url": "https://www.qhsdj.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "青海省人事考试信息网",
+          "url": "http://www.qhpta.com"
+        }
+      ],
+      "recruitments": []
+    }
+  ],
+  "universities": [
+    {
+      "name": "青海大学",
+      "city": "西宁市",
+      "cityAdcode": 630100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.qhu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "青海师范大学",
+      "city": "西宁市",
+      "cityAdcode": 630100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.qhnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "青海民族大学",
+      "city": "西宁市",
+      "cityAdcode": 630100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.qhmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "青海理工学院",
+      "city": "西宁市",
+      "cityAdcode": 630100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.qhit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "青海职业技术大学",
+      "city": "西宁市",
+      "cityAdcode": 630100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.qhvtc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    }
+  ]
+}

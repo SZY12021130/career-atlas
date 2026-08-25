@@ -1,0 +1,1542 @@
+{
+  "adcode": 210000,
+  "name": "辽宁省",
+  "updatedAt": "2026-02-27",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "辽宁人事考试网",
+      "url": "https://www.lnrsks.com/"
+    },
+    {
+      "category": "事业单位",
+      "name": "辽宁省人力资源和社会保障厅",
+      "url": "https://rst.ln.gov.cn/"
+    },
+    {
+      "category": "选调",
+      "name": "中华先锋网（中共辽宁省委组织部主办）",
+      "url": "https://www.zhxf.cn/"
+    },
+    {
+      "category": "人才引进",
+      "name": "辽宁省人民政府门户网站",
+      "url": "https://www.ln.gov.cn/"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 210100,
+      "name": "沈阳市",
+      "districts": [
+        "和平区",
+        "沈河区",
+        "大东区",
+        "皇姑区",
+        "铁西区",
+        "苏家屯区",
+        "浑南区",
+        "沈北新区",
+        "于洪区",
+        "辽中区",
+        "新民市",
+        "康平县",
+        "法库县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "沈阳市考试院",
+          "url": "https://www.sysksy.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "沈阳市人力资源和社会保障局",
+          "url": "https://rsj.shenyang.gov.cn/"
+        },
+        {
+          "category": "人才引进",
+          "name": "沈阳市人民政府",
+          "url": "https://www.shenyang.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "辽宁省2025年度考试录用公务员公告",
+          "date": "2025-01-16",
+          "headcount": 7841,
+          "positions": null,
+          "source": "辽宁省公务员局（辽宁省人民政府网）",
+          "url": "https://www.ln.gov.cn/web/ywdt/jrln/wzxx2018/2025011614475357727/index.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "title": "辽宁省2026年度选调应届优秀大学毕业生公告",
+          "date": "2025-12-22",
+          "headcount": 313,
+          "positions": null,
+          "source": "辽宁人事考试网",
+          "url": "https://www.lnrsks.com/html/gwy_zhaokaogonggao/6894.html",
+          "attachments": [],
+          "subCategory": "普通选调"
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年度辽宁省考试录用公务员沈阳考区拟录用人员公告（第一批）",
+          "date": "2025-06-27",
+          "headcount": null,
+          "positions": null,
+          "source": "沈阳市考试院",
+          "url": "https://www.sysksy.cn/ksdt/ksdt/202506/t20250627_4869605.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年沈阳市事业单位集中面向社会公开招聘拟聘用人员公示（第三批）",
+          "date": "2025-09-23",
+          "headcount": null,
+          "positions": null,
+          "source": "沈阳市人力资源和社会保障局",
+          "url": "https://rsj.shenyang.gov.cn/xwzx/tzgg/202509/t20250923_4910672.html",
+          "attachments": [
+            {
+              "name": "2025年沈阳市事业单位集中公开招聘拟聘用人员名单（第三批）.xlsx",
+              "url": "https://rsj.shenyang.gov.cn/xwzx/tzgg/202509/P020250923573308231330.xlsx",
+              "local": "attachments/210100/2025年沈阳市事业单位集中公开招聘拟聘用人员名单（第三批）.xlsx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adcode": 210200,
+      "name": "大连市",
+      "districts": [
+        "中山区",
+        "西岗区",
+        "沙河口区",
+        "甘井子区",
+        "旅顺口区",
+        "金州区",
+        "普兰店区",
+        "瓦房店市",
+        "庄河市",
+        "长海县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "大连党建网（中共大连市委组织部）",
+          "url": "https://www.dldj.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "大连市人力资源和社会保障局",
+          "url": "https://rsj.dl.gov.cn/"
+        },
+        {
+          "category": "人才引进",
+          "name": "大连市人民政府",
+          "url": "https://www.dl.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "title": "2026年大连市各级机关考试录用公务员拟录用人员的公示（第七批）",
+          "date": "2026-02-26",
+          "headcount": null,
+          "positions": null,
+          "source": "大连市公务员局（大连党建网）",
+          "url": "https://www.dldj.gov.cn/art/2026/2/26/art_9233_2501009.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "大连市事业单位2025年集中公开招聘拟聘用人员公示（第一批）",
+          "date": "2025-08-05",
+          "headcount": null,
+          "positions": null,
+          "source": "大连市人力资源和社会保障局",
+          "url": "https://rsj.dl.gov.cn/art/2025/8/5/art_4341_2455301.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "大连市事业单位2025年集中公开招聘拟聘用人员公示（第二批）",
+          "date": "2025-08-25",
+          "headcount": null,
+          "positions": null,
+          "source": "大连市人力资源和社会保障局",
+          "url": "https://rsj.dl.gov.cn/art/2025/8/25/art_4341_2458674.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 210300,
+      "name": "鞍山市",
+      "districts": [
+        "铁东区",
+        "铁西区",
+        "立山区",
+        "千山区",
+        "海城市",
+        "台安县",
+        "岫岩满族自治县"
+      ],
+      "portals": [
+        {
+          "category": "事业单位",
+          "name": "鞍山市人力资源和社会保障局",
+          "url": "http://rsj.anshan.gov.cn/"
+        },
+        {
+          "category": "公务员",
+          "name": "鞍山市人民政府",
+          "url": "http://www.anshan.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年度辽宁省考试录用公务员鞍山考区拟录用人员公告（第一批）",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "中共鞍山市委组织部（鞍山市人力资源和社会保障局）",
+          "url": "http://rsj.anshan.gov.cn/html/RSJ/202506/0175101343619873.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年度辽宁省考试录用公务员鞍山考区拟录用人员公告（第二批）",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "中共鞍山市委组织部（鞍山市人力资源和社会保障局）",
+          "url": "http://rsj.anshan.gov.cn/html/RSJ/202507/0175222400410640.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年辽宁省事业单位集中面向社会公开招聘鞍山市市直事业单位拟聘人员公示（二）",
+          "date": "2025-08-21",
+          "headcount": 4,
+          "positions": null,
+          "source": "鞍山市人力资源和社会保障局",
+          "url": "http://rsj.anshan.gov.cn/html/RSJ/202508/0175575773845176.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 210400,
+      "name": "抚顺市",
+      "districts": [
+        "新抚区",
+        "东洲区",
+        "望花区",
+        "顺城区",
+        "抚顺县",
+        "新宾满族自治县",
+        "清原满族自治县"
+      ],
+      "portals": [
+        {
+          "category": "事业单位",
+          "name": "抚顺市人力资源和社会保障局",
+          "url": "https://fsrs.fushun.gov.cn/"
+        },
+        {
+          "category": "公务员",
+          "name": "抚顺市人民政府",
+          "url": "https://www.fushun.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年抚顺市考试录用公务员拟录用人员公告（第三批）",
+          "date": "2025-08-12",
+          "headcount": null,
+          "positions": null,
+          "source": "中共抚顺市委组织部（抚顺市人力资源和社会保障局）",
+          "url": "https://fsrs.fushun.gov.cn/tzgg/20250812/9de5c381-4b21-4725-bda6-c24b67915254.html",
+          "attachments": [
+            {
+              "name": "2025年抚顺市考试录用公务员拟录用人员名单（第三批）.xls",
+              "url": "https://fsrs.fushun.gov.cn/rsj/9de5c381-4b21-4725-bda6-c24b67915254/2a5a71ed-9955-4583-bf16-2ba44a3a16ef/%E9%99%84%E4%BB%B6%EF%BC%9A2025%E5%B9%B4%E6%8A%9A%E9%A1%BA%E5%B8%82%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E6%8B%9F%E5%BD%95%E7%94%A8%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%88%E7%AC%AC%E4%B8%89%E6%89%B9%EF%BC%89.xls",
+              "local": "attachments/210400/2025年抚顺市考试录用公务员拟录用人员名单（第三批）.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "关于2025年辽宁省事业单位集中面向社会公开招聘抚顺市事业单位笔试最低合格分数线和拟进入面试（资格复审）人员名单及有关工作安排的公告",
+          "date": "2025-05-20",
+          "headcount": null,
+          "positions": null,
+          "source": "抚顺市人力资源和社会保障局",
+          "url": "http://fsrs.fushun.gov.cn/ztzl/008005/20250520/3d6a869c-0d20-4251-9f9b-5ccdd39fe83a.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "抚顺市市场监督管理局所属事业单位2025年面向社会公开招聘高层次和急需紧缺人才公告（第二批）",
+          "date": "2025-12-23",
+          "headcount": 14,
+          "positions": null,
+          "source": "抚顺市市场监督管理局（抚顺市人力资源和社会保障局）",
+          "url": "https://fsrs.fushun.gov.cn/tzgg/20251223/c629b559-15db-4ea0-9d71-f8e937d6f5be.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 210500,
+      "name": "本溪市",
+      "districts": [
+        "平山区",
+        "溪湖区",
+        "明山区",
+        "南芬区",
+        "本溪满族自治县",
+        "桓仁满族自治县"
+      ],
+      "portals": [
+        {
+          "category": "事业单位",
+          "name": "本溪市人力资源和社会保障局",
+          "url": "https://rsj.benxi.gov.cn/"
+        },
+        {
+          "category": "公务员",
+          "name": "本溪市人民政府",
+          "url": "https://www.benxi.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年度辽宁省考试录用公务员本溪考区拟录用人员公告",
+          "date": "2025-09-18",
+          "headcount": null,
+          "positions": null,
+          "source": "中共本溪市委组织部（本溪市人力资源和社会保障局）",
+          "url": "https://rsj.benxi.gov.cn/xwzx/gsgg/content_651038",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年辽宁省（本溪市）事业单位集中面向社会公开招聘暨“名校优生”校园招聘拟聘用人员公示（第一批）",
+          "date": "2025-08-07",
+          "headcount": 444,
+          "positions": null,
+          "source": "本溪市人力资源和社会保障局",
+          "url": "http://rsj.benxi.gov.cn/xwzx/gsgg/content_649067",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 210600,
+      "name": "丹东市",
+      "districts": [
+        "元宝区",
+        "振兴区",
+        "振安区",
+        "东港市",
+        "凤城市",
+        "宽甸满族自治县"
+      ],
+      "portals": [
+        {
+          "category": "事业单位",
+          "name": "丹东市人力资源和社会保障局",
+          "url": "https://rsj.dandong.gov.cn/"
+        },
+        {
+          "category": "公务员",
+          "name": "丹东市人民政府",
+          "url": "https://www.dandong.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年度丹东市各级机关考试录用公务员拟录用人员的公告（第一批）",
+          "date": "2025-06-30",
+          "headcount": null,
+          "positions": null,
+          "source": "中共丹东市委组织部（丹东市人力资源和社会保障局）",
+          "url": "https://rsj.dandong.gov.cn/html/DDRSJ/202506/0175127017257593.html",
+          "attachments": [
+            {
+              "name": "2025年丹东市考试录用公务员拟录用人员公示名单（第一批）.xls",
+              "url": "https://files.dandong.gov.cn/files/ueditor/DDRSJ/jsp/upload/file/20250630/1751271245634046634.xls",
+              "local": "attachments/210600/2025年丹东市考试录用公务员拟录用人员公示名单（第一批）.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "2025年度辽宁省考试录用公务员丹东考区资格审查公告",
+          "date": "2025-04-21",
+          "headcount": null,
+          "positions": null,
+          "source": "丹东市人力资源和社会保障局",
+          "url": "https://rsj.dandong.gov.cn/html/DDRSJ/202504/0174427553525725.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 210700,
+      "name": "锦州市",
+      "districts": [
+        "古塔区",
+        "凌河区",
+        "太和区",
+        "凌海市",
+        "北镇市",
+        "黑山县",
+        "义县"
+      ],
+      "portals": [
+        {
+          "category": "事业单位",
+          "name": "锦州市人力资源和社会保障局",
+          "url": "http://www.jz.gov.cn/rsj/"
+        },
+        {
+          "category": "公务员",
+          "name": "锦州市人民政府",
+          "url": "https://www.jz.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年度辽宁省考试录用公务员锦州考区拟录用人选公示",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "中共锦州市委组织部（锦州市人民政府网）",
+          "url": "https://www.jz.gov.cn/info/1017/123291.htm",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "2025年锦州市部分市直事业单位公开招聘高层次人才公告",
+          "date": "2025-08-04",
+          "headcount": 1,
+          "positions": null,
+          "source": "中共锦州市委组织部、锦州市人力资源和社会保障局",
+          "url": "http://www.jz.gov.cn/rsj/info/1003/4317.htm",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 210800,
+      "name": "营口市",
+      "districts": [
+        "站前区",
+        "西市区",
+        "鲅鱼圈区",
+        "老边区",
+        "盖州市",
+        "大石桥市"
+      ],
+      "portals": [
+        {
+          "category": "事业单位",
+          "name": "营口市人力资源和社会保障局",
+          "url": "https://rsj.yingkou.gov.cn/"
+        },
+        {
+          "category": "公务员",
+          "name": "营口市人民政府",
+          "url": "https://www.yingkou.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年度辽宁省考试录用公务员营口地区拟录用人选公示名单（一）",
+          "date": "2025-06-20",
+          "headcount": null,
+          "positions": null,
+          "source": "中共营口市委组织部（营口市人力资源和社会保障局）",
+          "url": "http://rsj.yingkou.gov.cn/004/20250620/a29db140-130b-48c8-a85c-0ba658cdc5e7.html",
+          "attachments": [
+            {
+              "name": "2025年营口市考试录用公务员拟录用人选公示名单（第一批）.xls",
+              "url": "https://rsj.yingkou.gov.cn/rsj/a29db140-130b-48c8-a85c-0ba658cdc5e7/4b7b2b04-10e5-4350-87de-f8e92dbe5419/2025%E5%B9%B4%E5%BA%A6%E8%BE%BD%E5%AE%81%E7%9C%81%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E8%90%A5%E5%8F%A3%E5%9C%B0%E5%8C%BA%E6%8B%9F%E5%BD%95%E7%94%A8%E4%BA%BA%E9%80%89%E5%85%AC%E7%A4%BA%E5%90%8D%E5%8D%95%EF%BC%88%E4%B8%80%EF%BC%89.xls",
+              "local": "attachments/210800/2025年营口市考试录用公务员拟录用人选公示名单（第一批）.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "营口理工学院2025年公开引进高层次人才公告",
+          "date": "2025-08-06",
+          "headcount": 8,
+          "positions": null,
+          "source": "营口市人力资源和社会保障局",
+          "url": "https://rsj.yingkou.gov.cn/004/20250806/25caa6c4-c3ee-4c29-b936-cf81d923d64f.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "营口市卫健委所属事业单位2025年公开引进高层次人才公告",
+          "date": "2025-10-15",
+          "headcount": 1,
+          "positions": null,
+          "source": "营口市卫生健康委员会（营口市人力资源和社会保障局）",
+          "url": "https://rsj.yingkou.gov.cn/004/20251015/a6bc3b95-a375-4e7f-8ca0-eb8c68f014f7.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 210900,
+      "name": "阜新市",
+      "districts": [
+        "海州区",
+        "新邱区",
+        "太平区",
+        "清河门区",
+        "细河区",
+        "彰武县",
+        "阜新蒙古族自治县"
+      ],
+      "portals": [
+        {
+          "category": "事业单位",
+          "name": "阜新市人力资源和社会保障局",
+          "url": "https://rsj.fuxin.gov.cn/"
+        },
+        {
+          "category": "公务员",
+          "name": "阜新市人民政府",
+          "url": "https://www.fuxin.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "关于2025年度辽宁省考试录用公务员阜新考区拟录用人员的公告",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "中共阜新市委组织部（阜新市人力资源和社会保障局）",
+          "url": "https://rsj.fuxin.gov.cn/content/2025/994900.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "关于2025年阜新市市直事业单位参加辽宁省事业单位集中面向社会公开招聘拟聘用人员的公告（一）",
+          "date": "2025-07-31",
+          "headcount": null,
+          "positions": null,
+          "source": "中共阜新市委组织部、阜新市人力资源和社会保障局",
+          "url": "https://rsj.fuxin.gov.cn/content/2025/998422.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 211000,
+      "name": "辽阳市",
+      "districts": [
+        "白塔区",
+        "文圣区",
+        "宏伟区",
+        "弓长岭区",
+        "太子河区",
+        "灯塔市",
+        "辽阳县"
+      ],
+      "portals": [
+        {
+          "category": "事业单位",
+          "name": "辽阳市人力资源和社会保障局",
+          "url": "http://rsj.liaoyang.gov.cn/"
+        },
+        {
+          "category": "公务员",
+          "name": "辽阳市人民政府",
+          "url": "http://www.liaoyang.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年度辽宁省考试录用公务员辽阳考区拟录用人员公告（第二批）",
+          "date": "2025-06-27",
+          "headcount": null,
+          "positions": null,
+          "source": "中共辽阳市委组织部（辽阳市人民政府网）",
+          "url": "http://www.liaoyang.gov.cn/govxxgk/LY/2025-06-27/64e61410-9be9-4541-b000-49b9d86eb642.html?deptcode=033",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年辽阳市事业单位面向社会公开招聘工作人员公告",
+          "date": "2025-09-17",
+          "headcount": 66,
+          "positions": null,
+          "source": "辽阳市人力资源和社会保障局",
+          "url": "http://rsj.liaoyang.gov.cn/govxxgk/LYRSJ/2025-09-17/882807ab-62a2-4f95-ae59-8c74fb736e25.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年辽宁省事业单位集中面向社会公开招聘辽阳市事业单位拟聘用人员公告（第二批）",
+          "date": "2025-09-12",
+          "headcount": null,
+          "positions": null,
+          "source": "辽阳市人力资源和社会保障局",
+          "url": "http://rsj.liaoyang.gov.cn/govxxgk/LYRSJ/2025-09-12/eaaf6073-7cf6-484d-912a-4128abf809e6.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 211100,
+      "name": "盘锦市",
+      "districts": [
+        "双台子区",
+        "兴隆台区",
+        "大洼区",
+        "盘山县"
+      ],
+      "portals": [
+        {
+          "category": "事业单位",
+          "name": "盘锦市人力资源和社会保障局",
+          "url": "http://rsj.panjin.gov.cn/"
+        },
+        {
+          "category": "公务员",
+          "name": "盘锦市人民政府",
+          "url": "https://www.panjin.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年度盘锦市考试录用公务员第一批拟录用人员公示",
+          "date": "2025-06-23",
+          "headcount": 346,
+          "positions": null,
+          "source": "中共盘锦市委组织部（盘锦市人力资源和社会保障局）",
+          "url": "https://rsj.panjin.gov.cn/2025_06/23_19/content-525270.html",
+          "attachments": [
+            {
+              "name": "2025年盘锦市考试录用公务员第一批拟录用人员名单.xls",
+              "url": "https://panjin.gov.cn:803/uploadfile/files/20250623193818904.xls",
+              "local": "attachments/211100/2025年盘锦市考试录用公务员第一批拟录用人员名单.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "盘锦职业技术学院2025年面向社会公开招聘教职员公告",
+          "date": "2025-10-10",
+          "headcount": null,
+          "positions": null,
+          "source": "盘锦市人力资源和社会保障局",
+          "url": "https://rsj.panjin.gov.cn/2025_10/10_15/content-538090.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 211200,
+      "name": "铁岭市",
+      "districts": [
+        "银州区",
+        "清河区",
+        "调兵山市",
+        "开原市",
+        "铁岭县",
+        "西丰县",
+        "昌图县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "铁岭市人民政府“人事招考”专栏",
+          "url": "http://www.tieling.gov.cn/tieling/rszk/"
+        },
+        {
+          "category": "事业单位",
+          "name": "铁岭市人民政府",
+          "url": "http://www.tieling.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "关于2025年度辽宁省考试录用公务员铁岭考区拟录用人选（第四批）的公告",
+          "date": "2025-07-08",
+          "headcount": null,
+          "positions": null,
+          "source": "中共铁岭市委组织部（铁岭市人民政府网）",
+          "url": "http://www.tieling.gov.cn/tieling/rszk/2025070814592564469/index.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年铁岭市事业单位公开招聘动物检疫岗位工作人员补充公告",
+          "date": "2026-01-08",
+          "headcount": null,
+          "positions": null,
+          "source": "铁岭市农业农村局、铁岭市人力资源和社会保障局",
+          "url": "http://www.tieling.gov.cn/tieling/rszk/2026010810265396114/index.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 211300,
+      "name": "朝阳市",
+      "districts": [
+        "双塔区",
+        "龙城区",
+        "北票市",
+        "凌源市",
+        "朝阳县",
+        "建平县",
+        "喀喇沁左翼蒙古族自治县"
+      ],
+      "portals": [
+        {
+          "category": "事业单位",
+          "name": "朝阳市人力资源和社会保障局",
+          "url": "https://rsj.chaoyang.gov.cn/"
+        },
+        {
+          "category": "公务员",
+          "name": "朝阳市人民政府",
+          "url": "https://www.chaoyang.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年度朝阳市各级机关（含公检法戒毒系统）及参照公务员法管理单位考试录用公务员（工作人员）拟录用人员公告",
+          "date": "2025-06-20",
+          "headcount": 406,
+          "positions": null,
+          "source": "中共朝阳市委组织部（朝阳市人力资源和社会保障局）",
+          "url": "https://rsj.chaoyang.gov.cn/html/CYRSJ/202506/0175038491073299.html",
+          "attachments": [
+            {
+              "name": "2025年朝阳市考试录用公务员拟录用人员名单.xls",
+              "url": "https://files.chaoyang.gov.cn/files/ueditor/CYRSJ/jsp/upload/file/20250620/1750399140340006618.xls",
+              "local": "attachments/211300/2025年朝阳市考试录用公务员拟录用人员名单.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年辽宁省事业单位集中面向社会公开招聘朝阳市（含县市区）党委和政府（部门）所属事业单位岗位工作人员拟聘用人员公示（第一批）",
+          "date": "2025-08-21",
+          "headcount": 359,
+          "positions": null,
+          "source": "朝阳市人力资源和社会保障局",
+          "url": "https://rsj.chaoyang.gov.cn/html/CYRSJ/202508/0175577052337024.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 211400,
+      "name": "葫芦岛市",
+      "districts": [
+        "连山区",
+        "龙港区",
+        "南票区",
+        "兴城市",
+        "绥中县",
+        "建昌县"
+      ],
+      "portals": [
+        {
+          "category": "事业单位",
+          "name": "葫芦岛市人力资源和社会保障局",
+          "url": "http://rsj.hld.gov.cn/"
+        },
+        {
+          "category": "公务员",
+          "name": "葫芦岛市人民政府",
+          "url": "https://www.hld.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年度葫芦岛市各级机关（含公检法系统）及参照公务员法管理单位考试录用公务员第一批拟录用人选公示",
+          "date": "2025-06-27",
+          "headcount": null,
+          "positions": null,
+          "source": "中共葫芦岛市委组织部（葫芦岛市人力资源和社会保障局）",
+          "url": "http://rsj.hld.gov.cn/ywdt/tzgg/202506/t20250627_1210841.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年辽宁省事业单位集中面向社会公开招聘葫芦岛市事业单位工作人员进入面试人员名单",
+          "date": "2025-06-20",
+          "headcount": null,
+          "positions": null,
+          "source": "葫芦岛市人力资源和社会保障局",
+          "url": "http://rsj.hld.gov.cn/ywdt/tzgg/202506/t20250620_1210321.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "葫芦岛市2025年度市直部分事业单位公开招聘高层次人才公告（“兴葫英才计划”）",
+          "date": "2025-12-24",
+          "headcount": 84,
+          "positions": null,
+          "source": "中共葫芦岛市委组织部、葫芦岛市人力资源和社会保障局",
+          "url": "http://rsj.hld.gov.cn/ywdt/tzgg/202512/t20251224_1225020.html",
+          "attachments": []
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "name": "辽宁大学",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.lnu.edu.cn",
+      "hrUrl": "http://rsc.lnu.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "沈阳工业大学",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.sut.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "沈阳航空航天大学",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sau.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "沈阳理工大学",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sylu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "东北大学",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.neu.edu.cn",
+      "hrUrl": "http://rsc.neu.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "沈阳化工大学",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.syuct.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "沈阳建筑大学",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.sjzu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "沈阳农业大学",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.syau.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国医科大学",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.cmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "辽宁中医药大学",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.lnutcm.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "沈阳药科大学",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.syphu.edu.cn",
+      "hrUrl": "https://opd.syphu.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "沈阳医学院",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.symc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "沈阳师范大学",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.synu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "沈阳大学",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.syu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "沈阳体育学院",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.syty.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "沈阳音乐学院",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sycm.com.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "鲁迅美术学院",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.lumei.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "沈阳工程学院",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sie.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国刑事警察学院",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cipuc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "沈阳城市学院",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.shenyangcu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "辽宁何氏医学院",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.huh.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "沈阳科技学院",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.syist.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "辽宁传媒学院",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.lncu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "沈阳城市建设学院",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.syucu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "辽宁中医药大学杏林学院",
+      "city": "沈阳市",
+      "cityAdcode": 210100,
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.lncmxl.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "大连理工大学",
+      "city": "大连市",
+      "cityAdcode": 210200,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.dlut.edu.cn",
+      "hrUrl": "https://perdep.dlut.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "大连海事大学",
+      "city": "大连市",
+      "cityAdcode": 210200,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.dlmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "东北财经大学",
+      "city": "大连市",
+      "cityAdcode": 210200,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.dufe.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "大连医科大学",
+      "city": "大连市",
+      "cityAdcode": 210200,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.dmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "辽宁师范大学",
+      "city": "大连市",
+      "cityAdcode": 210200,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.lnnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "大连外国语大学",
+      "city": "大连市",
+      "cityAdcode": 210200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.dlufl.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "大连民族大学",
+      "city": "大连市",
+      "cityAdcode": 210200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.dlnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "大连交通大学",
+      "city": "大连市",
+      "cityAdcode": 210200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.djtu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "大连工业大学",
+      "city": "大连市",
+      "cityAdcode": 210200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.dlpu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "大连海洋大学",
+      "city": "大连市",
+      "cityAdcode": 210200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.dlou.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "大连大学",
+      "city": "大连市",
+      "cityAdcode": 210200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.dlu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "辽宁警察学院",
+      "city": "大连市",
+      "cityAdcode": 210200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.lnp.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "大连东软信息学院",
+      "city": "大连市",
+      "cityAdcode": 210200,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.neusoft.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "大连科技学院",
+      "city": "大连市",
+      "cityAdcode": 210200,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.dlust.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "大连财经学院",
+      "city": "大连市",
+      "cityAdcode": 210200,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.dlufe.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "大连艺术学院",
+      "city": "大连市",
+      "cityAdcode": 210200,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.dac.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "辽宁对外经贸学院",
+      "city": "大连市",
+      "cityAdcode": 210200,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.luibe.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "大连理工大学城市学院",
+      "city": "大连市",
+      "cityAdcode": 210200,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.dlutci.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "大连工业大学艺术与信息工程学院",
+      "city": "大连市",
+      "cityAdcode": 210200,
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.caie.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "大连医科大学中山学院",
+      "city": "大连市",
+      "cityAdcode": 210200,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.dmuzs.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "辽宁师范大学海华学院",
+      "city": "大连市",
+      "cityAdcode": 210200,
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.lshhxy.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "辽宁科技大学",
+      "city": "鞍山市",
+      "cityAdcode": 210300,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.ustl.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "鞍山师范学院",
+      "city": "鞍山市",
+      "cityAdcode": 210300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.asnc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "辽宁石油化工大学",
+      "city": "抚顺市",
+      "cityAdcode": 210400,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.lnpu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "沈阳工学院",
+      "city": "抚顺市",
+      "cityAdcode": 210400,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.situ.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "辽宁科技学院",
+      "city": "本溪市",
+      "cityAdcode": 210500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.lnist.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "辽东学院",
+      "city": "丹东市",
+      "cityAdcode": 210600,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.liaodongu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "辽宁工业大学",
+      "city": "锦州市",
+      "cityAdcode": 210700,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.lnut.edu.cn",
+      "hrUrl": "http://rsc.lnut.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "渤海大学",
+      "city": "锦州市",
+      "cityAdcode": 210700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.bhu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "锦州医科大学",
+      "city": "锦州市",
+      "cityAdcode": 210700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.jzmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "锦州医科大学医疗学院",
+      "city": "锦州市",
+      "cityAdcode": 210700,
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.lnylxy.com",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "辽宁理工学院",
+      "city": "锦州市",
+      "cityAdcode": 210700,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.lise.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "辽宁理工职业大学",
+      "city": "锦州市",
+      "cityAdcode": 210700,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.lnvut.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "营口理工学院",
+      "city": "营口市",
+      "cityAdcode": 210800,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.yku.edu.cn",
+      "hrUrl": "https://www.yku.edu.cn/rsc",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "辽宁工程技术大学",
+      "city": "阜新市",
+      "cityAdcode": 210900,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.lntu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "沈阳工业大学工程学院",
+      "city": "辽阳市",
+      "cityAdcode": 211000,
+      "tags": [
+        "民办"
+      ],
+      "website": null,
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "辽宁财贸学院",
+      "city": "葫芦岛市",
+      "cityAdcode": 211400,
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.lncmxy.com",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    }
+  ]
+}

@@ -1,0 +1,1923 @@
+{
+  "adcode": 420000,
+  "name": "湖北省",
+  "updatedAt": "2026-08-25",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "湖北省公务员考试录用专题（湖北人事考试网）",
+      "url": "https://rst.hubei.gov.cn/hbrsksw/zlplks/jglyks/hbsgwyks/"
+    },
+    {
+      "category": "公务员",
+      "name": "湖北人事考试网",
+      "url": "https://rst.hubei.gov.cn/hbrsksw/"
+    },
+    {
+      "category": "事业单位",
+      "name": "湖北省人力资源和社会保障厅",
+      "url": "https://rst.hubei.gov.cn/"
+    },
+    {
+      "category": "事业单位",
+      "name": "湖北省省直事业单位公开招聘专题",
+      "url": "https://rst.hubei.gov.cn/bmdt/ztzl/ywzl/hbsszsydwgkzp/"
+    },
+    {
+      "category": "选调",
+      "name": "湖北省选调生考试专栏（湖北人事考试网）",
+      "url": "https://rst.hubei.gov.cn/hbrsksw/zlplks/jglyks/hbsxtsks/"
+    },
+    {
+      "category": "人才引进",
+      "name": "湖北人才网",
+      "url": "https://www.jobhb.com/"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 420100,
+      "name": "武汉市",
+      "districts": [
+        "江岸区",
+        "江汉区",
+        "硚口区",
+        "汉阳区",
+        "武昌区",
+        "青山区",
+        "洪山区",
+        "东西湖区",
+        "汉南区",
+        "蔡甸区",
+        "江夏区",
+        "黄陂区",
+        "新洲区"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "武汉组工网",
+          "url": "https://www.whzg.gov.cn/"
+        },
+        {
+          "category": "公务员",
+          "name": "武汉市人事考试院",
+          "url": "http://www.whptc.org/"
+        },
+        {
+          "category": "事业单位",
+          "name": "武汉市人力资源和社会保障局",
+          "url": "https://rsj.wuhan.gov.cn/"
+        },
+        {
+          "category": "录用公示",
+          "name": "武汉市人民政府公务员专栏",
+          "url": "https://www.wuhan.gov.cn/zwgk/xxgk/rsxx/gwyzl/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "湖北省2025年度省市县乡考试录用公务员公告",
+          "date": "2025-01-06",
+          "headcount": 10008,
+          "positions": null,
+          "source": "湖北省公务员局（湖北人事考试网）",
+          "url": "https://rst.hubei.gov.cn/hbrsksw/zlplks/jglyks/hbsgwyks/zkgg/202501/t20250106_5490718.shtml"
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "湖北省2026年度省市县乡考试录用公务员公告",
+          "date": "2026-01-12",
+          "headcount": 8027,
+          "positions": null,
+          "source": "湖北省公务员局（湖北人事考试网）",
+          "url": "https://rst.hubei.gov.cn/hbrsksw/zlplks/jglyks/hbsgwyks/zkgg/202601/t20260112_5853207.shtml"
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "title": "湖北省2025年选调生招录公告",
+          "date": "2024-12-23",
+          "headcount": 1033,
+          "positions": null,
+          "source": "湖北省委组织部（湖北人事考试网）",
+          "url": "https://rst.hubei.gov.cn/hbrsksw/zlplks/jglyks/hbsxtsks/zkgg/202412/t20241223_5471937.shtml",
+          "subCategory": "普通选调"
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "title": "湖北省2026年定向选调生招录公告",
+          "date": "2025-11-12",
+          "headcount": null,
+          "positions": null,
+          "source": "湖北省委组织部（湖北人事考试网）",
+          "url": "https://rst.hubei.gov.cn/hbrsksw/zlplks/jglyks/hbsxtsks/zkgg/202511/t20251112_5810864.shtml",
+          "subCategory": "定向选调"
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "湖北省省直事业单位2025年统一公开招聘工作人员公告",
+          "date": "2025-02-14",
+          "headcount": 1149,
+          "positions": null,
+          "source": "湖北省人力资源和社会保障厅",
+          "url": "https://rst.hubei.gov.cn/bmdt/ztzl/ywzl/hbsszsydwgkzp/zpgg/202502/t20250214_5541042.shtml",
+          "attachments": [
+            {
+              "name": "湖北省省直事业单位2025年统一公开招聘岗位表.xlsx",
+              "url": "https://rst.hubei.gov.cn/bmdt/ztzl/ywzl/hbsszsydwgkzp/zpgg/202502/t20250214_5541042.shtml",
+              "local": "attachments/420100/2025年湖北省省直事业单位统一公开招聘岗位表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "武汉市2025年度事业单位公开招聘公告",
+          "date": "2025-02-14",
+          "headcount": 2970,
+          "positions": null,
+          "source": "武汉市人事考试院",
+          "url": "http://www.whptc.org/ncms/article_e74ba3f7b4f69392bf7919f9be71d823.shtml"
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "武汉市2025年下半年事业单位公开招聘公告",
+          "date": "2025-09-12",
+          "headcount": 574,
+          "positions": null,
+          "source": "武汉市人事考试院",
+          "url": "http://www.whptc.org/ncms/article_39a95be04eabc868e1ff761076bea3d8.shtml"
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "武汉市2025年度考试录用公务员拟录用人员公示（第二批）",
+          "date": "2025-06-09",
+          "headcount": null,
+          "positions": null,
+          "source": "武汉市公务员局",
+          "url": "https://www.wuhan.gov.cn/zwgk/xxgk/rsxx/gwyzl/202506/t20250612_2594637.shtml"
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "湖北省2025年选调生拟录用人员公示",
+          "date": "2025-05-12",
+          "headcount": 995,
+          "positions": null,
+          "source": "湖北省委组织部（湖北人事考试网）",
+          "url": "https://rst.hubei.gov.cn/hbrsksw/zlplks/jglyks/hbsxtsks/zytz/202505/t20250512_5647282.shtml"
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "title": "武汉市2026年选聘生管培生招聘面试公告",
+          "date": "2025-12-31",
+          "headcount": null,
+          "positions": null,
+          "source": "武汉市委组织部（武汉组工网）",
+          "url": "https://www.whzg.gov.cn/#/pages/xps/news?uuid=f3cbf425966e42768d5a8b8cd87145f5"
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "title": "武汉市2026年选聘生管培生拟聘用人员公示公告",
+          "date": "2026-04-20",
+          "headcount": null,
+          "positions": null,
+          "source": "武汉市委组织部（武汉组工网）",
+          "url": "https://www.whzg.gov.cn/#/pages/xps/news?uuid=ab2147b860ed4282a1fadfbc5059813d"
+        }
+      ]
+    },
+    {
+      "adcode": 420200,
+      "name": "黄石市",
+      "districts": [
+        "黄石港区",
+        "西塞山区",
+        "下陆区",
+        "铁山区",
+        "阳新县",
+        "大冶市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "黄石市人力资源和社会保障局考试信息专栏",
+          "url": "https://rsj.huangshi.gov.cn/rsksy/ksxx/"
+        },
+        {
+          "category": "事业单位",
+          "name": "黄石市人力资源和社会保障局",
+          "url": "https://rsj.huangshi.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "黄石市市直事业单位2025年统一公开招聘工作人员公告",
+          "date": "2025-02-14",
+          "headcount": null,
+          "positions": null,
+          "source": "黄石市人力资源和社会保障局",
+          "url": "https://rsj.huangshi.gov.cn/xxgk/fdzdgknr/gggs/202502/t20250214_1193720.html",
+          "attachments": [
+            {
+              "name": "黄石市市直事业单位2025年统一公开招聘岗位表.xlsx",
+              "url": "https://rsj.huangshi.gov.cn/xxgk/fdzdgknr/gggs/202502/t20250214_1193720.html",
+              "local": "attachments/420200/2025年黄石市市直事业单位统一公开招聘岗位表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "黄石市事业单位2025年统一公开招聘拟聘用人员公示（五）",
+          "date": "2025-09-10",
+          "headcount": null,
+          "positions": null,
+          "source": "黄石市人力资源和社会保障局",
+          "url": "https://rsj.huangshi.gov.cn/rsksy/ksxx/202509/t20250910_1260035.html"
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "黄石市2025年度考试录用公务员拟录用人员公示（第一批）",
+          "date": "2025-05-23",
+          "headcount": null,
+          "positions": null,
+          "source": "黄石市委组织部（黄石党建）",
+          "url": "https://zjj.huangshi.gov.cn/xxgk_7967/fdzdgknr_8006/zkly_8011/gwyzkly_8012/202505/t20250526_1225383.html"
+        }
+      ]
+    },
+    {
+      "adcode": 420300,
+      "name": "十堰市",
+      "districts": [
+        "茅箭区",
+        "张湾区",
+        "郧阳区",
+        "郧西县",
+        "竹山县",
+        "竹溪县",
+        "房县",
+        "丹江口市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "武当党建网",
+          "url": "http://www.sywddj.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "十堰市人力资源和社会保障局",
+          "url": "http://rsj.shiyan.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "十堰市市直事业单位2025年统一公开招聘工作人员公告",
+          "date": "2025-02-14",
+          "headcount": null,
+          "positions": null,
+          "source": "十堰市人力资源和社会保障局",
+          "url": "http://rsj.shiyan.gov.cn/srlzyhshbzj/zc/qtzdgkwj/gzdt/202502/t20250214_4698109.shtml",
+          "attachments": [
+            {
+              "name": "十堰市市直事业单位2025年统一公开招聘岗位表.xls",
+              "url": "http://rsj.shiyan.gov.cn/srlzyhshbzj/zc/qtzdgkwj/gzdt/202502/t20250214_4698109.shtml",
+              "local": "attachments/420300/2025年十堰市市直事业单位统一公开招聘岗位表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "十堰市2025年度考试录用公务员拟录用人员公示（第一批）",
+          "date": "2025-05-26",
+          "headcount": null,
+          "positions": null,
+          "source": "十堰市委组织部（武当党建网）",
+          "url": "http://www.sywddj.gov.cn/tzgg/202505/t20250526_4744147.shtml"
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "title": "十堰市2025年选调生招录公告",
+          "date": "2024-12-26",
+          "headcount": 82,
+          "positions": null,
+          "source": "十堰市委组织部",
+          "url": "http://rsj.shiyan.gov.cn/srlzyhshbzj/zc/qtzdgkwj/gzdt/202412/t20241226_4666528.shtml",
+          "subCategory": "普通选调"
+        }
+      ]
+    },
+    {
+      "adcode": 420500,
+      "name": "宜昌市",
+      "districts": [
+        "西陵区",
+        "伍家岗区",
+        "点军区",
+        "猇亭区",
+        "夷陵区",
+        "远安县",
+        "兴山县",
+        "秭归县",
+        "长阳土家族自治县",
+        "五峰土家族自治县",
+        "宜都市",
+        "当阳市",
+        "枝江市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "三峡党建网",
+          "url": "http://www.sxdjw.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "宜昌市人力资源和社会保障局",
+          "url": "http://rsj.yichang.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "宜昌市事业单位2025年统一公开招聘工作人员公告",
+          "date": "2025-02-14",
+          "headcount": 154,
+          "positions": null,
+          "source": "宜昌市人力资源和社会保障局",
+          "url": "http://rsj.yichang.gov.cn/content-63350-982015-1.html",
+          "attachments": [
+            {
+              "name": "宜昌市事业单位2025年统一公开招聘岗位表.xlsx",
+              "url": "http://rsj.yichang.gov.cn/content-63350-982015-1.html",
+              "local": "attachments/420500/2025年宜昌市事业单位统一公开招聘岗位表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "宜昌市2025年度考试录用公务员拟录用人员公示（第二批）",
+          "date": "2025-06-20",
+          "headcount": null,
+          "positions": null,
+          "source": "宜昌市委组织部（三峡党建网）",
+          "url": "http://www.sxdjw.gov.cn/content-51546-985171-1.html"
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "宜昌市2025年度“招才兴业”事业单位人才引进招聘公告（三峡大学站）",
+          "date": "2025-03-20",
+          "headcount": 189,
+          "positions": null,
+          "source": "宜昌市人力资源和社会保障局",
+          "url": "http://rsj.yichang.gov.cn/content-63350-982173-1.html"
+        }
+      ]
+    },
+    {
+      "adcode": 420600,
+      "name": "襄阳市",
+      "districts": [
+        "襄城区",
+        "樊城区",
+        "襄州区",
+        "南漳县",
+        "谷城县",
+        "保康县",
+        "老河口市",
+        "枣阳市",
+        "宜城市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "襄阳党建网",
+          "url": "http://www.xydjw.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "襄阳市人力资源和社会保障局",
+          "url": "http://rsj.xiangyang.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "襄阳市市直事业单位2025年统一公开招聘工作人员公告",
+          "date": "2025-02-14",
+          "headcount": 182,
+          "positions": null,
+          "source": "襄阳市人力资源和社会保障局",
+          "url": "http://rsj.xiangyang.gov.cn/xwzx/zlzp/202502/t20250214_3761700.shtml"
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "襄阳市2025年度考试录用公务员拟录用人员公示",
+          "date": "2025-06-30",
+          "headcount": null,
+          "positions": null,
+          "source": "襄阳市委组织部（襄阳党建网）",
+          "url": "http://www.xydjw.gov.cn/gwygz/zl/202506/t20250630_3833544.shtml"
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "襄阳市2025年度考试录用公务员拟录用人员公示（第四批）",
+          "date": "2025-07-22",
+          "headcount": null,
+          "positions": null,
+          "source": "襄阳市人力资源和社会保障局",
+          "url": "http://rsj.xiangyang.gov.cn/xwzx/zlzp/202507/t20250722_3846218.shtml"
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "襄阳市2025年专项引进紧缺人才公告",
+          "date": "2025-06-14",
+          "headcount": 50,
+          "positions": null,
+          "source": "襄阳市党建和人才工作领导小组办公室（襄阳党建网）",
+          "url": "http://www.xydjw.gov.cn/djzx/gsgg/202506/t20250614_3826250.shtml"
+        }
+      ]
+    },
+    {
+      "adcode": 420700,
+      "name": "鄂州市",
+      "districts": [
+        "鄂城区",
+        "华容区",
+        "梁子湖区"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "鄂州市人力资源和社会保障局通知公告",
+          "url": "http://rsj.ezhou.gov.cn/tzgg/"
+        },
+        {
+          "category": "事业单位",
+          "name": "鄂州市人力资源和社会保障局人事招考专栏",
+          "url": "https://rsj.ezhou.gov.cn/xxgk/fdzdgknr/rsxx/rszk/list.html"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "鄂州市事业单位2025年统一公开招聘工作人员公告",
+          "date": "2025-02-14",
+          "headcount": 192,
+          "positions": null,
+          "source": "鄂州市人力资源和社会保障局",
+          "url": "https://jgswzx.ezhou.gov.cn/zfxxgk/fdzdgknr/qtzdgknr/rsxx/202502/t20250218_689509.html",
+          "attachments": [
+            {
+              "name": "鄂州市事业单位2025年统一公开招聘岗位表.xlsx",
+              "url": "https://jgswzx.ezhou.gov.cn/zfxxgk/fdzdgknr/qtzdgknr/rsxx/202502/t20250218_689509.html",
+              "local": "attachments/420700/2025年鄂州市事业单位统一公开招聘岗位表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "鄂州市2025年度考试录用公务员拟录用人员公示（第二批）",
+          "date": "2025-05-30",
+          "headcount": null,
+          "positions": null,
+          "source": "鄂州市人力资源和社会保障局",
+          "url": "http://rsj.ezhou.gov.cn/tzgg/202505/t20250530_706236.html"
+        }
+      ]
+    },
+    {
+      "adcode": 420800,
+      "name": "荆门市",
+      "districts": [
+        "东宝区",
+        "掇刀区",
+        "沙洋县",
+        "钟祥市",
+        "京山市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "荆门人事考试网",
+          "url": "http://www.jmrsks.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "荆门市人力资源和社会保障局",
+          "url": "http://rsj.jingmen.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "荆门市事业单位2025年统一公开招聘工作人员公告",
+          "date": "2025-02-14",
+          "headcount": 561,
+          "positions": null,
+          "source": "荆门市人力资源和社会保障局（荆门人事考试网）",
+          "url": "http://www.jmrsks.cn/?newsId=U000020250214362"
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "荆门市2025年度考试录用公务员拟录用人员公示（第一批）",
+          "date": "2025-05-23",
+          "headcount": 426,
+          "positions": null,
+          "source": "荆门市委组织部（荆门人事考试网）",
+          "url": "http://www.jmrsks.cn/?newsId=R000000020250523rZdDNprXxD"
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "荆门市2025年“招硕引博”公告",
+          "date": "2025-03-06",
+          "headcount": 1412,
+          "positions": null,
+          "source": "荆门市招硕引博工作领导小组办公室（荆门人事考试网）",
+          "url": "http://www.jmrsks.cn/?newsId=R0000000202503060Eh1YeEkGn"
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "荆门市2025年“招硕引博”拟聘用人员名单公示（一）",
+          "date": "2025-06-18",
+          "headcount": 350,
+          "positions": null,
+          "source": "荆门市招硕引博工作领导小组办公室",
+          "url": "http://www.jmrsks.cn/?newsId=R000000020250618b6qLLBkP7z"
+        }
+      ]
+    },
+    {
+      "adcode": 420900,
+      "name": "孝感市",
+      "districts": [
+        "孝南区",
+        "孝昌县",
+        "大悟县",
+        "云梦县",
+        "应城市",
+        "安陆市",
+        "汉川市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "孝感市人力资源和社会保障局",
+          "url": "http://rsj.xiaogan.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "孝感市人力资源和社会保障局公告栏",
+          "url": "http://rsj.xiaogan.gov.cn/zygg/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "孝感市事业单位2025年统一公开招聘工作人员公告",
+          "date": "2025-02-17",
+          "headcount": 883,
+          "positions": null,
+          "source": "孝感市人力资源和社会保障局",
+          "url": "http://rsj.xiaogan.gov.cn/zygg/1990115.jhtml"
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "孝感市2025年度考试录用公务员拟录用人员公示（第一批）",
+          "date": "2025-05-23",
+          "headcount": null,
+          "positions": null,
+          "source": "孝感市委组织部（孝感党建微信公众号）",
+          "url": "https://mp.weixin.qq.com/s/eMFi9eJSp3IxKBp9Ol0ozg"
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "孝感市事业单位2025年度人才引进春季校园招聘公告",
+          "date": "2025-03-03",
+          "headcount": 310,
+          "positions": null,
+          "source": "孝感市人力资源和社会保障局",
+          "url": "http://rsj.xiaogan.gov.cn/zygg/"
+        }
+      ]
+    },
+    {
+      "adcode": 421000,
+      "name": "荆州市",
+      "districts": [
+        "沙市区",
+        "荆州区",
+        "公安县",
+        "江陵县",
+        "监利市",
+        "石首市",
+        "洪湖市",
+        "松滋市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "荆州党建网",
+          "url": "http://www.jzdjw.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "荆州市人力资源和社会保障局",
+          "url": "http://jzrsj.zwgk.jingzhou.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "荆州市市直事业单位2025年统一公开招聘工作人员公告",
+          "date": "2025-02-14",
+          "headcount": null,
+          "positions": null,
+          "source": "荆州市人力资源和社会保障局",
+          "url": "http://jzrsj.zwgk.jingzhou.gov.cn/54282/102220253/t114220253024/569099.shtml"
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "荆州市2025年度考试录用公务员拟录用人员公示（第三批）",
+          "date": "2025-06-12",
+          "headcount": null,
+          "positions": null,
+          "source": "荆州市委组织部（荆州党建网）",
+          "url": "http://www.jzdjw.gov.cn/tzgg/gwyks/202506/t20250612_1016904.shtml"
+        }
+      ]
+    },
+    {
+      "adcode": 421100,
+      "name": "黄冈市",
+      "districts": [
+        "黄州区",
+        "团风县",
+        "红安县",
+        "罗田县",
+        "英山县",
+        "浠水县",
+        "蕲春县",
+        "黄梅县",
+        "麻城市",
+        "武穴市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "黄冈市人事考试院",
+          "url": "http://www.hgrsks.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "黄冈市人力资源和社会保障局",
+          "url": "http://rsj.hg.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "黄冈市市直事业单位2025年统一公开招聘工作人员公告",
+          "date": "2025-02-14",
+          "headcount": null,
+          "positions": null,
+          "source": "黄冈市人力资源和社会保障局",
+          "url": "http://rsj.hg.gov.cn/ztzl/sydwzpzl/gkzp/1268990.html"
+        },
+        {
+          "year": 2024,
+          "category": "事业单位",
+          "title": "黄冈市市直事业单位2024年统一公开招聘工作人员公告",
+          "date": "2024-02-05",
+          "headcount": null,
+          "positions": null,
+          "source": "黄冈市人力资源和社会保障局",
+          "url": "http://rsj.hg.gov.cn/content/article/1205215"
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "黄冈市2025年度考试录用公务员拟录用人员公示（第一批）",
+          "date": "2025-05-23",
+          "headcount": null,
+          "positions": null,
+          "source": "黄冈市委组织部（黄冈市人事考试院）",
+          "url": "http://www.hgrsks.gov.cn/gsgg/2025-05-23/973.html"
+        }
+      ]
+    },
+    {
+      "adcode": 421200,
+      "name": "咸宁市",
+      "districts": [
+        "咸安区",
+        "嘉鱼县",
+        "通城县",
+        "崇阳县",
+        "通山县",
+        "赤壁市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "咸宁组工网",
+          "url": "http://www.xnzg.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "咸宁市人力资源和社会保障局",
+          "url": "http://rsj.xianning.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "咸宁市市直事业单位2025年统一公开招聘工作人员公告",
+          "date": "2025-02-14",
+          "headcount": 86,
+          "positions": null,
+          "source": "咸宁市人力资源和社会保障局",
+          "url": "http://rsj.xianning.gov.cn/xxgk/fdzdgknr/zkly/202503/t20250303_3924497.shtml",
+          "attachments": [
+            {
+              "name": "咸宁市市直事业单位2025年统一公开招聘岗位表.xlsx",
+              "url": "http://rsj.xianning.gov.cn/xxgk/fdzdgknr/zkly/202503/t20250303_3924497.shtml",
+              "local": "attachments/421200/2025年咸宁市市直事业单位统一公开招聘岗位表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "咸宁市2025年度考试录用公务员拟录用人员公示（第三批）",
+          "date": "2025-07-17",
+          "headcount": null,
+          "positions": null,
+          "source": "咸宁市委组织部（咸宁组工网）",
+          "url": "http://www.xnzg.gov.cn/zgdt/tzgg/202507/t20250717_4027151.shtml"
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "咸宁市事业单位2025年统一公开招聘拟聘用人员公示（第一批）",
+          "date": "2025-07-07",
+          "headcount": 50,
+          "positions": null,
+          "source": "咸宁市人力资源和社会保障局",
+          "url": "http://rsj.xianning.gov.cn/xwzx/tzgg/202507/t20250707_4020117.shtml"
+        }
+      ]
+    },
+    {
+      "adcode": 421300,
+      "name": "随州市",
+      "districts": [
+        "曾都区",
+        "随县",
+        "广水市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "随州组织网",
+          "url": "https://www.szzzw.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "随州市人力资源和社会保障局",
+          "url": "http://rsj.suizhou.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "随州市事业单位2025年下半年统一公开招聘工作人员公告",
+          "date": "2025-10-14",
+          "headcount": 147,
+          "positions": null,
+          "source": "随州市人力资源和社会保障局",
+          "url": "http://www.suizhou.gov.cn/zwgk/xxgk/gwyzp_5793/sydwzl/202510/t20251014_1371557.shtml",
+          "attachments": [
+            {
+              "name": "随州市事业单位2025年统一公开招聘岗位表.xlsx",
+              "url": "http://www.suizhou.gov.cn/zwgk/xxgk/gwyzp_5793/sydwzl/202510/t20251014_1371557.shtml",
+              "local": "attachments/421300/2025年随州市事业单位统一公开招聘岗位表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "随州市2025年度考试录用公务员拟录用人员公示（第二批）",
+          "date": "2025-06-10",
+          "headcount": null,
+          "positions": null,
+          "source": "随州市委组织部（随州组织网）",
+          "url": "https://www.szzzw.gov.cn/show-130-13550-1.html"
+        }
+      ]
+    },
+    {
+      "adcode": 422800,
+      "name": "恩施土家族苗族自治州",
+      "districts": [
+        "恩施市",
+        "利川市",
+        "建始县",
+        "巴东县",
+        "宣恩县",
+        "咸丰县",
+        "来凤县",
+        "鹤峰县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "恩施州党建网",
+          "url": "http://www.eszwzzb.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "恩施州人力资源和社会保障局",
+          "url": "http://rsj.enshi.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "恩施州事业单位2025年统一公开招聘工作人员公告",
+          "date": "2025-02-14",
+          "headcount": 574,
+          "positions": null,
+          "source": "恩施州人力资源和社会保障局",
+          "url": "http://rsj.enshi.gov.cn/xxgk/fdzdgk/zkly/xsydwzkgg/202502/t20250214_1667745.shtml"
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "恩施州2025年度考试录用公务员拟录用人员公示（第一批）",
+          "date": "2025-05-27",
+          "headcount": null,
+          "positions": null,
+          "source": "恩施州委组织部（恩施州党建网）",
+          "url": "http://www.eszwzzb.gov.cn/gsgg/202505/t20250527_1703802.shtml"
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年恩施州事业单位专项公开招聘工作人员公告",
+          "date": "2025-03-17",
+          "headcount": 222,
+          "positions": null,
+          "source": "恩施州人力资源和社会保障局",
+          "url": "http://rsj.enshi.gov.cn/xxgk/fdzdgk/zkly/xsydwzkgg/202503/t20250317_1679428.shtml"
+        }
+      ]
+    },
+    {
+      "adcode": 429004,
+      "name": "仙桃市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "仙桃市人民政府公务员专栏",
+          "url": "https://www.xiantao.gov.cn/zfxxgk/xxgkml/rsxx/gwyzl/"
+        },
+        {
+          "category": "事业单位",
+          "name": "仙桃市人民政府事业单位招聘专栏",
+          "url": "https://www.xiantao.gov.cn/zfxxgk/xxgkml/rsxx/sydwzl/"
+        },
+        {
+          "category": "公务员",
+          "name": "仙桃党建网",
+          "url": "http://xtdjw.cnxiantao.com/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "仙桃市事业单位2025年统一公开招聘工作人员公告",
+          "date": "2025-02-14",
+          "headcount": 175,
+          "positions": null,
+          "source": "仙桃市人力资源和社会保障局",
+          "url": "https://www.xiantao.gov.cn/zfxxgk/xxgkml/rsxx/sydwzl/202502/t20250214_5541857.shtml",
+          "attachments": [
+            {
+              "name": "仙桃市事业单位2025年统一公开招聘岗位表.xlsx",
+              "url": "https://www.xiantao.gov.cn/zfxxgk/xxgkml/rsxx/sydwzl/202502/t20250214_5541857.shtml",
+              "local": "attachments/429004/2025年仙桃市事业单位统一公开招聘岗位表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "仙桃市2025年度考试录用公务员拟录用人员公示（第二批）",
+          "date": "2025-06-19",
+          "headcount": null,
+          "positions": null,
+          "source": "仙桃市委组织部",
+          "url": "http://www.xiantao.gov.cn/zfxxgk/xxgkml/rsxx/gwyzl/202506/t20250619_5699099.shtml"
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "仙桃市2025年引进研究生公告",
+          "date": "2025-08-05",
+          "headcount": 67,
+          "positions": null,
+          "source": "仙桃市委人才工作领导小组办公室",
+          "url": "https://www.xiantao.gov.cn/"
+        }
+      ]
+    },
+    {
+      "adcode": 429005,
+      "name": "潜江市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "潜江市人民政府公务员招考专栏",
+          "url": "https://www.hbqj.gov.cn/xxgk/xxgkml/szfxxgkml/zkly/gwyzk/"
+        },
+        {
+          "category": "事业单位",
+          "name": "潜江市人力资源和社会保障局",
+          "url": "https://www.hbqj.gov.cn/srlzyhshbzj/"
+        },
+        {
+          "category": "事业单位",
+          "name": "潜江人事考试网",
+          "url": "http://www.qjrsks.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "潜江市事业单位2025年统一公开招聘工作人员公告",
+          "date": "2025-02-14",
+          "headcount": 92,
+          "positions": null,
+          "source": "潜江市人力资源和社会保障局",
+          "url": "https://www.hbqj.gov.cn/xxgk/zc/qtwj/gsgg/202502/t20250214_5541614.html",
+          "attachments": [
+            {
+              "name": "潜江市事业单位2025年统一公开招聘岗位表.xls",
+              "url": "https://www.hbqj.gov.cn/xxgk/zc/qtwj/gsgg/202502/t20250214_5541614.html",
+              "local": "attachments/429005/2025年潜江市事业单位统一公开招聘岗位表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "潜江市2025年度考试录用公务员拟录用人员公示",
+          "date": "2025-05-23",
+          "headcount": null,
+          "positions": null,
+          "source": "潜江市委组织部",
+          "url": "https://www.hbqj.gov.cn/xxgk/zc/qtwj/gsgg/202505/t20250523_5661047.html"
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "潜江市事业单位2025年统一公开招聘拟聘用人员公示（三）",
+          "date": "2025-08-20",
+          "headcount": null,
+          "positions": null,
+          "source": "潜江市人力资源和社会保障局",
+          "url": "https://www.hbqj.gov.cn/xxgk/zc/qtwj/gsgg/202508/t20250820_5750923.html"
+        }
+      ]
+    },
+    {
+      "adcode": 429006,
+      "name": "天门市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "天门党建网",
+          "url": "http://www.hbtmdj.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "天门市人力资源和社会保障局招考录用专栏",
+          "url": "https://www.tianmen.gov.cn/zwgk/bmhxzxxgkml/bm/srlzyhshbzj/zfxxgk/fdzdgknr/zkly/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "天门市2025年度考试录用公务员拟录用人员公示",
+          "date": "2025-05-24",
+          "headcount": 153,
+          "positions": null,
+          "source": "天门市委组织部（天门党建网）",
+          "url": "http://www.hbtmdj.gov.cn/tongzhigonggao/8727/"
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "天门市事业单位2025年统一公开招聘工作人员拟聘人员公示公告",
+          "date": "2025-08-18",
+          "headcount": null,
+          "positions": null,
+          "source": "天门市人力资源和社会保障局",
+          "url": "http://www.tianmen.gov.cn/zwgk/bmhxzxxgkml/bm/srlzyhshbzj/zfxxgk/fdzdgknr/zkly/202508/t20250818_5748630.shtml",
+          "attachments": [
+            {
+              "name": "天门市事业单位2025年统一公开招聘拟聘人员名单.xlsx",
+              "url": "http://www.tianmen.gov.cn/zwgk/bmhxzxxgkml/bm/srlzyhshbzj/zfxxgk/fdzdgknr/zkly/202508/t20250818_5748630.shtml",
+              "local": "attachments/429006/2025年天门市事业单位统一公开招聘拟聘人员名单.xlsx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adcode": 429021,
+      "name": "神农架林区",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "神农架林区人民政府",
+          "url": "http://www.snj.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "神农架林区人力资源和社会保障局",
+          "url": "http://rsj.snj.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "神农架林区事业单位2025年统一公开招聘部分岗位保留公告",
+          "date": "2025-02-28",
+          "headcount": null,
+          "positions": null,
+          "source": "神农架林区人力资源和社会保障局",
+          "url": "http://rsj.snj.gov.cn/gsgg/202502/t20250228_5558276.shtml"
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "神农架林区2025年度考试录用公务员拟录用人员公示",
+          "date": "2025-05-19",
+          "headcount": null,
+          "positions": null,
+          "source": "神农架林区党委组织部",
+          "url": "http://www.snj.gov.cn/zwgk/zc/zfbwj/gsgg/202505/t20250519_5655188.html"
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "神农架林区事业单位2025年统一公开招聘拟聘用人员公示",
+          "date": "2025-08-01",
+          "headcount": 39,
+          "positions": null,
+          "source": "神农架林区人力资源和社会保障局",
+          "url": "http://rsj.snj.gov.cn/gsgg/202508/t20250801_5736335.shtml",
+          "attachments": [
+            {
+              "name": "神农架林区事业单位2025年统一公开招聘拟聘用人员名单.xlsx",
+              "url": "http://rsj.snj.gov.cn/gsgg/202508/t20250801_5736335.shtml",
+              "local": "attachments/429021/2025年神农架林区事业单位统一公开招聘拟聘用人员名单.xlsx"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "name": "武汉大学",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.whu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "华中科技大学",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.hust.edu.cn",
+      "hrUrl": "https://hr.hust.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武汉理工大学",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.whut.edu.cn",
+      "hrUrl": "https://rsc.whut.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中国地质大学（武汉）",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.cug.edu.cn",
+      "hrUrl": "https://rsc.cug.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "华中农业大学",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.hzau.edu.cn",
+      "hrUrl": "https://rsc.hzau.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "华中师范大学",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.ccnu.edu.cn",
+      "hrUrl": "https://rsc.ccnu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中南财经政法大学",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.zuel.edu.cn",
+      "hrUrl": "https://rsc.zuel.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中南民族大学",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.scuec.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北大学",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.hubu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武汉科技大学",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.wust.edu.cn",
+      "hrUrl": "https://rsc.wust.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北工业大学",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.hbut.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武汉工程大学",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.wit.edu.cn",
+      "hrUrl": "https://rsc.wit.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武汉纺织大学",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.wtu.edu.cn",
+      "hrUrl": "https://rsc.wtu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武汉轻工大学",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.whpu.edu.cn",
+      "hrUrl": "https://rsc.whpu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北中医药大学",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.hbtcm.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "江汉大学",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.jhun.edu.cn",
+      "hrUrl": "https://rsc.jhun.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北经济学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hbue.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北第二师范学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hue.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武汉体育学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.whsu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北美术学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hifa.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武汉音乐学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.whcm.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武汉商学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.wbu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北警官学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hbpa.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长江大学",
+      "city": "荆州市",
+      "cityAdcode": 421000,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.yangtzeu.edu.cn",
+      "hrUrl": "https://rsc.yangtzeu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "三峡大学",
+      "city": "宜昌市",
+      "cityAdcode": 420500,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.ctgu.edu.cn",
+      "hrUrl": "https://rsc.ctgu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北师范大学",
+      "city": "黄石市",
+      "cityAdcode": 420200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hbnu.edu.cn",
+      "hrUrl": "https://rsc.hbnu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北理工学院",
+      "city": "黄石市",
+      "cityAdcode": 420200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hbpu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北汽车工业学院",
+      "city": "十堰市",
+      "cityAdcode": 420300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.huat.edu.cn",
+      "hrUrl": "https://rsc.huat.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北医药学院",
+      "city": "十堰市",
+      "cityAdcode": 420300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hbmu.edu.cn",
+      "hrUrl": "https://rsc.hbmu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "汉江师范学院",
+      "city": "十堰市",
+      "cityAdcode": 420300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hjnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北文理学院",
+      "city": "襄阳市",
+      "cityAdcode": 420600,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hbuas.edu.cn",
+      "hrUrl": "https://rsc.hbuas.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北工程学院",
+      "city": "孝感市",
+      "cityAdcode": 420900,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hbeu.edu.cn",
+      "hrUrl": "https://rsc.hbeu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北科技学院",
+      "city": "咸宁市",
+      "cityAdcode": 421200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hbust.edu.cn",
+      "hrUrl": "https://rsc.hbust.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "黄冈师范学院",
+      "city": "黄冈市",
+      "cityAdcode": 421100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hgnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "荆楚理工学院",
+      "city": "荆门市",
+      "cityAdcode": 420800,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.jcut.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北民族大学",
+      "city": "恩施土家族苗族自治州",
+      "cityAdcode": 422800,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hbmzu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武昌首义学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.wsyu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "文华学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "http://www.hustwenhua.net",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武汉学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.whxy.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武汉生物工程学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.whsw.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武汉东湖学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.wdu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "汉口学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.hkxy.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武昌工学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.wuit.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武昌理工学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.wut.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武汉工商学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.wtbu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武汉传媒学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.whmc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武汉工程科技学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.wuhues.com",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武汉设计工程学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.wids.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武汉华夏理工学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "http://www.whhxit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武汉晴川学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.qcuwh.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武汉城市学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "http://www.wic.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武汉文理学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.whwl.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北商贸学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "http://www.hbc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北大学知行学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.hudazx.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武汉工程大学邮电与信息工程学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.witpt.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北工业大学工程技术学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "http://gcxy.hbut.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武汉纺织大学外经贸学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.whcibe.com",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北经济学院法商学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "http://www.hbfs.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "武汉体育学院体育科技学院",
+      "city": "武汉市",
+      "cityAdcode": 420100,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "http://kjxy.whsu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "三峡大学科技学院",
+      "city": "宜昌市",
+      "cityAdcode": 420500,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "http://kjxy.ctgu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长江大学文理学院",
+      "city": "荆州市",
+      "cityAdcode": 421000,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "http://wlxy.yangtzeu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "荆州学院",
+      "city": "荆州市",
+      "cityAdcode": 421000,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "http://www.jzxy.net.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北文理学院理工学院",
+      "city": "襄阳市",
+      "cityAdcode": 420600,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "http://www.hbasstu.net",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北汽车工业学院科技学院",
+      "city": "十堰市",
+      "cityAdcode": 420300,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "http://kjxy.huat.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北医药学院药护学院",
+      "city": "十堰市",
+      "cityAdcode": 420300,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "http://yhgj.hbmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北师范大学文理学院",
+      "city": "黄石市",
+      "cityAdcode": 420200,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://wlxy.hbnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "湖北恩施学院",
+      "city": "恩施土家族苗族自治州",
+      "cityAdcode": 422800,
+      "tags": [
+        "民办",
+        "普通本科"
+      ],
+      "website": "https://www.hbesxy.edu.cn",
+      "hrUrl": "https://rsc.hbesxy.edu.cn",
+      "talentPolicyUrl": null
+    }
+  ]
+}

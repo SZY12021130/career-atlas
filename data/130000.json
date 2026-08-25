@@ -1,0 +1,1513 @@
+{
+  "adcode": "130000",
+  "name": "河北省",
+  "updatedAt": "2026-08-25",
+  "province": "河北省",
+  "collectedAt": "2026-08-24",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "河北党建网（中共河北省委组织部主办，河北省公务员局公告发布平台，发布省考、选调生、遴选公告）",
+      "url": "http://www.hebdj.gov.cn"
+    },
+    {
+      "category": "公务员",
+      "name": "河北省人事考试网（公务员考试、选调生招录报名平台）",
+      "url": "https://www.hebpta.com.cn"
+    },
+    {
+      "category": "事业单位",
+      "name": "河北省人力资源和社会保障厅（河北人社网，发布省直事业单位招聘公告）",
+      "url": "https://rst.hebei.gov.cn"
+    },
+    {
+      "category": "事业单位",
+      "name": "河北省人事考试网（事业单位招聘考试栏目）",
+      "url": "https://www.hebpta.com.cn"
+    }
+  ],
+  "cities": [
+    {
+      "name": "石家庄市",
+      "adcode": "130100",
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "石家庄市人事考试中心网上报名服务平台",
+          "url": "https://sjz.appms.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "石家庄市人力资源和社会保障局",
+          "url": "http://rsj.sjz.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "id": "rec-130100-gwy-2025",
+          "category": "公务员",
+          "title": "河北省2025年度公务员录用省市县乡四级联考公告（石家庄市考区）",
+          "source": "河北省公务员局/河北省人事考试网",
+          "publishDate": "2025-02-06",
+          "headcount": 10104,
+          "url": "https://www.hebpta.com.cn/article?artId=12565&id=293",
+          "attachments": [],
+          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。"
+        },
+        {
+          "id": "rec-130100-gwy-2026",
+          "category": "公务员",
+          "title": "河北省2026年度公务员录用省市县乡四级联考公告（石家庄市考区）",
+          "source": "河北省公务员局/河北省人事考试网",
+          "publishDate": "2026-01-30",
+          "headcount": 8650,
+          "url": "https://www.hebpta.com.cn/article?artId=13104&id=293",
+          "attachments": [],
+          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。"
+        },
+        {
+          "id": "rec-130100-sydw-2025",
+          "category": "事业单位",
+          "title": "石家庄市2025年度事业单位公开招聘工作人员公告",
+          "source": "石家庄市人力资源和社会保障局",
+          "publishDate": "2025-03-25",
+          "headcount": 5621,
+          "url": "https://rsj.sjz.gov.cn/columns/fa354001-476c-4fb3-9469-f5f4e6321878/202503/25/9099d515-32ad-45c9-bbfa-17261de4083b.html",
+          "attachments": [],
+          "summary": "全市事业单位统一招聘5621名，2025年3月27日起报名。"
+        },
+        {
+          "id": "rec-130100-sydw-sz2025",
+          "category": "事业单位",
+          "title": "河北省省直事业单位2025年公开招聘（统一招聘）工作人员公告",
+          "source": "河北省人力资源和社会保障厅（河北人社网）",
+          "publishDate": "2025-02-28",
+          "headcount": 1363,
+          "url": "https://rst.hebei.gov.cn/",
+          "attachments": [],
+          "summary": "省直事业单位统一招聘1363名（单位主要在石家庄市），2025年3月3日至10日报名；公告经河北党建网、河北人社网、河北省人事考试网发布。"
+        },
+        {
+          "id": "rec-130100-xds-2025",
+          "category": "选调生",
+          "title": "河北省2025年度面向有关院校定向招录选调生公告（含石家庄市职位）",
+          "source": "中共河北省委组织部/河北省人事考试网",
+          "publishDate": "2025-01-06",
+          "headcount": 777,
+          "url": "https://www.hebpta.com.cn/article?artId=12547&id=293",
+          "attachments": [],
+          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。"
+        },
+        {
+          "id": "rec-130100-rc-2026",
+          "category": "人才引进",
+          "title": "石家庄市2026年度事业单位“英才入石”公开选聘公告",
+          "source": "石家庄市人力资源和社会保障局",
+          "publishDate": "2025-11-09",
+          "headcount": 512,
+          "url": "http://rsj.sjz.gov.cn/",
+          "attachments": [],
+          "summary": "面向博士及重点高校硕士以上毕业生选聘事业单位工作人员，岗位共512个，2025年11月12日至18日经石家庄市人事考试中心网上报名服务平台（sjz.appms.cn）报名。"
+        }
+      ]
+    },
+    {
+      "name": "唐山市",
+      "adcode": "130200",
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "唐山市人事考试网",
+          "url": "http://www.tsrsks.com.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "唐山市人力资源和社会保障局（事业单位人事管理栏目）",
+          "url": "https://rsj.tangshan.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "id": "rec-130200-gwy-2025",
+          "category": "公务员",
+          "title": "河北省2025年度公务员录用省市县乡四级联考公告（唐山市考区）",
+          "source": "河北省公务员局/河北省人事考试网",
+          "publishDate": "2025-02-06",
+          "headcount": 10104,
+          "url": "https://www.hebpta.com.cn/article?artId=12565&id=293",
+          "attachments": [],
+          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。"
+        },
+        {
+          "id": "rec-130200-gwy-2026",
+          "category": "公务员",
+          "title": "河北省2026年度公务员录用省市县乡四级联考公告（唐山市考区）",
+          "source": "河北省公务员局/河北省人事考试网",
+          "publishDate": "2026-01-30",
+          "headcount": 8650,
+          "url": "https://www.hebpta.com.cn/article?artId=13104&id=293",
+          "attachments": [],
+          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。"
+        },
+        {
+          "id": "rec-130200-sydw-2025a",
+          "category": "事业单位",
+          "title": "唐山市2025年市直事业单位公开招聘工作人员公告",
+          "source": "唐山市人力资源和社会保障局/唐山市人事考试网",
+          "publishDate": "2025-04-17",
+          "headcount": 277,
+          "url": "http://www.tsrsks.com.cn/web/wenjian/20250417152756.html",
+          "attachments": [],
+          "summary": "市直事业单位招聘277名（统一招聘273名、选聘4名），2025年4月21日至25日经唐山市人事考试中心网上报名服务平台（tangshan.appms.cn）报名。"
+        },
+        {
+          "id": "rec-130200-sydw-2025b",
+          "category": "事业单位",
+          "title": "唐山市2025年市直事业单位公开选调（第二批次）招聘公告",
+          "source": "唐山市人事考试网",
+          "publishDate": "2025-09-18",
+          "headcount": 46,
+          "url": "http://www.tsrsks.com.cn/Web/wenjian/20250918153656.html",
+          "attachments": [],
+          "summary": "市直事业单位第二批次招聘46名。"
+        },
+        {
+          "id": "rec-130200-xds-2025",
+          "category": "选调生",
+          "title": "河北省2025年度面向有关院校定向招录选调生公告（含唐山市职位）",
+          "source": "中共河北省委组织部/河北省人事考试网",
+          "publishDate": "2025-01-06",
+          "headcount": 777,
+          "url": "https://www.hebpta.com.cn/article?artId=12547&id=293",
+          "attachments": [],
+          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。"
+        }
+      ]
+    },
+    {
+      "name": "秦皇岛市",
+      "adcode": "130300",
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "秦皇岛市人事考试网（秦皇岛市人社局人事考试栏目）",
+          "url": "https://rsj.qhd.gov.cn/ksbm/"
+        },
+        {
+          "category": "事业单位",
+          "name": "秦皇岛市人力资源和社会保障局",
+          "url": "https://rsj.qhd.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "id": "rec-130300-gwy-2025",
+          "title": "河北省2025年度公务员录用省市县乡四级联考公告（秦皇岛市考区）",
+          "category": "公务员",
+          "source": "河北省公务员局/河北省人事考试网",
+          "publishDate": "2025-02-06",
+          "headcount": 10104,
+          "url": "https://www.hebpta.com.cn/article?artId=12565&id=293",
+          "attachments": [],
+          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。"
+        },
+        {
+          "id": "rec-130300-gwy-2026",
+          "category": "公务员",
+          "title": "河北省2026年度公务员录用省市县乡四级联考公告（秦皇岛市考区）",
+          "source": "河北省公务员局/河北省人事考试网",
+          "publishDate": "2026-01-30",
+          "headcount": 8650,
+          "url": "https://www.hebpta.com.cn/article?artId=13104&id=293",
+          "attachments": [],
+          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。"
+        },
+        {
+          "id": "rec-130300-sydw-2025",
+          "category": "事业单位",
+          "title": "秦皇岛市2025年事业单位公开招聘工作人员公告",
+          "source": "秦皇岛市人力资源和社会保障局",
+          "publishDate": "2025-05-13",
+          "headcount": 641,
+          "url": "https://rsj.qhd.gov.cn/ksbm/web/wenjian/20250513094306.html",
+          "attachments": [],
+          "summary": "全市事业单位统一招聘641名。"
+        },
+        {
+          "id": "rec-130300-sydw-2026",
+          "category": "事业单位",
+          "title": "秦皇岛市2026年事业单位公开招聘（统一招聘）工作人员公告",
+          "source": "秦皇岛市人力资源和社会保障局/秦皇岛市政府信息公开平台",
+          "publishDate": "2026-02-05",
+          "headcount": 783,
+          "url": "http://www.qhd.gov.cn/article/293/142914.html",
+          "attachments": [],
+          "summary": "全市事业单位统一招聘783名，岗位信息表经秦皇岛市人社局官网及秦皇岛市人事考试网发布。"
+        },
+        {
+          "id": "rec-130300-sydw-2025gs",
+          "category": "录用公示",
+          "title": "秦皇岛市2025年事业单位公开招聘（综合类）拟聘用人员公示",
+          "source": "秦皇岛市人力资源和社会保障局",
+          "publishDate": "2025-11-20",
+          "headcount": null,
+          "url": "https://rsj.qhd.gov.cn/ksbm/Web/wenjian/20251120095258.html",
+          "attachments": [],
+          "summary": "2025年事业单位公开招聘综合类岗位拟聘用人员公示。"
+        },
+        {
+          "id": "rec-130300-xds-2025",
+          "category": "选调生",
+          "title": "河北省2025年度面向有关院校定向招录选调生公告（含秦皇岛市职位）",
+          "source": "中共河北省委组织部/河北省人事考试网",
+          "publishDate": "2025-01-06",
+          "headcount": 777,
+          "url": "https://www.hebpta.com.cn/article?artId=12547&id=293",
+          "attachments": [],
+          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。"
+        }
+      ]
+    },
+    {
+      "name": "邯郸市",
+      "adcode": "130400",
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "邯郸市人力资源和社会保障局（公告公示栏目，发布公务员遴选等信息）",
+          "url": "http://rsj.hd.gov.cn/zxzx/gggs/"
+        },
+        {
+          "category": "事业单位",
+          "name": "邯郸市人力资源和社会保障局",
+          "url": "http://rsj.hd.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "id": "rec-130400-gwy-2025",
+          "category": "公务员",
+          "title": "河北省2025年度公务员录用省市县乡四级联考公告（邯郸市考区）",
+          "source": "河北省公务员局/河北省人事考试网",
+          "publishDate": "2025-02-06",
+          "headcount": 10104,
+          "url": "https://www.hebpta.com.cn/article?artId=12565&id=293",
+          "attachments": [],
+          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。"
+        },
+        {
+          "id": "rec-130400-gwy-2026",
+          "title": "河北省2026年度公务员录用省市县乡四级联考公告（邯郸市考区）",
+          "category": "公务员",
+          "source": "河北省公务员局/河北省人事考试网",
+          "publishDate": "2026-01-30",
+          "headcount": 8650,
+          "url": "https://www.hebpta.com.cn/article?artId=13104&id=293",
+          "attachments": [],
+          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。"
+        },
+        {
+          "id": "rec-130400-sydw-2025",
+          "category": "事业单位",
+          "title": "邯郸市2025年下半年市直事业单位公开招聘工作人员公告",
+          "source": "邯郸市人力资源和社会保障局",
+          "publishDate": "2025-09-04",
+          "headcount": 228,
+          "url": "http://rsj.hd.gov.cn/zxzx/gggs/202509/t20250904_2155541.html",
+          "attachments": [],
+          "summary": "市直事业单位下半年统一招聘228名。"
+        },
+        {
+          "id": "rec-130400-sydw-2026",
+          "category": "事业单位",
+          "title": "邯郸市2026年下半年事业单位公开招聘工作人员公告",
+          "source": "邯郸市人力资源和社会保障局",
+          "publishDate": "2026-08-19",
+          "headcount": 288,
+          "url": "http://rsj.hd.gov.cn/zxzx/gggs/202608/t20260819_2214133.html",
+          "attachments": [],
+          "summary": "2026年下半年事业单位统一招聘288名。"
+        },
+        {
+          "id": "rec-130400-xds-2025",
+          "category": "选调生",
+          "title": "河北省2025年度面向有关院校定向招录选调生公告（含邯郸市职位）",
+          "source": "中共河北省委组织部/河北省人事考试网",
+          "publishDate": "2025-01-06",
+          "headcount": 777,
+          "url": "https://www.hebpta.com.cn/article?artId=12547&id=293",
+          "attachments": [],
+          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。"
+        }
+      ]
+    },
+    {
+      "name": "邢台市",
+      "adcode": "130500",
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "邢台市人力资源考试中心网上报名服务平台",
+          "url": "http://110.249.194.200:89"
+        },
+        {
+          "category": "事业单位",
+          "name": "邢台市人力资源和社会保障局",
+          "url": "https://rsj.xingtai.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "id": "rec-130500-gwy-2025",
+          "title": "河北省2025年度公务员录用省市县乡四级联考公告（邢台市考区）",
+          "category": "公务员",
+          "source": "河北省公务员局/河北省人事考试网",
+          "publishDate": "2025-02-06",
+          "headcount": 10104,
+          "url": "https://www.hebpta.com.cn/article?artId=12565&id=293",
+          "attachments": [],
+          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。"
+        },
+        {
+          "id": "rec-130500-gwy-2026",
+          "category": "公务员",
+          "title": "河北省2026年度公务员录用省市县乡四级联考公告（邢台市考区）",
+          "source": "河北省公务员局/河北省人事考试网",
+          "publishDate": "2026-01-30",
+          "headcount": 8650,
+          "url": "https://www.hebpta.com.cn/article?artId=13104&id=293",
+          "attachments": [],
+          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。"
+        },
+        {
+          "id": "rec-130500-sydw-2026",
+          "category": "事业单位",
+          "title": "邢台市2026年事业单位公开招聘（统一招聘）工作人员公告",
+          "source": "邢台市人力资源和社会保障局",
+          "publishDate": "2026-02-05",
+          "headcount": 835,
+          "url": "https://rsj.xingtai.gov.cn/new.html?id=2018988855761469442",
+          "attachments": [],
+          "summary": "全市事业单位统一招聘835名，2026年2月9日至13日报名。"
+        },
+        {
+          "id": "rec-130500-sydw-2025",
+          "category": "事业单位",
+          "title": "邢台市2025年市直事业单位公开招聘工作人员公告",
+          "source": "中共邢台市委组织部、邢台市人力资源和社会保障局",
+          "publishDate": "2025-05-27",
+          "headcount": 114,
+          "url": "https://rsj.xingtai.gov.cn/",
+          "attachments": [],
+          "summary": "市直事业单位招聘114名（综合岗、教育岗）。"
+        },
+        {
+          "id": "rec-130500-xds-2025",
+          "category": "选调生",
+          "title": "河北省2025年度面向有关院校定向招录选调生公告（含邢台市职位）",
+          "source": "中共河北省委组织部/河北省人事考试网",
+          "publishDate": "2025-01-06",
+          "headcount": 777,
+          "url": "https://www.hebpta.com.cn/article?artId=12547&id=293",
+          "attachments": [],
+          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。"
+        }
+      ]
+    },
+    {
+      "name": "保定市",
+      "adcode": "130600",
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "保定市人力资源和社会保障局（发布公务员遴选等公告）",
+          "url": "https://rsj.baoding.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "保定市人力资源和社会保障局事业单位招聘专题",
+          "url": "https://rsj.baoding.gov.cn/sydwzp"
+        }
+      ],
+      "recruitments": [
+        {
+          "id": "rec-130600-gwy-2025",
+          "category": "公务员",
+          "title": "河北省2025年度公务员录用省市县乡四级联考公告（保定市考区）",
+          "source": "河北省公务员局/河北省人事考试网",
+          "publishDate": "2025-02-06",
+          "headcount": 10104,
+          "url": "https://www.hebpta.com.cn/article?artId=12565&id=293",
+          "attachments": [],
+          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。"
+        },
+        {
+          "id": "rec-130600-gwy-2026",
+          "category": "公务员",
+          "title": "河北省2026年度公务员录用省市县乡四级联考公告（保定市考区）",
+          "source": "河北省公务员局/河北省人事考试网",
+          "publishDate": "2026-01-30",
+          "headcount": 8650,
+          "url": "https://www.hebpta.com.cn/article?artId=13104&id=293",
+          "attachments": [],
+          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。"
+        },
+        {
+          "id": "rec-130600-sydw-2025",
+          "category": "事业单位",
+          "title": "保定市2025年度事业单位公开招聘工作人员公告",
+          "source": "保定市人力资源和社会保障局",
+          "publishDate": "2025-02-28",
+          "headcount": 2011,
+          "url": "https://rsj.baoding.gov.cn/bdjy/wap/index.php?c=gongzhao&a=show&id=34",
+          "attachments": [],
+          "summary": "全市事业单位统一招聘2011名，2025年3月3日至10日报名。"
+        },
+        {
+          "id": "rec-130600-sydw-xd2025",
+          "category": "事业单位",
+          "title": "保定市2025年度市直事业单位公开选调工作人员公告",
+          "source": "保定市人力资源和社会保障局",
+          "publishDate": "2025-08-18",
+          "headcount": 58,
+          "url": "https://rsj.baoding.gov.cn/ecdomain/ecplatform/fileHandle.do?action=read&fileID=20250818145146802",
+          "attachments": [],
+          "summary": "市直事业单位公开选调工作人员58名。"
+        },
+        {
+          "id": "rec-130600-xds-2025",
+          "category": "选调生",
+          "title": "河北省2025年度面向有关院校定向招录选调生公告（含保定市职位）",
+          "source": "中共河北省委组织部/河北省人事考试网",
+          "publishDate": "2025-01-06",
+          "headcount": 777,
+          "url": "https://www.hebpta.com.cn/article?artId=12547&id=293",
+          "attachments": [],
+          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。"
+        }
+      ]
+    },
+    {
+      "name": "张家口市",
+      "adcode": "130700",
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "张家口市人力资源和社会保障局（信息公开栏目，发布公务员遴选等信息）",
+          "url": "https://rsj.zjk.gov.cn/xxgk/"
+        },
+        {
+          "category": "事业单位",
+          "name": "张家口市人力资源和社会保障局",
+          "url": "https://rsj.zjk.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "id": "rec-130700-gwy-2025",
+          "title": "河北省2025年度公务员录用省市县乡四级联考公告（张家口市考区）",
+          "category": "公务员",
+          "source": "河北省公务员局/河北省人事考试网",
+          "publishDate": "2025-02-06",
+          "headcount": 10104,
+          "url": "https://www.hebpta.com.cn/article?artId=12565&id=293",
+          "attachments": [],
+          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。"
+        },
+        {
+          "id": "rec-130700-gwy-2026",
+          "category": "公务员",
+          "title": "河北省2026年度公务员录用省市县乡四级联考公告（张家口市考区）",
+          "source": "河北省公务员局/河北省人事考试网",
+          "publishDate": "2026-01-30",
+          "headcount": 8650,
+          "url": "https://www.hebpta.com.cn/article?artId=13104&id=293",
+          "attachments": [],
+          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。"
+        },
+        {
+          "id": "rec-130700-sydw-2025a",
+          "category": "事业单位",
+          "title": "张家口市2025年事业单位公开招聘工作人员公告",
+          "source": "张家口市人力资源和社会保障局",
+          "publishDate": "2025-04-09",
+          "headcount": 541,
+          "url": "https://rsj.zjk.gov.cn/xxgk/content.thtml?contentId=237512",
+          "attachments": [],
+          "summary": "全市事业单位招聘（第一批）541名。"
+        },
+        {
+          "id": "rec-130700-sydw-2025b",
+          "category": "事业单位",
+          "title": "张家口市2025年第二批事业单位公开招聘工作人员公告",
+          "source": "张家口市人力资源和社会保障局",
+          "publishDate": "2025-07-04",
+          "headcount": 724,
+          "url": "https://rsj.zjk.gov.cn/xxgk/content.thtml?contentId=240511",
+          "attachments": [],
+          "summary": "第二批事业单位招聘724名（含教师岗194名），2025年7月11日至16日报名。"
+        },
+        {
+          "id": "rec-130700-xds-2025",
+          "category": "选调生",
+          "title": "河北省2025年度面向有关院校定向招录选调生公告（含张家口市职位）",
+          "source": "中共河北省委组织部/河北省人事考试网",
+          "publishDate": "2025-01-06",
+          "headcount": 777,
+          "url": "https://www.hebpta.com.cn/article?artId=12547&id=293",
+          "attachments": [],
+          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。"
+        }
+      ]
+    },
+    {
+      "name": "承德市",
+      "adcode": "130800",
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "承德市人事考试网",
+          "url": "http://www.cdrsksw.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "承德市人力资源和社会保障局",
+          "url": "https://rsj.chengde.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "id": "rec-130800-gwy-2025",
+          "category": "公务员",
+          "title": "河北省2025年度公务员录用省市县乡四级联考公告（承德市考区）",
+          "source": "河北省公务员局/河北省人事考试网",
+          "publishDate": "2025-02-06",
+          "headcount": 10104,
+          "url": "https://www.hebpta.com.cn/article?artId=12565&id=293",
+          "attachments": [],
+          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。"
+        },
+        {
+          "id": "rec-130800-gwy-2026",
+          "title": "河北省2026年度公务员录用省市县乡四级联考公告（承德市考区）",
+          "category": "公务员",
+          "source": "河北省公务员局/河北省人事考试网",
+          "publishDate": "2026-01-30",
+          "headcount": 8650,
+          "url": "https://www.hebpta.com.cn/article?artId=13104&id=293",
+          "attachments": [],
+          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。"
+        },
+        {
+          "id": "rec-130800-sydw-2025a",
+          "category": "事业单位",
+          "title": "承德市2025年市直事业单位公开招聘工作人员公告（综合类）",
+          "source": "承德市人力资源和社会保障局",
+          "publishDate": "2025-08-27",
+          "headcount": null,
+          "url": "https://rsj.chengde.gov.cn/art/2025/8/27/art_1806_1080535.html",
+          "attachments": [],
+          "summary": "市直事业单位综合类岗位公开招聘。"
+        },
+        {
+          "id": "rec-130800-sydw-2025b",
+          "category": "事业单位",
+          "title": "承德市2025年市直医疗卫生单位公开招聘（选聘）工作人员公告",
+          "source": "承德市人力资源和社会保障局",
+          "publishDate": "2025-08-29",
+          "headcount": 150,
+          "url": "https://rsj.chengde.gov.cn/art/2025/8/29/art_1806_1080813.html",
+          "attachments": [],
+          "summary": "市直医疗卫生单位统一招聘85名、选聘65名，合计150名。"
+        },
+        {
+          "id": "rec-130800-xds-2025",
+          "category": "选调生",
+          "title": "河北省2025年度面向有关院校定向招录选调生公告（含承德市职位）",
+          "source": "中共河北省委组织部/河北省人事考试网",
+          "publishDate": "2025-01-06",
+          "headcount": 777,
+          "url": "https://www.hebpta.com.cn/article?artId=12547&id=293",
+          "attachments": [],
+          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。"
+        }
+      ]
+    },
+    {
+      "name": "沧州市",
+      "adcode": "130900",
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "沧州市人力资源和社会保障局（人事考试专栏，发布公务员遴选等信息）",
+          "url": "http://rs.cangzhou.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "沧州市人力资源和社会保障局",
+          "url": "http://rs.cangzhou.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "id": "rec-130900-gwy-2025",
+          "title": "河北省2025年度公务员录用省市县乡四级联考公告（沧州市考区）",
+          "category": "公务员",
+          "source": "河北省公务员局/河北省人事考试网",
+          "publishDate": "2025-02-06",
+          "headcount": 10104,
+          "url": "https://www.hebpta.com.cn/article?artId=12565&id=293",
+          "attachments": [],
+          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。"
+        },
+        {
+          "id": "rec-130900-gwy-2026",
+          "category": "公务员",
+          "title": "河北省2026年度公务员录用省市县乡四级联考公告（沧州市考区）",
+          "source": "河北省公务员局/河北省人事考试网",
+          "publishDate": "2026-01-30",
+          "headcount": 8650,
+          "url": "https://www.hebpta.com.cn/article?artId=13104&id=293",
+          "attachments": [],
+          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。"
+        },
+        {
+          "id": "rec-130900-sydw-2026",
+          "category": "事业单位",
+          "title": "河北省沧州市2026年事业单位公开招聘（统一招聘）工作人员公告",
+          "source": "沧州市人力资源和社会保障局",
+          "publishDate": "2026-02-05",
+          "headcount": 1427,
+          "url": "http://rs.cangzhou.gov.cn/",
+          "attachments": [],
+          "summary": "全市事业单位统一招聘1427名（含教师岗693名），2026年2月9日至13日报名，3月28日至29日笔试。"
+        },
+        {
+          "id": "rec-130900-sydw-2025",
+          "category": "事业单位",
+          "title": "沧州市2025年市直事业单位公开招聘（统一招聘）工作人员公告",
+          "source": "沧州市人力资源和社会保障局",
+          "publishDate": "2025-05-23",
+          "headcount": 133,
+          "url": "http://rs.cangzhou.gov.cn/",
+          "attachments": [],
+          "summary": "市直事业单位统一招聘133名，2025年5月26日至30日报名。"
+        },
+        {
+          "id": "rec-130900-xds-2025",
+          "category": "选调生",
+          "title": "河北省2025年度面向有关院校定向招录选调生公告（含沧州市职位）",
+          "source": "中共河北省委组织部/河北省人事考试网",
+          "publishDate": "2025-01-06",
+          "headcount": 777,
+          "url": "https://www.hebpta.com.cn/article?artId=12547&id=293",
+          "attachments": [],
+          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。"
+        }
+      ]
+    },
+    {
+      "name": "廊坊市",
+      "adcode": "131000",
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "廊坊市人力资源和社会保障局（发布公务员遴选、事业单位招聘公告）",
+          "url": "https://rsj.lf.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "廊坊市人力资源和社会保障局事业单位招聘报名系统",
+          "url": "https://rsj.lf.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "id": "rec-131000-gwy-2025",
+          "title": "河北省2025年度公务员录用省市县乡四级联考公告（廊坊市考区）",
+          "category": "公务员",
+          "source": "河北省公务员局/河北省人事考试网",
+          "publishDate": "2025-02-06",
+          "headcount": 10104,
+          "url": "https://www.hebpta.com.cn/article?artId=12565&id=293",
+          "attachments": [],
+          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。"
+        },
+        {
+          "id": "rec-131000-gwy-2026",
+          "category": "公务员",
+          "title": "河北省2026年度公务员录用省市县乡四级联考公告（廊坊市考区）",
+          "source": "河北省公务员局/河北省人事考试网",
+          "publishDate": "2026-01-30",
+          "headcount": 8650,
+          "url": "https://www.hebpta.com.cn/article?artId=13104&id=293",
+          "attachments": [],
+          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。"
+        },
+        {
+          "id": "rec-131000-sydw-2026",
+          "category": "事业单位",
+          "title": "廊坊市2026年事业单位公开招聘（统一招聘）工作人员公告",
+          "source": "廊坊市人力资源和社会保障局",
+          "publishDate": "2026-02-05",
+          "headcount": 852,
+          "url": "https://rsj.lf.gov.cn/",
+          "attachments": [],
+          "summary": "全市事业单位统一招聘852名（含教师岗484名），2026年2月9日至13日报名。"
+        },
+        {
+          "id": "rec-131000-sydw-2025",
+          "category": "事业单位",
+          "title": "廊坊市2025年市直事业单位公开招聘工作人员公告",
+          "source": "廊坊市人力资源和社会保障局",
+          "publishDate": "2025-07-01",
+          "headcount": 197,
+          "url": "https://rsj.lf.gov.cn/ecdomain/fileHandle.do?action=read&objectID=20250701181925716&infoChecked=null",
+          "attachments": [],
+          "summary": "市直事业单位招聘197名。"
+        },
+        {
+          "id": "rec-131000-rc-2025",
+          "category": "人才引进",
+          "title": "廊坊市2025年度“硕博计划”重点岗位博士研究生选聘公告",
+          "source": "中共廊坊市委组织部/廊坊市人力资源和社会保障局",
+          "publishDate": "2025-07-09",
+          "headcount": 5,
+          "url": "https://rsj.lf.gov.cn/ecdomain/fileHandle.do?action=read&objectID=20250714173825440&infoChecked=null",
+          "attachments": [],
+          "summary": "“硕博计划”面向社会选聘博士研究生5名到重点岗位。"
+        },
+        {
+          "id": "rec-131000-xds-2025",
+          "category": "选调生",
+          "title": "河北省2025年度面向有关院校定向招录选调生公告（含廊坊市职位）",
+          "source": "中共河北省委组织部/河北省人事考试网",
+          "publishDate": "2025-01-06",
+          "headcount": 777,
+          "url": "https://www.hebpta.com.cn/article?artId=12547&id=293",
+          "attachments": [],
+          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。"
+        }
+      ]
+    },
+    {
+      "name": "衡水市",
+      "adcode": "131100",
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "衡水市人力资源和社会保障局（通知公告栏目）",
+          "url": "http://rsj.hengshui.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "衡水市人力资源和社会保障局",
+          "url": "http://rsj.hengshui.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "id": "rec-131100-gwy-2025",
+          "category": "公务员",
+          "title": "河北省2025年度公务员录用省市县乡四级联考公告（衡水市考区）",
+          "source": "河北省公务员局/河北省人事考试网",
+          "publishDate": "2025-02-06",
+          "headcount": 10104,
+          "url": "https://www.hebpta.com.cn/article?artId=12565&id=293",
+          "attachments": [],
+          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。"
+        },
+        {
+          "id": "rec-131100-gwy-2026",
+          "title": "河北省2026年度公务员录用省市县乡四级联考公告（衡水市考区）",
+          "category": "公务员",
+          "source": "河北省公务员局/河北省人事考试网",
+          "publishDate": "2026-01-30",
+          "headcount": 8650,
+          "url": "https://www.hebpta.com.cn/article?artId=13104&id=293",
+          "attachments": [],
+          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。"
+        },
+        {
+          "id": "rec-131100-sydw-2025",
+          "category": "事业单位",
+          "title": "2025年衡水市事业单位公开招聘工作人员公告",
+          "source": "中共衡水市委组织部、衡水市人力资源和社会保障局",
+          "publishDate": "2025-07-07",
+          "headcount": 1501,
+          "url": "http://rsj.hengshui.gov.cn/art/2025/7/7/art_2385_591773.html",
+          "attachments": [],
+          "summary": "全市统一招聘事业单位工作人员1501名，分两批报名（7月9日至15日、7月17日至23日）。"
+        },
+        {
+          "id": "rec-131100-sydw-2026",
+          "category": "事业单位",
+          "title": "衡水市2026年事业单位公开招聘（统一招聘）工作人员公告",
+          "source": "中共衡水市委组织部、衡水市人力资源和社会保障局",
+          "publishDate": "2026-02-05",
+          "headcount": 1131,
+          "url": "http://rsj.hengshui.gov.cn/art/2026/2/5/art_2385_615547.html",
+          "attachments": [],
+          "summary": "全市事业单位统一招聘1131名，报名入口经河北省人事考试网（hebpta.com.cn）。"
+        },
+        {
+          "id": "rec-131100-xds-2025",
+          "category": "选调生",
+          "title": "河北省2025年度面向有关院校定向招录选调生公告（含衡水市职位）",
+          "source": "中共河北省委组织部/河北省人事考试网",
+          "publishDate": "2025-01-06",
+          "headcount": 777,
+          "url": "https://www.hebpta.com.cn/article?artId=12547&id=293",
+          "attachments": [],
+          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。"
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "name": "河北工业大学",
+      "city": "天津市",
+      "cityAdcode": "120000",
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.hebut.edu.cn",
+      "hrUrl": "https://rsc.hebut.edu.cn"
+    },
+    {
+      "name": "河北医科大学",
+      "city": "石家庄市",
+      "cityAdcode": "130100",
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.hebmu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北科技大学",
+      "city": "石家庄市",
+      "cityAdcode": "130100",
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.hebust.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北师范大学",
+      "city": "石家庄市",
+      "cityAdcode": "130100",
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.hebtu.edu.cn",
+      "hrUrl": "https://rsc.hebtu.edu.cn"
+    },
+    {
+      "name": "石家庄铁道大学",
+      "city": "石家庄市",
+      "cityAdcode": "130100",
+      "tags": [
+        "省属重点"
+      ],
+      "website": "http://www.stdu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北中医药大学",
+      "city": "石家庄市",
+      "cityAdcode": "130100",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.hebcm.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北地质大学",
+      "city": "石家庄市",
+      "cityAdcode": "130100",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hgu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北经贸大学",
+      "city": "石家庄市",
+      "cityAdcode": "130100",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.heuet.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北体育学院",
+      "city": "石家庄市",
+      "cityAdcode": "130100",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.hepec.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "石家庄学院",
+      "city": "石家庄市",
+      "cityAdcode": "130100",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.sjzc.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北工业职业技术大学",
+      "city": "石家庄市",
+      "cityAdcode": "130100",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hbcit.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北传媒学院",
+      "city": "石家庄市",
+      "cityAdcode": "130100",
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.hebic.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北工程技术学院",
+      "city": "石家庄市",
+      "cityAdcode": "130100",
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.hbfsh.com",
+      "hrUrl": null
+    },
+    {
+      "name": "河北美术学院",
+      "city": "石家庄市",
+      "cityAdcode": "130100",
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.hbafa.com",
+      "hrUrl": null
+    },
+    {
+      "name": "河北外国语学院",
+      "city": "石家庄市",
+      "cityAdcode": "130100",
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.hbwy.com.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北师范大学汇华学院",
+      "city": "石家庄市",
+      "cityAdcode": "130100",
+      "tags": [
+        "民办"
+      ],
+      "website": "http://huihua.hebtu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北医科大学临床学院",
+      "city": "石家庄市",
+      "cityAdcode": "130100",
+      "tags": [
+        "民办"
+      ],
+      "website": "http://lcxy.hebmu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "石家庄铁道大学四方学院",
+      "city": "石家庄市",
+      "cityAdcode": "130100",
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.stdusfc.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北地质大学华信学院",
+      "city": "石家庄市",
+      "cityAdcode": "130100",
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.sjzuehx.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北经贸大学经济管理学院",
+      "city": "石家庄市",
+      "cityAdcode": "130100",
+      "tags": [
+        "民办"
+      ],
+      "website": "http://jgxy.heuet.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "华北理工大学",
+      "city": "唐山市",
+      "cityAdcode": "130200",
+      "tags": [
+        "省属重点"
+      ],
+      "website": "http://www.ncst.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "唐山师范学院",
+      "city": "唐山市",
+      "cityAdcode": "130200",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.tstc.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "唐山学院",
+      "city": "唐山市",
+      "cityAdcode": "130200",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.tsc.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "唐山工业职业技术大学",
+      "city": "唐山市",
+      "cityAdcode": "130200",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.tsgzy.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "华北理工大学轻工学院",
+      "city": "唐山市",
+      "cityAdcode": "130200",
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.qgxy.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "华北理工大学冀唐学院",
+      "city": "唐山市",
+      "cityAdcode": "130200",
+      "tags": [
+        "民办"
+      ],
+      "website": "http://jtxy.ncst.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "燕山大学",
+      "city": "秦皇岛市",
+      "cityAdcode": "130300",
+      "tags": [
+        "省属重点"
+      ],
+      "website": "http://www.ysu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "东北大学秦皇岛分校",
+      "city": "秦皇岛市",
+      "cityAdcode": "130300",
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.neuq.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北科技师范学院",
+      "city": "秦皇岛市",
+      "cityAdcode": "130300",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.hevttc.edu.cn",
+      "hrUrl": "https://rsc.hevttc.edu.cn"
+    },
+    {
+      "name": "河北环境工程学院",
+      "city": "秦皇岛市",
+      "cityAdcode": "130300",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hebuee.edu.cn",
+      "hrUrl": "https://rsc.hebuee.edu.cn"
+    },
+    {
+      "name": "燕山大学里仁学院",
+      "city": "秦皇岛市",
+      "cityAdcode": "130300",
+      "tags": [
+        "民办"
+      ],
+      "website": "http://stc.ysu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北工程大学",
+      "city": "邯郸市",
+      "cityAdcode": "130400",
+      "tags": [
+        "省属重点"
+      ],
+      "website": "http://www.hebeu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "邯郸学院",
+      "city": "邯郸市",
+      "cityAdcode": "130400",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.hdc.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北工程大学科信学院",
+      "city": "邯郸市",
+      "cityAdcode": "130400",
+      "tags": [
+        "民办"
+      ],
+      "website": "http://kexin.hebeu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "邢台学院",
+      "city": "邢台市",
+      "cityAdcode": "130500",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.xttc.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "邢台医学院",
+      "city": "邢台市",
+      "cityAdcode": "130500",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xtmc.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北科技工程职业技术大学",
+      "city": "邢台市",
+      "cityAdcode": "130500",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hevute.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北大学",
+      "city": "保定市",
+      "cityAdcode": "130600",
+      "tags": [
+        "省属重点"
+      ],
+      "website": "http://www.hbu.edu.cn",
+      "hrUrl": "https://rsc.hbu.edu.cn"
+    },
+    {
+      "name": "河北农业大学",
+      "city": "保定市",
+      "cityAdcode": "130600",
+      "tags": [
+        "省属重点"
+      ],
+      "website": "http://www.hebau.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "华北电力大学（保定校区）",
+      "city": "保定市",
+      "cityAdcode": "130600",
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.ncepu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北金融学院",
+      "city": "保定市",
+      "cityAdcode": "130600",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.hbcf.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "中央司法警官学院",
+      "city": "保定市",
+      "cityAdcode": "130600",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.cicp.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "保定学院",
+      "city": "保定市",
+      "cityAdcode": "130600",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.bdu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北科技学院",
+      "city": "保定市",
+      "cityAdcode": "130600",
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.hbkjxy.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "保定理工学院",
+      "city": "保定市",
+      "cityAdcode": "130600",
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.cuggw.com",
+      "hrUrl": null
+    },
+    {
+      "name": "河北大学工商学院",
+      "city": "保定市",
+      "cityAdcode": "130600",
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.hicc.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北农业大学现代科技学院",
+      "city": "保定市",
+      "cityAdcode": "130600",
+      "tags": [
+        "民办"
+      ],
+      "website": "http://xianke.hebau.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北建筑工程学院",
+      "city": "张家口市",
+      "cityAdcode": "130700",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.hebiace.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北北方学院",
+      "city": "张家口市",
+      "cityAdcode": "130700",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.hebeinu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "张家口学院",
+      "city": "张家口市",
+      "cityAdcode": "130700",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.zjku.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "承德医学院",
+      "city": "承德市",
+      "cityAdcode": "130800",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.cdmc.edu.cn",
+      "hrUrl": "https://rsc.cdmc.edu.cn"
+    },
+    {
+      "name": "河北民族师范学院",
+      "city": "承德市",
+      "cityAdcode": "130800",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.hbun.net",
+      "hrUrl": null
+    },
+    {
+      "name": "河北石油职业技术大学",
+      "city": "承德市",
+      "cityAdcode": "130800",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.cdpc.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "沧州师范学院",
+      "city": "沧州市",
+      "cityAdcode": "130900",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.caztc.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北水利电力学院",
+      "city": "沧州市",
+      "cityAdcode": "130900",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.hbwe.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "沧州交通学院",
+      "city": "沧州市",
+      "cityAdcode": "130900",
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.czjtu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "中国人民警察大学",
+      "city": "廊坊市",
+      "cityAdcode": "131000",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cppu.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "应急管理大学",
+      "city": "廊坊市",
+      "cityAdcode": "131000",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ncist.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "北华航天工业学院",
+      "city": "廊坊市",
+      "cityAdcode": "131000",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.nciae.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "廊坊师范学院",
+      "city": "廊坊市",
+      "cityAdcode": "131000",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.lfsfxy.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "燕京理工学院",
+      "city": "廊坊市",
+      "cityAdcode": "131000",
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.yit.edu.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "河北东方学院",
+      "city": "廊坊市",
+      "cityAdcode": "131000",
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.hbdfxy.cn",
+      "hrUrl": null
+    },
+    {
+      "name": "北京中医药大学东方学院",
+      "city": "廊坊市",
+      "cityAdcode": "131000",
+      "tags": [
+        "民办"
+      ],
+      "website": "http://www.df-college.com",
+      "hrUrl": null
+    },
+    {
+      "name": "衡水学院",
+      "city": "衡水市",
+      "cityAdcode": "131100",
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.hsnc.cn",
+      "hrUrl": null
+    }
+  ]
+}

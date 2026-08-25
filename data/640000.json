@@ -1,0 +1,235 @@
+{
+  "adcode": 640000,
+  "name": "宁夏回族自治区",
+  "updatedAt": "2026-08-25",
+  "note": "骨架数据：省级官方入口与代表性公告已人工核验；市级明细持续采集中",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "宁夏党建网（宁夏党委组织部）",
+      "url": "https://www.nxdjw.gov.cn"
+    },
+    {
+      "category": "公务员",
+      "name": "宁夏人事考试中心网",
+      "url": "https://www.nxpta.com"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 640100,
+      "name": "银川市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "宁夏党建网（宁夏党委组织部）",
+          "url": "https://www.nxdjw.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "宁夏人事考试中心网",
+          "url": "https://www.nxpta.com"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "宁夏回族自治区2026年考试录用公务员公告",
+          "date": "2026-01-29",
+          "headcount": null,
+          "positions": null,
+          "source": "宁夏党建网",
+          "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202601/t20260129_5081504.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "宁夏回族自治区2026年区直机关公开遴选公务员公告",
+          "date": "2026-03-13",
+          "headcount": null,
+          "positions": null,
+          "source": "宁夏党建网",
+          "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202603/t20260313_5084510.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "宁夏回族自治区2025年考试录用公务员公告",
+          "date": "2025-02-05",
+          "headcount": null,
+          "positions": null,
+          "source": "宁夏党建网",
+          "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202502/t20250205_5041863.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "宁夏回族自治区2025年区直机关公开遴选公务员公告",
+          "date": "2025-03-24",
+          "headcount": null,
+          "positions": null,
+          "source": "宁夏党建网",
+          "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202503/t20250324_5048263.html",
+          "attachments": []
+        },
+        {
+          "year": 2024,
+          "category": "公务员",
+          "title": "宁夏回族自治区2024年考试录用公务员公告",
+          "date": "2024-02-18",
+          "headcount": null,
+          "positions": null,
+          "source": "宁夏党建网",
+          "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202402/t20240218_4989736.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 640200,
+      "name": "石嘴山市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "宁夏党建网（宁夏党委组织部）",
+          "url": "https://www.nxdjw.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "宁夏人事考试中心网",
+          "url": "https://www.nxpta.com"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 640300,
+      "name": "吴忠市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "宁夏党建网（宁夏党委组织部）",
+          "url": "https://www.nxdjw.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "宁夏人事考试中心网",
+          "url": "https://www.nxpta.com"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 640400,
+      "name": "固原市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "宁夏党建网（宁夏党委组织部）",
+          "url": "https://www.nxdjw.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "宁夏人事考试中心网",
+          "url": "https://www.nxpta.com"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 640500,
+      "name": "中卫市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "宁夏党建网（宁夏党委组织部）",
+          "url": "https://www.nxdjw.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "宁夏人事考试中心网",
+          "url": "https://www.nxpta.com"
+        }
+      ],
+      "recruitments": []
+    }
+  ],
+  "universities": [
+    {
+      "name": "宁夏大学",
+      "city": "银川市",
+      "cityAdcode": 640100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.nxu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "宁夏医科大学",
+      "city": "银川市",
+      "cityAdcode": 640100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.nxmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "北方民族大学",
+      "city": "银川市",
+      "cityAdcode": 640100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.nwsni.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "宁夏师范大学",
+      "city": "固原市",
+      "cityAdcode": 640400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.nxnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "宁夏理工学院",
+      "city": "石嘴山市",
+      "cityAdcode": 640200,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.nxist.com",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "银川能源学院",
+      "city": "银川市",
+      "cityAdcode": 640100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.ycu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    }
+  ]
+}

@@ -1,0 +1,1225 @@
+{
+  "adcode": 520000,
+  "name": "贵州省",
+  "updatedAt": "2026-08-25",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "贵州党建云（贵州组工网，中共贵州省委组织部）",
+      "url": "https://www.gzzzb.gov.cn"
+    },
+    {
+      "category": "公务员",
+      "name": "贵州人事考试信息网（贵州省公务员考试报名平台）",
+      "url": "https://www.gzrsks.com.cn"
+    },
+    {
+      "category": "事业单位",
+      "name": "贵州省人力资源和社会保障厅（事业单位招聘栏目）",
+      "url": "https://rst.guizhou.gov.cn/zwgk/zdlyxx/sydwgkzp/"
+    },
+    {
+      "category": "选调",
+      "name": "中共贵州省委组织部选调生报名系统",
+      "url": "https://zpy.qgsydw.com"
+    },
+    {
+      "category": "人才引进",
+      "name": "贵州人才博览会官方网站",
+      "url": "https://rc.guizhou.gov.cn"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 520100,
+      "name": "贵阳市",
+      "districts": [
+        "南明区",
+        "云岩区",
+        "花溪区",
+        "乌当区",
+        "白云区",
+        "观山湖区",
+        "清镇市",
+        "开阳县",
+        "息烽县",
+        "修文县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "贵阳市党建网（筑红云，贵阳市委组织部）",
+          "url": "https://www.gysdj.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "贵阳市人力资源和社会保障局（信息公告栏目）",
+          "url": "https://rsj.guiyang.gov.cn/rzxzx/xxgg/"
+        },
+        {
+          "category": "录用公示",
+          "name": "贵阳市人力资源和社会保障局",
+          "url": "https://rsj.guiyang.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "贵州省2026年度省、市、县、乡四级机关统一面向社会公开招录公务员公告",
+          "date": "2026-01-16",
+          "headcount": 4833,
+          "positions": null,
+          "source": "贵州省公务员局（贵州党建云发布，铜仁市人民政府转载）",
+          "url": "https://www.trs.gov.cn/xwzx/tzgg/zkxx/202601/t20260117_89308197.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "贵州省2025年度省、市、县、乡四级机关统一面向社会公开招录公务员（人民警察）公告",
+          "date": "2025-01-16",
+          "headcount": 6719,
+          "positions": null,
+          "source": "贵州省公务员局（贵州党建云发布，正安县人民检察院转载）",
+          "url": "http://www.gzzhengan.jcy.gov.cn/tzgg/202501/t20250116_6801278.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "贵州省2025年度定向部分高校选调优秀毕业生公告",
+          "date": "2024-10-14",
+          "headcount": null,
+          "positions": null,
+          "source": "中共贵州省委组织部（贵州省人民政府“贵在公开”栏目）",
+          "url": "https://www.guizhou.gov.cn/ztzl/gzgk/202410/t20241014_85934531.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "贵州省2026年度定向部分省属高校选调优秀毕业生公告",
+          "date": "2025-10-13",
+          "headcount": null,
+          "positions": null,
+          "source": "中共贵州省委组织部（贵州大学转载）",
+          "url": "https://www.gzu.edu.cn/2025/1013/c635a259179/page.htm",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "贵阳贵安2025年卫生健康系统公开招聘事业单位工作人员简章",
+          "date": "2025-05-19",
+          "headcount": 69,
+          "positions": null,
+          "source": "贵阳市人力资源和社会保障局",
+          "url": "https://rsj.guiyang.gov.cn/rzxzx/xxgg/202505/t20250519_87895234.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "第十三届贵州人才博览会贵阳贵安事业单位引进高层次及急需紧缺人才公告",
+          "date": "2025-04-18",
+          "headcount": 770,
+          "positions": null,
+          "source": "贵阳市人力资源和社会保障局",
+          "url": "https://rsj.guiyang.gov.cn/rzxzx/xxgg/202504/t20250418_87543197.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "贵州省人力资源和社会保障厅2026年度四级联考拟录用人员公示",
+          "date": "2026-07-21",
+          "headcount": null,
+          "positions": null,
+          "source": "贵州省人力资源和社会保障厅",
+          "url": "https://rst.guizhou.gov.cn/xwzx/gggs/202607/t20260721_90647658.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "贵阳贵安2025年公开招聘事业单位工作人员公告",
+          "date": "2025-02-10",
+          "headcount": null,
+          "positions": null,
+          "source": "贵阳市人力资源和社会保障局（贵阳市人民政府转发）",
+          "url": "https://guiyang.gov.cn/zwgk/zdlyxxgk2024/shsyjzdms/jycy/rszk/202502/t20250211_86875160.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 520200,
+      "name": "六盘水市",
+      "districts": [
+        "钟山区",
+        "六枝特区",
+        "水城区",
+        "盘州市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "凉都先锋网（六盘水市委组织部）",
+          "url": "http://www.lpszzb.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "六盘水市人力资源和社会保障局",
+          "url": "http://hrss.gzlps.gov.cn"
+        },
+        {
+          "category": "录用公示",
+          "name": "六盘水市人民政府（招考招聘栏目）",
+          "url": "https://www.gzlps.gov.cn/ywdt/zkzp/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "六盘水市直事业单位2025年面向社会公开招聘工作人员公告",
+          "date": "2025-02-10",
+          "headcount": 118,
+          "positions": null,
+          "source": "六盘水市人力资源和社会保障局",
+          "url": "http://hrss.gzlps.gov.cn/tzgg_42003/202502/t20250210_86747694.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "六盘水市2025年面向优秀村（社区）干部专项招聘乡镇（街道）事业单位工作人员公告",
+          "date": "2025-11-04",
+          "headcount": 9,
+          "positions": null,
+          "source": "六盘水市人力资源和社会保障局",
+          "url": "http://hrss.gzlps.gov.cn/tzgg_42003/202511/t20251104_88914057.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "六盘水市参加第十三届贵州人才博览会2025年事业单位人才引进公告",
+          "date": "2025-04-15",
+          "headcount": null,
+          "positions": null,
+          "source": "六盘水市人民政府",
+          "url": "https://www.gzlps.gov.cn/ywdt/zkzp/202504/t20250415_87522278.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "贵州省2026年度四级联考（六盘水考区）拟录用人员公示（第二批）",
+          "date": "2026-06-24",
+          "headcount": null,
+          "positions": null,
+          "source": "六盘水市人民政府（凉都先锋网发布）",
+          "url": "https://www.gzlps.gov.cn/ywdt/zkzp/202606/t20260624_90550648.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 520300,
+      "name": "遵义市",
+      "districts": [
+        "红花岗区",
+        "汇川区",
+        "播州区",
+        "赤水市",
+        "仁怀市",
+        "桐梓县",
+        "绥阳县",
+        "正安县",
+        "道真仡佬族苗族自治县",
+        "务川仡佬族苗族自治县",
+        "凤冈县",
+        "湄潭县",
+        "余庆县",
+        "习水县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "遵义市共产党员之家（遵义市委组织部）",
+          "url": "http://www.zunyiyj.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "遵义市人力资源和社会保障局",
+          "url": "http://rsj.zunyi.gov.cn"
+        },
+        {
+          "category": "录用公示",
+          "name": "遵义市人力资源和社会保障局（通知公告栏目）",
+          "url": "http://rsj.zunyi.gov.cn/gzdt/tzgs/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "遵义市市直单位2025年公开招聘事业单位工作人员简章",
+          "date": "2025-02-11",
+          "headcount": 268,
+          "positions": null,
+          "source": "遵义市人力资源和社会保障局",
+          "url": "http://rsj.zunyi.gov.cn/gzdt/tzgs/202502/t20250211_86875158.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "遵义市2025年面向优秀村（社区）干部专项招聘乡镇（街道）事业单位工作人员公告",
+          "date": "2025-11-05",
+          "headcount": null,
+          "positions": null,
+          "source": "遵义市人力资源和社会保障局",
+          "url": "http://rsj.zunyi.gov.cn/gzdt/tzgs/202511/t20251105_88916012.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "第十三届贵州人才博览会遵义市事业单位2025年人才引进公告",
+          "date": "2025-04-09",
+          "headcount": 47,
+          "positions": null,
+          "source": "遵义市人力资源和社会保障局",
+          "url": "http://rsj.zunyi.gov.cn/gzdt/tzgs/202504/t20250409_87496841.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "贵州省2026年度四级联考（遵义考区）考察公告（第三批）",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "遵义市委组织部（遵义市共产党员之家）",
+          "url": "http://www.zunyiyj.gov.cn/pub/desc/19/32756",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "遵义师范学院2025年公开招聘工作人员方案",
+          "date": "2025-02-08",
+          "headcount": null,
+          "positions": null,
+          "source": "贵州省人力资源和社会保障厅",
+          "url": "https://rst.guizhou.gov.cn/zwgk/zdlyxx/sydwgkzp/202502/t20250208_86741893.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 520400,
+      "name": "安顺市",
+      "districts": [
+        "西秀区",
+        "平坝区",
+        "普定县",
+        "镇宁布依族苗族自治县",
+        "关岭布依族苗族自治县",
+        "紫云苗族布依族自治县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "安顺市人民政府（人事信息/招考招聘栏目）",
+          "url": "https://www.anshun.gov.cn/zfxxgk/fdzdgknr/rsxx/zkzp/"
+        },
+        {
+          "category": "事业单位",
+          "name": "安顺市人力资源和社会保障局",
+          "url": "https://rsj.anshun.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2025年安顺市面向社会公开招聘事业单位工作人员面试成绩及考试总成绩公告",
+          "date": "2025-06-16",
+          "headcount": null,
+          "positions": null,
+          "source": "安顺市人力资源和社会保障局",
+          "url": "https://rsj.anshun.gov.cn/newsite/xwzx/tzgg2/202506/t20250616_88147611.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "安顺市实验学校2026年公开招聘公费师范生公告",
+          "date": "2025-10-17",
+          "headcount": 17,
+          "positions": null,
+          "source": "安顺市人民政府（安顺市教育局）",
+          "url": "https://www.anshun.gov.cn/zfxxgk/fdzdgknr/rsxx/zkzp/202510/t20251017_88705518.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "2025年安顺市参加“第十三届贵州人才博览会”引才公告",
+          "date": "2025-04-21",
+          "headcount": 271,
+          "positions": null,
+          "source": "安顺市人民政府",
+          "url": "https://www.anshun.gov.cn/zfxxgk/fdzdgknr/rsxx/zkzp/202504/t20250421_87555332.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "贵州省2026年度四级联考（安顺考区）拟录用人员公示（第1批）",
+          "date": "2026-06-25",
+          "headcount": null,
+          "positions": null,
+          "source": "安顺市人民政府",
+          "url": "https://www.anshun.gov.cn/zfxxgk/fdzdgknr/rsxx/zkzp/202606/t20260625_90557595.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 520500,
+      "name": "毕节市",
+      "districts": [
+        "七星关区",
+        "黔西市",
+        "大方县",
+        "金沙县",
+        "织金县",
+        "纳雍县",
+        "威宁彝族回族苗族自治县",
+        "赫章县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "毕节市人民政府（公务员招录栏目）",
+          "url": "https://www.bijie.gov.cn/zwgk/rsxx/gwyzk20222/"
+        },
+        {
+          "category": "事业单位",
+          "name": "毕节市人力资源和社会保障局",
+          "url": "https://rsj.bijie.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "毕节市市直事业单位2025年面向社会公开招聘工作人员简章",
+          "date": "2025-02-10",
+          "headcount": 142,
+          "positions": null,
+          "source": "毕节市人力资源和社会保障局",
+          "url": "https://www.bijie.gov.cn/bm/bjsrsj/dt/gsgg/202502/t20250210_86874095.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "毕节市教育局关于毕节市市直事业单位2025年面向社会公开招聘工作人员面试公告",
+          "date": "2025-05-29",
+          "headcount": null,
+          "positions": null,
+          "source": "毕节市教育局",
+          "url": "https://www.bijie.gov.cn/xxfb/tzgg/rszp/202505/t20250529_87944082.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "毕节市2025年度第二批次“人才强市”引才计划简章",
+          "date": "2025-09-04",
+          "headcount": 466,
+          "positions": null,
+          "source": "毕节市人力资源和社会保障局",
+          "url": "https://www.bijie.gov.cn/zwfw/bmlqfw/jycy/jyzx/202509/t20250904_88563401.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "贵州省2026年度四级联考（毕节考区）拟录用人员公示（第一批）",
+          "date": "2026-06-12",
+          "headcount": null,
+          "positions": null,
+          "source": "毕节市公务员局",
+          "url": "https://www.bijie.gov.cn/zwgk/rsxx/gwyzk20222/202606/t20260612_90520791.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 520600,
+      "name": "铜仁市",
+      "districts": [
+        "碧江区",
+        "万山区",
+        "江口县",
+        "玉屏侗族自治县",
+        "石阡县",
+        "思南县",
+        "印江土家族苗族自治县",
+        "德江县",
+        "沿河土家族自治县",
+        "松桃苗族自治县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "铜仁智慧党建云（铜仁市委组织部）",
+          "url": "https://www.trzhdj.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "铜仁市人力资源和社会保障局",
+          "url": "https://rsj.trs.gov.cn"
+        },
+        {
+          "category": "录用公示",
+          "name": "铜仁市人民政府（招考信息栏目）",
+          "url": "https://www.trs.gov.cn/xwzx/tzgg/zkxx/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2025年铜仁市市直事业单位公开招聘工作人员简章",
+          "date": "2025-02-10",
+          "headcount": 78,
+          "positions": null,
+          "source": "铜仁市人力资源和社会保障局",
+          "url": "http://rsj.trs.gov.cn/zwgk/xxgkml/rsxx/sydwzp/202502/t20250210_86874737.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "铜仁市2025年大学生乡村医生专项计划公开招聘工作人员公告",
+          "date": "2025-09-18",
+          "headcount": 14,
+          "positions": null,
+          "source": "铜仁市卫生健康局",
+          "url": "https://www.trs.gov.cn/xwzx/tzgg/zkxx/202509/t20250918_88631298.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "贵州省2026年度四级联考（铜仁考区）考察公告（第三批）",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "铜仁市委组织部（铜仁智慧党建云）",
+          "url": "https://www.trzhdj.gov.cn/wz_showWzDetail.action?curWznr.id=58760",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "2025年铜仁市万山区事业单位公开引进高层次及急需紧缺人才公告",
+          "date": "2025-04-10",
+          "headcount": 12,
+          "positions": null,
+          "source": "中共铜仁市万山区委人才工作领导小组办公室",
+          "url": "http://www.trws.gov.cn/xwzx/tzgg/202504/t20250410_87502963.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "铜仁市2025年大学生乡村医生专项计划公开招聘拟聘用人员公示（第一批）",
+          "date": "2026-01-23",
+          "headcount": 9,
+          "positions": null,
+          "source": "铜仁市卫生健康局",
+          "url": "https://wjj.trs.gov.cn/tzgg/202601/t20260123_89329498.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 522300,
+      "name": "黔西南布依族苗族自治州",
+      "districts": [
+        "兴义市",
+        "兴仁市",
+        "普安县",
+        "晴隆县",
+        "贞丰县",
+        "望谟县",
+        "册亨县",
+        "安龙县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "黔西南州人民政府（公务员考录栏目）",
+          "url": "https://www.qxn.gov.cn/zwgk/rsxx/gwykl/"
+        },
+        {
+          "category": "事业单位",
+          "name": "黔西南州人民政府（事业单位考录栏目）",
+          "url": "http://www.qxn.gov.cn/zwgk/rsxx/sydwkl/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "黔西南州中医院2025年公开招聘事业单位工作人员简章",
+          "date": "2025-10-10",
+          "headcount": 35,
+          "positions": null,
+          "source": "黔西南州人民政府",
+          "url": "http://www.qxn.gov.cn/zwgk/rsxx/sydwkl/202510/t20251010_88684060.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "黔西南州妇幼保健院2025年公开招聘事业单位工作人员简章",
+          "date": "2025-10-10",
+          "headcount": null,
+          "positions": null,
+          "source": "黔西南州人民政府",
+          "url": "http://www.qxn.gov.cn/zwgk/rsxx/sydwkl/202510/t20251010_88684082.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "黔西南州2025年秋季事业单位高层次人才和急需紧缺人才引进公告",
+          "date": "2025-10-21",
+          "headcount": 292,
+          "positions": null,
+          "source": "黔西南州人力资源和社会保障局",
+          "url": "http://www.qxn.gov.cn/zwgk/zfjg/zrlzyshbzj/bmxxgkml_5135118/sydwkl_5135125/202510/t20251021_88715640.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "贵州省2026年度四级联考（黔西南州考区）拟录用人员公示（第1批）",
+          "date": "2026-06-17",
+          "headcount": null,
+          "positions": null,
+          "source": "黔西南州公务员局",
+          "url": "https://www.qxn.gov.cn/zwgk/rsxx/gwykl/202606/t20260617_90534913.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 522600,
+      "name": "黔东南苗族侗族自治州",
+      "districts": [
+        "凯里市",
+        "黄平县",
+        "施秉县",
+        "三穗县",
+        "镇远县",
+        "岑巩县",
+        "天柱县",
+        "锦屏县",
+        "剑河县",
+        "台江县",
+        "黎平县",
+        "榕江县",
+        "从江县",
+        "雷山县",
+        "麻江县",
+        "丹寨县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "黔东南州人民政府",
+          "url": "https://www.qdn.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "黔东南州人力资源和社会保障局",
+          "url": "http://rsj.qdn.gov.cn"
+        },
+        {
+          "category": "录用公示",
+          "name": "黔东南州人民政府（公示公告栏目）",
+          "url": "https://www.qdn.gov.cn/xwzx_5871605/tzgg_5871613/gstg_5871614/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "黔东南州事业单位2025年公开招聘工作人员实施方案",
+          "date": "2025-02-12",
+          "headcount": 1356,
+          "positions": null,
+          "source": "黔东南州人力资源和社会保障局（凯里市人民政府转载）",
+          "url": "https://www.kaili.gov.cn/xwzx/tzgg/202502/t20250212_86885550.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "黔东南州部分事业单位2025年下半年专项招聘工作人员实施方案",
+          "date": "2025-07-25",
+          "headcount": 66,
+          "positions": null,
+          "source": "黔东南州人力资源和社会保障局（从江县人民政府转载）",
+          "url": "https://www.congjiang.gov.cn/xwzx/tzgg/202507/t20250725_88334541.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "黔东南州2026年事业单位（企业）人才引进公告",
+          "date": "2025-09-19",
+          "headcount": 520,
+          "positions": null,
+          "source": "黔东南州人力资源和社会保障局",
+          "url": "https://rsj.qdn.gov.cn/zwgk/zfxxgk/fdzdgknr/gsgg/202509/t20250919_88634175.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "贵州省2026年度四级联考（黔东南考区）拟录用人员公示（第一批）",
+          "date": "2026-06-15",
+          "headcount": null,
+          "positions": null,
+          "source": "黔东南州公务员局",
+          "url": "https://www.qdn.gov.cn/xwzx_5871605/tzgg_5871613/gstg_5871614/202606/t20260615_90526385.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 522700,
+      "name": "黔南布依族苗族自治州",
+      "districts": [
+        "都匀市",
+        "福泉市",
+        "荔波县",
+        "贵定县",
+        "瓮安县",
+        "独山县",
+        "平塘县",
+        "罗甸县",
+        "长顺县",
+        "龙里县",
+        "惠水县",
+        "三都水族自治县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "黔南组织工作网（黔南州委组织部）",
+          "url": "https://qnzzgz.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "黔南州人力资源和社会保障局",
+          "url": "https://rsj.qiannan.gov.cn"
+        },
+        {
+          "category": "录用公示",
+          "name": "黔南州人力资源和社会保障局（公告公示栏目）",
+          "url": "https://rsj.qiannan.gov.cn/xwzx/gggs/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "黔南州2025年下半年统一面向社会公开招聘事业单位工作人员简章",
+          "date": "2025-08-29",
+          "headcount": 387,
+          "positions": null,
+          "source": "黔南州人力资源和社会保障局",
+          "url": "https://rsj.qiannan.gov.cn/zwgk/xxgkml/gggs/202508/t20250829_88540785.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "2025年第十三届贵州人才博览会黔南州事业单位引才公告",
+          "date": "2025-04-15",
+          "headcount": 181,
+          "positions": null,
+          "source": "黔南州人力资源和社会保障局",
+          "url": "http://rsj.qiannan.gov.cn/zwgk/xxgkml/rsrc/rcjs/202504/t20250415_87526984.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "贵州省2026年度四级联考（黔南考区）拟录用人员公示（第一批）",
+          "date": "2026-06-23",
+          "headcount": null,
+          "positions": null,
+          "source": "黔南州公务员局（黔南组织工作网）",
+          "url": "https://qnzzgz.gov.cn/document/show/24969.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "第十三届贵州人才博览会黔南州事业单位引进人才拟聘用人员公示（第三批）",
+          "date": "2025-11-01",
+          "headcount": null,
+          "positions": null,
+          "source": "黔南州人力资源和社会保障局",
+          "url": "https://rsj.qiannan.gov.cn/xwzx/gggs/202511/t20251101_88893698.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "黔南州2025年统一面向社会公开招聘事业单位工作人员简章补充公告（招聘1359人）",
+          "date": "2025-02-17",
+          "headcount": 1359,
+          "positions": null,
+          "source": "黔南州事业单位公开招聘工作领导小组办公室",
+          "url": "http://rsj.qiannan.gov.cn/zwgk/xxgkml/rsrc/sydwzp/202502/t20250217_86907437.html",
+          "attachments": []
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "name": "贵州大学",
+      "city": "贵阳市",
+      "cityAdcode": 520100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.gzu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "贵州师范大学",
+      "city": "贵阳市",
+      "cityAdcode": 520100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.gznu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "贵州医科大学",
+      "city": "贵阳市",
+      "cityAdcode": 520100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.gmc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "贵州财经大学",
+      "city": "贵阳市",
+      "cityAdcode": 520100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.gufe.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "贵州民族大学",
+      "city": "贵阳市",
+      "cityAdcode": 520100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.gzmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "贵州中医药大学",
+      "city": "贵阳市",
+      "cityAdcode": 520100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.gzy.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "贵州师范学院",
+      "city": "贵阳市",
+      "cityAdcode": 520100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gznc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "贵州理工学院",
+      "city": "贵阳市",
+      "cityAdcode": 520100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.git.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "贵阳学院",
+      "city": "贵阳市",
+      "cityAdcode": 520100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gyu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "贵州警察学院",
+      "city": "贵阳市",
+      "cityAdcode": 520100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gzpc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "贵州商学院",
+      "city": "贵阳市",
+      "cityAdcode": 520100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gzcc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "贵阳康养职业大学",
+      "city": "贵阳市",
+      "cityAdcode": 520100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gyhvu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "贵州交通职业大学",
+      "city": "贵阳市",
+      "cityAdcode": 520100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gzjtzy.net",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "贵州工业职业技术大学",
+      "city": "贵阳市",
+      "cityAdcode": 520100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gzky.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "贵州轻工职业大学",
+      "city": "贵阳市",
+      "cityAdcode": 520100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gzqy.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "贵州工商职业大学",
+      "city": "贵阳市",
+      "cityAdcode": 520100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.gzgsc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "贵阳人文科技学院",
+      "city": "贵阳市",
+      "cityAdcode": 520100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.gzmdrw.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "贵阳信息科技学院",
+      "city": "贵阳市",
+      "cityAdcode": 520100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.gyiist.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "贵州医科大学神奇民族医药学院",
+      "city": "贵阳市",
+      "cityAdcode": 520100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.gysqxy.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "贵州中医药大学时珍学院",
+      "city": "贵阳市",
+      "cityAdcode": 520100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.gzyszxy.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "遵义医科大学",
+      "city": "遵义市",
+      "cityAdcode": 520300,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.zmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "遵义师范学院",
+      "city": "遵义市",
+      "cityAdcode": 520300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.zync.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "遵义医科大学医学与科技学院",
+      "city": "遵义市",
+      "cityAdcode": 520300,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://mts.zmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "茅台学院",
+      "city": "遵义市",
+      "cityAdcode": 520300,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.mtxy.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "六盘水师范学院",
+      "city": "六盘水市",
+      "cityAdcode": 520200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.lpssy.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安顺学院",
+      "city": "安顺市",
+      "cityAdcode": 520400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.asu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "贵州工程应用技术学院",
+      "city": "毕节市",
+      "cityAdcode": 520500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gues.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "铜仁学院",
+      "city": "铜仁市",
+      "cityAdcode": 520600,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.gztrc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "铜仁职业技术大学",
+      "city": "铜仁市",
+      "cityAdcode": 520600,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.trzy.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "兴义民族师范学院",
+      "city": "黔西南布依族苗族自治州",
+      "cityAdcode": 522300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xynun.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "凯里学院",
+      "city": "黔东南苗族侗族自治州",
+      "cityAdcode": 522600,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.kluniv.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "黔南民族师范学院",
+      "city": "黔南布依族苗族自治州",
+      "cityAdcode": 522700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sgmtu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "贵州黔南科技学院",
+      "city": "黔南布依族苗族自治州",
+      "cityAdcode": 522700,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.gzucst.com",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "贵州黔南经济学院",
+      "city": "黔南布依族苗族自治州",
+      "cityAdcode": 522700,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://gzsu.net",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    }
+  ]
+}

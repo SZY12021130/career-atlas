@@ -1,0 +1,2295 @@
+{
+  "adcode": 410000,
+  "name": "河南省",
+  "updatedAt": "2026-08-25",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "河南人事考试网（河南省人事考试中心）",
+      "url": "http://www.hnrsks.com"
+    },
+    {
+      "category": "公务员",
+      "name": "河南党员教育服务网（河南组工网）",
+      "url": "http://www.hndyjyfw.gov.cn"
+    },
+    {
+      "category": "事业单位",
+      "name": "河南省人力资源和社会保障厅",
+      "url": "https://hrss.henan.gov.cn"
+    },
+    {
+      "category": "选调",
+      "name": "河南省选调生工作信息平台",
+      "url": "http://xds.jyt.henan.gov.cn"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 410100,
+      "name": "郑州市",
+      "districts": [
+        "中原区",
+        "二七区",
+        "管城回族区",
+        "金水区",
+        "上街区",
+        "惠济区",
+        "中牟县",
+        "巩义市",
+        "荥阳市",
+        "新密市",
+        "新郑市",
+        "登封市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "郑州市人民政府门户网站（政务公开·公务员招录）",
+          "url": "https://public.zhengzhou.gov.cn/D1702X/10005970.jhtml"
+        },
+        {
+          "category": "事业单位",
+          "name": "郑州市人民政府门户网站（政务公开·事业单位招聘）",
+          "url": "https://public.zhengzhou.gov.cn/D1703X/10012135.jhtml"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "河南省2026年度统一考试录用公务员公告",
+          "date": "2026-01-05",
+          "headcount": 10429,
+          "positions": null,
+          "source": "河南人事考试网",
+          "url": "http://www.hnrsks.com/sitesources/hnsrskszx/page_pc/hnstykslygwyzl/dnzkgg/article197f077a15884b4dbfa18ee21e68319f.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "河南省2026年度统一考试录用公务员郑州市职位面试公告",
+          "date": "2026-04-20",
+          "headcount": null,
+          "positions": null,
+          "source": "郑州市人民政府",
+          "url": "https://public.zhengzhou.gov.cn/D1702X/10005970.jhtml",
+          "attachments": [
+            {
+              "name": "2026年郑州市公务员职位面试人员名单.xlsx",
+              "url": "https://public.zhengzhou.gov.cn/attachment/%E9%99%84%E4%BB%B61.%E6%B2%B3%E5%8D%97%E7%9C%812026%E5%B9%B4%E5%BA%A6%E7%BB%9F%E4%B8%80%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E9%83%91%E5%B7%9E%E5%B8%82%E8%81%8C%E4%BD%8D%E9%9D%A2%E8%AF%95%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95.xlsx",
+              "local": "attachments/410100/2026年郑州市公务员职位面试人员名单.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2026年河南省（郑州市）事业单位公开招聘联考公告",
+          "date": "2026-04-22",
+          "headcount": 1846,
+          "positions": null,
+          "source": "郑州市人民政府",
+          "url": "https://public.zhengzhou.gov.cn/D1703X/10012135.jhtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "河南省2025年定向国内外部分高校选调应届优秀毕业生公告",
+          "date": "2024-11-08",
+          "headcount": 451,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=e87f6012-46db-4f4e-9ae1-7c5a1fc8ff4d",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "河南省2025年定向选调生拟录用人员公示",
+          "date": "2025-04-14",
+          "headcount": 450,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=b89229f3-0a71-4687-9da2-065e9b8e96aa",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 410200,
+      "name": "开封市",
+      "districts": [
+        "龙亭区",
+        "顺河回族区",
+        "鼓楼区",
+        "禹王台区",
+        "祥符区",
+        "杞县",
+        "通许县",
+        "尉氏县",
+        "兰考县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "开封市人力资源和社会保障局（招录公告栏）",
+          "url": "http://rsj.kaifeng.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "开封市人力资源和社会保障局（事业单位招聘）",
+          "url": "http://rsj.kaifeng.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "河南省2026年度统一考试录用公务员开封市职位面试公告",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "开封市人力资源和社会保障局",
+          "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/pc/content/content_2046072829064556544.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2026年河南省（开封市）事业单位公开招聘联考公告",
+          "date": "2026-04-22",
+          "headcount": 703,
+          "positions": null,
+          "source": "开封市人力资源和社会保障局",
+          "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/pc/content/content_2046777339575578624.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "2025年开封市事业单位公开引进高层次人才和急需短缺人才公告",
+          "date": "2025-12-22",
+          "headcount": 475,
+          "positions": null,
+          "source": "开封市人力资源和社会保障局",
+          "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/pc/content/content_2001936306271547392.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "河南省2025年定向国内外部分高校选调应届优秀毕业生公告",
+          "date": "2024-11-08",
+          "headcount": 451,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=e87f6012-46db-4f4e-9ae1-7c5a1fc8ff4d",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "河南省2025年定向选调生拟录用人员公示",
+          "date": "2025-04-14",
+          "headcount": 450,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=b89229f3-0a71-4687-9da2-065e9b8e96aa",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 410300,
+      "name": "洛阳市",
+      "districts": [
+        "老城区",
+        "西工区",
+        "瀍河回族区",
+        "涧西区",
+        "洛龙区",
+        "孟津区",
+        "偃师区",
+        "新安县",
+        "栾川县",
+        "嵩县",
+        "汝阳县",
+        "宜阳县",
+        "洛宁县",
+        "伊川县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "洛阳人事考试网",
+          "url": "https://www.lysrsks.com"
+        },
+        {
+          "category": "事业单位",
+          "name": "洛阳市人力资源和社会保障局",
+          "url": "http://rlzyhshbzj.ly.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "河南省2026年度统一考试录用公务员洛阳市职位和洛阳市市直机关公开遴选公务员面试公告",
+          "date": "2026-04-21",
+          "headcount": null,
+          "positions": null,
+          "source": "洛阳人事考试网",
+          "url": "https://www.lysrsks.com/index/news/detail.html?id=2399",
+          "attachments": [
+            {
+              "name": "2026年洛阳市公务员职位面试公告附件.zip",
+              "url": "https://www.lysrsks.com/luoyang/upload/file/20260421001.zip",
+              "local": "attachments/410300/2026年洛阳市公务员职位面试公告附件.zip"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2026年洛阳市县区事业单位公开招聘联考公告",
+          "date": "2026-05-19",
+          "headcount": 534,
+          "positions": null,
+          "source": "洛阳市人力资源和社会保障局",
+          "url": "http://rlzyhshbzj.ly.gov.cn/2026/05-19/1062364.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "河南省2025年定向国内外部分高校选调应届优秀毕业生公告",
+          "date": "2024-11-08",
+          "headcount": 451,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=e87f6012-46db-4f4e-9ae1-7c5a1fc8ff4d",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "河南省2025年定向选调生拟录用人员公示",
+          "date": "2025-04-14",
+          "headcount": 450,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=b89229f3-0a71-4687-9da2-065e9b8e96aa",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 410400,
+      "name": "平顶山市",
+      "districts": [
+        "新华区",
+        "卫东区",
+        "石龙区",
+        "湛河区",
+        "宝丰县",
+        "叶县",
+        "鲁山县",
+        "郏县",
+        "舞钢市",
+        "汝州市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "平顶山党建网",
+          "url": "https://www.pdsdj.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "平顶山市人力资源和社会保障局",
+          "url": "https://rsj.pds.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "河南省2026年度统一考试录用公务员平顶山市职位面试和平顶山市2026年度市直机关公开遴选公务员面试公告",
+          "date": "2026-04-20",
+          "headcount": null,
+          "positions": null,
+          "source": "平顶山市人力资源和社会保障局",
+          "url": "https://rsj.pds.gov.cn/contents/13460/743499.html",
+          "attachments": [
+            {
+              "name": "2026年平顶山市公务员参加面试人员名单（4月25日）.xlsx",
+              "url": "https://rsj.pds.gov.cn/upload/files/2026/4/1.%E6%B2%B3%E5%8D%97%E7%9C%812026%E5%B9%B4%E5%BA%A6%E7%BB%9F%E4%B8%80%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E5%B9%B3%E9%A1%B6%E5%B1%B1%E5%B8%82%E5%8F%82%E5%8A%A0%E9%9D%A2%E8%AF%95%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%884%E6%9C%8825%E6%97%A5%EF%BC%89.xlsx",
+              "local": "attachments/410400/2026年平顶山市公务员参加面试人员名单（4月25日）.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2026年河南省（平顶山市）事业单位公开招聘联考公告",
+          "date": "2026-04-22",
+          "headcount": 1799,
+          "positions": null,
+          "source": "平顶山市人力资源和社会保障局",
+          "url": "https://rsj.pds.gov.cn/contents/13460/743644.html",
+          "attachments": [
+            {
+              "name": "2026年平顶山市事业单位公开招聘联考岗位信息表.xlsx",
+              "url": "https://rsj.pds.gov.cn/upload/files/2026/4/%E9%99%84%E4%BB%B61%EF%BC%9A2026%E5%B9%B4%E6%B2%B3%E5%8D%97%E7%9C%81%EF%BC%88%E5%B9%B3%E9%A1%B6%E5%B1%B1%E5%B8%82%EF%BC%89%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E8%81%94%E8%80%83%E5%B2%97%E4%BD%8D%E4%BF%A1%E6%81%AF%E8%A1%A8.xlsx",
+              "local": "attachments/410400/2026年平顶山市事业单位公开招聘联考岗位信息表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "河南省2025年定向国内外部分高校选调应届优秀毕业生公告",
+          "date": "2024-11-08",
+          "headcount": 451,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=e87f6012-46db-4f4e-9ae1-7c5a1fc8ff4d",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "河南省2025年定向选调生拟录用人员公示",
+          "date": "2025-04-14",
+          "headcount": 450,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=b89229f3-0a71-4687-9da2-065e9b8e96aa",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 410500,
+      "name": "安阳市",
+      "districts": [
+        "文峰区",
+        "北关区",
+        "殷都区",
+        "龙安区",
+        "安阳县",
+        "汤阴县",
+        "滑县",
+        "内黄县",
+        "林州市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "安阳市人力资源和社会保障局",
+          "url": "http://rsj.anyang.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "安阳市人力资源和社会保障局",
+          "url": "http://rsj.anyang.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "河南省2026年度统一考试录用公务员安阳市职位面试成绩公告",
+          "date": "2026-04-29",
+          "headcount": null,
+          "positions": null,
+          "source": "安阳市人力资源和社会保障局",
+          "url": "http://rsj.anyang.gov.cn/2026/04-29/2507936.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2026年河南省（安阳市）事业单位公开招聘联考工作的公告",
+          "date": "2026-04-22",
+          "headcount": 1329,
+          "positions": null,
+          "source": "安阳市人力资源和社会保障局",
+          "url": "http://rsj.anyang.gov.cn/2026/04-22/2507303.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "河南省2025年定向国内外部分高校选调应届优秀毕业生公告",
+          "date": "2024-11-08",
+          "headcount": 451,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=e87f6012-46db-4f4e-9ae1-7c5a1fc8ff4d",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "河南省2025年定向选调生拟录用人员公示",
+          "date": "2025-04-14",
+          "headcount": 450,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=b89229f3-0a71-4687-9da2-065e9b8e96aa",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 410600,
+      "name": "鹤壁市",
+      "districts": [
+        "鹤山区",
+        "山城区",
+        "淇滨区",
+        "浚县",
+        "淇县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "鹤壁市人力资源和社会保障局（公示公告）",
+          "url": "https://rsj.hebi.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "鹤壁市人力资源和社会保障局",
+          "url": "https://rsj.hebi.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "河南省2026年度统一考试录用公务员鹤壁市职位面试公告",
+          "date": "2026-04-20",
+          "headcount": null,
+          "positions": null,
+          "source": "鹤壁市人力资源和社会保障局",
+          "url": "https://rsj.hebi.gov.cn/xwdt/gsgg/art/2026/art_fc1fdf151a15427c955d5ee99217f702.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2026年河南省（鹤壁市）事业单位公开招聘联考工作的公告",
+          "date": null,
+          "headcount": 196,
+          "positions": null,
+          "source": "鹤壁市人力资源和社会保障局",
+          "url": "https://rsj.hebi.gov.cn/xwdt/gsgg/art/2026/art_fc7166ec132941778e322b28d8ce0dc6.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "鹤壁市2026年度拟录用人员公示公告（第一批）",
+          "date": "2026-06-15",
+          "headcount": 137,
+          "positions": null,
+          "source": "鹤壁市公务员局",
+          "url": "https://rsj.hebi.gov.cn/xwdt/gsgg/art/2026/art_b7ed16ded647451e9282b31c654d3e2d.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "河南省2025年定向国内外部分高校选调应届优秀毕业生公告",
+          "date": "2024-11-08",
+          "headcount": 451,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=e87f6012-46db-4f4e-9ae1-7c5a1fc8ff4d",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "河南省2025年定向选调生拟录用人员公示",
+          "date": "2025-04-14",
+          "headcount": 450,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=b89229f3-0a71-4687-9da2-065e9b8e96aa",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 410700,
+      "name": "新乡市",
+      "districts": [
+        "红旗区",
+        "卫滨区",
+        "凤泉区",
+        "牧野区",
+        "新乡县",
+        "获嘉县",
+        "原阳县",
+        "延津县",
+        "封丘县",
+        "卫辉市",
+        "辉县市",
+        "长垣市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "新乡市人力资源和社会保障局（通知公告）",
+          "url": "https://hrss.xinxiang.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "新乡市人力资源和社会保障局",
+          "url": "https://hrss.xinxiang.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "河南省2026年度统一考试录用公务员新乡市职位面试确认公告",
+          "date": "2026-04-09",
+          "headcount": null,
+          "positions": null,
+          "source": "新乡市人力资源和社会保障局",
+          "url": "https://hrss.xinxiang.gov.cn/xwzx/tzgg/1232629.html",
+          "attachments": [
+            {
+              "name": "2026年新乡市公务员面试确认人员名单.xlsx",
+              "url": "https://hrss.xinxiang.gov.cn/group3/M00/00/8E/wKgVOGnXhEOANO6lAAJFSb96n3w96.xlsx",
+              "local": "attachments/410700/2026年新乡市公务员面试确认人员名单.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2026年河南省新乡市事业单位公开招聘联考工作的公告",
+          "date": "2026-04-22",
+          "headcount": 702,
+          "positions": null,
+          "source": "新乡市人力资源和社会保障局",
+          "url": "https://hrss.xinxiang.gov.cn/xwzx/tzgg/1234421.html",
+          "attachments": [
+            {
+              "name": "2026年新乡市事业单位公开招聘联考岗位表.xlsx",
+              "url": "https://hrss.xinxiang.gov.cn/group3/M00/00/98/wKgVOGnoVSKAP_brAAGz65uj5G835.xlsx",
+              "local": "attachments/410700/2026年新乡市事业单位公开招聘联考岗位表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "新乡学院2025年诚聘高层次人才公告",
+          "date": "2025-04-15",
+          "headcount": null,
+          "positions": null,
+          "source": "新乡学院",
+          "url": "https://www.xxu.edu.cn/info/1030/17420.htm",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "河南省2025年定向国内外部分高校选调应届优秀毕业生公告",
+          "date": "2024-11-08",
+          "headcount": 451,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=e87f6012-46db-4f4e-9ae1-7c5a1fc8ff4d",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "河南省2025年定向选调生拟录用人员公示",
+          "date": "2025-04-14",
+          "headcount": 450,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=b89229f3-0a71-4687-9da2-065e9b8e96aa",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 410800,
+      "name": "焦作市",
+      "districts": [
+        "解放区",
+        "中站区",
+        "马村区",
+        "山阳区",
+        "修武县",
+        "博爱县",
+        "武陟县",
+        "温县",
+        "沁阳市",
+        "孟州市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "焦作党建网",
+          "url": "http://www.jzdj.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "焦作市人力资源和社会保障局",
+          "url": "https://rsj.jiaozuo.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "河南省2026年度统一考试录用公务员焦作市职位面试确认公告",
+          "date": "2026-04-10",
+          "headcount": null,
+          "positions": null,
+          "source": "焦作党建网",
+          "url": "http://www.jzdj.cn/index.php/home/content/index/aid/4114.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2026年河南省（焦作市）事业单位公开招聘联考面试资格确认公告",
+          "date": "2026-07-02",
+          "headcount": null,
+          "positions": null,
+          "source": "焦作市人力资源和社会保障局",
+          "url": "https://rsj.jiaozuo.gov.cn/2026/07-02/606905.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "河南省2025年定向国内外部分高校选调应届优秀毕业生公告",
+          "date": "2024-11-08",
+          "headcount": 451,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=e87f6012-46db-4f4e-9ae1-7c5a1fc8ff4d",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "河南省2025年定向选调生拟录用人员公示",
+          "date": "2025-04-14",
+          "headcount": 450,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=b89229f3-0a71-4687-9da2-065e9b8e96aa",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 410900,
+      "name": "濮阳市",
+      "districts": [
+        "华龙区",
+        "清丰县",
+        "南乐县",
+        "范县",
+        "台前县",
+        "濮阳县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "濮阳党建网（中共濮阳市委组织部）",
+          "url": "https://www.pyzzb.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "濮阳市人力资源和社会保障局",
+          "url": "https://pyrs.puyang.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "河南省2026年度统一考试录用公务员濮阳市职位面试公告",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "濮阳党建网",
+          "url": "https://www.pyzzb.gov.cn/show.asp?id=1588",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2026年河南省（濮阳市）事业单位公开招聘联考工作的公告",
+          "date": null,
+          "headcount": 272,
+          "positions": null,
+          "source": "濮阳市人力资源和社会保障局",
+          "url": "https://pyrs.puyang.gov.cn/content/2026/1117551.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "濮阳工学院筹建处（河南大学濮阳工学院）2025年公开引进高层次人才公告",
+          "date": "2025-02-17",
+          "headcount": null,
+          "positions": null,
+          "source": "河南大学濮阳工学院",
+          "url": "https://www.pygxy.cn/html/840/2025-02-17/content-3484.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "河南省2025年定向国内外部分高校选调应届优秀毕业生公告",
+          "date": "2024-11-08",
+          "headcount": 451,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=e87f6012-46db-4f4e-9ae1-7c5a1fc8ff4d",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "河南省2025年定向选调生拟录用人员公示",
+          "date": "2025-04-14",
+          "headcount": 450,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=b89229f3-0a71-4687-9da2-065e9b8e96aa",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 411000,
+      "name": "许昌市",
+      "districts": [
+        "魏都区",
+        "建安区",
+        "鄢陵县",
+        "襄城县",
+        "禹州市",
+        "长葛市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "许昌组工网",
+          "url": "http://www.xczgfwkx.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "许昌市人力资源和社会保障局",
+          "url": "https://rsj.xuchang.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "河南省2026年度统一考试录用公务员许昌市职位面试确认公告",
+          "date": "2026-04-09",
+          "headcount": null,
+          "positions": null,
+          "source": "许昌组工网",
+          "url": "http://www.xczgfwkx.gov.cn/content/202604/09/c539719.htm",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2026年河南省许昌市事业单位公开招聘联考工作公告",
+          "date": "2026-04-22",
+          "headcount": 139,
+          "positions": null,
+          "source": "许昌市人力资源和社会保障局",
+          "url": "https://rsj.xuchang.gov.cn/zxdt/002002/20260422/64895041-82fb-49d7-b736-b6189b5655cf.html",
+          "attachments": [
+            {
+              "name": "2026年许昌市事业单位联考公告附件1.pdf",
+              "url": "https://rsj.xuchang.gov.cn/uploadfile/64895041-82fb-49d7-b736-b6189b5655cf/20260422100629583.pdf",
+              "local": "attachments/411000/2026年许昌市事业单位联考公告附件1.pdf"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "河南省2025年定向国内外部分高校选调应届优秀毕业生公告",
+          "date": "2024-11-08",
+          "headcount": 451,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=e87f6012-46db-4f4e-9ae1-7c5a1fc8ff4d",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "河南省2025年定向选调生拟录用人员公示",
+          "date": "2025-04-14",
+          "headcount": 450,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=b89229f3-0a71-4687-9da2-065e9b8e96aa",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 411100,
+      "name": "漯河市",
+      "districts": [
+        "源汇区",
+        "郾城区",
+        "召陵区",
+        "舞阳县",
+        "临颍县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "漯河市人力资源和社会保障局（考试信息）",
+          "url": "https://hrss.luohe.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "漯河市人力资源和社会保障局",
+          "url": "https://hrss.luohe.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "河南省2026年度统一考试录用公务员漯河市职位和市直机关公开遴选公务员面试公告",
+          "date": "2026-04-20",
+          "headcount": null,
+          "positions": null,
+          "source": "漯河市公务员局",
+          "url": "https://hrss.luohe.gov.cn/ksxx/content_1049050",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2026年河南省（漯河市）事业单位公开招聘联考工作的公告",
+          "date": null,
+          "headcount": 736,
+          "positions": null,
+          "source": "漯河市人力资源和社会保障局",
+          "url": "https://hrss.luohe.gov.cn/ksxx/content_1050608",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "漯河市城乡一体化示范区2025年事业单位公开引进高层次人才公告",
+          "date": "2025-12-30",
+          "headcount": 7,
+          "positions": null,
+          "source": "漯河市人力资源和社会保障局",
+          "url": "https://hrss.luohe.gov.cn/ksxx/content_1038309",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "河南省2025年定向国内外部分高校选调应届优秀毕业生公告",
+          "date": "2024-11-08",
+          "headcount": 451,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=e87f6012-46db-4f4e-9ae1-7c5a1fc8ff4d",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "河南省2025年定向选调生拟录用人员公示",
+          "date": "2025-04-14",
+          "headcount": 450,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=b89229f3-0a71-4687-9da2-065e9b8e96aa",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 411200,
+      "name": "三门峡市",
+      "districts": [
+        "湖滨区",
+        "陕州区",
+        "渑池县",
+        "卢氏县",
+        "义马市",
+        "灵宝市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "三门峡党建网",
+          "url": "http://www.smxdj.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "三门峡市人力资源和社会保障局",
+          "url": "http://rsj.smx.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "河南省2026年度统一考试录用公务员三门峡市职位面试公告",
+          "date": "2026-04-18",
+          "headcount": null,
+          "positions": null,
+          "source": "三门峡党建网",
+          "url": "http://www.smxdj.cn/7819/2026/4/2249712.html",
+          "attachments": [
+            {
+              "name": "2026年三门峡市公务员面试公告附件1.pdf",
+              "url": "http://www.smxdj.cn/group1/M00/06/74/CqDIKWni_3qAHYLKAAacLnOr5Zo630.pdf",
+              "local": "attachments/411200/2026年三门峡市公务员面试公告附件1.pdf"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2026年河南省（三门峡市）事业单位公开招聘联考工作灵宝市事业单位面试公告",
+          "date": "2026-07-29",
+          "headcount": null,
+          "positions": null,
+          "source": "灵宝市人民政府",
+          "url": "https://www.lingbao.gov.cn/16017/2026/7/2293326.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "2026年河南省（三门峡市）事业单位公开招聘联考湖滨区拟聘用公告",
+          "date": "2026-08-05",
+          "headcount": 18,
+          "positions": null,
+          "source": "三门峡市湖滨区人民政府",
+          "url": "https://www.hubin.gov.cn/25116/2026/8/2296412.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "河南省2025年定向国内外部分高校选调应届优秀毕业生公告",
+          "date": "2024-11-08",
+          "headcount": 451,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=e87f6012-46db-4f4e-9ae1-7c5a1fc8ff4d",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "河南省2025年定向选调生拟录用人员公示",
+          "date": "2025-04-14",
+          "headcount": 450,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=b89229f3-0a71-4687-9da2-065e9b8e96aa",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 411300,
+      "name": "南阳市",
+      "districts": [
+        "宛城区",
+        "卧龙区",
+        "南召县",
+        "方城县",
+        "西峡县",
+        "镇平县",
+        "内乡县",
+        "淅川县",
+        "社旗县",
+        "唐河县",
+        "新野县",
+        "桐柏县",
+        "邓州市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "南阳党建网",
+          "url": "http://www.nydj.net.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "南阳市人力资源和社会保障局",
+          "url": "https://rensheju.nanyang.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "河南省2026年度统一考试录用公务员南阳市职位面试公告",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "南阳党建网",
+          "url": "http://www.nydj.net.cn/ppd/3950.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2026年河南省（南阳市）事业单位公开招聘联考工作的公告",
+          "date": "2026-04-22",
+          "headcount": 755,
+          "positions": null,
+          "source": "南阳市人力资源和社会保障局",
+          "url": "https://rensheju.nanyang.gov.cn/2026/04-22/1399479.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "南阳市中医院2025年公开招聘高层次人才公告",
+          "date": "2025-12-10",
+          "headcount": 55,
+          "positions": null,
+          "source": "南阳市人力资源和社会保障局",
+          "url": "https://rensheju.nanyang.gov.cn/2025/12-10/1359550.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "河南省2025年定向国内外部分高校选调应届优秀毕业生公告",
+          "date": "2024-11-08",
+          "headcount": 451,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=e87f6012-46db-4f4e-9ae1-7c5a1fc8ff4d",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "河南省2025年定向选调生拟录用人员公示",
+          "date": "2025-04-14",
+          "headcount": 450,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=b89229f3-0a71-4687-9da2-065e9b8e96aa",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 411400,
+      "name": "商丘市",
+      "districts": [
+        "梁园区",
+        "睢阳区",
+        "民权县",
+        "睢县",
+        "宁陵县",
+        "柘城县",
+        "虞城县",
+        "夏邑县",
+        "永城市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "商丘人事考试网（商丘市人事考试中心）",
+          "url": "http://www.sqrsks.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "商丘人事考试网",
+          "url": "http://www.sqrsks.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "河南省2026年度统一考试录用公务员商丘市职位及2026年度商丘市市直机关公开遴选公务员面试公告",
+          "date": "2026-04-20",
+          "headcount": null,
+          "positions": null,
+          "source": "商丘人事考试网",
+          "url": "http://www.sqrsks.cn/index.php?s=index/show/index&id=1335",
+          "attachments": [
+            {
+              "name": "2026年商丘市公务员面试人员名单.xlsx",
+              "url": "http://www.sqrsks.cn/uploads/file/20260420/1776679541909158.xlsx",
+              "local": "attachments/411400/2026年商丘市公务员面试人员名单.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2026年河南省（商丘市）事业单位公开招聘联考面试公告",
+          "date": "2026-07-28",
+          "headcount": null,
+          "positions": null,
+          "source": "商丘人事考试网",
+          "url": "http://www.sqrsks.cn/index.php?s=index/show/index&id=1371",
+          "attachments": [
+            {
+              "name": "2026年商丘市事业单位联考面试人员名单.xlsx",
+              "url": "http://www.sqrsks.cn/uploads/file/20260729/1785286090731228.xlsx",
+              "local": "attachments/411400/2026年商丘市事业单位联考面试人员名单.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "河南省2025年定向国内外部分高校选调应届优秀毕业生公告",
+          "date": "2024-11-08",
+          "headcount": 451,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=e87f6012-46db-4f4e-9ae1-7c5a1fc8ff4d",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "河南省2025年定向选调生拟录用人员公示",
+          "date": "2025-04-14",
+          "headcount": 450,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=b89229f3-0a71-4687-9da2-065e9b8e96aa",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 411500,
+      "name": "信阳市",
+      "districts": [
+        "浉河区",
+        "平桥区",
+        "罗山县",
+        "光山县",
+        "新县",
+        "商城县",
+        "固始县",
+        "潢川县",
+        "淮滨县",
+        "息县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "信阳党员教育服务网（中共信阳市委组织部）",
+          "url": "https://www.hnxydj.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "信阳市人力资源和社会保障局",
+          "url": "https://rsj.xinyang.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "2026年度信阳市市直机关公开遴选公务员公告",
+          "date": "2026-01-05",
+          "headcount": null,
+          "positions": null,
+          "source": "中共信阳市委组织部",
+          "url": "https://www.hnxydj.gov.cn/gongshigonggao//2026-01-05/9193.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2026年河南省（信阳市）事业单位公开招聘联考工作的公告",
+          "date": "2026-04-22",
+          "headcount": 400,
+          "positions": null,
+          "source": "信阳市人力资源和社会保障局",
+          "url": "https://rsj.xinyang.gov.cn/2026/04-22/781306.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2025年信阳市事业单位公开招聘联考工作的公告",
+          "date": "2025-09-11",
+          "headcount": null,
+          "positions": null,
+          "source": "信阳市人力资源和社会保障局",
+          "url": "https://rsj.xinyang.gov.cn/2025/09-11/695301.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "河南省2025年定向国内外部分高校选调应届优秀毕业生公告",
+          "date": "2024-11-08",
+          "headcount": 451,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=e87f6012-46db-4f4e-9ae1-7c5a1fc8ff4d",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "河南省2025年定向选调生拟录用人员公示",
+          "date": "2025-04-14",
+          "headcount": 450,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=b89229f3-0a71-4687-9da2-065e9b8e96aa",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 411600,
+      "name": "周口市",
+      "districts": [
+        "川汇区",
+        "淮阳区",
+        "扶沟县",
+        "西华县",
+        "商水县",
+        "沈丘县",
+        "郸城县",
+        "太康县",
+        "鹿邑县",
+        "项城市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "周口党建网",
+          "url": "http://www.zkdj.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "周口人事考试网",
+          "url": "http://www.zkrsks.com"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "河南省2026年度统一考试录用公务员和公开遴选公务员周口考区面试公告",
+          "date": "2026-04-20",
+          "headcount": null,
+          "positions": null,
+          "source": "周口人事考试网",
+          "url": "http://www.zkrsks.com/new.html?contentNum=0540d736487f4f9191e53aa2ca13dac1",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2026年河南省（周口市）事业单位公开招聘联考工作的公告",
+          "date": "2026-04-22",
+          "headcount": 487,
+          "positions": null,
+          "source": "周口人事考试网",
+          "url": "http://www.zkrsks.com/new.html?contentNum=29ae2c6f02c14761b78fc1efe6a3b188",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "2025年周口市事业单位人才引进公告",
+          "date": "2025-07-10",
+          "headcount": 495,
+          "positions": null,
+          "source": "周口人事考试网",
+          "url": "http://www.zkrsks.com/new.html?contentNum=2fd139fd14314376bd586fb0a726e363",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "河南省2025年定向国内外部分高校选调应届优秀毕业生公告",
+          "date": "2024-11-08",
+          "headcount": 451,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=e87f6012-46db-4f4e-9ae1-7c5a1fc8ff4d",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "河南省2025年定向选调生拟录用人员公示",
+          "date": "2025-04-14",
+          "headcount": 450,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=b89229f3-0a71-4687-9da2-065e9b8e96aa",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 411700,
+      "name": "驻马店市",
+      "districts": [
+        "驿城区",
+        "西平县",
+        "上蔡县",
+        "平舆县",
+        "正阳县",
+        "确山县",
+        "泌阳县",
+        "汝南县",
+        "遂平县",
+        "新蔡县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "驻马店人才信息网",
+          "url": "https://rcjlzx.hrss.zhumadian.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "驻马店市人力资源和社会保障局",
+          "url": "https://hrss.zhumadian.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "河南省2026年度统一考试录用公务员驻马店市职位面试成绩公告",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "驻马店人才信息网",
+          "url": "https://rcjlzx.hrss.zhumadian.gov.cn/shownews?id=64880",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2026年河南省（驻马店市）事业单位公开招聘联考工作的公告",
+          "date": "2026-04-22",
+          "headcount": 142,
+          "positions": null,
+          "source": "驻马店市人力资源和社会保障局",
+          "url": "https://hrss.zhumadian.gov.cn/zwyw/zkgg/202604/t20260422_697900.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "平舆县2025年引进高层次人才拟聘用人员公示",
+          "date": "2025-09-09",
+          "headcount": 45,
+          "positions": null,
+          "source": "平舆县人民政府",
+          "url": "https://www.pingyu.gov.cn/zwyw/tzgg/202509/t20250909_652664.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "河南省2025年定向国内外部分高校选调应届优秀毕业生公告",
+          "date": "2024-11-08",
+          "headcount": 451,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=e87f6012-46db-4f4e-9ae1-7c5a1fc8ff4d",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "河南省2025年定向选调生拟录用人员公示",
+          "date": "2025-04-14",
+          "headcount": 450,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=b89229f3-0a71-4687-9da2-065e9b8e96aa",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 419001,
+      "name": "济源市",
+      "districts": [
+        "济源市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "济源市人民政府（公务员招考）",
+          "url": "http://www.jiyuan.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "济源产城融合示范区人力资源和社会保障局",
+          "url": "https://rbj.jiyuan.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "河南省2026年度统一考试录用公务员济源示范区职位面试和2026年度济源示范区区直机关公开遴选公务员面试公告",
+          "date": "2026-04-20",
+          "headcount": null,
+          "positions": null,
+          "source": "济源市人民政府",
+          "url": "http://www.jiyuan.gov.cn/zwgk/jczwgk/rsxx/gwyzk/t1003323.html",
+          "attachments": [
+            {
+              "name": "2026年济源示范区公务员面试人员名单.xlsx",
+              "url": "http://www.jiyuan.gov.cn/zwgk/jczwgk/rsxx/gwyzk/P020260601585912028224.xlsx",
+              "local": "attachments/419001/2026年济源示范区公务员面试人员名单.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2026年河南省济源示范区事业单位公开招聘联考工作的公告",
+          "date": "2026-04-22",
+          "headcount": 118,
+          "positions": null,
+          "source": "济源示范区人力资源和社会保障局",
+          "url": "https://rbj.jiyuan.gov.cn/rbj_xwzx/rbj_tzgg/t1000925.html",
+          "attachments": [
+            {
+              "name": "2026年济源示范区事业单位联考岗位表.xlsx",
+              "url": "https://rbj.jiyuan.gov.cn/rbj_xwzx/rbj_tzgg/P020260422528962069723.xlsx",
+              "local": "attachments/419001/2026年济源示范区事业单位联考岗位表.xlsx"
+            },
+            {
+              "name": "2026年济源示范区事业单位联考报考指南.docx",
+              "url": "https://rbj.jiyuan.gov.cn/rbj_xwzx/rbj_tzgg/P020260422528962389802.docx",
+              "local": "attachments/419001/2026年济源示范区事业单位联考报考指南.docx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "济源示范区2025年“智汇济源·人才济济”引进高层次人才和急需短缺人才公告",
+          "date": "2025-12-30",
+          "headcount": 356,
+          "positions": null,
+          "source": "济源示范区人力资源和社会保障局",
+          "url": "https://rbj.jiyuan.gov.cn/rbj_xwzx/rbj_tzgg/t994336.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "定向选调",
+          "title": "河南省2025年定向国内外部分高校选调应届优秀毕业生公告",
+          "date": "2024-11-08",
+          "headcount": 451,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=e87f6012-46db-4f4e-9ae1-7c5a1fc8ff4d",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "河南省2025年定向选调生拟录用人员公示",
+          "date": "2025-04-14",
+          "headcount": 450,
+          "positions": null,
+          "source": "河南省选调生工作信息平台",
+          "url": "http://xds.jyt.henan.gov.cn/front/newsDetail?newsId=b89229f3-0a71-4687-9da2-065e9b8e96aa",
+          "attachments": []
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "name": "华北水利水电大学",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.ncwu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "郑州大学",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.zzu.edu.cn",
+      "hrUrl": "https://www5.zzu.edu.cn/rsc/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "河南理工大学",
+      "city": "焦作市",
+      "cityAdcode": 410800,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.hpu.edu.cn",
+      "hrUrl": "https://www6.hpu.edu.cn/rsc/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "郑州轻工业大学",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.zzuli.edu.cn",
+      "hrUrl": "https://rsc.zzuli.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "河南工业大学",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.haut.edu.cn",
+      "hrUrl": "https://rsc.haut.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "河南科技大学",
+      "city": "洛阳市",
+      "cityAdcode": 410300,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.haust.edu.cn",
+      "hrUrl": "https://rsc.haust.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中原工学院",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.zut.edu.cn",
+      "hrUrl": "https://rsc.zut.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "河南农业大学",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.henau.edu.cn",
+      "hrUrl": "https://rsc.henau.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "河南科技学院",
+      "city": "新乡市",
+      "cityAdcode": 410700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hist.edu.cn",
+      "hrUrl": "https://rsc.hist.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "河南牧业经济学院",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hnuahe.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "河南中医药大学",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.hactcm.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "河南医药大学（原新乡医学院）",
+      "city": "新乡市",
+      "cityAdcode": 410700,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.xxmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "河南大学",
+      "city": "开封市",
+      "cityAdcode": 410200,
+      "tags": [
+        "双一流",
+        "省属重点"
+      ],
+      "website": "https://www.henu.edu.cn",
+      "hrUrl": "https://rsc.henu.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "河南师范大学",
+      "city": "新乡市",
+      "cityAdcode": 410700,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.htu.edu.cn",
+      "hrUrl": "https://www.htu.edu.cn/rsc",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "信阳师范大学",
+      "city": "信阳市",
+      "cityAdcode": 411500,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.xynu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "周口师范学院",
+      "city": "周口市",
+      "cityAdcode": 411600,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.zknu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安阳师范学院",
+      "city": "安阳市",
+      "cityAdcode": 410500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.aynu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "许昌学院",
+      "city": "许昌市",
+      "cityAdcode": 411000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xcu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南阳师范学院",
+      "city": "南阳市",
+      "cityAdcode": 411300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.nynu.edu.cn",
+      "hrUrl": "https://www2.nynu.edu.cn/xzbm/renshichu/rczp.htm",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "洛阳师范学院",
+      "city": "洛阳市",
+      "cityAdcode": 410300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.lynu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "商丘师范学院",
+      "city": "商丘市",
+      "cityAdcode": 411400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sqnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "河南财经政法大学",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.huel.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "郑州航空工业管理学院",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.zua.edu.cn",
+      "hrUrl": "https://rsc.zua.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "黄淮学院",
+      "city": "驻马店市",
+      "cityAdcode": 411700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.huanghuai.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "平顶山学院",
+      "city": "平顶山市",
+      "cityAdcode": 410400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.pdsu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "郑州工程技术学院",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.zzut.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "洛阳理工学院",
+      "city": "洛阳市",
+      "cityAdcode": 410300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.lit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "新乡学院",
+      "city": "新乡市",
+      "cityAdcode": 410700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xxu.edu.cn",
+      "hrUrl": "https://rsc.xxu.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "信阳农林学院",
+      "city": "信阳市",
+      "cityAdcode": 411500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xyafu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "河南工学院",
+      "city": "新乡市",
+      "cityAdcode": 410700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hait.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安阳工学院",
+      "city": "安阳市",
+      "cityAdcode": 410500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ayit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "河南工程学院",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.haue.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "河南财政金融学院",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hafu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "南阳理工学院",
+      "city": "南阳市",
+      "cityAdcode": 411300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.nyist.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "河南城建学院",
+      "city": "平顶山市",
+      "cityAdcode": 410400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hncj.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "河南警察学院",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hnp.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "黄河科技学院",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.hhstu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "郑州警察学院",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "http://www.rpc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "郑州科技学院",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.zit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "郑州工业应用技术学院",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.zzgyxy.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "郑州师范学院",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.zznu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "郑州财经学院",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.zzife.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "黄河交通学院",
+      "city": "焦作市",
+      "cityAdcode": 410800,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.zjtu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "商丘工学院",
+      "city": "商丘市",
+      "cityAdcode": 411400,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.sqgxy.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "河南开封科技传媒学院",
+      "city": "开封市",
+      "cityAdcode": 410200,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.humc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中原科技学院",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.zykj.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "信阳学院",
+      "city": "信阳市",
+      "cityAdcode": 411500,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.xyu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安阳学院",
+      "city": "安阳市",
+      "cityAdcode": 410500,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.ayxy.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "豫北医学院（原新乡医学院三全学院）",
+      "city": "新乡市",
+      "cityAdcode": 410700,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.sqmc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "新乡工程学院",
+      "city": "新乡市",
+      "cityAdcode": 410700,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.xxgc.edu.cn",
+      "hrUrl": "https://www.xxgc.edu.cn/rlzyb/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "郑州工商学院",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.ztbu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "郑州经贸学院",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.zueb.edu.cn",
+      "hrUrl": "http://rsxt.zueb.edu.cn/zpNew/index.do",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "商丘学院",
+      "city": "商丘市",
+      "cityAdcode": 411400,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.sqxy.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "郑州商学院",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.zbu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "河南科技职业大学",
+      "city": "周口市",
+      "cityAdcode": 411600,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.hnvust.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "郑州升达经贸管理学院",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.shengda.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "郑州西亚斯学院",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.sias.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "郑州美术学院",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.zzafa.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "漯河食品工程职业大学",
+      "city": "漯河市",
+      "cityAdcode": 411100,
+      "tags": [
+        "民办"
+      ],
+      "website": "https://www.lsgx.com.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "河南体育学院",
+      "city": "郑州市",
+      "cityAdcode": 410100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hasu.edu.cn",
+      "hrUrl": "https://rsc.hasu.edu.cn/",
+      "talentPolicyUrl": null
+    }
+  ]
+}

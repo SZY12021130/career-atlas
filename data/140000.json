@@ -1,0 +1,1209 @@
+{
+  "adcode": 140000,
+  "name": "山西省",
+  "updatedAt": "2026-08-25",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "山西人事考试网（山西省人事考试专栏）",
+      "url": "https://rst.shanxi.gov.cn/rsks/"
+    },
+    {
+      "category": "公务员",
+      "name": "山西人事考试网·公务员考试栏目",
+      "url": "https://rst.shanxi.gov.cn/rsks/gwyks/"
+    },
+    {
+      "category": "事业单位",
+      "name": "山西省人力资源和社会保障厅",
+      "url": "https://rst.shanxi.gov.cn/"
+    },
+    {
+      "category": "事业单位",
+      "name": "山西省事业单位招聘公告专栏",
+      "url": "https://rst.shanxi.gov.cn/ztzl/zpxx/szsydwzpgg/"
+    },
+    {
+      "category": "选调",
+      "name": "山西组工网",
+      "url": "http://www.sxdygbjy.gov.cn/"
+    },
+    {
+      "category": "人才引进",
+      "name": "山西省人力资源和社会保障厅·招聘信息专题",
+      "url": "https://rst.shanxi.gov.cn/ztzl/zpxx/"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 140100,
+      "name": "太原市",
+      "districts": [
+        "小店区",
+        "迎泽区",
+        "杏花岭区",
+        "尖草坪区",
+        "万柏林区",
+        "晋源区",
+        "清徐县",
+        "阳曲县",
+        "娄烦县",
+        "古交市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "太原市人事考试中心",
+          "url": "http://rsks.rsj.taiyuan.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "太原市人力资源和社会保障局",
+          "url": "https://rsj.taiyuan.gov.cn/"
+        },
+        {
+          "category": "录用公示",
+          "name": "太原市人力资源和社会保障局·通知公告",
+          "url": "https://rsj.taiyuan.gov.cn/tzgg/"
+        },
+        {
+          "category": "公务员",
+          "name": "太原市人民政府",
+          "url": "https://www.taiyuan.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "山西省2026年度考试录用公务员公告",
+          "date": "2026-01-19",
+          "headcount": 5360,
+          "positions": null,
+          "source": "山西人事考试网",
+          "url": "https://rst.shanxi.gov.cn/rsks/gwyks/2026gwyks/202601/t20260119_10042625.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "山西省2026年度考试录用公务员补充录用公告",
+          "date": "2026-06-09",
+          "headcount": null,
+          "positions": null,
+          "source": "山西人事考试网",
+          "url": "https://rst.shanxi.gov.cn/rsks/gwyks/2026gwyks/202606/t20260609_10142970.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "山西省2026年选调优秀高校毕业生到基层工作公告",
+          "date": "2026-01-19",
+          "headcount": 426,
+          "positions": null,
+          "source": "山西人事考试网",
+          "url": "https://rst.shanxi.gov.cn/rsks/gwyks/2026xdsks/202601/t20260119_10042602.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "山西省2025年事业单位公开招聘公告（含太原市直及各县市区岗位）",
+          "date": "2025-02-14",
+          "headcount": null,
+          "positions": null,
+          "source": "山西省人力资源和社会保障厅",
+          "url": "https://rst.shanxi.gov.cn/ztzl/zpxx/szsydwzpgg/202502/t20250214_9768358.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "山西省2025年事业单位公开招聘补充招聘公告",
+          "date": "2025-09-24",
+          "headcount": null,
+          "positions": null,
+          "source": "山西省人力资源和社会保障厅",
+          "url": "https://rst.shanxi.gov.cn/ztzl/zpxx/szsydwzpgg/202509/t20250924_9964675.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2024,
+          "category": "事业单位",
+          "title": "太原市市直事业单位2024年公开招聘工作人员公告",
+          "date": "2024-02-19",
+          "headcount": null,
+          "positions": null,
+          "source": "太原市人力资源和社会保障局",
+          "url": "https://rsj.taiyuan.gov.cn/tzgg/20240219/30102470.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "title": "山西省2026年选调优秀高校毕业生到基层工作太原市拟录用人员公示",
+          "date": "2026-06-15",
+          "headcount": null,
+          "positions": null,
+          "source": "山西人事考试网",
+          "url": "https://rst.shanxi.gov.cn/rsks/gwyks/2026xdsks/202606/t20260615_10146555.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "title": "太原市事业单位2025年公开招聘部分岗位拟聘用人员公示（三）",
+          "date": "2026-05-15",
+          "headcount": null,
+          "positions": null,
+          "source": "太原市人力资源和社会保障局",
+          "url": "https://rsj.taiyuan.gov.cn/tzgg/20260515/30298333.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 140200,
+      "name": "大同市",
+      "districts": [
+        "新荣区",
+        "平城区",
+        "云冈区",
+        "云州区",
+        "阳高县",
+        "天镇县",
+        "广灵县",
+        "灵丘县",
+        "浑源县",
+        "左云县"
+      ],
+      "portals": [
+        {
+          "category": "事业单位",
+          "name": "大同市人民政府·公开招聘",
+          "url": "https://www.dt.gov.cn/dtszf/jggggkzp/bmgklist_28.shtml"
+        },
+        {
+          "category": "录用公示",
+          "name": "大同市人民政府·公示公告",
+          "url": "https://www.dt.gov.cn/dtszf/gsgg/list.shtml"
+        },
+        {
+          "category": "公务员",
+          "name": "大同市人民政府",
+          "url": "https://www.dt.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "大同经济技术开发区所属事业单位2025年春季公开招聘博士研究生公告",
+          "date": "2025-04-01",
+          "headcount": 50,
+          "positions": null,
+          "source": "大同市人民政府",
+          "url": "https://www.dt.gov.cn/dtszf/jggggkzp/202504/3b76c4c88e0549b89698862b32c48f1d.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "大同市2025年事业单位公开招聘补充招聘公告",
+          "date": "2025-09-24",
+          "headcount": null,
+          "positions": null,
+          "source": "大同市人民政府",
+          "url": "http://www.dt.gov.cn/dtszf/jggggkzp/202509/c980121016f54b5c87a92c724af1a4fc.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "大同市2025年事业单位公开招聘博士研究生拟聘用人员公示（第二批）",
+          "date": "2025-09-29",
+          "headcount": null,
+          "positions": null,
+          "source": "大同市人民政府",
+          "url": "http://www.dt.gov.cn/dtszf/jggggkzp/202509/eeead845ff8c4756b86eff655d03f9d3.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 140300,
+      "name": "阳泉市",
+      "districts": [
+        "城区",
+        "矿区",
+        "郊区",
+        "平定县",
+        "盂县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "阳泉党建网（中共阳泉市委组织部）",
+          "url": "https://www.yqdj.gov.cn/"
+        },
+        {
+          "category": "事业单位",
+          "name": "阳泉市人力资源和社会保障局",
+          "url": "http://rsj.yq.gov.cn/"
+        },
+        {
+          "category": "人才引进",
+          "name": "阳泉党建网·通知公告",
+          "url": "https://www.yqdj.gov.cn/tzgg/tggs_593862/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "阳泉市2025年事业单位公开招聘（全省联考）温馨提示",
+          "date": "2025-02-23",
+          "headcount": 796,
+          "positions": null,
+          "source": "阳泉市人力资源和社会保障局",
+          "url": "http://rsj.yq.gov.cn/zfxx/202502/t20250223_2025055.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "阳泉市2025年急需紧缺人才引进公告",
+          "date": "2025-11-11",
+          "headcount": 33,
+          "positions": null,
+          "source": "阳泉党建网",
+          "url": "https://www.yqdj.gov.cn/tzgg/tggs_593862/202511/t20251111_2136155.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "阳泉市2025年“带编入企”引才公告",
+          "date": "2025-09-02",
+          "headcount": 14,
+          "positions": null,
+          "source": "阳泉党建网",
+          "url": "https://www.yqdj.gov.cn/tzgg/tggs_593862/202509/t20250902_2108743.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 140400,
+      "name": "长治市",
+      "districts": [
+        "潞州区",
+        "上党区",
+        "屯留区",
+        "潞城区",
+        "襄垣县",
+        "平顺县",
+        "黎城县",
+        "壶关县",
+        "长子县",
+        "武乡县",
+        "沁县",
+        "沁源县"
+      ],
+      "portals": [
+        {
+          "category": "事业单位",
+          "name": "长治市人力资源和社会保障局",
+          "url": "https://rsj.changzhi.gov.cn/"
+        },
+        {
+          "category": "录用公示",
+          "name": "长治市人力资源和社会保障局·通知公告",
+          "url": "https://rsj.changzhi.gov.cn/zwxx/rsjtzgg/"
+        },
+        {
+          "category": "公务员",
+          "name": "长治市人民政府",
+          "url": "https://www.changzhi.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "长治市2025年事业单位公开招聘博士研究生和高层次人才公告",
+          "date": "2025-08-16",
+          "headcount": 88,
+          "positions": null,
+          "source": "长治市人力资源和社会保障局",
+          "url": "https://rsj.changzhi.gov.cn/zwxx/rsjtzgg/202508/t20250816_3078727.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "长治市中医医院2025年公开招聘聘用制工作人员公告",
+          "date": "2025-06-11",
+          "headcount": 34,
+          "positions": null,
+          "source": "长治市人力资源和社会保障局",
+          "url": "https://rsj.changzhi.gov.cn/zwxx/rsjtzgg/202506/t20250611_3054749.html",
+          "attachments": [
+            {
+              "name": "2025年长治市中医医院公开招聘聘用制工作人员简章.xls",
+              "url": "https://rsj.changzhi.gov.cn/zwxx/rsjtzgg/202506/P020250611560201474102.xls",
+              "local": "attachments/140400/2025年长治市中医医院公开招聘聘用制工作人员简章.xls"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adcode": 140500,
+      "name": "晋城市",
+      "districts": [
+        "城区",
+        "沁水县",
+        "阳城县",
+        "陵川县",
+        "泽州县",
+        "高平市"
+      ],
+      "portals": [
+        {
+          "category": "事业单位",
+          "name": "晋城市人力资源和社会保障局·公开招聘",
+          "url": "http://rsj.jcgov.gov.cn/gkzp_43728/"
+        },
+        {
+          "category": "公务员",
+          "name": "晋城市人民政府",
+          "url": "http://www.jcgov.gov.cn/"
+        },
+        {
+          "category": "录用公示",
+          "name": "晋城市人力资源和社会保障局·通知公告",
+          "url": "http://rsj.jcgov.gov.cn/tzgg/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "晋城市大学生乡村医生专项计划2025年公开招聘工作人员公告",
+          "date": "2025-09-22",
+          "headcount": null,
+          "positions": null,
+          "source": "晋城市人力资源和社会保障局",
+          "url": "http://rsj.jcgov.gov.cn/tzgg/202509/t20250922_2265941.shtml",
+          "attachments": [
+            {
+              "name": "2025年晋城市大学生乡村医生专项计划公开招聘岗位信息表.xlsx",
+              "url": "http://rsj.jcgov.gov.cn/tzgg/202509/P020250922363143102359.xlsx",
+              "local": "attachments/140500/2025年晋城市大学生乡村医生专项计划公开招聘岗位信息表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "晋城职业技术学院2025年公开招聘工作人员公告",
+          "date": "2025-10-22",
+          "headcount": null,
+          "positions": null,
+          "source": "晋城市人力资源和社会保障局",
+          "url": "http://rsj.jcgov.gov.cn/tzgg/202510/t20251022_2277022.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 140600,
+      "name": "朔州市",
+      "districts": [
+        "朔城区",
+        "平鲁区",
+        "山阴县",
+        "应县",
+        "右玉县",
+        "怀仁市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "朔州市人民政府·人事考试",
+          "url": "http://www.shuozhou.gov.cn/ztjs/rlzy/rsks/"
+        },
+        {
+          "category": "事业单位",
+          "name": "朔州市人民政府·人力资源和社会保障专栏",
+          "url": "http://www.shuozhou.gov.cn/ztjs/rlzy/"
+        },
+        {
+          "category": "公务员",
+          "name": "朔州市人民政府",
+          "url": "http://www.shuozhou.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "朔州市2025年事业单位公开招聘工作人员公告",
+          "date": "2025-02-14",
+          "headcount": 454,
+          "positions": null,
+          "source": "朔州市人民政府",
+          "url": "http://www.shuozhou.gov.cn/ztjs/rlzy/rsks/202502/t20250214_718657.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "朔州市市直事业单位2025年公开招聘工作人员拟聘人员公示（第二批）",
+          "date": "2025-08-04",
+          "headcount": null,
+          "positions": null,
+          "source": "朔州市人民政府",
+          "url": "http://www.shuozhou.gov.cn/ztjs/rlzy/rsks/202508/t20250804_739285.html",
+          "attachments": [
+            {
+              "name": "2025年朔州市市直事业单位公开招聘工作人员拟聘人员公示名单（第二批）.xlsx",
+              "url": "http://www.shuozhou.gov.cn/ztjs/rlzy/rsks/202508/P020250804630689110957.xlsx",
+              "local": "attachments/140600/2025年朔州市市直事业单位公开招聘工作人员拟聘人员公示名单（第二批）.xlsx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adcode": 140700,
+      "name": "晋中市",
+      "districts": [
+        "榆次区",
+        "太谷区",
+        "榆社县",
+        "左权县",
+        "和顺县",
+        "昔阳县",
+        "寿阳县",
+        "祁县",
+        "平遥县",
+        "灵石县",
+        "介休市"
+      ],
+      "portals": [
+        {
+          "category": "事业单位",
+          "name": "晋中市人力资源和社会保障局·事业单位公开招聘专栏",
+          "url": "https://rsj.sxjz.gov.cn/ztzl/jzssydwgkzpxxzl/"
+        },
+        {
+          "category": "公务员",
+          "name": "晋中市人民政府",
+          "url": "http://www.sxjz.gov.cn/"
+        },
+        {
+          "category": "录用公示",
+          "name": "晋中市人力资源和社会保障局",
+          "url": "https://rsj.sxjz.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "晋中市2025年事业单位公开招聘公告",
+          "date": "2025-02-14",
+          "headcount": 1575,
+          "positions": null,
+          "source": "晋中市人力资源和社会保障局",
+          "url": "https://rsj.sxjz.gov.cn/ztzl/jzssydwgkzpxxzl/content_528097",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "晋中市市直部分事业单位2025年公开招聘拟聘用人员公示（二）",
+          "date": "2025-07-22",
+          "headcount": null,
+          "positions": null,
+          "source": "晋中市人力资源和社会保障局",
+          "url": "https://rsj.sxjz.gov.cn/ztzl/jzssydwgkzpxxzl/content_543039",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 140800,
+      "name": "运城市",
+      "districts": [
+        "盐湖区",
+        "临猗县",
+        "万荣县",
+        "闻喜县",
+        "稷山县",
+        "新绛县",
+        "绛县",
+        "垣曲县",
+        "夏县",
+        "平陆县",
+        "芮城县",
+        "永济市",
+        "河津市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "运城人事考试网",
+          "url": "https://www.ycrkb.com/"
+        },
+        {
+          "category": "事业单位",
+          "name": "运城市人民政府·人力资源和社会保障局专栏",
+          "url": "https://www.yuncheng.gov.cn/bmzt/srsjzl/mhlist_8.shtml"
+        },
+        {
+          "category": "公务员",
+          "name": "运城市人民政府",
+          "url": "https://www.yuncheng.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "运城市属4所高校2025年公开招聘工作人员公告",
+          "date": "2025-05-19",
+          "headcount": null,
+          "positions": null,
+          "source": "运城人事考试网",
+          "url": "https://www.ycrkb.com/detail/1451",
+          "attachments": [
+            {
+              "name": "2025年运城市属4所高校公开招聘工作人员博士岗位表.xls",
+              "url": "https://jyj.yuncheng.gov.cn/uploadfiles/202505/19/2025051922080113771830.xls",
+              "local": null
+            },
+            {
+              "name": "2025年运城市属4所高校公开招聘工作人员硕士岗位表.xls",
+              "url": "https://jyj.yuncheng.gov.cn/uploadfiles/202505/19/2025051922081471773679.xls",
+              "local": null
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "运城市2025年市直事业单位公开选调工作人员公告",
+          "date": "2025-07-24",
+          "headcount": null,
+          "positions": null,
+          "source": "运城人事考试网",
+          "url": "https://www.ycrkb.com/detail/1480",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "title": "运城幼儿师范高等专科学校2026年公开招聘博士研究生公告",
+          "date": "2026-03-02",
+          "headcount": null,
+          "positions": null,
+          "source": "山西省人力资源和社会保障厅",
+          "url": "https://rst.shanxi.gov.cn/ztzl/zpxx/sxsydwzpgg/202603/t20260302_10070149.shtml",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 140900,
+      "name": "忻州市",
+      "districts": [
+        "忻府区",
+        "定襄县",
+        "五台县",
+        "代县",
+        "繁峙县",
+        "宁武县",
+        "静乐县",
+        "神池县",
+        "五寨县",
+        "岢岚县",
+        "河曲县",
+        "保德县",
+        "偏关县",
+        "原平市"
+      ],
+      "portals": [
+        {
+          "category": "事业单位",
+          "name": "忻州市人力资源和社会保障局",
+          "url": "https://rsj.sxxz.gov.cn/"
+        },
+        {
+          "category": "录用公示",
+          "name": "忻州市人力资源和社会保障局·公示信息",
+          "url": "https://rsj.sxxz.gov.cn/rsks/gsxx/"
+        },
+        {
+          "category": "公务员",
+          "name": "忻州市人民政府",
+          "url": "http://www.sxxz.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "忻州市直事业单位2025年引进博士研究生公告",
+          "date": "2025-03-20",
+          "headcount": 52,
+          "positions": null,
+          "source": "忻州市人力资源和社会保障局",
+          "url": "https://rsj.sxxz.gov.cn/zwgk/tzgg/202503/t20250320_4072008.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "忻州市2025年事业单位公开招聘拟聘用人员公示",
+          "date": "2025-08-06",
+          "headcount": null,
+          "positions": null,
+          "source": "忻州市人力资源和社会保障局",
+          "url": "https://rsj.sxxz.gov.cn/rsks/gsxx/202508/t20250806_4110186.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 141000,
+      "name": "临汾市",
+      "districts": [
+        "尧都区",
+        "曲沃县",
+        "翼城县",
+        "襄汾县",
+        "洪洞县",
+        "古县",
+        "安泽县",
+        "浮山县",
+        "吉县",
+        "乡宁县",
+        "大宁县",
+        "隰县",
+        "永和县",
+        "蒲县",
+        "汾西县",
+        "侯马市",
+        "霍州市"
+      ],
+      "portals": [
+        {
+          "category": "事业单位",
+          "name": "临汾市人力资源和社会保障局·事业单位公开招聘专栏",
+          "url": "http://rsj.linfen.gov.cn/ztzl/sydwgkzpxx/"
+        },
+        {
+          "category": "公务员",
+          "name": "临汾市人民政府",
+          "url": "http://www.linfen.gov.cn/"
+        },
+        {
+          "category": "录用公示",
+          "name": "临汾市人力资源和社会保障局",
+          "url": "http://rsj.linfen.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "临汾市2025年大学生乡村医生专项招聘公告",
+          "date": "2025-09-22",
+          "headcount": 15,
+          "positions": null,
+          "source": "临汾市卫生健康委员会",
+          "url": "http://wjw.linfen.gov.cn/xwzx/bmyw/202509/t20250922_574565.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "临汾市市直事业单位2025年公开招聘补充招聘拟聘用人员公示",
+          "date": "2025-12-04",
+          "headcount": null,
+          "positions": null,
+          "source": "临汾市人力资源和社会保障局",
+          "url": "http://rsj.linfen.gov.cn/ztzl/sydwgkzpxx/202512/t20251204_596331.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 141100,
+      "name": "吕梁市",
+      "districts": [
+        "离石区",
+        "文水县",
+        "交城县",
+        "兴县",
+        "临县",
+        "柳林县",
+        "石楼县",
+        "岚县",
+        "方山县",
+        "中阳县",
+        "交口县",
+        "孝义市",
+        "汾阳市"
+      ],
+      "portals": [
+        {
+          "category": "事业单位",
+          "name": "吕梁人事人才网",
+          "url": "https://www.llrc.com.cn/"
+        },
+        {
+          "category": "公务员",
+          "name": "吕梁市人民政府",
+          "url": "http://www.lvliang.gov.cn/"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "吕梁市2025年事业单位公开招聘博士研究生公告",
+          "date": "2025-04-15",
+          "headcount": 68,
+          "positions": null,
+          "source": "吕梁人事人才网",
+          "url": "https://www.llrc.com.cn/article/9002",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "吕梁学院2026年公开招聘博士研究生公告",
+          "date": "2026-06-03",
+          "headcount": null,
+          "positions": null,
+          "source": "山西省人力资源和社会保障厅",
+          "url": "https://rst.shanxi.gov.cn/ztzl/zpxx/szsydwzpgg/202606/t20260603_10139007.shtml",
+          "attachments": []
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "name": "山西大学",
+      "city": "太原市",
+      "cityAdcode": 140100,
+      "tags": [
+        "双一流",
+        "省属重点"
+      ],
+      "website": "https://www.sxu.edu.cn",
+      "hrUrl": "https://rsc.sxu.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "太原科技大学",
+      "city": "太原市",
+      "cityAdcode": 140100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.tyust.edu.cn",
+      "hrUrl": "http://rsc.tyust.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "中北大学",
+      "city": "太原市",
+      "cityAdcode": 140100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.nuc.edu.cn",
+      "hrUrl": "https://rlzyglc.nuc.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "太原理工大学",
+      "city": "太原市",
+      "cityAdcode": 140100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.tyut.edu.cn",
+      "hrUrl": "https://renshi.tyut.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "山西农业大学",
+      "city": "晋中市",
+      "cityAdcode": 140700,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.sxau.edu.cn",
+      "hrUrl": "http://rsc.sxau.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "山西医科大学",
+      "city": "太原市",
+      "cityAdcode": 140100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.sxmu.edu.cn",
+      "hrUrl": "https://www.sxmu.edu.cn/rsc/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长治医学院",
+      "city": "长治市",
+      "cityAdcode": 140400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.czmc.edu.cn",
+      "hrUrl": "http://rsc.czmc.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "山西师范大学",
+      "city": "太原市",
+      "cityAdcode": 140100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.sxnu.edu.cn",
+      "hrUrl": "https://rsc.sxnu.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "太原师范学院",
+      "city": "晋中市",
+      "cityAdcode": 140700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.tynu.edu.cn",
+      "hrUrl": "http://rsc.tynu.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "山西大同大学",
+      "city": "大同市",
+      "cityAdcode": 140200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sxdtdx.edu.cn",
+      "hrUrl": "http://rsc.sxdtdx.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "晋中学院",
+      "city": "晋中市",
+      "cityAdcode": 140700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.jzxy.edu.cn",
+      "hrUrl": "http://rsc.jzxy.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长治学院",
+      "city": "长治市",
+      "cityAdcode": 140400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.czc.edu.cn",
+      "hrUrl": "http://rsc.czc.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "运城学院",
+      "city": "运城市",
+      "cityAdcode": 140800,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ycu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "忻州师范学院",
+      "city": "忻州市",
+      "cityAdcode": 140900,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xztu.edu.cn",
+      "hrUrl": "http://rsc.xztu.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "山西财经大学",
+      "city": "太原市",
+      "cityAdcode": 140100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.sxufe.edu.cn",
+      "hrUrl": "http://rsc.sxufe.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "山西中医药大学",
+      "city": "晋中市",
+      "cityAdcode": 140700,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.sxtcm.edu.cn",
+      "hrUrl": "http://rsc.sxtcm.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "吕梁学院",
+      "city": "吕梁市",
+      "cityAdcode": 141100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.llu.edu.cn",
+      "hrUrl": "https://rsc.llu.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "太原学院",
+      "city": "太原市",
+      "cityAdcode": 140100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.tyu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "山西警察学院",
+      "city": "太原市",
+      "cityAdcode": 140100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sxpc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "山西应用科技学院",
+      "city": "太原市",
+      "cityAdcode": 140100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "http://www.astsx.com",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "山西工程科技职业大学",
+      "city": "晋中市",
+      "cityAdcode": 140700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sxgkd.edu.cn",
+      "hrUrl": "https://rlzyb.sxgkd.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "山西工学院",
+      "city": "朔州市",
+      "cityAdcode": 140600,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sxct.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "晋中信息学院",
+      "city": "晋中市",
+      "cityAdcode": 140700,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.jzci.edu.cn",
+      "hrUrl": "https://rsc.jzci.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "山西电子科技学院",
+      "city": "临汾市",
+      "cityAdcode": 141000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sxdzkj.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "山西晋中理工学院",
+      "city": "晋中市",
+      "cityAdcode": 140700,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.sxjzit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "山西科技学院",
+      "city": "晋城市",
+      "cityAdcode": 140500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sxist.edu.cn",
+      "hrUrl": "https://rsc.sxist.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "晋中健康学院",
+      "city": "晋中市",
+      "cityAdcode": 140700,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "http://www.sxmu-jcc.com",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "山西财经大学华商学院",
+      "city": "太原市",
+      "cityAdcode": 140100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "http://www.schsxy.com",
+      "hrUrl": "http://rsc.schsxy.com/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "山西工商学院",
+      "city": "太原市",
+      "cityAdcode": 140100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.sxtbu.net",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "太原工业学院",
+      "city": "太原市",
+      "cityAdcode": 140100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.tit.edu.cn",
+      "hrUrl": "https://rsc.tit.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "运城职业技术大学",
+      "city": "运城市",
+      "cityAdcode": 140800,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.ycptu.edu.cn",
+      "hrUrl": "https://rsc.ycptu.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "山西传媒学院",
+      "city": "太原市",
+      "cityAdcode": 140100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.cusx.edu.cn",
+      "hrUrl": "https://rlzyb.cusx.edu.cn/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "山西工程技术学院",
+      "city": "阳泉市",
+      "cityAdcode": 140300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sxit.edu.cn",
+      "hrUrl": "https://www.sxit.edu.cn/xrsc/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "山西能源学院",
+      "city": "晋中市",
+      "cityAdcode": 140700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sxie.edu.cn",
+      "hrUrl": "https://www.sxie.edu.cn/rsc/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "山西医药学院",
+      "city": "吕梁市",
+      "cityAdcode": 141100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sxum.edu.cn",
+      "hrUrl": "http://www.sxmufyc.edu.cn/renshichu/",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "山西文化旅游职业大学",
+      "city": "太原市",
+      "cityAdcode": 140100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sxvuct.edu.cn",
+      "hrUrl": "https://rsc.sxvuct.edu.cn/",
+      "talentPolicyUrl": null
+    }
+  ]
+}

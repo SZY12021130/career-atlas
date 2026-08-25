@@ -1,0 +1,1863 @@
+{
+  "adcode": 340000,
+  "name": "安徽省",
+  "updatedAt": "2026-08-25",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "安徽先锋网（中共安徽省委组织部）",
+      "url": "https://www.ahxf.gov.cn"
+    },
+    {
+      "category": "公务员",
+      "name": "安徽省人事考试网",
+      "url": "https://www.apta.gov.cn"
+    },
+    {
+      "category": "公务员",
+      "name": "长三角公务员考录一体化平台",
+      "url": "https://www.csjgwy.com"
+    },
+    {
+      "category": "事业单位",
+      "name": "安徽省人力资源和社会保障厅",
+      "url": "https://hrss.ah.gov.cn"
+    },
+    {
+      "category": "选调",
+      "name": "安徽先锋网（选调生招录公告）",
+      "url": "https://www.ahxf.gov.cn"
+    },
+    {
+      "category": "人才引进",
+      "name": "安徽省人力资源和社会保障厅",
+      "url": "https://hrss.ah.gov.cn"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 340100,
+      "name": "合肥市",
+      "districts": [
+        "瑶海区",
+        "庐阳区",
+        "蜀山区",
+        "包河区",
+        "长丰县",
+        "肥东县",
+        "肥西县",
+        "庐江县",
+        "巢湖市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "合肥先锋网（中共合肥市委组织部）",
+          "url": "https://www.hfxf.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "合肥人事考试网",
+          "url": "https://www.hfpta.com"
+        },
+        {
+          "category": "事业单位",
+          "name": "合肥市人力资源和社会保障局",
+          "url": "https://rsj.hefei.gov.cn"
+        },
+        {
+          "category": "人才引进",
+          "name": "合肥市人民政府",
+          "url": "https://www.hefei.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "安徽省2026年度考试录用公务员公告",
+          "date": "2026-01-15",
+          "headcount": 7195,
+          "positions": null,
+          "source": "安徽省人事考试网",
+          "url": "http://www.apta.gov.cn/Officer/FAnnouncementDetail/1082",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "安徽省2025年度考试录用公务员公告",
+          "date": "2025-01-03",
+          "headcount": 8022,
+          "positions": null,
+          "source": "安徽省公务员局（安徽省教育厅转载）",
+          "url": "https://jyj.ah.gov.cn/xxfb/tzgg/40734350.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "安徽省2026年度选调生招录公告",
+          "date": "2026-01-15",
+          "headcount": 700,
+          "positions": null,
+          "source": "安徽省人事考试网",
+          "url": "http://www.apta.gov.cn/Officer/FAnnouncementDetail/1081",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "安徽省2026年度省直事业单位统一公开招聘工作人员公告",
+          "date": "2026-01-29",
+          "headcount": 898,
+          "positions": null,
+          "source": "安徽省人力资源和社会保障厅",
+          "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahssydwgkzp/80783682.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年度安徽省直事业单位统一笔试公开招聘工作人员公告",
+          "date": "2025-02-28",
+          "headcount": 976,
+          "positions": null,
+          "source": "安徽省人力资源和社会保障厅",
+          "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahssydwgkzp/80761883.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "合肥市2025年上半年市直事业单位公开招聘工作人员公告",
+          "date": "2025-02-28",
+          "headcount": 40,
+          "positions": null,
+          "source": "安徽省人力资源和社会保障厅",
+          "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahsszsydwgkzpzl/gsszgxgkzp/80762095.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "合肥市2025年下半年市直事业单位公开招聘工作人员公告",
+          "date": "2025-09-09",
+          "headcount": 100,
+          "positions": null,
+          "source": "合肥先锋网",
+          "url": "https://www.hfxf.gov.cn/tzgg/18878923.html",
+          "attachments": [
+            {
+              "name": "2025年合肥市市直事业单位公开招聘岗位表（下半年）.xlsx",
+              "url": "https://www.hfxf.gov.cn/group5/M00/33/76/wKgEImi_nj2AHhUuAAdGjzDMzgY36.xlsx",
+              "local": "attachments/340100/2025年合肥市市直事业单位公开招聘岗位表（下半年）.xlsx"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adcode": 340200,
+      "name": "芜湖市",
+      "districts": [
+        "镜湖区",
+        "弋江区",
+        "鸠江区",
+        "湾沚区",
+        "繁昌区",
+        "南陵县",
+        "无为市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "芜湖先锋网（中共芜湖市委组织部）",
+          "url": "https://www.whxf.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "芜湖市人力资源和社会保障局",
+          "url": "https://rsj.wuhu.gov.cn"
+        },
+        {
+          "category": "人才引进",
+          "name": "芜湖市人民政府",
+          "url": "https://www.wuhu.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "安徽省2026年度考试录用公务员公告",
+          "date": "2026-01-15",
+          "headcount": 7195,
+          "positions": null,
+          "source": "安徽省人事考试网",
+          "url": "http://www.apta.gov.cn/Officer/FAnnouncementDetail/1082",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年度芜湖市事业单位公开招聘工作人员公告",
+          "date": "2025-02-28",
+          "headcount": 366,
+          "positions": null,
+          "source": "芜湖市人力资源和社会保障局",
+          "url": "https://rsj.wuhu.gov.cn/ztzl/sydwgkzp/8812140.html",
+          "attachments": [
+            {
+              "name": "2025年度芜湖市事业单位公开招聘工作人员岗位表.xlsx",
+              "url": "https://rsj.wuhu.gov.cn/group4/M00/04/D4/rBwdT2fBeHOAeAoQAAC4TN6nkoM66.xlsx",
+              "local": "attachments/340200/2025年度芜湖市事业单位公开招聘工作人员岗位表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年度芜湖市繁昌区事业单位公开招聘拟聘用人员公示",
+          "date": "2025-12-31",
+          "headcount": null,
+          "positions": null,
+          "source": "芜湖市人力资源和社会保障局",
+          "url": "https://rsj.wuhu.gov.cn/xwzx/tzgg/8897337.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 340300,
+      "name": "蚌埠市",
+      "districts": [
+        "龙子湖区",
+        "蚌山区",
+        "禹会区",
+        "淮上区",
+        "怀远县",
+        "五河县",
+        "固镇县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "蚌埠先锋网（中共蚌埠市委组织部）",
+          "url": "https://bbxf.bb.ah.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "蚌埠市人力资源和社会保障局",
+          "url": "https://rsj.bengbu.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "蚌埠人事考试网上服务大厅",
+          "url": "https://www.bbrsksfwdt.cn"
+        },
+        {
+          "category": "人才引进",
+          "name": "蚌埠市人民政府",
+          "url": "https://www.bengbu.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "安徽省2026年度考试录用公务员公告",
+          "date": "2026-01-15",
+          "headcount": 7195,
+          "positions": null,
+          "source": "安徽省人事考试网",
+          "url": "http://www.apta.gov.cn/Officer/FAnnouncementDetail/1082",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "蚌埠市2025年度事业单位公开招聘工作人员公告（市区）",
+          "date": "2025-02-28",
+          "headcount": 154,
+          "positions": null,
+          "source": "蚌埠市人力资源和社会保障局",
+          "url": "https://rsj.bengbu.gov.cn/tslm/rsks/sydwl/140865346.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "蚌埠市2025年度事业单位公开招聘工作人员拟聘用人员公示（第一批）",
+          "date": "2025-07-16",
+          "headcount": 127,
+          "positions": null,
+          "source": "蚌埠市人力资源和社会保障局",
+          "url": "https://rsj.bengbu.gov.cn/tslm/rsks/sydwl/140947634.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "蚌埠市2025年度事业单位公开招聘工作人员拟聘用人员公示（第二批）",
+          "date": "2025-08-04",
+          "headcount": 16,
+          "positions": null,
+          "source": "蚌埠市人力资源和社会保障局",
+          "url": "https://rsj.bengbu.gov.cn/tslm/rsks/sydwl/140957811.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 340400,
+      "name": "淮南市",
+      "districts": [
+        "大通区",
+        "田家庵区",
+        "谢家集区",
+        "八公山区",
+        "潘集区",
+        "凤台县",
+        "寿县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "淮南先锋网（中共淮南市委组织部）",
+          "url": "https://www.hnxfw.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "淮南市人力资源和社会保障局",
+          "url": "https://rsj.huainan.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "淮南人事考试网",
+          "url": "https://www.hnpta.com"
+        },
+        {
+          "category": "人才引进",
+          "name": "淮南市人民政府",
+          "url": "https://www.huainan.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "安徽省2026年度考试录用公务员公告",
+          "date": "2026-01-15",
+          "headcount": 7195,
+          "positions": null,
+          "source": "安徽省人事考试网",
+          "url": "http://www.apta.gov.cn/Officer/FAnnouncementDetail/1082",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年度淮南市事业单位公开招聘工作人员公告",
+          "date": "2025-02-28",
+          "headcount": 560,
+          "positions": null,
+          "source": "安徽省人力资源和社会保障厅",
+          "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahsszsydwgkzpzl/gsszgxgkzp/80762097.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "2025年度淮南市事业单位引进急需紧缺人才公告",
+          "date": "2025-12-09",
+          "headcount": 7,
+          "positions": null,
+          "source": "淮南市人力资源和社会保障局",
+          "url": "https://rsj.huainan.gov.cn/gzqk/tzgg/551848281.html",
+          "attachments": [
+            {
+              "name": "2025年度淮南市事业单位引进急需紧缺人才岗位计划表.docx",
+              "url": "https://rsj.huainan.gov.cn/group4/M00/10/ED/rB40qWk3z1yAYxmOAAA_XBPmWqk68.docx",
+              "local": "attachments/340400/2025年度淮南市事业单位引进急需紧缺人才岗位计划表.docx"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "title": "2025年度淮南市事业单位引进急需紧缺人才拟聘用人员公示",
+          "date": "2026-01-30",
+          "headcount": null,
+          "positions": null,
+          "source": "淮南市人力资源和社会保障局",
+          "url": "https://rsj.huainan.gov.cn/gzqk/tzgg/551852765.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 340500,
+      "name": "马鞍山市",
+      "districts": [
+        "花山区",
+        "雨山区",
+        "博望区",
+        "当涂县",
+        "含山县",
+        "和县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "马鞍山先锋网（中共马鞍山市委组织部）",
+          "url": "https://www.masxf.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "马鞍山市人力资源和社会保障局",
+          "url": "https://rsj.mas.gov.cn"
+        },
+        {
+          "category": "人才引进",
+          "name": "马鞍山市人民政府",
+          "url": "https://www.mas.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "安徽省2026年度考试录用公务员公告",
+          "date": "2026-01-15",
+          "headcount": 7195,
+          "positions": null,
+          "source": "安徽省人事考试网",
+          "url": "http://www.apta.gov.cn/Officer/FAnnouncementDetail/1082",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "安徽省2025年度考试录用公务员公告（马鞍山先锋网转发）",
+          "date": "2025-01-03",
+          "headcount": 8022,
+          "positions": null,
+          "source": "马鞍山先锋网",
+          "url": "https://www.masxf.gov.cn/Home/detail/164841",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年度马鞍山市直事业单位公开招聘工作人员公告",
+          "date": "2025-02-28",
+          "headcount": 119,
+          "positions": null,
+          "source": "马鞍山市人力资源和社会保障局",
+          "url": "https://rsj.mas.gov.cn/zyzx/ywzl/rsks/2005741641.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "马鞍山市2025年度考试录用公务员拟录用人员公示（第三批）",
+          "date": "2025-06-20",
+          "headcount": 13,
+          "positions": null,
+          "source": "马鞍山先锋网",
+          "url": "https://www.masxf.gov.cn/Home/detail/165411",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 340600,
+      "name": "淮北市",
+      "districts": [
+        "相山区",
+        "杜集区",
+        "烈山区",
+        "濉溪县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "淮北先锋网（中共淮北市委组织部）",
+          "url": "https://www.hbxfw.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "淮北市人力资源和社会保障局",
+          "url": "https://rsj.huaibei.gov.cn"
+        },
+        {
+          "category": "人才引进",
+          "name": "淮北市人民政府",
+          "url": "https://www.huaibei.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "安徽省2026年度考试录用公务员公告",
+          "date": "2026-01-15",
+          "headcount": 7195,
+          "positions": null,
+          "source": "安徽省人事考试网",
+          "url": "http://www.apta.gov.cn/Officer/FAnnouncementDetail/1082",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年度淮北市事业单位公开招聘工作人员公告",
+          "date": "2025-02-28",
+          "headcount": 93,
+          "positions": null,
+          "source": "淮北市人力资源和社会保障局",
+          "url": "https://rsj.huaibei.gov.cn/gggs/57871854.html",
+          "attachments": [
+            {
+              "name": "2025年度淮北市事业单位公开招聘工作人员岗位计划表.xlsx",
+              "url": "https://rsj.huaibei.gov.cn/group3/M00/04/B5/CqETMmfBhxuAMmGIAACCQPNmu4889.xlsx",
+              "local": "attachments/340600/2025年度淮北市事业单位公开招聘工作人员岗位计划表.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年度淮北市事业单位公开招聘工作人员拟聘用人员名单（第二批）公示",
+          "date": "2025-08-25",
+          "headcount": 9,
+          "positions": null,
+          "source": "淮北先锋网",
+          "url": "https://hbxfw.gov.cn/qd/newsMsg/103059",
+          "attachments": [
+            {
+              "name": "2025年度淮北市事业单位公开招聘拟聘用人员名单（第二批）.xls",
+              "url": "https://hbxfw.gov.cn/prod-api/profile/Ueditor/2025/08/25/2025%E5%B9%B4%E5%BA%A6%E6%B7%AE%E5%8C%97%E5%B8%82%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8B%9F%E8%81%98%E7%94%A8%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%88%E7%AC%AC%E4%BA%8C%E6%89%B9%EF%BC%89_20250825181654A099.xls",
+              "local": "attachments/340600/2025年度淮北市事业单位公开招聘拟聘用人员名单（第二批）.xls"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adcode": 340700,
+      "name": "铜陵市",
+      "districts": [
+        "铜官区",
+        "义安区",
+        "郊区",
+        "枞阳县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "铜陵先锋网（中共铜陵市委组织部）",
+          "url": "https://www.tlxfzx.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "铜陵市人力资源和社会保障局",
+          "url": "https://rsj.tl.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "铜陵市人民政府（事业单位招录专栏）",
+          "url": "https://www.tl.gov.cn"
+        },
+        {
+          "category": "人才引进",
+          "name": "铜陵市人民政府",
+          "url": "https://www.tl.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "安徽省2026年度考试录用公务员公告",
+          "date": "2026-01-15",
+          "headcount": 7195,
+          "positions": null,
+          "source": "安徽省人事考试网",
+          "url": "http://www.apta.gov.cn/Officer/FAnnouncementDetail/1082",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年铜陵市市直事业单位公开招聘工作人员公告",
+          "date": "2025-02-28",
+          "headcount": 112,
+          "positions": null,
+          "source": "铜陵市人民政府",
+          "url": "https://www.tl.gov.cn/tlsrmzf/zpzn/pc/content/content_1897199993842622464.html",
+          "attachments": [
+            {
+              "name": "2025年铜陵市市直事业单位公开招聘工作人员岗位表.xlsx",
+              "url": "https://www.tl.gov.cn/doc/ucap/1676766850592583680/document/20250304/U8TOhMQo.xlsx",
+              "local": null
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年铜陵市市直事业单位公开招聘拟录用人员公示（一）",
+          "date": "2025-08-07",
+          "headcount": null,
+          "positions": null,
+          "source": "铜陵市人民政府",
+          "url": "https://www.tl.gov.cn/openness/OpennessContent/show/1110130.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 340800,
+      "name": "安庆市",
+      "districts": [
+        "迎江区",
+        "大观区",
+        "宜秀区",
+        "怀宁县",
+        "太湖县",
+        "宿松县",
+        "望江县",
+        "岳西县",
+        "桐城市",
+        "潜山市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "安庆先锋网（中共安庆市委组织部）",
+          "url": "https://www.aqxf.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "安庆市人力资源和社会保障局",
+          "url": "https://rsj.anqing.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "安庆人事考试培训网",
+          "url": "https://www.aqpta.com"
+        },
+        {
+          "category": "人才引进",
+          "name": "安庆市人民政府",
+          "url": "https://www.anqing.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "安徽省2026年度考试录用公务员公告",
+          "date": "2026-01-15",
+          "headcount": 7195,
+          "positions": null,
+          "source": "安徽省人事考试网",
+          "url": "http://www.apta.gov.cn/Officer/FAnnouncementDetail/1082",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年安庆市市直事业单位公开招聘工作人员公告",
+          "date": "2025-02-28",
+          "headcount": 110,
+          "positions": null,
+          "source": "安庆市人力资源和社会保障局",
+          "url": "https://rsj.anqing.gov.cn/xxfb/tzgg/2003986698.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年安庆市市直事业单位公开招聘拟聘用人员名单公示（一）",
+          "date": "2025-07-21",
+          "headcount": 87,
+          "positions": null,
+          "source": "安庆市人力资源和社会保障局",
+          "url": "https://rsj.anqing.gov.cn/xxfb/ztzl/gkzk/sydwhzyzgjsks/2004108217.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 341000,
+      "name": "黄山市",
+      "districts": [
+        "屯溪区",
+        "黄山区",
+        "徽州区",
+        "歙县",
+        "休宁县",
+        "黟县",
+        "祁门县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "黄山先锋网（中共黄山市委组织部）",
+          "url": "https://www.hsxfw.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "黄山市人力资源和社会保障局",
+          "url": "https://rsj.huangshan.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "黄山人事考试网",
+          "url": "http://www.hsrskp.cn"
+        },
+        {
+          "category": "人才引进",
+          "name": "黄山市人民政府",
+          "url": "https://www.huangshan.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "安徽省2026年度考试录用公务员公告",
+          "date": "2026-01-15",
+          "headcount": 7195,
+          "positions": null,
+          "source": "安徽省人事考试网",
+          "url": "http://www.apta.gov.cn/Officer/FAnnouncementDetail/1082",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年度黄山市市直事业单位统一笔试公开招聘工作人员公告",
+          "date": "2025-02-28",
+          "headcount": 36,
+          "positions": null,
+          "source": "黄山市人民政府",
+          "url": "https://www.huangshan.gov.cn/zwgk/public/6615714/11732593.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年度黄山市市直事业单位统一笔试公开招聘拟聘用人员公示（第二批）",
+          "date": "2025-07-01",
+          "headcount": 5,
+          "positions": null,
+          "source": "黄山市人民政府",
+          "url": "https://www.huangshan.gov.cn/zwgk/public/6615714/11835507.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 341100,
+      "name": "滁州市",
+      "districts": [
+        "琅琊区",
+        "南谯区",
+        "来安县",
+        "全椒县",
+        "定远县",
+        "凤阳县",
+        "天长市",
+        "明光市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "滁州先锋网（中共滁州市委组织部）",
+          "url": "https://www.czxfw.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "滁州市人力资源和社会保障局",
+          "url": "https://rsj.chuzhou.gov.cn"
+        },
+        {
+          "category": "人才引进",
+          "name": "滁州市人民政府",
+          "url": "https://www.chuzhou.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "安徽省2026年度考试录用公务员公告",
+          "date": "2026-01-15",
+          "headcount": 7195,
+          "positions": null,
+          "source": "安徽省人事考试网",
+          "url": "http://www.apta.gov.cn/Officer/FAnnouncementDetail/1082",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年度滁州市市直事业单位公开招聘工作人员公告",
+          "date": "2025-02-28",
+          "headcount": 78,
+          "positions": null,
+          "source": "安徽省人力资源和社会保障厅",
+          "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahsszsydwgkzpzl/gsszgxgkzp/80762073.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年度滁州市市直事业单位公开招聘拟聘用人员公示（第三批）",
+          "date": "2025-08-04",
+          "headcount": 6,
+          "positions": null,
+          "source": "滁州市人力资源和社会保障局",
+          "url": "https://rsj.chuzhou.gov.cn/gsgg/1104438959.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 341200,
+      "name": "阜阳市",
+      "districts": [
+        "颍州区",
+        "颍东区",
+        "颍泉区",
+        "临泉县",
+        "太和县",
+        "阜南县",
+        "颍上县",
+        "界首市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "阜阳先锋网（中共阜阳市委组织部）",
+          "url": "https://www.fyxfw.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "阜阳市人力资源和社会保障局",
+          "url": "https://rsj.fy.gov.cn"
+        },
+        {
+          "category": "人才引进",
+          "name": "阜阳市人民政府",
+          "url": "https://www.fy.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "安徽省2026年度考试录用公务员公告",
+          "date": "2026-01-15",
+          "headcount": 7195,
+          "positions": null,
+          "source": "安徽省人事考试网",
+          "url": "http://www.apta.gov.cn/Officer/FAnnouncementDetail/1082",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年度阜阳市市直事业单位公开招聘工作人员公告",
+          "date": "2025-02-28",
+          "headcount": 8,
+          "positions": null,
+          "source": "安徽省人力资源和社会保障厅",
+          "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahsszsydwgkzpzl/gsszgxgkzp/80762024.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年度阜阳市颍泉区事业单位公开招聘拟聘用人员（第二批）公示",
+          "date": "2025-09-02",
+          "headcount": 1,
+          "positions": null,
+          "source": "阜阳市颍泉区人民政府",
+          "url": "https://www.yingquan.gov.cn/OpennessContent/show/2634272.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 341300,
+      "name": "宿州市",
+      "districts": [
+        "埇桥区",
+        "砀山县",
+        "萧县",
+        "灵璧县",
+        "泗县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "宿州先锋网（中共宿州市委组织部）",
+          "url": "https://www.szxf.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "宿州市人力资源和社会保障局",
+          "url": "https://rsj.ahsz.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "宿州人事考试网",
+          "url": "https://www.szks.gov.cn"
+        },
+        {
+          "category": "人才引进",
+          "name": "宿州市人民政府",
+          "url": "https://www.ahsz.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "安徽省2026年度考试录用公务员公告",
+          "date": "2026-01-15",
+          "headcount": 7195,
+          "positions": null,
+          "source": "安徽省人事考试网",
+          "url": "http://www.apta.gov.cn/Officer/FAnnouncementDetail/1082",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年度宿州市市直事业单位公开招聘工作人员公告",
+          "date": "2025-02-28",
+          "headcount": 84,
+          "positions": null,
+          "source": "宿州市人力资源和社会保障局",
+          "url": "https://rsj.ahsz.gov.cn/rsks/rsks/195370501.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年宿州市市属学校公开招聘工作人员公告",
+          "date": "2025-06-05",
+          "headcount": 50,
+          "positions": null,
+          "source": "宿州市人力资源和社会保障局",
+          "url": "https://rsj.ahsz.gov.cn/rsks/rsks/195652611.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年度宿州市市直事业单位公开招聘拟聘用人员公示",
+          "date": "2025-08-27",
+          "headcount": 80,
+          "positions": null,
+          "source": "宿州市人力资源和社会保障局",
+          "url": "https://rsj.ahsz.gov.cn/rsks/rsks/195852931.html",
+          "attachments": [
+            {
+              "name": "2025年度宿州市市直事业单位公开招聘拟聘用人员名单.xls",
+              "url": "https://rsj.ahsz.gov.cn/group1/M00/00/16/Cp8OO2iuzOyAdOKeAAB0AJIY30A002.xls",
+              "local": "attachments/341300/2025年度宿州市市直事业单位公开招聘拟聘用人员名单.xls"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adcode": 341500,
+      "name": "六安市",
+      "districts": [
+        "金安区",
+        "裕安区",
+        "叶集区",
+        "霍邱县",
+        "舒城县",
+        "金寨县",
+        "霍山县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "六安先锋网（中共六安市委组织部）",
+          "url": "https://www.laxf.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "六安市人力资源和社会保障局",
+          "url": "https://rsj.luan.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "六安人事考试网",
+          "url": "https://www.lapta.cn"
+        },
+        {
+          "category": "人才引进",
+          "name": "六安市人民政府",
+          "url": "https://www.luan.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "安徽省2026年度考试录用公务员公告",
+          "date": "2026-01-15",
+          "headcount": 7195,
+          "positions": null,
+          "source": "安徽省人事考试网",
+          "url": "http://www.apta.gov.cn/Officer/FAnnouncementDetail/1082",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年度六安市市直事业单位公开招聘工作人员公告",
+          "date": "2025-02-28",
+          "headcount": 149,
+          "positions": null,
+          "source": "六安市人力资源和社会保障局",
+          "url": "https://rsj.luan.gov.cn/zwzx/tzgg/5409517.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年度六安市市直事业单位公开招聘拟聘用人员名单公示（四）",
+          "date": "2025-12-29",
+          "headcount": null,
+          "positions": null,
+          "source": "六安市人力资源和社会保障局",
+          "url": "https://rsj.luan.gov.cn/zwzx/tzgg/5462683.html",
+          "attachments": [
+            {
+              "name": "2025年度六安市市直事业单位公开招聘拟聘用人员名单（四）.xls",
+              "url": "https://rsj.luan.gov.cn/group4/M00/17/7C/wKgSHGlSPwWAVLxkAABAAGl8pus650.xls",
+              "local": "attachments/341500/2025年度六安市市直事业单位公开招聘拟聘用人员名单（四）.xls"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adcode": 341600,
+      "name": "亳州市",
+      "districts": [
+        "谯城区",
+        "涡阳县",
+        "蒙城县",
+        "利辛县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "亳州先锋网（中共亳州市委组织部）",
+          "url": "https://www.bzxfw.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "亳州市人力资源和社会保障局",
+          "url": "https://rsj.bozhou.gov.cn"
+        },
+        {
+          "category": "人才引进",
+          "name": "亳州市人民政府",
+          "url": "https://www.bozhou.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "安徽省2026年度考试录用公务员公告",
+          "date": "2026-01-15",
+          "headcount": 7195,
+          "positions": null,
+          "source": "安徽省人事考试网",
+          "url": "http://www.apta.gov.cn/Officer/FAnnouncementDetail/1082",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年亳州市市直事业单位公开招聘工作人员公告",
+          "date": "2025-02-28",
+          "headcount": 58,
+          "positions": null,
+          "source": "安徽省人力资源和社会保障厅",
+          "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahsszsydwgkzpzl/gsszgxgkzp/80762031.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年下半年亳州市事业单位公开招聘工作人员公告",
+          "date": "2025-09-11",
+          "headcount": 152,
+          "positions": null,
+          "source": "安徽省人力资源和社会保障厅",
+          "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahsszsydwgkzpzl/gsszgxgkzp/80774633.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 341700,
+      "name": "池州市",
+      "districts": [
+        "贵池区",
+        "东至县",
+        "石台县",
+        "青阳县"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "池州先锋网（中共池州市委组织部）",
+          "url": "https://www.czxf.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "池州市人力资源和社会保障局",
+          "url": "https://czsrsj.chizhou.gov.cn"
+        },
+        {
+          "category": "人才引进",
+          "name": "池州市人民政府",
+          "url": "https://www.chizhou.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "安徽省2026年度考试录用公务员公告",
+          "date": "2026-01-15",
+          "headcount": 7195,
+          "positions": null,
+          "source": "安徽省人事考试网",
+          "url": "http://www.apta.gov.cn/Officer/FAnnouncementDetail/1082",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "安徽省2026年度选调生招录公告（池州先锋网转发）",
+          "date": "2026-01-15",
+          "headcount": 700,
+          "positions": null,
+          "source": "池州先锋网",
+          "url": "https://www.czxf.gov.cn/News/show/766529.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "title": "2026年池州市市直事业单位公开招聘工作人员公告",
+          "date": "2026-01-29",
+          "headcount": 63,
+          "positions": null,
+          "source": "池州市人力资源和社会保障局",
+          "url": "https://czsrsj.chizhou.gov.cn/News/show/767824.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "title": "池州市在安徽省2026年度定向招录选调生中同步开展人才引进工作公告",
+          "date": "2026-03-27",
+          "headcount": 24,
+          "positions": null,
+          "source": "池州先锋网",
+          "url": "https://www.czxf.gov.cn/Content/show/772616.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "title": "2026年池州市市直事业单位公开招聘工作人员拟聘公示（三）",
+          "date": "2026-08-21",
+          "headcount": 1,
+          "positions": null,
+          "source": "池州市人力资源和社会保障局",
+          "url": "https://czsrsj.chizhou.gov.cn/Content/show/785426.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 341800,
+      "name": "宣城市",
+      "districts": [
+        "宣州区",
+        "郎溪县",
+        "泾县",
+        "绩溪县",
+        "旌德县",
+        "宁国市",
+        "广德市"
+      ],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "宣城先锋网（中共宣城市委组织部）",
+          "url": "https://www.xcxf.gov.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "宣城市人力资源和社会保障局",
+          "url": "https://rsj.xuancheng.gov.cn"
+        },
+        {
+          "category": "人才引进",
+          "name": "宣城市人民政府",
+          "url": "https://www.xuancheng.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "公务员",
+          "title": "安徽省2026年度考试录用公务员公告",
+          "date": "2026-01-15",
+          "headcount": 7195,
+          "positions": null,
+          "source": "安徽省人事考试网",
+          "url": "http://www.apta.gov.cn/Officer/FAnnouncementDetail/1082",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "title": "2025年度宣城市市直事业单位公开招聘工作人员公告",
+          "date": "2025-02-28",
+          "headcount": 14,
+          "positions": null,
+          "source": "安徽省人力资源和社会保障厅",
+          "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahsszsydwgkzpzl/gsszgxgkzp/80762100.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "title": "2025年宣城市市直事业单位引进高层次人才公告",
+          "date": "2025-05-30",
+          "headcount": 19,
+          "positions": null,
+          "source": "宣城先锋网",
+          "url": "https://www.xcxf.gov.cn/News/show/126440.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "title": "2025年度宣城市市直事业单位公开招聘工作人员拟聘人员名单公示（一）",
+          "date": "2025-08-20",
+          "headcount": null,
+          "positions": null,
+          "source": "宣城市人力资源和社会保障局",
+          "url": "https://jtj.xuancheng.gov.cn/OpennessContent/show/3581815.html",
+          "attachments": []
+        }
+      ]
+    }
+  ],
+  "universities": [
+    {
+      "name": "中国科学技术大学",
+      "city": "合肥市",
+      "cityAdcode": 340100,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.ustc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "合肥工业大学",
+      "city": "合肥市",
+      "cityAdcode": 340100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.hfut.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安徽大学",
+      "city": "合肥市",
+      "cityAdcode": 340100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.ahu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安徽农业大学",
+      "city": "合肥市",
+      "cityAdcode": 340100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.ahau.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安徽医科大学",
+      "city": "合肥市",
+      "cityAdcode": 340100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.ahmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安徽中医药大学",
+      "city": "合肥市",
+      "cityAdcode": 340100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.ahtcm.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安徽建筑大学",
+      "city": "合肥市",
+      "cityAdcode": 340100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.ahjzu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "合肥大学",
+      "city": "合肥市",
+      "cityAdcode": 340100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hfuu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "合肥师范学院",
+      "city": "合肥市",
+      "cityAdcode": 340100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hfnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "巢湖学院",
+      "city": "合肥市",
+      "cityAdcode": 340100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.chu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安徽艺术学院",
+      "city": "合肥市",
+      "cityAdcode": 340100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ahua.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安徽公安学院",
+      "city": "合肥市",
+      "cityAdcode": 340100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ahpc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安徽第二医学院",
+      "city": "合肥市",
+      "cityAdcode": 340100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ahyz.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安徽职业技术大学",
+      "city": "合肥市",
+      "cityAdcode": 340100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.uta.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "合肥理工学院",
+      "city": "合肥市",
+      "cityAdcode": 340100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hfit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安徽三联学院",
+      "city": "合肥市",
+      "cityAdcode": 340100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.slu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安徽新华学院",
+      "city": "合肥市",
+      "cityAdcode": 340100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.axhu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安徽文达信息工程学院",
+      "city": "合肥市",
+      "cityAdcode": 340100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.wenda.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安徽外国语学院",
+      "city": "合肥市",
+      "cityAdcode": 340100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.aisu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "合肥经济学院",
+      "city": "合肥市",
+      "cityAdcode": 340100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.hfue.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "合肥城市学院",
+      "city": "合肥市",
+      "cityAdcode": 340100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.cuhf.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安徽医科大学临床医学院",
+      "city": "合肥市",
+      "cityAdcode": 340100,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.aycc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安徽师范大学",
+      "city": "芜湖市",
+      "cityAdcode": 340200,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.ahnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安徽工程大学",
+      "city": "芜湖市",
+      "cityAdcode": 340200,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.ahpu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "皖南医科大学",
+      "city": "芜湖市",
+      "cityAdcode": 340200,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.wnmc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "芜湖职业技术大学",
+      "city": "芜湖市",
+      "cityAdcode": 340200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.whit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安徽应用技术职业大学",
+      "city": "芜湖市",
+      "cityAdcode": 340200,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.abc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安徽信息工程学院",
+      "city": "芜湖市",
+      "cityAdcode": 340200,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.aiit.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "芜湖学院",
+      "city": "芜湖市",
+      "cityAdcode": 340200,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.uwh.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安徽财经大学",
+      "city": "蚌埠市",
+      "cityAdcode": 340300,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.aufe.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "蚌埠医科大学",
+      "city": "蚌埠市",
+      "cityAdcode": 340300,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.bbmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "蚌埠学院",
+      "city": "蚌埠市",
+      "cityAdcode": 340300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.bbc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "蚌埠工商学院",
+      "city": "蚌埠市",
+      "cityAdcode": 340300,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.bctb.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安徽理工大学",
+      "city": "淮南市",
+      "cityAdcode": 340400,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.aust.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "淮南师范学院",
+      "city": "淮南市",
+      "cityAdcode": 340400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hnnu.edu.cn",
+      "hrUrl": "https://rczp.hnnu.edu.cn",
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安徽工业大学",
+      "city": "马鞍山市",
+      "cityAdcode": 340500,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.ahut.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "皖江工学院",
+      "city": "马鞍山市",
+      "cityAdcode": 340500,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.wjut.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "马鞍山学院",
+      "city": "马鞍山市",
+      "cityAdcode": 340500,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.masu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "淮北师范大学",
+      "city": "淮北市",
+      "cityAdcode": 340600,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.chnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "淮北理工学院",
+      "city": "淮北市",
+      "cityAdcode": 340600,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.hblgxy.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "铜陵学院",
+      "city": "铜陵市",
+      "cityAdcode": 340700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.tlu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安庆师范大学",
+      "city": "安庆市",
+      "cityAdcode": 340800,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.aqnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "黄山学院",
+      "city": "黄山市",
+      "cityAdcode": 341000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.hsu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "滁州学院",
+      "city": "滁州市",
+      "cityAdcode": 341100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.chzu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安徽科技工程大学",
+      "city": "滁州市",
+      "cityAdcode": 341100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.ahstu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "阜阳师范大学",
+      "city": "阜阳市",
+      "cityAdcode": 341200,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.fynu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "阜阳理工学院",
+      "city": "阜阳市",
+      "cityAdcode": 341200,
+      "tags": [
+        "普通本科",
+        "民办"
+      ],
+      "website": "https://www.fyut.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "宿州学院",
+      "city": "宿州市",
+      "cityAdcode": 341300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.ahszu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "皖西学院",
+      "city": "六安市",
+      "cityAdcode": 341500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.wxc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "亳州学院",
+      "city": "亳州市",
+      "cityAdcode": 341600,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.bzuu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "池州学院",
+      "city": "池州市",
+      "cityAdcode": 341700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.czu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    }
+  ]
+}

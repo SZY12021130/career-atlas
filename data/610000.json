@@ -1,0 +1,731 @@
+{
+  "adcode": 610000,
+  "name": "陕西省",
+  "updatedAt": "2026-08-25",
+  "note": "骨架数据：省级官方入口与代表性公告已人工核验；市级明细持续采集中",
+  "provincePortals": [
+    {
+      "category": "公务员",
+      "name": "陕西党建网（陕西省委组织部）",
+      "url": "http://www.sx-dj.gov.cn"
+    },
+    {
+      "category": "公务员",
+      "name": "陕西人事考试网（报名平台）",
+      "url": "http://www.sxrsks.cn"
+    },
+    {
+      "category": "公务员",
+      "name": "陕西先锋网",
+      "url": "http://www.sxdyjy.cn"
+    },
+    {
+      "category": "事业单位",
+      "name": "陕西省人民政府门户网-招考招录专栏",
+      "url": "http://www.shaanxi.gov.cn"
+    }
+  ],
+  "cities": [
+    {
+      "adcode": 610100,
+      "name": "西安市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "陕西党建网（陕西省委组织部）",
+          "url": "http://www.sx-dj.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "陕西人事考试网（报名平台）",
+          "url": "http://www.sxrsks.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "陕西先锋网",
+          "url": "http://www.sxdyjy.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "陕西省人民政府门户网-招考招录专栏",
+          "url": "http://www.shaanxi.gov.cn"
+        }
+      ],
+      "recruitments": [
+        {
+          "year": 2025,
+          "category": "公务员",
+          "title": "陕西省2025年统一考试录用公务员公告",
+          "date": "2025-01-24",
+          "headcount": null,
+          "positions": null,
+          "source": "陕西党建网",
+          "url": "https://www.sx-dj.gov.cn/ywsd/szxw/1882733602797834242.html",
+          "attachments": []
+        },
+        {
+          "year": 2024,
+          "category": "公务员",
+          "title": "陕西省2024年省级机关公开遴选公开选调公务员公告",
+          "date": "2024-09-04",
+          "headcount": null,
+          "positions": null,
+          "source": "陕西党建网",
+          "url": "https://www.sx-dj.gov.cn/ywsd/szxw/1831163500025999362.html",
+          "attachments": []
+        }
+      ]
+    },
+    {
+      "adcode": 610200,
+      "name": "铜川市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "陕西党建网（陕西省委组织部）",
+          "url": "http://www.sx-dj.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "陕西人事考试网（报名平台）",
+          "url": "http://www.sxrsks.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "陕西先锋网",
+          "url": "http://www.sxdyjy.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "陕西省人民政府门户网-招考招录专栏",
+          "url": "http://www.shaanxi.gov.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 610300,
+      "name": "宝鸡市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "陕西党建网（陕西省委组织部）",
+          "url": "http://www.sx-dj.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "陕西人事考试网（报名平台）",
+          "url": "http://www.sxrsks.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "陕西先锋网",
+          "url": "http://www.sxdyjy.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "陕西省人民政府门户网-招考招录专栏",
+          "url": "http://www.shaanxi.gov.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 610400,
+      "name": "咸阳市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "陕西党建网（陕西省委组织部）",
+          "url": "http://www.sx-dj.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "陕西人事考试网（报名平台）",
+          "url": "http://www.sxrsks.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "陕西先锋网",
+          "url": "http://www.sxdyjy.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "陕西省人民政府门户网-招考招录专栏",
+          "url": "http://www.shaanxi.gov.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 610500,
+      "name": "渭南市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "陕西党建网（陕西省委组织部）",
+          "url": "http://www.sx-dj.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "陕西人事考试网（报名平台）",
+          "url": "http://www.sxrsks.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "陕西先锋网",
+          "url": "http://www.sxdyjy.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "陕西省人民政府门户网-招考招录专栏",
+          "url": "http://www.shaanxi.gov.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 610600,
+      "name": "延安市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "陕西党建网（陕西省委组织部）",
+          "url": "http://www.sx-dj.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "陕西人事考试网（报名平台）",
+          "url": "http://www.sxrsks.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "陕西先锋网",
+          "url": "http://www.sxdyjy.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "陕西省人民政府门户网-招考招录专栏",
+          "url": "http://www.shaanxi.gov.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 610700,
+      "name": "汉中市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "陕西党建网（陕西省委组织部）",
+          "url": "http://www.sx-dj.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "陕西人事考试网（报名平台）",
+          "url": "http://www.sxrsks.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "陕西先锋网",
+          "url": "http://www.sxdyjy.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "陕西省人民政府门户网-招考招录专栏",
+          "url": "http://www.shaanxi.gov.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 610800,
+      "name": "榆林市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "陕西党建网（陕西省委组织部）",
+          "url": "http://www.sx-dj.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "陕西人事考试网（报名平台）",
+          "url": "http://www.sxrsks.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "陕西先锋网",
+          "url": "http://www.sxdyjy.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "陕西省人民政府门户网-招考招录专栏",
+          "url": "http://www.shaanxi.gov.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 610900,
+      "name": "安康市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "陕西党建网（陕西省委组织部）",
+          "url": "http://www.sx-dj.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "陕西人事考试网（报名平台）",
+          "url": "http://www.sxrsks.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "陕西先锋网",
+          "url": "http://www.sxdyjy.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "陕西省人民政府门户网-招考招录专栏",
+          "url": "http://www.shaanxi.gov.cn"
+        }
+      ],
+      "recruitments": []
+    },
+    {
+      "adcode": 611000,
+      "name": "商洛市",
+      "districts": [],
+      "portals": [
+        {
+          "category": "公务员",
+          "name": "陕西党建网（陕西省委组织部）",
+          "url": "http://www.sx-dj.gov.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "陕西人事考试网（报名平台）",
+          "url": "http://www.sxrsks.cn"
+        },
+        {
+          "category": "公务员",
+          "name": "陕西先锋网",
+          "url": "http://www.sxdyjy.cn"
+        },
+        {
+          "category": "事业单位",
+          "name": "陕西省人民政府门户网-招考招录专栏",
+          "url": "http://www.shaanxi.gov.cn"
+        }
+      ],
+      "recruitments": []
+    }
+  ],
+  "universities": [
+    {
+      "name": "西安交通大学",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.xjtu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西北工业大学",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.nwpu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西北农林科技大学",
+      "city": "咸阳市",
+      "cityAdcode": 610400,
+      "tags": [
+        "985",
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.nwsuaf.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西安电子科技大学",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.xidian.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西北大学",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.nwu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "陕西师范大学",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.snnu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "长安大学",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.chd.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "空军军医大学",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "211",
+        "双一流"
+      ],
+      "website": "https://www.fmmu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西安理工大学",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.xaut.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西安建筑科技大学",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.xauat.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "陕西科技大学",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.sust.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西安科技大学",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.xust.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西北政法大学",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.nwupl.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西安外国语大学",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xisu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西安工业大学",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xatu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西安工程大学",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xpu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西安石油大学",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xsyu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西安邮电大学",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xiyou.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西安财经大学",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xaufe.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "陕西中医药大学",
+      "city": "咸阳市",
+      "cityAdcode": 610400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.sntcm.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "陕西理工大学",
+      "city": "汉中市",
+      "cityAdcode": 610700,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.snut.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "延安大学",
+      "city": "延安市",
+      "cityAdcode": 610600,
+      "tags": [
+        "省属重点"
+      ],
+      "website": "https://www.yau.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西安医学院",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xiyi.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西安文理学院",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xawl.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "宝鸡文理学院",
+      "city": "宝鸡市",
+      "cityAdcode": 610300,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.bjwlxy.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "咸阳师范学院",
+      "city": "咸阳市",
+      "cityAdcode": 610400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xysfxy.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "渭南师范学院",
+      "city": "渭南市",
+      "cityAdcode": 610500,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.wntc.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "榆林学院",
+      "city": "榆林市",
+      "cityAdcode": 610800,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.yulinu.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "安康学院",
+      "city": "安康市",
+      "cityAdcode": 610900,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.aku.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "商洛学院",
+      "city": "商洛市",
+      "cityAdcode": 611000,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.slxy.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西安航空学院",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xaau.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西藏民族大学",
+      "city": "咸阳市",
+      "cityAdcode": 610400,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xzmy.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西安音乐学院",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xacom.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西安美术学院",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xafa.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    },
+    {
+      "name": "西安体育学院",
+      "city": "西安市",
+      "cityAdcode": 610100,
+      "tags": [
+        "普通本科"
+      ],
+      "website": "https://www.xaipe.edu.cn",
+      "hrUrl": null,
+      "talentPolicyUrl": null
+    }
+  ]
+}

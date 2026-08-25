@@ -1,0 +1,5 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <rect x="2" y="2" width="44" height="44" rx="9" fill="#22D3EE"/>
+  <rect x="6.5" y="6.5" width="35" height="35" rx="6" fill="none" stroke="#0B1220" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="24" y="33.5" font-family="'Noto Serif SC','Songti SC',serif" font-weight="900" font-size="25" fill="#0B1220" text-anchor="middle">职</text>
+</svg>

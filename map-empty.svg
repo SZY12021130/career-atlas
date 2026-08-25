@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <!-- 空态插画：朱砂印章 + 叠放公文纸线稿 -->
+  <!-- 底部公文纸（后层） -->
+  <rect x="112" y="98" width="176" height="132" rx="6" fill="#121C31" stroke="#5E6C85" stroke-opacity="0.65" stroke-width="2" transform="rotate(-4 200 164)"/>
+  <!-- 中层公文纸 -->
+  <rect x="106" y="86" width="176" height="132" rx="6" fill="#121C31" stroke="#5E6C85" stroke-opacity="0.65" stroke-width="2" transform="rotate(2 194 152)"/>
+  <!-- 顶部公文纸 -->
+  <rect x="118" y="72" width="176" height="132" rx="6" fill="#121C31" stroke="#5E6C85" stroke-opacity="0.75" stroke-width="2"/>
+  <!-- 纸面墨线 -->
+  <line x1="140" y1="98" x2="240" y2="98" stroke="#5E6C85" stroke-opacity="0.55" stroke-width="2" stroke-linecap="round"/>
+  <line x1="140" y1="120" x2="272" y2="120" stroke="#5E6C85" stroke-opacity="0.35" stroke-width="2" stroke-linecap="round"/>
+  <line x1="140" y1="140" x2="272" y2="140" stroke="#5E6C85" stroke-opacity="0.35" stroke-width="2" stroke-linecap="round"/>
+  <line x1="140" y1="160" x2="236" y2="160" stroke="#5E6C85" stroke-opacity="0.35" stroke-width="2" stroke-linecap="round"/>
+  <!-- 朱砂印章 -->
+  <circle cx="252" cy="176" r="26" fill="#22D3EE" fill-opacity="0.14" stroke="#22D3EE" stroke-width="2.5"/>
+  <text x="252" y="185" font-family="'Noto Serif SC','Songti SC',serif" font-weight="900" font-size="22" fill="#22D3EE" text-anchor="middle">录</text>
+  <!-- 地面短线 -->
+  <line x1="80" y1="238" x2="320" y2="238" stroke="#5E6C85" stroke-opacity="0.2" stroke-width="2" stroke-linecap="round"/>
+</svg>

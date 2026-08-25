@@ -1,0 +1,2545 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- 必须，不要动 -->
+<meta name="baidu-site-verification" content="codeva-BJJTcIZ8pp" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+<!-- 移动端必须、PC端非响应式可以去掉 -->
+<meta name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+<!-- SEO用 -->
+<meta name="SiteName" content="湖北省人力资源和社会保障厅">
+<meta name="SiteDomain" content="rst.hubei.gov.cn">
+<meta name="SiteIDCode" content="4200000079">
+<meta name="description" content="湖北,湖北省，人力资源和社会保障厅,湖北省人力资源和社会保障厅,人力资源,社会保障,湖北人社,湖北省人力资源和社会保障厅门户网站,rst.hubei.gov.cn">
+<meta name="keywords" content="湖北,湖北省，人力资源和社会保障厅,湖北省人力资源和社会保障厅,人力资源,社会保障,湖北人社,湖北省人力资源和社会保障厅门户网站,rst.hubei.gov.cn">
+<title>湖北省人力资源和社会保障厅</title>
+<link rel="shortcut icon" href="http://rst.hubei.gov.cn/material/images/gh.png" /> 
+ <link type="text/css" rel="stylesheet" href="http://rst.hubei.gov.cn/material/css/bootstrap.css" />
+ <link type="text/css" rel="stylesheet" href="http://rst.hubei.gov.cn/material/css/common1.css" />
+ <link type="text/css" rel="stylesheet" href="http://rst.hubei.gov.cn/material/2022/css/ui04.css" />
+<link type="text/css" rel="stylesheet" href="http://rst.hubei.gov.cn/material/2026/css/rst20260708.css" />
+<!-- 兼容低版本IE -->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="http://rst.hubei.gov.cn/material/js/html5.js"></script>
+<script type="text/javascript" src="http://rst.hubei.gov.cn/material/js/respond.js"></script>
+ <![endif]-->
+<script type="text/javascript" src="http://rst.hubei.gov.cn/material/js/jquery_1_12_4.js"></script>
+<script type="text/javascript" src="http://rst.hubei.gov.cn/material/js/common2.js"></script>
+<script type="text/javascript" src="http://rst.hubei.gov.cn/material/js/jquery.SuperSlide.2.1.3.js"></script>
+
+<style>
+.lxdh li.col-md-12{
+padding:10px!important;
+}
+.lxdh li{
+margin-bottom:10px
+}
+.aijd{
+position:relative;
+line-height:22px;
+height:24px;
+width:89px;
+padding-left:35px;
+display:inline-block;
+margin-left:10px;
+background:url(/material/2023/2023_images/ai_20231129.png) no-repeat;
+}
+.aijd a{
+color:#fff;
+font-size:16px
+}
+@media (min-width:992px){
+.p3 .list-a li.col-md-3{
+width:20%;
+padding-left:10px;
+padding-right:10px
+}
+
+.lxdh li.col-md-12{
+padding:5px 10px!important;
+}
+.ywzl .pane ul{
+margin-left:-10px;
+margin-right:-10px
+}
+}
+#jsStartTime{
+display:none !important
+}
+
+.zdzl li a{
+height:100%
+}
+.zdzl .scroll{
+height:170px
+}
+.zdzl li{
+height:85px!important;
+}
+.zdzl li{
+padding-bottom:5px
+}
+.ywzl .pane a{
+min-height:170px
+}
+.pane3 img{
+width:50%;
+height:120px
+}
+	.a2 li:hover i {
+		animation: rotate 0.7s;
+	}
+
+	@keyframes rotate {
+		0% {
+			transform: rotateY(0);
+		}
+
+		100% {
+			transform: rotateY(360deg);
+		}
+	}
+.zwdt a:hover img {
+    transform: scale3d(1.05,1.05,1);
+}
+.znwd a:hover img {
+    transform: scale3d(1.05,1.05,1);
+}
+
+.p3 a:hover img{
+    transform: scale3d(0.95,0.95,1);
+}
+.tszt li:hover {
+    transition: all 0.8s;
+    background-size: 109% !important;
+}
+.qkk:hover{
+font-weight:600;
+}
+.titles .ld a {
+    color: #6e819e;
+}
+.titles .ld a:hover {
+    color: #1454be;
+}
+.titles .zwzx a {
+    color: #ffffff;
+}
+.titles .zwzx a:hover {
+        color: #ffc000;
+}
+
+.p2 .info .zcjd .list-t li a {
+    height: auto;
+}
+.zcjd .list-t li .date {
+    top: 0;
+}
+.fwzq .bjtj{
+    margin-top: 20px;
+}
+
+.tab4 .current {
+    color: #1454be;
+    font-weight: 600;
+}
+.tab4 a,.tab2 a,.tab3 a{
+    cursor: pointer;
+}
+.gfxwj .list-t li .date {
+    right: 0;
+}
+.p2 .info .zcjd .list-t li a {
+    height: auto;
+    white-space: nowrap;
+    width: 75%;
+}
+.p2{
+height:auto;
+min-height:624px
+}
+.dczj{
+    padding-right: 0;
+    padding-left:0px;
+margin-top:20px
+}
+.tab3 h4{
+margin-bottom:25px;
+}
+.mt20{
+margin-top:20px
+}
+@media (max-width: 1400px) and (min-width:1200px){
+.tszt ul{
+
+}
+.ttzq {
+    padding: 54px 0 0 35px;
+}
+.inner{
+padding: 0 10px;
+}
+        .tszt li {
+
+        }
+        .ywzl .pane a {
+            min-height: 194px;
+        }
+        .zwfww {
+            width: 100%;
+            height: 224px;
+            background: url(/material/images/index_2022/zwfww.png) no-repeat;
+            padding: 136px 10px 0 40px;
+        }
+        .zwfww button {
+            right: 23px;
+        }
+
+        .tab4 {
+    right: 0;
+}
+
+.znwd,.znwd li{
+padding-right: 0;
+    padding-left: 15px;
+}
+.znwd .list-a{
+    display: flex;
+    margin-top: 8px !important;
+    margin-left: -20px;
+    margin-right: 10px;
+}
+.znwd img,.lxdh img{
+width:100%;
+}
+.dczj{
+    padding-right: 0;
+    padding-left: 0px;
+}
+    }
+
+.ywzl .tab ul li {
+    display: inline-block;
+    font-family: PingFangSC-Regular;
+    font-size: 16px;
+    font-weight: normal;
+    letter-spacing: 0px;
+    color: #6e819e;
+    width: 21px;
+    height: 21px;
+    min-width: 0;
+    border-radius: 100px;
+    text-align: center;
+    line-height: 20px;
+    padding: 0;
+    border-bottom: 0;
+}
+.ywzl .tab .on {
+    color: #fff;
+    background-color: #3856f1;
+}
+.links li ul {
+    display: none;
+}
+.links {
+    display: none;
+}
+@media(max-width:768px){
+.headline h4 {
+    font-size: 22px;
+    line-height: 30px;
+}
+.news .list-t li a {
+    width: 80%;
+}
+.ld, .ld a {
+    font-size: 12px;
+    line-height: 40px;
+    margin-right: 0;
+}
+.a2 li {
+    width: 48%;
+    margin: 10px 3px;
+}
+.wyb, .wyc {
+    margin-bottom: 10px;
+}
+.zwfww {
+    padding: 126px 25px 0 25px;
+}
+
+.news .tab a {
+    word-break: keep-all;
+    text-overflow: ellipsis;
+}
+}
+@media (max-width: 480px){
+.news .list-t li a {
+    width: 100%;
+}
+.p2 .info .list-t li a {
+     height: auto;
+}
+.p2 .list-t li a {
+    white-space: inherit;
+}
+
+}
+.panel-more a{
+width:100% !important;
+}
+.zdzl h2 {
+    margin-bottom: 32px;
+}
+.p1>.col-md-12{
+position: relative;
+    z-index: 2;
+}
+
+.p2 .tab {
+width: 1080px;
+}
+
+.p2 h2 a:hover,
+.p2 h2 a.current {
+width: 263px;
+}
+
+.p2 h2 a {
+width: 263px;
+}
+
+.p2 .tab .s4 {
+    width: 72px;
+    height: 74px;
+    display: inline-block;
+    background: url(/material/images/index_2022/rsdt.png) 50% no-repeat;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.news .tab a {
+min-width: 125px;
+}
+.p3 img.ts{
+position:absolute;
+top:-3px;
+left: 18px;
+height:15px;
+z-index:99;
+    width: auto;
+}
+.headline {
+    position: relative;
+}
+.ttNew {
+    position: absolute;
+    top: 14px;
+    left: 80px;
+    display: inline-block;
+    width: 113px;
+    height: 65px;
+    z-index: 9;
+}
+.focus-more{
+    position: absolute;
+    right: -13px;
+    bottom: -2px;
+    font-size: 14px;
+    color: #2D2D2D;
+    cursor: pointer;
+    display: none;
+}
+@media(max-width: 1200px) {
+    .ttNew {
+display: none;
+}
+.focus-more{
+    display: block;
+}
+
+.p2 .tab {
+width:100%;
+}
+.ywzl .pane li{
+padding:0px
+}
+
+
+.tszt li{
+ width: 50%;
+margin-bottom:20px;
+}
+.zwdt a img{
+height:125px
+}
+.menu-help4{
+display:none !important
+}
+}
+@media (max-width:992px){
+.zwdt a img{
+height:auto;
+
+}
+.tszt li{
+background-size: 100%;
+}
+.p3 img.ts{
+   left: calc(50% - 56px);
+}
+}
+@media (max-width:480px){
+.tszt li{
+width:100%
+}
+
+}
+
+@media (max-width:360px){
+.jdcx{
+padding-left:2px;
+padding-right:2px
+}
+}
+
+@media (max-width:340px){
+.jdcx a{
+padding: 10px 0px;
+font-size:16px;
+}
+}
+</style>
+
+<style>
+
+.zwzxly{
+margin-top:0px
+}
+.pane3:after {
+        content: '';
+        /*建议加个height:0*/
+        height: 0;
+        display: block;
+        clear: both;
+        visibility: hidden;
+    }
+.zwzsk ul.list-t li{
+margin-bottom:10px
+}
+
+.bd li a{
+width:100%;
+position:relative
+}
+.headline p a{
+padding: 0 10px;
+}
+</style>
+</head>
+<body>
+<script type="text/javascript">
+$(document).ready(function() {
+     /**
+         * 获取当前系统时间的时间戳
+         * @returns {Number} - 时间戳 秒
+         */
+        function getCurUnix() {
+            var date = new Date(); // 将yyy-mm-dd格式装换成yyyy/mm/dd
+            return Date.parse(date) / 1000; // parseDate.parse()支持yyyy/mm/dd格式的毫秒数返回
+        }
+
+        /**
+         * 日期格式转换为时间戳
+         * @param {String} date - 日期 yyyy-MM-dd HH-mm-ss
+         * @returns {Number} - 时间戳 秒
+         */
+        function dateToUnix(date) {
+            if (date) {
+                var date = date.replace(/-/g, '/'); // 将yyy-mm-dd格式装换成yyyy/mm/dd
+                return Date.parse(new Date(date)) / 1000; // parseDate.parse()支持yyyy/mm/dd格式的毫秒数返回
+            } else {
+                return null;
+            }
+        }
+
+        /**
+         * 定时显示
+         * @param {String} beginTime yyyy-MM-dd HH-mm-ss - 开始时间
+         * @param {String} endTime yyyy-MM-dd HH-mm-ss - 结束时间
+         */
+        function bannerTimer(beginTime, endTime) {
+            var currTime = getCurUnix();
+            var beginTime = dateToUnix(beginTime);
+            var endTime = dateToUnix(endTime);
+
+            if (currTime >= beginTime && currTime <= endTime) {//时间之间
+                //do something 页面加载完成后弹广告
+        //春节庆祝
+//PC,ipadpro页面
+if(document.documentElement.clientWidth>=1024){
+      $(window).load(function() {
+          //弹层
+		 // $(".header").css("background", "url(/material/images/banner20240118.png) center/cover no-repeat");
+		  //$(".nav").css({"background-color":"#ffcdb4","border-bottom":"5px solid #d02f14"});
+		  //$(".nav li a.current").css("background", "#d02f14");
+		 // $('body').append('<link type="text/css" rel="stylesheet" href="/material/2023/css/chunjie.css" />');
+          //设置自动关闭时间
+          //setTimeout("layer.closeAll()", 5000);
+		  
+		                var img = document.getElementById("img1");
+              //显示广告
+              img.style.display = "block";
+		  
+      });
+}
+//手机版
+else if(document.documentElement.clientWidth<=450){
+      $(window).load(function() {
+          //弹层
+		  //$(".header").css("background", "url(/material/images/banner20240118.png) center/cover no-repeat");
+		 // $(".nav").css({"background-color":"#ffcdb4","border-bottom":"5px solid #d02f14"});
+		  //$(".nav li a.current").css("background", "#d02f14");
+		  //$('body').append('<link type="text/css" rel="stylesheet" href="/material/2023/css/chunjie.css" />');
+          //设置自动关闭时间
+          //setTimeout("layer.closeAll()", 8000);
+		  
+		      var img = document.getElementById("img1");
+              //显示广告
+              img.style.display = "block";
+      });
+
+}
+            } else if (currTime < beginTime) {//开始之前
+                //do nothing
+            } else if (currTime > endTime) {//已经结束
+                //do nothing
+            }
+        }
+        //调用函数
+        bannerTimer("2026-02-16 00:00:00", "2026-02-26 23:59:00");
+});
+</script>
+<!-- dom -->
+<div id="app" v-clock class="wrap"> 
+  <img src="/material/images/2026hf1.png" style="display:none; width: 100%;" id="img1" />
+ <!-- header 开始 -->
+  <style>
+    .ttzq {
+    border: 0px solid rgba(255,255,255,0.2);
+}
+
+.ttzq .fr{
+    color: #5e87d4;
+}
+
+.search p strong {
+    color: #0b2d5a;
+}
+.nav ul{
+    width: 1300px;
+    margin: 0 auto;
+}
+
+.search p a {
+    background: unset;
+    margin: 0 4px;
+    color: #0b2d5a;
+cursor: pointer;
+}
+.ssk .fr {
+    margin-top: 30px;
+}
+#login {
+    cursor: pointer;
+    padding: 4px 15px;
+    background: #5e87d4;
+    border-radius: 6px;
+    border: solid 1px #aac2ff;
+    color: #fff;
+}
+
+.old {
+    position: absolute;
+    right: 10px;
+}
+.old a {
+    display: inline-block;
+    cursor: pointer;;
+    padding: 7px 14px;
+    border-radius: 5px;
+    border: 1px solid #aec5f9;
+    background: rgb(156 200 255 / 30%);
+    margin-left: 10px;
+        color: #0b2d5a;
+    text-align: center;
+}
+.older {
+    display: none;
+}
+@media (max-width: 1400px){
+.older {
+    display: inline-block;
+}
+.old {
+		display: none;
+	}
+}
+</style>
+<style>
+	.a2 li:hover i {
+		animation: rotate 0.7s;
+	}
+
+	@keyframes rotate {
+		0% {
+			transform: rotateY(0);
+		}
+
+		100% {
+			transform: rotateY(360deg);
+		}
+	}
+.zwdt a:hover img {
+    transform: scale3d(1.05,1.05,1);
+}
+.znwd a:hover img {
+    transform: scale3d(1.05,1.05,1);
+}
+
+.p3 a:hover img{
+    transform: scale3d(0.95,0.95,1);
+}
+.tszt li:hover {
+    transition: all 0.8s;
+    background-size: 109% !important;
+}
+.qkk:hover{
+font-weight:600;
+}
+.titles .ld a {
+    color: #6e819e;
+}
+.titles .ld a:hover {
+    color: #1454be;
+}
+.titles .zwzx a {
+    color: #ffffff;
+}
+.titles .zwzx a:hover {
+        color: #ffc000;
+}
+
+.p2 .info .zcjd .list-t li a {
+    height: auto;
+}
+.zcjd .list-t li .date {
+    top: 0;
+}
+.fwzq .bjtj{
+    margin-top: 20px;
+}
+
+.tab4:hover {
+    color: #1454be;
+    font-weight: 600;
+}
+.tab4 a,.tab2 a,.tab3 a{
+    cursor: pointer;
+}
+.gfxwj .list-t li .date {
+    right: 0;
+}
+.p2 .info .zcjd .list-t li a {
+    height: auto;
+    white-space: nowrap;
+    width: 75%;
+}
+
+
+@media (max-width: 1400px) and (min-width:1200px){
+.tszt ul{
+
+}
+
+.inner{
+padding: 0 10px;
+}
+
+        .ywzl .pane a {
+            min-height: 194px;
+        }
+        .zwfww {
+            width: 100%;
+            height: 224px;
+            background: url(/material/images/index_2022/zwfww.png) no-repeat;
+            padding: 136px 10px 0 40px;
+        }
+        .zwfww button {
+            right: 23px;
+        }
+        .tab4 {
+    right: 0;
+}
+
+.znwd,.znwd li{
+padding-right: 0;
+    padding-left: 15px;
+}
+.znwd .list-a{
+    display: flex;
+    margin-top: 8px !important;
+    margin-left: -20px;
+    margin-right: 10px;
+}
+.znwd img,.lxdh img{
+width:100%;
+}
+.nav {
+    height: 60px;
+    background-color: rgb(208, 229, 248);
+    border-bottom: 5px solid rgb(11, 45, 90);
+    margin: 5px auto 0px;
+}
+.tab a{padding:0px;}
+.news .tab{
+display:flex;
+}
+    }
+
+.ywzl .tab ul li {
+    display: inline-block;
+    font-family: PingFangSC-Regular;
+    font-size: 16px;
+    font-weight: normal;
+    letter-spacing: 0px;
+    color: #6e819e;
+    width: 21px;
+    height: 21px;
+    min-width: 0;
+    border-radius: 100px;
+    text-align: center;
+    line-height: 20px;
+    padding: 0;
+    border-bottom: 0;
+}
+.ywzl .tab .on {
+    color: #fff;
+    background-color: #315cc3;
+}
+@media (max-width: 1400px) and (min-width:1200px)
+{
+
+.ttzq {
+    padding: 0;
+}
+.nav ul{
+width:100% !important;
+}
+
+}
+.links li ul {
+    display: none;
+}
+.links {
+    display: none;
+}
+@media (max-width: 1200px){
+.header h1 {
+    height: 110px;
+}
+
+}
+</style>
+<script type="text/javascript">
+    $(document).ready(function() {
+         /**
+             * 获取当前系统时间的时间戳
+             * @returns {Number} - 时间戳 秒
+             */
+            function getCurUnix() {
+                var date = new Date(); // 将yyy-mm-dd格式装换成yyyy/mm/dd
+                return Date.parse(date) / 1000; // parseDate.parse()支持yyyy/mm/dd格式的毫秒数返回
+            }
+    
+            /**
+             * 日期格式转换为时间戳
+             * @param {String} date - 日期 yyyy-MM-dd HH-mm-ss
+             * @returns {Number} - 时间戳 秒
+             */
+            function dateToUnix(date) {
+                if (date) {
+                    var date = date.replace(/-/g, '/'); // 将yyy-mm-dd格式装换成yyyy/mm/dd
+                    return Date.parse(new Date(date)) / 1000; // parseDate.parse()支持yyyy/mm/dd格式的毫秒数返回
+                } else {
+                    return null;
+                }
+            }
+    
+            /**
+             * 定时显示
+             * @param {String} beginTime yyyy-MM-dd HH-mm-ss - 开始时间
+             * @param {String} endTime yyyy-MM-dd HH-mm-ss - 结束时间
+             */
+            function bannerTimer(beginTime, endTime) {
+                var currTime = getCurUnix();
+                var beginTime = dateToUnix(beginTime);
+                var endTime = dateToUnix(endTime);
+    
+                if (currTime >= beginTime && currTime <= endTime) {//时间之间
+                    //do something 页面加载完成后弹广告
+            //春节庆祝
+    //PC,ipadpro页面
+    if(document.documentElement.clientWidth>=1024){
+          $(window).load(function() {
+              //弹层
+              layer.open({
+                  type: 1, //弹自定义内容模式
+                  //type: 2, //弹iframe页面模式
+                  title: false,
+                  shadeClose: true,
+                  shade: 0.2,
+                area: ['900px', '450px'],
+                  time: 5000, //自动关闭时间
+                  content: '<img src="../../material/images/gqhf.jpg" style="display:block;width:100%" />' //自定义内容的图片路径
+              });
+              //设置自动关闭时间
+              //setTimeout("layer.closeAll()", 5000);
+          });
+    }
+    //手机版
+    else if(document.documentElement.clientWidth<=450){
+          $(window).load(function() {
+              //弹层
+              layer.open({
+                  type: 1, //弹自定义内容模式
+                  //type: 2, //弹iframe页面模式
+                  title: false,
+                  shadeClose: true,
+                  shade: 0.2,
+                area: ['300px', '150px'],
+                  time: 5000, //自动关闭时间
+                  content: '<img src="../../material/images/gqhf.jpg" style="display:block;width:100%" />' //自定义内容的图片路径
+              });
+              //设置自动关闭时间
+              //setTimeout("layer.closeAll()", 5000);
+          });
+    
+    }
+                } else if (currTime < beginTime) {//开始之前
+                    //do nothing
+                } else if (currTime > endTime) {//已经结束
+                    //do nothing
+                }
+            }
+            //调用函数
+            bannerTimer("2022-09-30 24:00:00", "2022-10-08 00:00:00");
+    });
+    </script>
+<div class="header">
+    <div class="inner clearfix">
+        <!-- 移动端菜单开始 -->
+        <div class="menu-btn"><span></span><span></span><span></span></div>
+        <div class="menu">
+        <p class="tc"><img src="/material/images/index_2022/logo.png" alt="" /></p>
+        <ul>
+            <li><a href="http://rst.hubei.gov.cn/bmdt/"><b>首页</b></a></li>
+            <li><a href="http://rst.hubei.gov.cn/bmdt/"><b>人社动态</b></a></li>
+            <li><a href="http://rst.hubei.gov.cn/zfxxgk/"><b>政府信息公开</b></a></li>
+            <li><a href="http://rst.hubei.gov.cn/bsfw/"><b>办事服务</b></a></li>
+            <li><a href="http://rst.hubei.gov.cn/hdjl/""><b>互动交流</b></a></li>
+            <li><a href="http://rst.hubei.gov.cn/sjkf_rst/"><b>数据发布</b></a></li>
+
+        </ul>
+        </div>
+        <div class="mask"></div>
+        <!-- 移动端菜单结束 -->
+        <div class="col-md-12 ttzq">
+            <div class="col-md-6  hyfw">
+              <!-- <div class="col-md-8">
+                <div class="col-md-12">
+                    <p><span class="hy">欢迎访问</span>湖北省人力资源和社会保障厅网站</p>
+                <p><script type="text/javaScript">
+                    var sysdate = new Date();
+                 var year = sysdate.getFullYear();
+                 var month = sysdate.getMonth();
+                 var date = sysdate.getDate();
+                 var day = sysdate.getDay();
+                 document.write(year + "年" + (month + 1) + "月" + date + "日");
+              </script> </p>
+                <ul class="list-a">
+                    <li class="col-md-6 "><a class="zzms" href="http://rst.hubei.gov.cn/fzlm/zzzq/"><i class="s1"></i>长者模式</a></li>
+                    <li class="col-md-6 wza"><a id="wuzhangai1"><i class="s2"></i>无障碍浏览</a></li>
+                </ul>
+                </div> -->
+
+
+                <h1 class="fl nt" bfdi="6"><a href="/" style="width: 100%;" bfdi="7" title=""></a></h1>
+
+              </div>
+            
+
+
+            <div class="col-md-6 ssk">
+                <p class="fr">
+                    
+                    <!-- <a style="cursor: pointer;" href="http://rst.hubei.gov.cn/fzlm/zzzq/">长者模式</a>|
+                    <a style="cursor: pointer;"  id="wuzhangai">无障碍浏览</a>| -->
+
+                    <a id="login" style="cursor: pointer;"><img src="http://rst.hubei.gov.cn/material/2022/images/icon1.png" style="margin-bottom: 2px; margin-right: 10px;" />登录个人中心</a>
+                    <a  href="http://rst.hubei.gov.cn/znjqr/" style="line-height: 36px;">智能问答</a>
+                    <a href="javascript:;" id="StranLink" name="StranLink" style="display:none">繁体</a>
+                    <a style="display: inline-block;cursor: auto;padding: 3px 15px;border-radius: 15px;    border: 1px solid;
+    background: #6d99c9;    color: #fff;">网站支持IPV6</a>
+                    <a style="cursor: pointer;" href="http://rst.hubei.gov.cn/fzlm/zzzq/" class="older" >长者模式&nbsp&nbsp&nbsp|</a>
+                    <a style="cursor: pointer;"  id="wuzhangai" class="older">无障碍浏览</a>
+                    </p>
+                <div class="search">
+                    <input type="text" style="position: relative;z-index: 99;" onclick="if(this.value=='请输入关键字'){this.value='';}" placeholder="请输入关键字" id="keyword" name="keyword" />
+                    <button  onclick="chkSearch()" style="z-index: 199;position: relative;"><span class="s1"></span>搜 索</button>
+                    <div class="old">
+                        <a class="" href="http://rst.hubei.gov.cn/fzlm/zzzq/">长者<br>模式</a>
+                        <a id="wuzhangai">无障碍<br>浏览</a>
+                        </div>
+                <div class="panel-body" hidden="hidden" id="panel-body">
+                        <table class="table  table-hover general-table" style="margin-top: 23px;position: absolute;
+                    background-color: #fff;">
+                                <tbody id="name"></tbody>
+                        </table>
+                    </div>
+
+                <p><strong>热门搜索： </strong><a onclick="chkSearch9()">职称</a><a onclick="chkSearch8()">三支一扶</a><a onclick="chkSearch3()">社保</a><a onclick="chkSearch4()">招聘</a></p>
+<script>
+function chkSearch9(){
+window.open("http://www.hubei.gov.cn/site/hb/?WxUg5ztDmi=1664279107059#/all?type=%E6%89%80%E6%9C%89&siteId=43&name=%E6%B9%96%E5%8C%97%E7%9C%81%E4%BA%BA%E5%8A%9B%E8%B5%84%E6%BA%90%E5%92%8C%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C%E5%8E%85&sitename=%E6%B9%96%E5%8C%97%E7%9C%81%E4%BA%BA%E5%8A%9B%E8%B5%84%E6%BA%90%E5%92%8C%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C%E5%8E%85&sitetype=%E7%9C%81%E7%9B%B4%E9%83%A8%E9%97%A8&searchWord=职称","_blank")
+}
+function chkSearch8(){
+window.open("http://www.hubei.gov.cn/site/hb/?WxUg5ztDmi=1664279107059#/all?type=%E6%89%80%E6%9C%89&siteId=43&name=%E6%B9%96%E5%8C%97%E7%9C%81%E4%BA%BA%E5%8A%9B%E8%B5%84%E6%BA%90%E5%92%8C%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C%E5%8E%85&sitename=%E6%B9%96%E5%8C%97%E7%9C%81%E4%BA%BA%E5%8A%9B%E8%B5%84%E6%BA%90%E5%92%8C%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C%E5%8E%85&sitetype=%E7%9C%81%E7%9B%B4%E9%83%A8%E9%97%A8&searchWord=三支一扶","_blank")
+}
+function chkSearch3(){
+window.open("http://www.hubei.gov.cn/site/hb/?WxUg5ztDmi=1664279107059#/all?type=%E6%89%80%E6%9C%89&siteId=43&name=%E6%B9%96%E5%8C%97%E7%9C%81%E4%BA%BA%E5%8A%9B%E8%B5%84%E6%BA%90%E5%92%8C%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C%E5%8E%85&sitename=%E6%B9%96%E5%8C%97%E7%9C%81%E4%BA%BA%E5%8A%9B%E8%B5%84%E6%BA%90%E5%92%8C%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C%E5%8E%85&sitetype=%E7%9C%81%E7%9B%B4%E9%83%A8%E9%97%A8&searchWord=社保","_blank")
+}
+function chkSearch4(){
+window.open("http://www.hubei.gov.cn/site/hb/?WxUg5ztDmi=1664279107059#/all?type=%E6%89%80%E6%9C%89&siteId=43&name=%E6%B9%96%E5%8C%97%E7%9C%81%E4%BA%BA%E5%8A%9B%E8%B5%84%E6%BA%90%E5%92%8C%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C%E5%8E%85&sitename=%E6%B9%96%E5%8C%97%E7%9C%81%E4%BA%BA%E5%8A%9B%E8%B5%84%E6%BA%90%E5%92%8C%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%9A%9C%E5%8E%85&sitetype=%E7%9C%81%E7%9B%B4%E9%83%A8%E9%97%A8&searchWord=招聘","_blank")
+}
+</script>
+                    </div>
+            </div>
+
+
+        </div>
+    </div> 
+    
+    <div class="nav">
+        <ul>
+        <li  style="width: 15%;"><a href="http://rst.hubei.gov.cn/" ></i><b>首&ensp;&ensp;页</b></a></li>
+        <li id="7148"><a href="http://rst.hubei.gov.cn/bmdt/"  ><b>人社动态</b></a></li>
+        <li id="31488" style="width: 22%;"><a href="http://rst.hubei.gov.cn/zfxxgk/" ><b>政府信息公开</b></a></li>
+        <li id="7124"><a href="http://rst.hubei.gov.cn/bsfw/"  ><b>办事服务</b></a></li>
+        <li id="7115"><a href="http://rst.hubei.gov.cn/hdjl/" ><b>互动交流</b></a></li>
+        <li id="52812"><a href="http://rst.hubei.gov.cn/sjkf_rst/"  ><b>数据发布</b></a></li>
+        </ul>
+        </div>
+
+
+    </div>
+<script type="text/javascript" src="http://rst.hubei.gov.cn/material/js/eazy.js"></script>
+<script>
+function chkSearch(){
+    if($('#keyword').val() == '' || $('#keyword').val().length == 0){
+        alert('请输入关键字');
+        return false;
+    }
+var keywords = encodeURI($('#keyword').val());
+$url = 'https://www.hubei.gov.cn/site/hb/#/all?type='+'所有'+'&siteId=43&name='+'湖北省人力资源和社会保障厅'+'&sitename='+'湖北省人力资源和社会保障厅'+'&sitetype='+'省直部门'+'&searchWord='+keywords+'';
+    window.open($url,'_blank');
+}
+$('#keyword').on('keypress',function (event) {
+    if (event.keyCode === 13){
+        chkSearch();
+    }
+});
+</script>
+
+<script>
+    var name;
+    var salesId;
+    $("table tr").click(function () {//为表格的行添加点击事件
+        var tr = $(this);//找到tr元素
+        var td = tr.find("td");//找到td元素
+        name = td[0].innerHTML;//指定下标即可
+        salesId = td[1].innerHTML;
+        $("#keyword").val(name);
+        $("#panel-body").hide();
+    })
+$(function(){
+//当键盘键被松开时发送Ajax获取数据
+$('#keyword').keyup(function () {
+var keywords = $(this).val();
+if (keywords == '') { $('#panel-body').hide(); return; };
+$.ajax({
+    type: "get",
+        url: "http://rst.hubei.gov.cn/igs/front/suggest/term.jhtml?searchWord="+ keywords +"&code=03074fc5eaae4cd5b5be57bd3fe4e9b6",
+    async: false,
+    success: function (res) {
+$("#name").html("");
+var str = ''
+var title = ''
+            for (var i = 0; i < res.length; i++) {
+                title = res[i].replace(new RegExp("(" + keywords + ")","g"),"<span class='gray' style='vertical-align:bottom;'>"+ keywords +"</span>");
+                str += "<tr><td>"+ title +"</td></tr>"
+            };
+$("#name").html(str);
+$("#panel-body").show();
+if(res.page.content.length === 0){
+    $("#panel-body").hide();
+}
+        }
+    });
+});
+});
+//内容区域点击事件
+$("#name").on("click", "tr", function(){
+$("#keyword").val($(this).text());
+     if( keyword != 0){
+                $("#panel-body").hide();
+            }
+});
+</script>
+ <!-- header 结束 --> 
+ <!-- content 开始 -->
+ <!-- p1 start-->
+        <div class="content">
+        <div class="grid p1 mb20">
+
+            <div class="col-md-12">
+
+        <div class="headline mb20" >
+
+        <a href="http://rst.hubei.gov.cn/wytt/" title="头条新闻" target="_blank" class="ttNew"><img src="/material/images/toutiao.png" height="" alt="" /></a>
+
+
+ 
+        <h4 class="mb10">
+        <a href="./wytt/202608/t20260822_5999245.shtml" target="_blank"  title="第48届世赛动员部署会举行">第48届世赛动员部署会举行</a>
+
+        </h4>
+ 
+        <p style="text-align: center;"> 
+ 
+        <a href="./wytt/202608/t20260820_5997836.shtml" target="_blank"  title="公平正义的抵达——新时代新征程人民法庭建设纪实">
+公平正义的抵达——新时代新征程人民法庭建设纪实
+        </a>
+ 
+        <a href="./wytt/202608/t20260810_5991746.shtml" target="_blank"  title="总书记的人民情怀 | “努力提升粮食能源资源安全保障能力”">
+总书记的人民情怀 | “努力提升粮食能源资源安全保障能力”
+        </a>
+ 
+        </p>
+
+      <div class="focus-more" ><a href="http://rst.hubei.gov.cn/wytt/" target="_blank">更多></a></div>
+    </div>
+
+    </div>
+        <div class="row" style="position: relative;">
+ <!--mainBd s-->
+             <div class="mainBd" style="position: relative;">
+                <!-- 智能推荐 s -->
+                <style>
+                  .zntj-btn{position: absolute;top: 108px;left: -46px;width: 54px;background: url("/material/images/index_2022/zntj.png"); background-repeat:no-repeat;cursor: pointer;height: 200px;}
+                    .zntj{position: absolute;overflow: hidden; width: 0;height: 390px;box-sizing: border-box;    background: #f1f5fb;top: 108px;left: 10px;z-index: 100000;}
+                    .zntj ul{width: 650px;overflow: auto;    padding: 20px 28px;border: solid 2px #315cc3;
+height: 100%;box-sizing: border-box;}
+                    .zntj ul li{line-height: 24px;font-size: 16px; padding:5px 0;}
+                    .zntj ul li a{color: #333;padding-left: 15px;    width: 100% !important;}
+                    .zntj ul li a:hover{color: #298bd4;}
+                    .zntj ul li a span{color: #333;}
+		    .zntj ul::-webkit-scrollbar {
+                width: 8px;    
+            }
+            .zntj ul::-webkit-scrollbar-thumb {
+                border-radius: 8px;
+                box-shadow: inset 0 0 5px rgba(0,0,0,0.2);
+                background: #eee;
+            }
+            .zntj ul::-webkit-scrollbar-track {
+                box-shadow: inset 0 0 5px rgba(0,0,0,0.2);
+                border-radius: 0;
+                background: #f2f2f2;
+            }
+            .zntj-bsfw h3 {height: 36px;color: #315cc3; font-weight: bold;line-height: 36px;}
+        .zntj-bsfw ol a{ float: left; width: 20%;;margin-top: 15px;font-size: 16px;color: #333;text-align: center;}
+        .zntj-bsfw ol a:hover{color: #1a74c5;}
+        .zntj-bsfw h3::before {
+    width: 32px;
+    height: 3px;
+    background-color: #315cc3;
+    content: '';
+    position: absolute;
+    top: 55px;
+}
+.zntj-bsfw .zntj-bmfw::before{
+    top: 295px;
+}
+.zntj-bsfw h6 a{
+    display: inline-block;
+    margin-top: 10px;
+    padding: 0 10px;
+}
+@media (max-width:1200px) {
+    .mainBd{
+        display: none;
+    }
+}
+
+
+                </style>
+                <div class="zntj-btn"></div>
+                <div class="zntj">
+                   
+                    <ul class="list-t">
+                        <div class="zntj-bsfw">
+                         <h3>热点关注</h3>
+                   </div>
+                                         
+                                   <li><a href="./zfxxgk/fdzdgknr/tjxx/2026_tjxx/202608/t20260825_6000191.shtml" target="_blank"><span>【资讯】</span>数说世赛丨竞赛项目数创下历届之最</a></li>
+                                
+                                   <li><a href="./bmdt/rsyw/202608/t20260824_6000031.shtml" target="_blank"><span>【资讯】</span>“走技能成才、技能报国之路”</a></li>
+                  
+                                            
+                                   <li><a href="./bmdt/dtyw/tzgg/202608/t20260824_5999793.shtml" target="_blank"><span>【通知】</span>湖北省工伤预防联席会议办公室关于公示湖北省工伤预防专家库拟聘任专家名单的公告</a></li>
+                                
+                                   <li><a href="./bmdt/dtyw/tzgg/202608/t20260824_5999792.shtml" target="_blank"><span>【通知】</span>湖北省工伤预防联席会议办公室关于公布2026年湖北省工伤预防重点领域、2027年工伤预防项目申报指引及建...</a></li>
+                  
+                  
+                                   <li><a href="./zfxxgk/zc/gfxwj/202607/t20260715_5977106.shtml" target="_blank"><span>【政策】</span>湖北省人力资源和社会保障厅关于进一步规范我省专业技术人员职称初定政策的通知</a></li>
+                                
+                                   <li><a href="./zfxxgk/zc/gfxwj/202605/t20260529_5946575.shtml" target="_blank"><span>【政策】</span>湖北省人力资源和社会保障厅 省卫生健康委员会关于印发《湖北省劳动能力鉴定管理办法》的通知</a></li>
+                  
+                         
+                     <div class="clear15"></div>
+                       <div class="zntj-bsfw">
+                         <h3 class="zntj-bmfw">便民服务</h3>
+                         <h6>
+                         
+                <a href="http://bags.hbjdzx.org.cn/" target="_blank">湖北省技能人才评价机构公示查询</a>|
+            
+            
+                <a href="http://rst.hubei.gov.cn/bsfw/bmcxfw/qgmbpxjg_59752/" target="_blank">民办职业学校查询</a>|
+            
+               <a href="http://zwfw.hubei.gov.cn/web/hb/static/web/bmfw/bmfw_check.html?bmfwId=B0101&region_code=420000000000/" target="_blank">社保卡查询</a>|
+            
+            
+                <a href="http://rst.hubei.gov.cn/bsfw/bmcxfw/gskfjgzgcx/" target="_blank">工伤保险协议医疗、康复机构查询</a>
+
+                         </h6>
+                     </div>
+                    </ul>
+                    
+                </div>
+                <script>
+            $(".zntj-btn").hover(function(){
+                $(".zntj").stop().animate({width: '650px'});
+            },function(){
+                $(".zntj").stop().animate({width: '0'});
+            })
+            $(".zntj").hover(function(){
+                $(".zntj").stop().animate({width: '650px'});
+            },function(){
+                $(".zntj").stop().animate({width: '0'});
+            })
+
+            
+        </script>
+                <!-- 智能推荐 s -->
+</div>
+        <div class="col-md-6">
+        <div class="swiper-container focus">
+        <div class="swiper-wrapper pic">
+
+                            <div class="swiper-slide">
+                                <a href="https://rst.hubei.gov.cn/bmdt/ztzl/zdzl/slzjg/" target="_blank"  title="树立和践行正确政绩观学习教育"><img src="./bmdt/dtyw/tpxw/202604/W020260424612085354620.png"/><a href="https://rst.hubei.gov.cn/bmdt/ztzl/zdzl/slzjg/" target="_blank"  title="树立和践行正确政绩观学习教育"><span>树立和践行正确政绩观学习教育</span></a></a>
+                            </div>
+ 
+                            <div class="swiper-slide">
+                                <a href="https://mp.weixin.qq.com/s/zdGr7AMK1HvbviusPdffVg" target="_blank"  title="时间定了！湖北92场免费活动，找工作快来"><img src="./bmdt/dtyw/tpxw/202608/W020260817379350267083.png"/><a href="https://mp.weixin.qq.com/s/zdGr7AMK1HvbviusPdffVg" target="_blank"  title="时间定了！湖北92场免费活动，找工作快来"><span>时间定了！湖北92场免费活动，找工作快来</span></a></a>
+                            </div>
+ 
+                            <div class="swiper-slide">
+                                <a href="https://mp.weixin.qq.com/s/JslOsNpASk9OWg_3WNJ9Lw" target="_blank"  title="50天后，世界的脉搏将和上海一起跳动：第48届世界技能大赛主题片发布！"><img src="./bmdt/dtyw/tpxw/202608/W020260804574679300503.png"/><a href="https://mp.weixin.qq.com/s/JslOsNpASk9OWg_3WNJ9Lw" target="_blank"  title="50天后，世界的脉搏将和上海一起跳动：第48届世界技能大赛主题片发布！"><span>50天后，世界的脉搏将和上海一起跳动：第48届世界技能大赛主题片发布！</span></a></a>
+                            </div>
+ 
+                            <div class="swiper-slide">
+                                <a href="./bmdt/dtyw/tpxw/202607/t20260723_5982487.shtml" target="_blank"  title="省人社厅2026年年中务虚会暨“群腐”集中整治推进会在汉召开"><img src="./bmdt/dtyw/tpxw/202607/W020260723624815678562.jpg"/><a href="./bmdt/dtyw/tpxw/202607/t20260723_5982487.shtml" target="_blank"  title="省人社厅2026年年中务虚会暨“群腐”集中整治推进会在汉召开"><span>省人社厅2026年年中务虚会暨“群腐”集中整治推进会在汉召开</span></a></a>
+                            </div>
+ 
+                            <div class="swiper-slide">
+                                <a href="https://mp.weixin.qq.com/s/ok5CNeOpBV4zw3Zt6yhZ9A" target="_blank"  title="全程免费，50名青年满载而归！期待下一期！"><img src="./bmdt/dtyw/tpxw/202607/W020260722330873305704.png"/><a href="https://mp.weixin.qq.com/s/ok5CNeOpBV4zw3Zt6yhZ9A" target="_blank"  title="全程免费，50名青年满载而归！期待下一期！"><span>全程免费，50名青年满载而归！期待下一期！</span></a></a>
+                            </div>
+ 
+                            <div class="swiper-slide">
+                                <a href="https://www.hubei.gov.cn/pdb/search.shtml?fileType=all&keyword=&postNumber=&areaCode=420000&sourceKeyword=湖北省人力资源和社会保障厅" target="_blank"  title="湖北省法规规章规范性文件数据库"><img src="./bmdt/dtyw/tpxw/202310/W020231030416361362668.jpg"/><a href="https://www.hubei.gov.cn/pdb/search.shtml?fileType=all&keyword=&postNumber=&areaCode=420000&sourceKeyword=湖北省人力资源和社会保障厅" target="_blank"  title="湖北省法规规章规范性文件数据库"><span>湖北省法规规章规范性文件数据库</span></a></a>
+                            </div>
+                         
+        </div>
+        <!-- Add Pagination -->
+        <div class="swiper-pagination navi"></div>
+        <!-- Add Arrows -->
+        <div class="swiper-button">
+        <div class="swiper-button-next focus-next"><span class="iconfont  icon-jyh-right2"></span></div>
+        <div class="swiper-button-prev focus-prev"><span class="iconfont  icon-jyh-left2"></span></div>
+        </div>
+        </div>
+        </div>
+        <div class="col-md-6" id="ywq">
+        <div class="tab-pane news">
+                <h3 class="tab mb10">
+               <a href="http://www.hubei.gov.cn/szyw/" target="_blank">时政要闻</a>
+                <a href="http://www.gov.cn/pushinfo/v150203/index.htm" target="_blank">国务院信息</a>
+                <a href="http://www.hubei.gov.cn/zwgk/hbyw/hbywqb/"  target="_blank">湖北要闻</a>
+                <a href="http://rst.hubei.gov.cn/bmdt/rsyw/"  class="current">人社要闻</a>
+               <!-- <a href="http://rst.hubei.gov.cn/bmdt/dtyw/stfb/">省厅发布</a> -->
+                <a href="http://rst.hubei.gov.cn/bmdt/dtyw/mtjj/">媒体聚焦</a>
+            </h3>
+        <div class="pane">
+        <ul class="list-t" id="szyw"  style="display: none">
+        </ul>
+                <ul class="list-t" style="display: none" id="zfyw">
+
+        </ul>
+                    <ul class="list-t" style="display: none" id="hbyw">
+
+        </ul>
+        <ul class="list-t">
+
+                             
+                                <li>
+                                    <span class="date hidden-xs">2026-08-25</span><a href="./zfxxgk/fdzdgknr/tjxx/2026_tjxx/202608/t20260825_6000191.shtml" class="w80" target="_blank" title="数说世赛丨竞赛项目数创下历届之最">数说世赛丨竞赛项目数创下历届之最</a>
+                                </li>
+                                
+                                <li>
+                                    <span class="date hidden-xs">2026-08-24</span><a href="./bmdt/rsyw/202608/t20260824_6000031.shtml" class="w80" target="_blank" title="“走技能成才、技能报国之路”">“走技能成才、技能报国之路”</a>
+                                </li>
+                                
+                                <li>
+                                    <span class="date hidden-xs">2026-08-23</span><a href="./bmdt/rsyw/202608/t20260823_5999282.shtml" class="w80" target="_blank" title="第48届世界技能大赛中国代表团成立">第48届世界技能大赛中国代表团成立</a>
+                                </li>
+                                
+                                <li>
+                                    <span class="date hidden-xs">2026-08-22</span><a href="./bmdt/rsyw/202608/t20260822_5999240.shtml" class="w80" target="_blank" title="高校毕业生等青年就业工作现场推进会议在湖北武汉召开a">高校毕业生等青年就业工作现场推进会议在湖北武汉召开a</a>
+                                </li>
+                                
+                                <li>
+                                    <span class="date hidden-xs">2026-08-21</span><a href="./bmdt/rsyw/202608/t20260821_5998611.shtml" class="w80" target="_blank" title="健全为民办实事长效机制 人社系统将加强服务高品质供给">健全为民办实事长效机制 人社系统将加强服务高品质供给</a>
+                                </li>
+                                
+                                <li>
+                                    <span class="date hidden-xs">2026-08-19</span><a href="./bmdt/rsyw/202608/t20260819_5997304.shtml" class="w80" target="_blank" title="人力资源社会保障部 中央社会工作部 民政部印发《关于优化城乡社区岗位吸纳高校毕业生就业工作的通知》">人力资源社会保障部 中央社会工作部 民政部印发《关于优化城乡社区岗位吸纳高校毕业生就业工作的通知》</a>
+                                </li>
+                                
+                                <li>
+                                    <span class="date hidden-xs">2026-08-18</span><a href="./bmdt/rsyw/202608/t20260818_5996732.shtml" class="w80" target="_blank" title="推进事业单位工资制度改革——《人力资源和社会保障事业发展“十五五”规划》系列解读">推进事业单位工资制度改革——《人力资源和社会保障事业发展“十五五”规划》系列解读</a>
+                                </li>
+                                
+                                <li>
+                                    <span class="date hidden-xs">2026-08-14</span><a href="./bmdt/rsyw/202608/t20260814_5995246.shtml" class="w80" target="_blank" title="深入推进人力资源和社会保障系统行风建设——《人力资源和社会保障事业发展“十五五”规划》系列解读">深入推进人力资源和社会保障系统行风建设——《人力资源和社会保障事业发展“十五五”规划》系列解读</a>
+                                </li>
+                                
+        </ul>
+<!-- <ul class="list-t" style="display: none">
+                       
+                                <li>
+                                    <span class="date hidden-xs">2026-08-18</span><a href="./bmdt/dtyw/stfb/202608/t20260818_5996721.shtml" class="w80" target="_blank" title="第二期“创立方”湖北省博士后和留学回国人才创业训练营在深圳成功举办">第二期“创立方”湖北省博士后和留学回国人才创业训练营在深圳成功举办</a>
+                                </li>
+                         
+                                <li>
+                                    <span class="date hidden-xs">2026-08-13</span><a href="https://mp.weixin.qq.com/s/5cXIKGKRVdDvI-itifFYtg" class="w80" target="_blank" title="“技能照亮前程·荆楚之夏”青年全媒体运营能力提升活动来了">“技能照亮前程·荆楚之夏”青年全媒体运营能力提升活动来了</a>
+                                </li>
+                         
+                                <li>
+                                    <span class="date hidden-xs">2026-07-28</span><a href="./bmdt/dtyw/stfb/202607/t20260728_5985066.shtml" class="w80" target="_blank" title="首届湖北省博士后和留学回国人才创业训练营在浙举行">首届湖北省博士后和留学回国人才创业训练营在浙举行</a>
+                                </li>
+                         
+                                <li>
+                                    <span class="date hidden-xs">2026-07-24</span><a href="./bmdt/dtyw/stfb/202607/t20260724_5983527.shtml" class="w80" target="_blank" title="省人社厅党组理论学习中心组第7次集体学习会议举行">省人社厅党组理论学习中心组第7次集体学习会议举行</a>
+                                </li>
+                         
+                                <li>
+                                    <span class="date hidden-xs">2026-07-21</span><a href="./bmdt/dtyw/stfb/202607/t20260721_5981011.shtml" class="w80" target="_blank" title="20万+岗位、500个培训项目：湖北十大就业服务举措发布！">20万+岗位、500个培训项目：湖北十大就业服务举措发布！</a>
+                                </li>
+                         
+                                <li>
+                                    <span class="date hidden-xs">2026-07-20</span><a href="./bmdt/dtyw/stfb/202607/t20260720_5979783.shtml" class="w80" target="_blank" title="提高政治站位 强化履职担当 以高质量监督执纪保障人社事业高质量发展">提高政治站位 强化履职担当 以高质量监督执纪保障人社事业高质量发展</a>
+                                </li>
+                         
+                                <li>
+                                    <span class="date hidden-xs">2026-07-16</span><a href="https://mp.weixin.qq.com/s/tgJ_kL0uel83hnSuNu4KTg" class="w80" target="_blank" title="免费职业指导+找工作！湖北近百场活动，快报名！">免费职业指导+找工作！湖北近百场活动，快报名！</a>
+                                </li>
+                         
+                                <li>
+                                    <span class="date hidden-xs">2026-07-13</span><a href="./bmdt/dtyw/stfb/202607/t20260713_5975547.shtml" class="w80" target="_blank" title="省人社厅公布2026年二季度重大劳动保障违法行为案件">省人社厅公布2026年二季度重大劳动保障违法行为案件</a>
+                                </li>
+                                
+        </ul> -->
+        <ul class="list-t" style="display: none">
+                      
+                               <li>
+                                   <span class="date hidden-xs">2026-08-19</span><a href="./bmdt/dtyw/mtjj/202608/t20260819_5997361.shtml" class="w80" target="_blank" title="央广网：一技之长叩开就业之门 “荆楚之夏”助力青年逐梦启航">央广网：一技之长叩开就业之门 “荆楚之夏”助力青年逐梦启航</a>
+                               </li>
+                        
+                               <li>
+                                   <span class="date hidden-xs">2026-08-14</span><a href="./bmdt/dtyw/mtjj/202608/t20260814_5995239.shtml" class="w80" target="_blank" title="工人日报：恩施“候鸟式”用工巧解灵活就业两难">工人日报：恩施“候鸟式”用工巧解灵活就业两难</a>
+                               </li>
+                        
+                               <li>
+                                   <span class="date hidden-xs">2026-08-10</span><a href="./bmdt/dtyw/mtjj/202608/t20260810_5992216.shtml" class="w80" target="_blank" title="工人日报：湖北打造青年就业创业“出彩舞台”">工人日报：湖北打造青年就业创业“出彩舞台”</a>
+                               </li>
+                        
+                               <li>
+                                   <span class="date hidden-xs">2026-08-06</span><a href="./bmdt/dtyw/mtjj/202608/t20260806_5989983.shtml" class="w80" target="_blank" title="央广网：湖北宜昌把技能送到青年身边 让创业梦想在家门口落地">央广网：湖北宜昌把技能送到青年身边 让创业梦想在家门口落地</a>
+                               </li>
+                        
+                               <li>
+                                   <span class="date hidden-xs">2026-08-05</span><a href="./bmdt/dtyw/mtjj/202608/t20260805_5989291.shtml" class="w80" target="_blank" title="央广网：湖北孝感“零门槛”培训铺就青年就业创业“快车道”">央广网：湖北孝感“零门槛”培训铺就青年就业创业“快车道”</a>
+                               </li>
+                        
+                               <li>
+                                   <span class="date hidden-xs">2026-08-04</span><a href="./bmdt/dtyw/mtjj/202608/t20260804_5988916.shtml" class="w80" target="_blank" title="人民网：“荆楚之夏”咸宁实践：技能，照亮他们的选择">人民网：“荆楚之夏”咸宁实践：技能，照亮他们的选择</a>
+                               </li>
+                        
+                               <li>
+                                   <span class="date hidden-xs">2026-08-04</span><a href="./bmdt/dtyw/mtjj/202608/t20260806_5989968.shtml" class="w80" target="_blank" title="央广网：一技之长，何以“照亮”前程？湖北咸宁擦亮护工品牌、抢抓低空风口">央广网：一技之长，何以“照亮”前程？湖北咸宁擦亮护工品牌、抢抓低空风口</a>
+                               </li>
+                        
+                               <li>
+                                   <span class="date hidden-xs">2026-08-03</span><a href="./bmdt/dtyw/mtjj/202608/t20260803_5988080.shtml" class="w80" target="_blank" title="新华网：2026年“万名学子宜昌行”实践体验活动火热进行中">新华网：2026年“万名学子宜昌行”实践体验活动火热进行中</a>
+                               </li>
+                               
+       </ul>
+        </div>
+        </div>
+        <!--<div class="tzgg wzzh">
+            <div class="col-md-3 tztl"><a href="http://rst.hubei.gov.cn/bmdt/dtyw/tzgg/"><i class="s1"></i>通知公告</a></div>
+            <div class="col-md-9 scroll">
+<ul>
+                <li><a href="./bmdt/dtyw/tzgg/202608/t20260824_5999793.shtml" class="w80" target="_blank" title="湖北省工伤预防联席会议办公室关于公示湖北省工伤预防专家库拟聘任专家名单的公告">湖北省工伤预防联席会议办公室关于公示湖北省工...</a></li>
+<li><a href="./bmdt/dtyw/tzgg/202608/t20260824_5999792.shtml" class="w80" target="_blank" title="湖北省工伤预防联席会议办公室关于公布2026年湖北省工伤预防重点领域、2027年工伤预防项目申报指引及建议征集的公告">湖北省工伤预防联席会议办公室关于公布2026年湖...</a></li>
+<li><a href="./bmdt/ztzl/ywzl/jlsf/gsgg_/202608/t20260820_5998220.shtml" class="w80" target="_blank" title="关于全国物流行业先进集体和先进个人推荐对象的公示">关于全国物流行业先进集体和先进个人推荐对象的公示</a></li>
+
+               </ul>  
+</div>-->
+        </div>
+
+        </div>
+        </div>
+        </div>
+        </div>
+        <!-- part1 end --> 
+       <!-- part2 start-->
+        <div class="content" style="background-color: #f5f8fd;">
+
+        <div class="p2 mb20">
+        <div class="grid tab-pane">
+        <h2 class="tab"> 
+        <a href="http://rst.hubei.gov.cn/bmdt/" class="current" target="_blank"><i class="s4"></i><span>人社动态</span></a> 
+        <a href="http://rst.hubei.gov.cn/zfxxgk/" target="_blank" target="_blank"><i class="s1"></i><span>政府信息公开</span></a>
+        <a href="http://rst.hubei.gov.cn/bsfw/"  target="_blank"><i class="s2"></i><span>办事服务</span></a> 
+        <a href="http://rst.hubei.gov.cn/hdjl/"  target="_blank"><i class="s3"></i><span>互动交流</span></a> 
+        </h2>
+        <div class="pane"> 
+        <!-- 政府信息公开开始 -->
+        <div class="row info animated fadeIn" >
+
+<div class="col-md-6 tab-pane3" style=" overflow: hidden;">
+ <div class="tab3">
+<h4><a href="http://rst.hubei.gov.cn/bmdt/dtyw/stfb/" class="current" target="_blank">省厅发布</a></h4>
+            </div>
+<div class="pane3">
+<ul class="list-t" >
+           <li>
+                                    <span class="date hidden-xs">2026-08-18</span><a href="./bmdt/dtyw/stfb/202608/t20260818_5996721.shtml" class="w80" target="_blank" title="第二期“创立方”湖北省博士后和留学回国人才创业训练营在深圳成功举办">第二期“创立方”湖北省博士后和留学回国人才创业训练营在深圳成功举办</a>
+                                </li>
+<li>
+                                    <span class="date hidden-xs">2026-08-13</span><a href="https://mp.weixin.qq.com/s/5cXIKGKRVdDvI-itifFYtg" class="w80" target="_blank" title="“技能照亮前程·荆楚之夏”青年全媒体运营能力提升活动来了">“技能照亮前程·荆楚之夏”青年全媒体运营能力提升活动来了</a>
+                                </li>
+<li>
+                                    <span class="date hidden-xs">2026-07-28</span><a href="./bmdt/dtyw/stfb/202607/t20260728_5985066.shtml" class="w80" target="_blank" title="首届湖北省博士后和留学回国人才创业训练营在浙举行">首届湖北省博士后和留学回国人才创业训练营在浙举行</a>
+                                </li>
+<li>
+                                    <span class="date hidden-xs">2026-07-24</span><a href="./bmdt/dtyw/stfb/202607/t20260724_5983527.shtml" class="w80" target="_blank" title="省人社厅党组理论学习中心组第7次集体学习会议举行">省人社厅党组理论学习中心组第7次集体学习会议举行</a>
+                                </li>
+<li>
+                                    <span class="date hidden-xs">2026-07-21</span><a href="./bmdt/dtyw/stfb/202607/t20260721_5981011.shtml" class="w80" target="_blank" title="20万+岗位、500个培训项目：湖北十大就业服务举措发布！">20万+岗位、500个培训项目：湖北十大就业服务举措发布！</a>
+                                </li>
+<li>
+                                    <span class="date hidden-xs">2026-07-20</span><a href="./bmdt/dtyw/stfb/202607/t20260720_5979783.shtml" class="w80" target="_blank" title="提高政治站位 强化履职担当 以高质量监督执纪保障人社事业高质量发展">提高政治站位 强化履职担当 以高质量监督执纪保障人社事业高质量发展</a>
+                                </li>
+<li>
+                                    <span class="date hidden-xs">2026-07-16</span><a href="https://mp.weixin.qq.com/s/tgJ_kL0uel83hnSuNu4KTg" class="w80" target="_blank" title="免费职业指导+找工作！湖北近百场活动，快报名！">免费职业指导+找工作！湖北近百场活动，快报名！</a>
+                                </li>
+<li>
+                                    <span class="date hidden-xs">2026-07-13</span><a href="./bmdt/dtyw/stfb/202607/t20260713_5975547.shtml" class="w80" target="_blank" title="省人社厅公布2026年二季度重大劳动保障违法行为案件">省人社厅公布2026年二季度重大劳动保障违法行为案件</a>
+                                </li>
+<li>
+                                    <span class="date hidden-xs">2026-07-09</span><a href="./bmdt/dtyw/stfb/202607/t20260709_5973937.shtml" class="w80" target="_blank" title="如何构筑人工智能OPC良好生态？">如何构筑人工智能OPC良好生态？</a>
+                                </li>
+
+        </ul>
+</div>
+</div>
+<div class="col-md-6 tab-pane3" style=" overflow: hidden;">
+ <div class="tab3">
+<h4><a href="http://rst.hubei.gov.cn/bmdt/dtyw/gzdt/" class="current" target="_blank">工作动态</a></h4>
+            </div>
+<div class="pane3">
+<ul class="list-t" >
+           
+
+            
+<li>
+    <span class="date hidden-xs">
+        2026-08-25
+    </span><a href="./bmdt/dtyw/gzdt/202608/t20260825_6000867.shtml" class="w80" target="_blank"  title="
+    黄冈：举办职称政策专题培训 深入学习“一办法一通知”">黄冈：举办职称政策专题培训 深入学习“一办法一通知”   </a>
+</li>
+
+
+
+
+    <li>
+        <span class="date hidden-xs">
+            2026-08-25
+        </span><a href="./bmdt/dtyw/gzdt/202608/t20260825_6000860.shtml" class="w80" target="_blank" title="
+        仙桃：劳务品牌扬帆出海 对南非合作取得新突破">仙桃：劳务品牌扬帆出海 对南非合作取得新突破</a>
+    </li>
+    
+    <li>
+        <span class="date hidden-xs">
+            2026-08-25
+        </span><a href="./bmdt/dtyw/gzdt/202608/t20260825_6000848.shtml" class="w80" target="_blank" title="
+        武汉新洲：“云景技创”四维发力 探索AI+就业服务新路径">武汉新洲：“云景技创”四维发力 探索AI+就业服务新路径</a>
+    </li>
+    
+    <li>
+        <span class="date hidden-xs">
+            2026-08-25
+        </span><a href="./bmdt/dtyw/gzdt/202608/t20260825_6000844.shtml" class="w80" target="_blank" title="
+        孝感孝南：聚力“三支一扶”培训 为基层服务蓄势赋能">孝感孝南：聚力“三支一扶”培训 为基层服务蓄势赋能</a>
+    </li>
+    
+    <li>
+        <span class="date hidden-xs">
+            2026-08-24
+        </span><a href="./bmdt/dtyw/gzdt/202608/t20260824_6000014.shtml" class="w80" target="_blank" title="
+        随州：七夕特别企划  社保服务零距离">随州：七夕特别企划  社保服务零距离</a>
+    </li>
+    
+    <li>
+        <span class="date hidden-xs">
+            2026-08-24
+        </span><a href="./bmdt/dtyw/gzdt/202608/t20260824_5999988.shtml" class="w80" target="_blank" title="
+        枝江：117名西藏山南籍新员工“组团式”来枝就业">枝江：117名西藏山南籍新员工“组团式”来枝就业</a>
+    </li>
+    
+    <li>
+        <span class="date hidden-xs">
+            2026-08-24
+        </span><a href="./bmdt/dtyw/gzdt/202608/t20260824_5999983.shtml" class="w80" target="_blank" title="
+        应城：一企业获批国家级博士后科研工作站">应城：一企业获批国家级博士后科研工作站</a>
+    </li>
+    
+    <li>
+        <span class="date hidden-xs">
+            2026-08-24
+        </span><a href="./bmdt/dtyw/gzdt/202608/t20260824_5999976.shtml" class="w80" target="_blank" title="
+        宜昌夷陵：“一站式”招聘精准服务制造业重点企业">宜昌夷陵：“一站式”招聘精准服务制造业重点企业</a>
+    </li>
+    
+    <li>
+        <span class="date hidden-xs">
+            2026-08-24
+        </span><a href="./bmdt/dtyw/gzdt/202608/t20260824_5999974.shtml" class="w80" target="_blank" title="
+        红安：导师赋能助创业 巾帼逐梦绽芳华">红安：导师赋能助创业 巾帼逐梦绽芳华</a>
+    </li>
+    
+
+
+        </ul>
+</div>
+</div>
+</div>
+
+        <div class="row info animated fadeIn"  style="display:none;">
+        <div class="col-md-6 tab-pane3" style=" overflow: hidden;">
+ <div class="tab3">
+                <h4>
+<a href="http://rst.hubei.gov.cn/bmdt/dtyw/tzgg/" class="current" target="_blank">通知公告</a>
+<a href="http://rst.hubei.gov.cn/zfxxgk/zc/gfxwj/"   target="_blank">规范性文件</a>
+</h4>
+            </div>
+            <div class="pane3">
+
+<ul class="list-t" >
+           <li>
+                                    <span class="date hidden-xs">2026-08-24</span><a href="./bmdt/dtyw/tzgg/202608/t20260824_5999793.shtml" class="w80" target="_blank" title="湖北省工伤预防联席会议办公室关于公示湖北省工伤预防专家库拟聘任专家名单的公告">湖北省工伤预防联席会议办公室关于公示湖北省工伤预防专家库拟聘任专家名单的公告</a>
+                                </li>
+<li>
+                                    <span class="date hidden-xs">2026-08-24</span><a href="./bmdt/dtyw/tzgg/202608/t20260824_5999792.shtml" class="w80" target="_blank" title="湖北省工伤预防联席会议办公室关于公布2026年湖北省工伤预防重点领域、2027年工伤预防项目申报指引及建议征集的公告">湖北省工伤预防联席会议办公室关于公布2026年湖北省工伤预防重点领域、2027年工伤...</a>
+                                </li>
+<li>
+                                    <span class="date hidden-xs">2026-08-20</span><a href="./bmdt/ztzl/ywzl/jlsf/gsgg_/202608/t20260820_5998220.shtml" class="w80" target="_blank" title="关于全国物流行业先进集体和先进个人推荐对象的公示">关于全国物流行业先进集体和先进个人推荐对象的公示</a>
+                                </li>
+<li>
+                                    <span class="date hidden-xs">2026-08-18</span><a href="./bmdt/dtyw/tzgg/202608/t20260818_5996693.shtml" class="w80" target="_blank" title="关于委托第三方开展失业人员就业帮扶专项活动（武汉片区）的公告">关于委托第三方开展失业人员就业帮扶专项活动（武汉片区）的公告</a>
+                                </li>
+<li>
+                                    <span class="date hidden-xs">2026-08-14</span><a href="./bmdt/dtyw/tzgg/202608/t20260814_5995325.shtml" class="w80" target="_blank" title="关于委托供应商开展湖北省第四期马兰花创业培训讲师训练营活动的公告">关于委托供应商开展湖北省第四期马兰花创业培训讲师训练营活动的公告</a>
+                                </li>
+
+        </ul>
+<ul class="list-t" style="display:none;">
+           
+<li><span class="date hidden-xs">2026-07-15</span><a href="./zfxxgk/zc/gfxwj/202607/t20260715_5977106.shtml" target="_blank"  title="湖北省人力资源和社会保障厅关于进一步规范我省专业技术人员职称初定政策的通知" class="w80">湖北省人力资源和社会保障厅关于进一步规范我省专业技术人员...</a></li>
+
+<li><span class="date hidden-xs">2026-05-29</span><a href="./zfxxgk/zc/gfxwj/202605/t20260529_5946575.shtml" target="_blank"  title="湖北省人力资源和社会保障厅 省卫生健康委员会关于印发《湖北省劳动能力鉴定管理办法》的通知" class="w80">湖北省人力资源和社会保障厅 省卫生健康委员会关于印发《湖北...</a></li>
+
+<li><span class="date hidden-xs">2026-05-21</span><a href="./zfxxgk/zc/gfxwj/202605/t20260521_5940739.shtml" target="_blank"  title="湖北省人力资源和社会保障厅关于印发《湖北省劳动保障信用管理暂行办法》的通知" class="w80">湖北省人力资源和社会保障厅关于印发《湖北省劳动保障信用管...</a></li>
+
+<li><span class="date hidden-xs">2026-03-05</span><a href="./zfxxgk/zc/gfxwj/202603/t20260305_5885629.shtml" target="_blank"  title="湖北省人力资源和社会保障厅关于印发《湖北省就业创业培训补贴管理办法》的通知" class="w80">湖北省人力资源和社会保障厅关于印发《湖北省就业创业培训补...</a></li>
+
+<li><span class="date hidden-xs">2026-02-05</span><a href="./zfxxgk/zc/gfxwj/202602/t20260205_5871047.shtml" target="_blank"  title="湖北省人力资源和社会保障厅关于印发 《湖北省就业见习管理办法》的通知" class="w80">湖北省人力资源和社会保障厅关于印发 《湖北省就业见习管理办...</a></li>
+
+        </ul>
+</div>
+        <div class="cxfw">
+            <label></label>
+            <div class="ssboxxx">
+                <select class="wj-xzlx" id="choose" onclick="change()">
+                    <option value="标题">标题</option>
+                    <option value="文号">文号</option>
+                </select>
+                <input class="srk" type="text" maxlength="50" onclick="if(this.value=='请输入关键词'){this.value='';}" placeholder="请输入关键词" id="textfield3" />
+
+                <button class="cxbt"  onclick="chkSearch2()"  >搜索</button>
+                <script>
+                    function chkSearch2(){
+                        if($('#textfield3').val() == '' || $('#textfield3').val().length == 0){
+                            alert('请输入关键字');
+                            return false;
+                        }
+                
+                var name=$('.wj-xzlx option:selected') .val();
+                var keywords2 = encodeURI($('#textfield3').val());
+                    $url ='https://rst.hubei.gov.cn/zfxxgk/zc/gfxwj/index.shtml?name='+name+'&searchWord='+keywords2;
+                        window.open($url,'_blank');
+                    }
+                                  //添加切换
+                                  $("#choose").change(function() {
+                          var opt =  $("#choose").val();
+                          if(opt=='标题'){
+                              $("#textfield3").attr("placeholder","直接输入标题");
+                          }else{
+                              $("#textfield3").attr("placeholder","请输入发文字号");
+                          }
+                
+                        });
+                </script>
+            </div>
+<a href="http://rst.hubei.gov.cn/bmdt/ztzl/ywzl/rshmzcjwj/hmzc/" target="_blank"  title="" class="wjk"><img src="/material/2023/2023_images/zczsk20231127.png" bfdi="337" style="" /></a>
+        </div>
+        </div>
+        <div class="col-md-6 zcjd tab-pane4">
+        <h4 class="titles"><a href="http://rst.hubei.gov.cn/zfxxgk/zc/zcjd/"  target="_blank">政策解读</a><span class="aijd"><a href="/zfxxgk/zc/zcjd/202311/t20231127_4971438.shtml">AI解读</a></span></h4>
+         <h6 class="tab4">
+            <a class="current">全部</a>|<a>图文</a>|<a>文字</a>|<a>音视频</a>|<a>发布会</a>
+        </h6>
+        <div class="pane4">
+            <div>
+                <ul class="list-a pic" id="tw1">
+                </ul>
+
+                <ul class="list-t" id="wz1"> 
+                </ul>
+            </div>
+
+            <div style="display: none;">
+                <ul class="list-a pic" id="tw">
+                </ul>
+            </div>
+            <div style="display: none;">
+                <ul class="list-t" id="wz"> 
+
+                </ul>
+            </div>
+            <div style="display: none;">
+                <ul class="list-t" id="yp"> 
+                </ul>
+            </div>
+            <div style="display: none;">
+                <ul class="list-a pic"> 
+      
+<li class="col-md-6"><a href="./zfxxgk/fdzdgknr/qtzdgknr/xwfbh/202509/t20250923_5777286.shtml" title=""><img src="./zfxxgk/fdzdgknr/qtzdgknr/xwfbh/202509/W020250923387188673941.jpg"/></a><a class="picmb" title="">【新闻发布会回应】“决胜收官‘...</a></li>
+      
+<li class="col-md-6"><a href="./zfxxgk/fdzdgknr/qtzdgknr/xwfbh/202504/t20250430_5637668.shtml" title=""><img src="./zfxxgk/fdzdgknr/qtzdgknr/xwfbh/202504/W020250430607917497601.jpg"/></a><a class="picmb" title="">【新闻发布会回应】“牢记嘱托 建...</a></li>
+      
+<li class="col-md-6"><a href="./zfxxgk/fdzdgknr/qtzdgknr/xwfbh/202504/t20250429_5634826.shtml" title=""><img src="./zfxxgk/fdzdgknr/qtzdgknr/xwfbh/202504/W020250429321651839050.jpg"/></a><a class="picmb" title="">【新闻发布会回应】国新办就稳就...</a></li>
+      
+<li class="col-md-6"><a href="./zfxxgk/fdzdgknr/qtzdgknr/xwfbh/202409/t20240927_5351942.shtml" title=""><img src="./zfxxgk/fdzdgknr/qtzdgknr/xwfbh/202409/W020240927561736868196.jpg"/></a><a class="picmb" title="">解读《关于统筹推进教育科技人才...</a></li>
+
+                </ul>
+            </div>
+        </div>
+        </div>
+        <div class="col-md-12">
+        <ul class="list-a a3">
+            <li><a href="http://rst.hubei.gov.cn/zfxxgk/zfxxgkzn/"  target="_blank">政府信息公开指南</a></li>
+            <li><a href="http://rst.hubei.gov.cn/zfxxgk/zfxxgkzd/"  target="_blank">政府信息公开制度</a></li>
+            <li><a href="http://rst.hubei.gov.cn/zfxxgk/zfwzjgndbb/"  target="_blank">政府网站年度报表</a></li>
+            <li><a href="http://rst.hubei.gov.cn/zfxxgk/fdzdgknr/"  target="_blank">法定主动公开内容</a></li>
+            <li><a href="http://rst.hubei.gov.cn/zfxxgk/zfxxgkgzndbg/"  target="_blank">政府信息公开年报</a></li>
+            <li><a href="http://rst.hubei.gov.cn/zfxxgk/ysqgk/"  target="_blank">政府信息公开申请</a></li>
+        </ul>
+        </div>
+        </div>
+        <!-- 政府信息公开结束 --> 
+
+        <!-- 办事服务开始 -->
+        <div class="row animated fadeIn" style="display: none">
+            <div class="col-md-4">
+                <div class=" wyb tab-pane1">
+                <h4>我要办</h4>
+                <h4 class="tab1" style="
+padding-left: 38px;">
+                <a href="javascript:void(0)" class="current">1</a>/
+                <a href="javascript:void(0)">2</a>
+                </h4>
+                <div class="pane1" >
+                <ul class="list-t">
+                    <li><a href="http://zwfw.hubei.gov.cn/webview/bszn/bsznpage.html?transactCode=11420000010833209R200201401000101">社会保障卡申领</a></li>
+                    <li><a href="http://zwfw.hubei.gov.cn/webview/bszn/bsznpage.html?transactCode=11420000010833209R200201400500116">单位参保证明打印</a></li>
+                    <li><a href="http://zwfw.hubei.gov.cn/webview/bszn/bsznpage.html?transactCode=11420000010833209R200201400800105">失业保险金申领</a></li>
+                    <li><a href="http://zwfw.hubei.gov.cn/webview/bszn/bsznpage.html?transactCode=11420000010833209R200201420500101">申报职业技能鉴定</a></li>
+                </ul>
+                <ul class="list-t" style="display:none ;">
+                    <li><a href="http://zwfw.hubei.gov.cn/webview/bszn/bsznpage.html?transactCode=11420000010833209R200201401000701">社会保障卡服务</a></li>
+                    <li><a href="http://zwfw.hubei.gov.cn/webview/bszn/bsznpage.html?transactCode=11420000010833209R2422014068W0001">专项职业能力证书办理</a></li>
+                    <li><a href="http://zwfw.hubei.gov.cn/webview/bszn/bsznpage.html?transactCode=11420000010833209R200201400100102&taskType=20">企业社会保险登记</a></li>
+					<li><a href="http://zwfw.hubei.gov.cn/webview/bszn/bsznpage.html?transactCode=11420000010833209R2422014078W0102" >城镇企业职工养老保险待遇申领</a></li>
+
+                </ul>
+
+					</div>
+        
+                </div>
+        
+                </div>
+                <div class="col-md-4">
+                <div class=" wyc tab-pane2">
+                <h4>我要查</h4>
+                <h4 class="tab2" >
+                <a href="javascript:void(0)" class="current">1</a>/
+                <a href="javascript:void(0)">2</a>/
+                <a href="javascript:void(0)">3</a>
+                </h4>
+                <div class="pane2">
+                <ul class="list-t">
+<li><a href="http://bags.hbjdzx.org.cn/" title="职业技能评价机构查询">湖北省技能人才评价机构公示查询</a> </li>
+<li><a href="./bsfw/bmcxfw/gskfjgzgcx/" title="工伤保险协议医疗、康复服务机构查询">工伤保险协议医疗、康复服务机构查询</a> </li>
+<!--<li><a href="http://zwfw.hubei.gov.cn/web/hb/static/web/bmfw/bmfw_check.html?bmfwId=B0102&region_code=420000000000/" title="社保查询">社保查询</a> </li>-->
+
+   </ul>
+                <ul class="list-t" style="display:none ;">
+ <li><a href="./bsfw/bmcxfw/qgmbpxjg_59752/" title="全国民办培训机构查询">民办职业学校查询</a> </li>
+<li><a href="./bsfw/bmcxfw/fzqcfwjgcx/" title="工伤保险协议辅助器具服务机构查询">工伤保险协议辅助器具服务机构查询</a> </li>
+ <!--<li><a href="http://zwfw.hubei.gov.cn/web/hb/static/web/bmfw/bmfw_check.html?bmfwId=B0101&region_code=420000000000/" title="社保查询卡">社保卡查询</a> </li>-->
+
+                </ul>
+                <ul class="list-t" style="display:none ;">
+ <li><a href="http://rst.hubei.gov.cn/bsfw/bmcxfw/gsbxjgcx/" title="工伤保险省内异地就医直接结算协议机构查询">工伤保险省内异地就医直接结算协议机构查询</a> </li>
+ <li><a href="http://rst.hubei.gov.cn/bsfw/bmcxfw/gsbxyjgcx/" title="工伤保险跨省异地就医直接结算协议机构查询">工伤保险跨省异地就医直接结算协议机构查询</a> </li>
+                </ul>
+                </div>
+        
+                </div>
+        
+                </div>
+                <div class="col-md-4">
+                <div class="zwfww">
+                    <a href="http://zwfw.hubei.gov.cn/webview/bszn/bmsy.html?department=11420000010833209R" target="_blank" style="position: absolute;
+                    top: 0px;
+                    display: block;
+                    width: 330px;
+                    height: 120px;"> </a>                 
+                <input type="text" maxlength="50" onclick="if(this.value=='一键查找办事服务'){this.value='';}" placeholder="一键查找办事服务" id="keyword1" name="keyword1" />
+                <button onclick="chkSearch1()" ></button>
+<script>
+    function chkSearch1(){
+        if($('#keyword1').val() == '' || $('#keyword1').val().length == 0){
+            alert('请输入关键字');
+            return false;
+        }
+var keywords1 = encodeURI($('#keyword1').val());
+	$url ='http://zwfw.hubei.gov.cn/webview/bszn/search/search.html?Keyword='+keywords1+'&p_region_code=420000000000&curText=%E6%B9%96%E5%8C%97%E7%9C%81';
+        window.open($url,'_blank');
+    }
+
+</script>
+
+                </div>
+                </div>
+                <div class="col-md-8 fwzq">
+                                <div class="col-md-6 tszt">
+                <h4 class="titles">业务子网</h4>
+                <ul class="list-a">
+               <li class="col-md-6 zt1">
+                     <p>湖北省人事考试网</p>
+                    <a href="http://rst.hubei.gov.cn/hbrsksw/"  target="_blank" style="padding:0" title="" class="qkk">
+                    <p>去看看</p>
+                    </a>   
+                </li>
+             <li class="col-md-6 zt2">
+                     <p>湖北公共招聘网</p>
+                    <a href="http://www.hbggzp.cn/" style="padding:0" title="" class="qkk">
+                    <p>去看看</p>
+                    </a>   
+                </li>
+                <div style="clear:both;"></div>
+                </ul>
+                </div>
+                  <div class="col-md-6 zwdt">
+                    <h4 class="titles"><a>特色服务</a></h4>
+                    <div class="row">
+                     <a href="http://rst.hubei.gov.cn/bsfw/zx/"  target="_blank" class="zwdt col-md-6"><img src="/material/2023/images/zwdt20231127.png" alt="" /></a>
+                     <a href="http://rst.hubei.gov.cn/bsfw/byjy/"  target="_blank" class="cjsfw col-md-6"><img src="/material/2023/images/yjsfw.png" alt="" /></a>
+                    </div>
+                 </div>
+                </div>
+                <div class="col-md-4 bjtj">
+                <h4 class="titles">办件统计</h4>
+               <h6 class="tab4"><a href="http://rst.hubei.gov.cn/bsfw/bstj/"  target="_blank" style="color: #6e819e;">历史办结情况</a></h6>
+                <div class="bj">
+                <div class="col-md-9">
+                <p class="tjyf">统计月份：<span id="yf"></span>月</p>
+                <div class="bjs col-md-6">
+                    <span class="bjm">办件数</span>
+                    <b class="bjl"><span id="bjss" class="bjl" ></span><span class="dw">件</span></b>
+                </div>
+                <div class="bjl col-md-6">
+                    <span class="bjm">办结率</span>
+                    <b class="bjl"><span id="bjll" class="bjl" ></span><span class="dw"></span></b>
+                </div>
+                </div>
+                <div class="col-md-3 jdcx">
+                <a href="http://zwfw.hubei.gov.cn/webview/xysWeb/wxbmfw/bjkdcx.html">办件进度查询</a>
+                </div>
+                </div>
+                </div>
+        </div>
+        <!-- 办事服务结束 --> 
+        <!-- 互动交流开始 -->
+        <div class="row public animated fadeIn" style="display: none">
+                <div class="col-md-12">
+        <div class="col-md-4 wsxfly">
+            <h4 class="titles"><a href="http://rst.hubei.gov.cn/hdjl/lxgs/lxxd/"  target="_blank">网上信访留言</a><span class="ld" ><a href="http://rst.hubei.gov.cn/hdjl/ldxx/"  target="_blank"><i class="ldxx"></i>领导信箱</a>|<a href="http://rst.hubei.gov.cn/hdjl/zxts/"  target="_blank"><i class="zxts"></i>咨询投诉</a></span></h4>
+            <ul class="list-t">
+
+                <li><a href="./hdjl/lxgs/lxxd/202608/t20260805_5989729.shtml"  target="_blank" title="
+                  左某反映工资被拖欠的网上信访事项办理情况">
+                  左某反映工资被拖欠的网上信访事项办理情况<span class="hs">2026-08-05</span></a></li>
+          
+                <li><a href="./hdjl/lxgs/lxxd/202607/t20260706_5971477.shtml"  target="_blank" title="
+                  曾某关于补办独生子女证及相关补贴申领的网上信访事项办理情况">
+                  曾某关于补办独生子女证及相关补贴申领的网上信访事项办理情况<span class="hs">2026-07-09</span></a></li>
+               
+            </ul>
+ <div class="zwzxly">
+            <h4 class="titles"><a href="http://rst.hubei.gov.cn/hdjl/lxgs/zxjylygk/"  target="_blank">政务咨询留言</a><span class="zwzx"><a href="http://zwfw.hubei.gov.cn/webview/bszn/zxts.html"><i class="s1"></i>政务咨询</a></span></h4>
+            <ul class="list-t">
+               
+                <li><a href="./hdjl/lxgs/zxjylygk/202608/t20260805_5989727.shtml"  target="_blank" title="
+                  肖某咨询毕业档案托管的问题">
+                  肖某咨询毕业档案托管的问题<span class="hs">2026-08-05</span></a></li>
+          
+                <li><a href="./hdjl/lxgs/zxjylygk/202607/t20260706_5971474.shtml"  target="_blank" title="
+                  胡某咨询技能培训报名失败的问题">
+                  胡某咨询技能培训报名失败的问题<span class="hs">2026-07-09</span></a></li>
+           
+            </ul>
+        </div>
+        <div class="lxdh">
+            <ul class="list-a a11">
+                <li class="col-md-6"><a href="./bmdt/qsld/" target="_blank">全省劳动保障监察投诉举报电话</a></li>
+                <li class="col-md-6"><a href="./bmdt/jyfplyfbhzfwttsjb/" target="_blank">人社领域优化营商环境问题投诉举报</a></li>
+            <!--    <li class="col-md-6"><a href="http://rst.hubei.gov.cn/bmdt/qsjbdh/202106/t20210615_3595503.shtml">全省社保基金监督举报电话</a></li>-->
+                <li class="col-md-6"><a href="./hdjl/jjjc/">纪检监察</a></li>
+             <li class="col-md-6"><a href="/bmdt/jbpt/202406/t20240627_5251247.shtml">湖北省就业补助资金使用管理监督举报平台</a></li>
+                <div style="clear:both;"></div>
+            </ul>
+          
+        </div>
+        </div>
+        <div class="col-md-4 xwfbh tab-pane3">
+            <div class="tab3">
+                <h4><!--<a href="./zfxxgk/fdzdgknr/qtzdgknr/xwfbh/"target="_blank">新闻发布会</a>-->
+                    <a href="./hdjl/zxft/" target="_blank"  class="current" >在线访谈</a></h4>
+            </div>
+            <div class="pane3">
+              <!--  <div class="col-md-12">
+
+                    <img src="./zfxxgk/fdzdgknr/qtzdgknr/xwfbh/202509/W020250923387188673941.jpg"/>
+                    <a href="./zfxxgk/fdzdgknr/qtzdgknr/xwfbh/202509/t20250923_5777286.shtml"  target="_blank" title="
+                  【新闻发布会回应】“决胜收官‘十四五’ 谋篇布局‘十五五’” 系列新闻发布会第十三场" style="padding: 20px 16px;">【新闻发布会回应】“决胜收官‘十四五...
+<span  style="display:block ; margin-top: 10px;    color: #aaaaaa;">2025-09-23</span>
+</a>
+
+                </div>-->
+                <div class="col-md-12">
+                    <img id="jsFilePath" src="" alt="" style="width:50%;" />
+                    <img id="jsFilePath2" src="./material/images/zxftgytp.jpg" alt="" style="display: none;width:50%;" />
+                    <div href=""  title="" target="_blank" style="padding: 20px 16px;"> <a id="jsTitle" style="padding:0;"></a><span  id="jsStartTime" style="display:block ; margin-top: 10px;    color: #aaaaaa;"></span></div>
+                </div>
+            </div>
+            <div class="dczj">
+              <h4 class="titles"><a href="./hdjl/dczj/">调查征集</a></h4>
+               <ul class="list-t"  id="dczj">
+               </ul>
+            </div>
+
+        </div>
+        <div class="col-md-4 znwd" style="padding: 0;">
+            <ul class="list-a" style="display: flex;margin-top: 4px;">
+                <li class="col-md-6"><a href="http://rst.hubei.gov.cn/znjqr/"  target="_blank"><img src="/material/images/index_2022/znwd.png" alt="" /></a></li>
+                <li class="col-md-6"><a style="margin-top: 10px;"><img src="/material/2023/images/20230919_dxe.png" alt="" /></a></li>
+            </ul>
+<div class="col-md-12 mt20 zwzsk" style="padding: 0px 10px !important;">
+<h4 class="titles"><a href="http://rst.hubei.gov.cn/hdjl/rsrk/zwzsk/"  target="_blank">政策问答库</a></h4>
+            <ul class="list-t">
+
+
+                <li><a href="./hdjl/rsrk/zwzsk/202608/t20260825_6000208.shtml"  target="_blank" title="
+                  找工作，警惕“无薪试岗”骗局！">
+                  找工作，警惕“无薪试岗”骗局！<span class="hs">2026-08-25</span><span class="bj" style="display:none">20260825</span></a></li>
+          
+
+                <li><a href="./hdjl/rsrk/zwzsk/202608/t20260824_5999917.shtml"  target="_blank" title="
+                  哪些人能申请技能提升补贴？">
+                  哪些人能申请技能提升补贴？<span class="hs">2026-08-24</span><span class="bj" style="display:none">20260824</span></a></li>
+          
+
+                <li><a href="./hdjl/rsrk/zwzsk/202608/t20260821_5998632.shtml"  target="_blank" title="
+                  职称代办不靠谱！">
+                  职称代办不靠谱！<span class="hs">2026-08-21</span><span class="bj" style="display:none">20260821</span></a></li>
+          
+
+                <li><a href="./hdjl/rsrk/zwzsk/202608/t20260820_5998086.shtml"  target="_blank" title="
+                  职称评审需逐级晋升吗？">
+                  职称评审需逐级晋升吗？<span class="hs">2026-08-20</span><span class="bj" style="display:none">20260820</span></a></li>
+          
+
+                <li><a href="./hdjl/rsrk/zwzsk/202608/t20260819_5997300.shtml"  target="_blank" title="
+                  @企业，满足这些条件可享受一次性扩岗补">
+                  @企业，满足这些条件可享受一次性扩岗补<span class="hs">2026-08-19</span><span class="bj" style="display:none">20260819</span></a></li>
+          
+
+                <li><a href="./hdjl/rsrk/zwzsk/202608/t20260818_5996774.shtml"  target="_blank" title="
+                  @企业，满足这些条件可享受失业保险稳岗返还">
+                  @企业，满足这些条件可享受失业保险稳岗返还<span class="hs">2026-08-18</span><span class="bj" style="display:none">20260818</span></a></li>
+           
+            </ul>
+</div>
+        </div>
+ </div>
+       
+
+
+
+        </div>
+        <!-- 互动交流结束 --> 
+
+        </div>
+        </div>
+        </div>
+
+        </div>
+        <!-- part2 end --> 
+       <!-- part3 start --> 
+        <div class="content">
+            <div class="p3 mb20">
+                <div class="grid">
+                    <div class="col-md-8 ywzl tab-pane slideTxtBox">
+                        <h2 class="title"><a href="./bmdt/ztzl/ywzl/" target="_blank">服务专栏</a></h2>
+                            <h2 class="tab hd"> 
+                                <ul>
+                                    <li class="on">1</li>
+                                    <li>2</li>
+                                </ul>
+                            </h2>
+                           <div class="pane bd"> 
+                               <ul class="list-a">
+              
+                                  <li class="col-md-3">
+                                 <a href="./bmdt/ztzl/ywzl/sbfwjwj/"  target="_blank" title="高质量参保 智慧化服务—社保服务进万家"  >
+                
+<img src='./bmdt/ztzl/ywzl/sbfwjwj/images/P020260318396298492947.png'/><p>高质量参保 智慧化服务—社保...</p></a>
+                                  </li>
+                                 
+                                  <li class="col-md-3">
+                                 <a href="./bmdt/ztzl/ywzl/cjgzlcfjy/"  target="_blank" title="“促进高质量充分就业”专题"  >
+                
+                  <img src="/material/2023/images/ndzdzt2023.png" class="ts" />
+                
+<img src='./bmdt/ztzl/ywzl/cjgzlcfjy/images/P020241012640766859839.png'/><p>“促进高质量充分就业”专题</p></a>
+                                  </li>
+                                 
+                                  <li class="col-md-3">
+                                 <a href="./bmdt/ztzl/ywzl/bsh/"  target="_blank" title="湖北博士后"  >
+                
+<img src='./bmdt/ztzl/ywzl/bsh/images/P020241012666057831241.png'/><p>湖北博士后</p></a>
+                                  </li>
+                                 
+                                  <li class="col-md-3">
+                                 <a href="./bmdt/ztzl/ywzl/hbszyjsryzcpd_13325/"  target="_blank" title="湖北省专业技术人员职称评定"  >
+                
+<img src='./bmdt/ztzl/ywzl/hbszyjsryzcpd_13325/images/P020230407583001029064.png'/><p>湖北省专业技术人员职称评定</p></a>
+                                  </li>
+                                 
+                                  <li class="col-md-3">
+                                 <a href="./bmdt/ztzl/ywzl/hbsszsydwgkzp/"  target="_blank" title="湖北省省直事业单位公开招聘"  >
+                
+<img src='./bmdt/ztzl/ywzl/hbsszsydwgkzp/images/P020230407583119293904.png'/><p>湖北省省直事业单位公开招聘</p></a>
+                                  </li>
+                                  
+                               </ul>
+                               <ul class="list-a" style="display: none">
+                               
+                                  <li class="col-md-3">
+                                  <a href="./bmdt/ztzl/ywzl/rshmzcjwj/"  target="_blank" title="人社惠民政策进万家"  >
+                
+<img src='./bmdt/ztzl/ywzl/rshmzcjwj/images/P020230407583344636545.png'/><p>人社惠民政策进万家</p></a>
+                                  </li>
+                              
+                                  <li class="col-md-3">
+                                  <a href="https://gzqx.chutianyun.gov.cn/publicservice/index.html#/home"  target="_blank" title="湖北省劳动保障监察政务服务平台"  >
+                
+<img src='./bmdt/ztzl/ywzl/65786/images/P020230530500241015194.jpg'/><p>湖北省劳动保障监察政务服务平台</p></a>
+                                  </li>
+                              
+                                  <li class="col-md-3">
+                                  <a href="./bmdt/ztzl/ywzl/jlsf/"  target="_blank" title="表彰奖励创建示范"  >
+                
+<img src='./bmdt/ztzl/ywzl/jlsf/images/P020230407583995879995.png'/><p>表彰奖励创建示范</p></a>
+                                  </li>
+                              
+                                  <li class="col-md-3">
+                                  <a href="./bmdt/ztzl/ywzl/hbsrlzyscgl/"  target="_blank" title="湖北省人力资源流动管理"  >
+                
+<img src='./bmdt/ztzl/ywzl/hbsrlzyscgl/images/P020230407584087543935.png'/><p>湖北省人力资源流动管理</p></a>
+                                  </li>
+                                
+                             </ul>
+    
+                           
+                           </div>
+                    </div>
+                    <div class="col-md-4 zdzl">
+                        <h2 class="title"><a href="./bmdt/ztzl/zdzl/" target="_blank">综合专栏</a></h2>
+                        <div class="swiper-container scroll list">
+                            <ul class="list-a swiper-wrapper h" style="width: 100%;">
+
+                             
+
+                                <li class="col-md-12 swiper-slide">
+                                    <a href="./bmdt/ztzl/zdzl/rsgzzyls/"  target="_blank" title="习近平总书记关于人社工作的重要论述"> 
+                                    <img src='./bmdt/ztzl/zdzl/rsgzzyls/images/P020260728541221155585.png'/></a>
+                                </li>
+	
+                              
+
+                                <li class="col-md-12 swiper-slide">
+                                    <a href="./bmdt/ztzl/zdzl/xxxjp/"  target="_blank" title="深入学习贯彻习近平党建思想"> 
+                                    <img src='./bmdt/ztzl/zdzl/xxxjp/images/P020260716423551603405.png'/></a>
+                                </li>
+	
+                              
+
+                                <li class="col-md-12 swiper-slide">
+                                    <a href="./bmdt/ztzl/zdzl/slzjg/"  target="_blank" title="树立和践行正确政绩观学习教育"> 
+                                    <img src='./bmdt/ztzl/zdzl/slzjg/images/P020260309683174422490.png'/></a>
+                                </li>
+	
+                              
+
+                                <li class="col-md-12 swiper-slide">
+                                    <a href="./bmdt/ztzl/zdzl/szqh2025/"  target="_blank" title="深入学习贯彻党的二十届四中全会精神"> 
+                                    <img src='./bmdt/ztzl/zdzl/szqh2025/images/P020251106379543207282.png'/></a>
+                                </li>
+	
+                              
+
+                                <li class="col-md-12 swiper-slide">
+                                    <a href="./bmdt/ztzl/zdzl/zfwzgzndbbhzzt/"  target="_blank" title="政府网站工作年度报表汇总专题"> 
+                                    <img src='./bmdt/ztzl/zdzl/zfwzgzndbbhzzt/images/P020221208400328956061.png'/></a>
+                                </li>
+	
+                              
+ 
+
+                                <li class="col-md-12 swiper-slide">
+                                    <a href="./bmdt/ztzl/zdzl/jsjy/"  target="_blank" title="守护社保基金安全——专项行动在开展"> 
+                                    <img src='./bmdt/ztzl/zdzl/jsjy/images/P020250411539364594642.png'/></a>
+                                </li>
+	
+                              
+
+                                <li class="col-md-12 swiper-slide">
+                                    <a href="./bmdt/ztzl/zdzl/shfgfgg/"  target="_blank" title="优化营商环境"> 
+                                    <img src='./bmdt/ztzl/zdzl/shfgfgg/images/P020221208401033868201.png'/></a>
+                                </li>
+	
+                              
+
+                                <li class="col-md-12 swiper-slide">
+                                    <a href="http://rst.hubei.gov.cn/hdjl/rsrk/zwzsk/index.shtml"  target="_blank" title="政策问答平台"> 
+                                    <img src='./bmdt/ztzl/zdzl/52793/images/P020231214573809255961.png'/></a>
+                                </li>
+	
+                              
+
+                                <li class="col-md-12 swiper-slide">
+                                    <a href="./bmdt/ztzl/zdzl/sdgjz/"  target="_blank" title="乡村振兴"> 
+                                    <img src='./bmdt/ztzl/zdzl/sdgjz/images/P020221208400851888690.png'/></a>
+                                </li>
+	
+                              
+                                 <!--<li class="col-md-12 swiper-slide">
+                                    <a href="https://www.gov.cn/zhengce/zczhjd/"  target="_blank" title="重要政策举措及实施效果"> 
+                                    <img src="/material/images/20240611_1.png" alt="" /></a>
+                                </li>
+                                 <li class="col-md-12 swiper-slide">
+                                    <a href="https://tousu.www.gov.cn/dc/index.htm"  target="_blank" title="2023年度国务院推动高质量发展综合督查问题线索征集"> 
+                                    <img src="/material/2025/images/20250411.png" alt="" /></a>
+                                </li>--!>
+                            </ul>
+                        </div>
+     <div class="zdzl-next"><span class="iconfont  icon-jyh-right2"></span></div>
+     <div class="zdzl-prev"><span class="iconfont  icon-jyh-left2"></span></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+         <!-- part3 end --> 
+ <!-- content 结束 --> 
+ 
+ <!-- footer 开始 -->
+   <div class="footer">
+     
+  <div class="copyright clearfix">
+    <div class="footer-map p20 fl">
+   <p>主办单位：湖北省人力资源和社会保障厅</p>
+      <p>政府网站标识码：4200000079</p>
+      <p><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42010602000730" target="_blank"><img src="http://rst.hubei.gov.cn/material/images/footer_icp.png" style="margin-bottom: 4px;" />鄂公网安备 42010602000730号</a></p>
+   </div>
+  <div class="p20 fl">
+  <p><a href="http://rst.hubei.gov.cn/fzlm/wzdt/" target="_blank">网站地图</a><span></span><a href="http://rst.hubei.gov.cn/fzlm/lxwm/" target="_blank">联系我们</a>
+<span><script id="_trs_ta_js" src="//rst.hubei.gov.cn/c/js/ta.js?mpid=3009" async="async" defer="defer"></script></span><a href="http://rst.hubei.gov.cn/yszc/" target="_blank">隐私政策</a>
+</p>
+     <p><!--<a href="http://www.beian.miit.gov.cn/"  target="_blank" style="margin:0"></a>-->鄂ICP备05011090号-1</p>
+   <p>版权所有：湖北省人力资源和社会保障厅 </p>
+  </div>
+              <div class="fl zwxmt">
+                <p>
+                    <a href="http://rst.hubei.gov.cn/fzlm/zwxmt/" target="_blank">
+                <i class="xmt"></i>政务新媒体
+                 </a>
+                </p>
+            </div>
+   <div class="gov"><a href="http://bszs.conac.cn/sitename?method=show&id=28B569FBF2853176E053012819AC71D2" target="_blank"><img src="http://rst.hubei.gov.cn/material/images/red.png" alt="" /></a></div>
+  <div class="jc"><script id="_jiucuo_" sitecode='4200000079' src='https://zfwzgl.www.gov.cn/exposure/jiucuo.js'></script></div>
+  </div>
+ </div>
+
+<link type="text/css" rel="stylesheet" href="http://rst.hubei.gov.cn/material/css/wltz.css" />
+<script type="text/javascript" src="http://rst.hubei.gov.cn/material/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://rst.hubei.gov.cn/material/js/wltz.js"></script>
+<script type="text/javascript" src="http://rst.hubei.gov.cn/material/js/ssoAjax.js"></script>
+<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"  style="height:186px;">
+    <div class="modal-header">
+        <button type="button" class="bootstrap-close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h3 id="myModalLabel">&nbsp;</h3>
+    </div>
+    <div class="modal-body">
+        <p>您访问的链接将离开“<span id="modalDomainName"></span>”门户网站 是否继续？</p>
+        <input id="modalOuterURL" type="hidden" />
+    </div>
+    <div class="modal-footer">
+        <button class="bootstrap-btn bootstrap-btn-default" data-dismiss="modal" aria-hidden="true">放弃</button>
+        <button class="bootstrap-btn bootstrap-btn-danger" onclick="toRedirect()">继续访问</button>
+    </div>
+</div>
+<script>
+var arr9 = window.location.href;
+try {
+var my_element2 =document.querySelector('meta[name="ArticleTitle"]').getAttribute('content');
+var t9 =my_element2
+}
+catch(e){
+try {
+var my_element =document.querySelector('meta[name="ColumnName"]').getAttribute('content');
+var t9 =my_element
+}
+catch(e){
+t9 ="湖北省人力资源和社会保障厅";
+arr9 ="https://rst.hubei.gov.cn/"
+}
+}
+
+var arr1 = []
+var arr2 = []
+var arr3 = []
+var arr4 = []
+arr1.push(t9)
+arr2.push(arr9)
+arr1.map((item,index) => {
+  arr3.push({id:item})
+})
+arr2.map((item,index) => {
+ arr4.push({name:item})
+})
+arr4.map((item,index) => {
+ arr3[index].name = item.name
+})
+if (localStorage.getItem("num") != null) {
+var xxx=JSON.parse(localStorage.getItem("num"));
+xxx = xxx.filter(item => item.id!=arr3[0].id );
+console.log(xxx);
+                            xxx.forEach((item) => {      
+                                var obj ={};
+                                obj.id = item.id;
+                                obj.name = item.name;
+                                arr3.push(obj)
+                          })
+}
+localStorage.setItem("num",JSON.stringify(arr3));
+console.log(localStorage.getItem("num"))
+
+	
+</script>
+
+
+<link href="http://rst.hubei.gov.cn/material/indeci/static/css/iconfont.css" rel="stylesheet" type="text/css" />
+<link href="http://rst.hubei.gov.cn/material/indeci/static/css/indeci.css" rel="stylesheet" type="text/css" />
+<link href="http://rst.hubei.gov.cn/material/assets/css/bf/barrierfree.css" rel="stylesheet" type="text/css" />
+<script src="http://rst.hubei.gov.cn/material/assets/js/iframe.js" id="barrierFree" data="sn=E83E3C97149C4561FED9FC79D9B23D900CB734F93284C7F6C2D6672907F7F9CB&amp;rcode=A7AD94BB9E5231B31B8FB13AB59B9F75AAE584816A9F82C7DE388C7EC281BE6E003EC03B6082B1D616EB3045AA4B89DED1621AC006BC1ECE526A815EAB0E557FAA421B115C538488046C236DB6CE507CDFD9E8EEAEC3D1015B121FEFA9BB0A7F0E4F6536FB6F8F616A2F8F6BBF8B9D05EF8AE0A423EC7F232FFC5A52790C88D7&helpsrc=/material/help.html"></script>
+<script>
+(function(){
+$.splitArea({
+		pageInfo: {type: '页面'},
+		nav: [
+			{
+				el: '.nav',  //配置导航区的类名
+				desc: '主栏目导航'  //导航区的名称
+			}
+		],
+		window: [
+			{
+				el: '.headline',  //配置视窗区的类名
+				desc: '头条区'  //视窗区的名称
+			},
+                          {
+				el: '.focus',  //配置视窗区的类名
+				desc: '焦点图'  //视窗区的名称
+			},
+                        {
+				el: '.p3 .tab-pane',  //配置视窗区的类名
+				desc: '政府信息公开'  //视窗区的名称
+			},
+                        {
+				el: '.topic',  //配置视窗区的类名
+				desc: '专题'  //视窗区的名称
+			},
+                        { 
+				el: '.article h4',  //配置视窗区的类名
+				desc: '标题'  //视窗区的名称
+			},
+                        {
+				el: '.option',  //配置视窗区的类名
+				desc: '文章信息区'  //视窗区的名称
+			},
+                        {
+				el: '.view',  //配置视窗区的类名
+				desc: '文章正文区'  //视窗区的名称
+			},
+                        {
+				el: '.footer',  //配置视窗区的类名
+				desc: '底部功能区'  //视窗区的名称
+			}
+		],
+		interactive: [
+			{
+				el: '.search', //配置交互去的类名
+				desc: '搜索区'  //交互区的名称
+			}
+		]
+});
+
+
+$.elderOptions([
+	{ el: '.nav', desc: '主栏目导航,本区域包含首页、政府信息公开、互动交流、办事服务、人社动态、数据开放'},
+	{ el: '.search', desc: '搜索区，可输入关键字搜索相关内容'}
+])
+
+
+})();
+</script>
+<!--百度统计-->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?e3087ee394f1febddf04f9d5c3037764";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+
+</script>
+
+
+<script>
+(function() {
+    var serverUrl = "/wasp-api"; 
+    var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+    g.type = 'text/javascript'; g.async = true; g.defer = true; g.src = serverUrl + '/js/ta.js';
+    g.id = "visit-js-id";
+    g.onload = function() {
+        window.Tracker.setCrossSubDomain();
+        window.Tracker.setSiteId('24');
+    }
+    s.parentNode.insertBefore(g, s);
+})();
+</script>
+ <!-- footer 结束 --> 
+
+ <!-- 浮窗 开始 -->
+<div class="menu-help4 fl  hidden-xs" style="z-index:10000;position: fixed;
+ bottom: 50%;
+    left: 10px;
+    margin-bottom: -100px;">  
+<ul >     
+<li class="pc2" style="margin-bottom:5px;position:relative">
+<a id="close3" style="position: absolute;right: 2px;top: 0;Z-INDEX: 9;display: block;COLOR: #FFF;cursor: pointer;" title="">X</a>
+<a  href="http://zwfw.hubei.gov.cn/webview/bszn/zxts.html" target="_blank">
+<img src="http://rst.hubei.gov.cn/material/2026/images/zxjy_index0605.png" height="" alt="" /></a></li>
+ <!--<li class="pc1" style="margin-bottom:5px;position:relative">
+<a id="close2" style="position: absolute;right: 2px;top: 0;Z-INDEX: 9;display: block;COLOR: #FFF;cursor: pointer;" title="">X</a>
+<a  href="https://rst.hubei.gov.cn/bmdt/dtyw/tzgg/202504/t20250407_5604409.shtml" target="_blank">
+<img src="http://rst.hubei.gov.cn/material/images/fc_040801.png" height="" alt="" /></a></li>-->
+
+      </ul>   
+    </div>
+<script type="text/javascript">
+   $(".menu-help4 #close2").click(function() { $(".pc1").hide(); });
+$(".menu-help4 #close3").click(function() { $(".pc2").hide(); });
+   </script>
+
+<!-- 浮窗 结束 -->
+<a class="trsjqr" href="http://rst.hubei.gov.cn/znjqr/index.shtml" target="_blank"></a>
+<!-- dom 结束 -->
+</div>
+<script type="text/javascript" src="http://rst.hubei.gov.cn/material/js/vue.min.js"></script>
+<script type="text/javascript" src="http://rst.hubei.gov.cn/material/js/index2022_rst.js"></script>
+<script type="text/javascript" src="http://rst.hubei.gov.cn/material/js/zxft_index1.js"></script>
+<script type="text/javascript" src="http://rst.hubei.gov.cn/material/2023/js/opinion_index20240627.js"></script>
+<script type="text/javascript" src="http://rst.hubei.gov.cn/material/js/lil_gfxwj1.js"></script>
+<script type="text/javascript" src="http://rst.hubei.gov.cn/material/js/axios.min.js"></script>
+
+<script>
+    var aaa='';
+	zcwj(aaa);
+	function zcwj(aaa){
+		$.ajax({
+			type:'GET',
+		   url:'//rst.hubei.gov.cn/zfxxgk/zc/zcjd/list.json',
+			dataType : "json",
+			success : function(datas) {
+				var data=datas.data;
+				//console.log(data);
+				//console.log(data.length);
+				$("#wz1").html(wz1(data));
+                $("#wz").html(wz(data));
+                $("#tw1").html(tw1(data));
+                $("#tw").html(tw(data));
+                $("#yp").html(yp(data));
+             //   $("#fbh").html(fbh(data));
+                			  // 初始化客户端分页插件
+			}
+		});
+	}
+
+    
+    function wz(data) {
+				var zwnr='';
+				var i=0;
+                var j=0;
+                for(var index=0; index<data.length;index++){
+						var DOCTITLE = data[index].DOCTITLE;  //文字方式、图文方式、音频方式、新闻发布会方式
+                        var URL = data[index].URL; 
+                        var PUBDATE = data[index].PUBDATE; 
+                        var DOCRELTIME = data[index].DOCRELTIME; 
+                        var READINGWAY = data[index].READINGWAY; 
+						i++;
+						if(READINGWAY=='文字方式') {
+                            j++
+						 zwnr+='<li><a href="'+URL+'" target="_blank" title="'+DOCTITLE+'">'+DOCTITLE+'<span class="date">'+DOCRELTIME+'</span></a></li>'; 
+                         if (j ===6) {
+			            break;
+		                    }
+                            }
+				}
+				if(i == 0){
+						zwnr+='<li style="text-align:center;">未找到相关数据</li>';
+					}
+                    return zwnr;	
+ }
+ function wz1(data) {
+				var zwnr='';
+				var i=0;
+                var j=0;
+                for(var index=0; index<data.length;index++){
+						var DOCTITLE = data[index].DOCTITLE;  //文字方式、图文方式、音频方式、新闻发布会方式
+                        var URL = data[index].URL; 
+                        var PUBDATE = data[index].PUBDATE; 
+                        var DOCRELTIME = data[index].DOCRELTIME; 
+                        var READINGWAY = data[index].READINGWAY; 
+                        var title =  READINGWAY.indexOf('文字');
+					    var title1 =  READINGWAY.indexOf('音频');
+						i++;
+						if(title >=0 || title1 >=0){
+                            j++
+						 zwnr+='<li><a href="'+URL+'" target="_blank" title="'+DOCTITLE+'">'+DOCTITLE+'<span class="date">'+DOCRELTIME+'</span></a></li>'; 
+                         if (j === 3) {
+			            break;
+		                    }
+                            }
+
+
+				}
+				if(i == 0){
+						zwnr+='<li style="text-align:center;">未找到相关数据</li>';
+					}
+                    return zwnr;	
+ }
+
+ function tw1(data) {
+				var zwnr='';
+				var i=0;
+                var j=0;
+                for(var index=0; index<data.length;index++){
+						var DOCTITLE = data[index].DOCTITLE;  //文字方式、图文方式、音频方式、新闻发布会方式
+                        var URL = data[index].URL; 
+                        var PUBDATE = data[index].PUBDATE; 
+                        var DOCRELTIME = data[index].DOCRELTIME; 
+                        var READINGWAY = data[index].READINGWAY; 
+                        var IMG = data[index].IMG; 
+                        var title =  READINGWAY.indexOf('图文');
+					    var title1 =  READINGWAY.indexOf('新闻发布会');
+						i++;
+						if(title >=0 || title1 >=0){
+                            j++
+						 zwnr+='<li class="col-md-6"><a href="'+URL+'" target="_blank"><img src="'+IMG+'" alt="" /><a class="picmb">'+DOCTITLE+'</a></a></li>'; 
+                         if (j === 2) {
+			            break;
+		                    }
+                            }
+				}
+				if(i == 0){
+						zwnr+='<li style="text-align:center;">未找到相关数据</li>';
+					}
+                    return zwnr;	
+ }
+
+ function tw(data) {
+				var zwnr='';
+				var i=0;
+                var j=0;
+                for(var index=0; index<data.length;index++){
+						var DOCTITLE = data[index].DOCTITLE;  //文字方式、图文方式、音频方式、新闻发布会方式
+                        var URL = data[index].URL; 
+                        var PUBDATE = data[index].PUBDATE; 
+                        var DOCRELTIME = data[index].DOCRELTIME; 
+                        var READINGWAY = data[index].READINGWAY; 
+                        var IMG = data[index].IMG; 
+						i++;
+						if(READINGWAY=='图文方式') {
+                            j++
+						 zwnr+='<li class="col-md-6"><a href="'+URL+'" target="_blank"><img src="'+IMG+'" alt="" /><a class="picmb">'+DOCTITLE+'</a></a></li>'; 
+                         if (j === 4) {
+			            break;
+		                    }
+                            }
+				}
+				if(i == 0){
+						zwnr+='<li style="text-align:center;">未找到相关数据</li>';
+					}
+                    return zwnr;	
+ }
+    function yp(data) {
+				var zwnr='';
+				var i=0;
+                var j=0;
+                for(var index=0; index<data.length;index++){
+						var DOCTITLE = data[index].DOCTITLE;  //文字方式、图文方式、音频方式、新闻发布会方式
+                        var URL = data[index].URL; 
+                        var PUBDATE = data[index].PUBDATE; 
+                        var DOCRELTIME = data[index].DOCRELTIME; 
+                        var READINGWAY = data[index].READINGWAY; 
+						i++;
+						if(READINGWAY=='音频方式' || READINGWAY=='视频方式') {
+                            j++
+						 zwnr+='<li><a href="'+URL+'" target="_blank" title="'+DOCTITLE+'">'+DOCTITLE+'<span class="date">'+DOCRELTIME+'</span></a></li>'; 
+                         if (j === 7) {
+			            break;
+		                    }
+                            }
+				}
+				if(i == 0){
+						zwnr+='<li style="text-align:center;">未找到相关数据</li>';
+					}
+                    return zwnr;	
+ }
+    function fbh(data) {
+				var zwnr='';
+				var i=0;
+                var j=0;
+                for(var index=0; index<data.length;index++){
+						var DOCTITLE = data[index].DOCTITLE;  //文字方式、图文方式、音频方式、新闻发布会方式
+                        var URL = data[index].URL; 
+                        var PUBDATE = data[index].PUBDATE; 
+                        var DOCRELTIME = data[index].DOCRELTIME; 
+                        var READINGWAY = data[index].READINGWAY; 
+                        var IMG = data[index].IMG; 
+						i++;
+						if(READINGWAY=='新闻发布会方式') {
+                            j++
+                            zwnr+='<li class="col-md-6"><a href="'+URL+'"><img src="'+IMG+'" alt="" /><a class="picmb">'+DOCTITLE+'</a></a></li>'; 
+                         if (j === 4) {
+			            break;
+		                    }
+                            }
+				}
+				if(i == 0){
+						zwnr+='<li style="text-align:center;">未找到相关数据</li>';
+					}
+                    return zwnr;	
+ }
+
+
+jQuery(".category").slide({titCell:".hd a",mainCell:".bd",autoPlay:false});
+ </script>
+    <script>
+        //dom effect
+        $(document).ready(function() {
+               //通知公告
+          $(".wzzh").slide({
+              autoPage: true,
+              mainCell: ".scroll ul",
+             effect: "top",
+             autoPlay: true,
+              scroll: 1,
+             vis: 1
+          });
+        });
+        </script>
+
+        <script>
+        //dom effect
+        $(document).ready(function() {
+               //通知公告
+          $(".wzzh").slide({
+              autoPage: true,
+              mainCell: ".scroll ul",
+             effect: "top",
+             autoPlay: true,
+              scroll: 1,
+             vis: 1
+          });
+          var bj1 = $(".zwzsk li:nth-child(1)").find('.bj').text();
+            var bj2 = $(".zwzsk li:nth-child(2)").find('.bj').text();
+           if(bj1>bj2){
+           $(".zwzsk li:nth-child(6)").hide();
+           }else{
+           $(".zwzsk li:nth-child(1)").hide();
+           }
+        });
+        </script>
+
+
+<!-- <script>
+    var swiper = new Swiper('.ywzl .scroll', {
+        direction: 'horizontal',
+     navigation: {
+         nextEl: '.zdzl-next1',
+         prevEl: '.zdzl-prev1',
+     },
+     autoplay: {
+         delay: 5000,
+         disableOnInteraction: false,
+     },
+     loop: true,
+     slidesPerView: 5,
+     breakpoints: {
+         960: {
+             slidesPerView: 3,
+         },
+     }
+ });
+</script> -->
+
+
+
+          <script>
+
+            var swiper = new Swiper('.zdzl .scroll', {
+                direction: 'vertical',
+             navigation: {
+                 nextEl: '.zdzl-next',
+                 prevEl: '.zdzl-prev',
+             },
+             autoplay: {
+                 delay: 5000,
+                 disableOnInteraction: false,
+             },
+             loop: true,
+             slidesPerView: 2,
+             breakpoints: {
+                 960: {
+                     slidesPerView: 2,
+                 },
+             }
+         });
+        </script>
+
+<!-- 自动切换 -->
+<script>
+jQuery(".slideTxtBox").slide({autoPlay:true,delayTime:700});
+
+$('.tab a:not(.more)').mouseover(function (event) {
+        $(this).addClass('on').siblings('a:not(.more)').removeClass('on');
+        $(this).parents('.tab-pane').find('.pane').children('ul,div').hide().eq($(this).index()).addClass(
+            'animated slideInRight').show();
+    });
+</script>
+
+<script>
+var abc="7;699;100%"
+var bcd=abc.split(";");
+console.log(bcd);
+$("#yf").html(bcd[0]);
+                        $("#bjss").html(bcd[1]);
+                         $("#bjll").html(bcd[2]);
+
+ $(".nav ul li:first a").addClass("current");
+</script>
+</body>
+</html>
