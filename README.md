@@ -1,73 +1,51 @@
-# React + TypeScript + Vite
+# 职途图谱 Career Atlas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+面向大学生（尤其是博士生）的一站式 **公务员 · 选调 · 事业单位 · 人才引进** 官方一手信息图谱，覆盖全国 34 个省级行政区与全部本科高校。
 
-Currently, two official plugins are available:
+## 功能
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **中国地图下钻**：首页 34 省可点击 ECharts 地图 → 省级地级市下钻地图 → 城市详情页
+- **城市详情页**：公务员/选调/事业单位/人才引进/录用公示 官网直达入口、近三年统计图表（公告数/招录人数/岗位数趋势、分类占比）、公告列表、附件下载、本科高校分布
+- **三大专栏页**：选调（定向/普通双轨对比）、事业单位（招聘 vs 录用趋势）、人才引进（政策直达 + 高校人才政策入口）
+- **高校详情页**：官网 / 人事处招聘 / 人才政策直达，同城公职专栏联动
+- **全局模糊搜索**：城市 / 区县 / 高校名称即输即搜
+- **全国级入口**：国考、部委直属、军队文职、24365 就业平台
+- **最新公告速递**：跨省聚合，按发布日期倒序
+- **预留标签**：国企央企 / 互联网大厂 / 博士后（占位，后续开发）
 
-## React Compiler
+## 数据
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 34 省官方入口 100% 覆盖并经人工核验
+- 1270+ 条真实官方公告（2024 年至今），1300+ 所本科高校
+- 160+ 个真实下载的官方附件，统一命名「年份+省市+文档名称」
+- 数据 Schema 见 `public/data/`；统计口径与免责声明见站内「数据说明」页
+- 原则：URL 与人数只收录官方原文可溯源内容，缺失即留空，绝不编造
 
-## Expanding the ESLint configuration
+## 技术栈
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+React 19 · TypeScript · Vite 7 · Tailwind CSS 3.4 · ECharts（地图+统计）· Framer Motion / GSAP / Lenis
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```bash
+npm install
+npm run dev    # 本地开发
+npm run build  # 构建（输出 dist/，纯静态）
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## 目录结构
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
 ```
+public/
+  geo/          # 全国+34省 GeoJSON
+  data/         # 34省结构化数据 JSON（index.json + {adcode}.json）
+  attachments/  # 官方附件镜像（按城市 adcode 分目录）
+src/
+  pages/        # 首页/省/市/三大专栏/高校/预留/数据说明
+  components/   # 共享组件库（地图、图表、表格、搜索等）
+  lib/          # data.ts 数据层 · search.ts 模糊索引 · theme.ts 色板
+docs/
+  product-review.md  # 产品评审与路线图
+```
+
+## 声明
+
+本站为公益性信息索引工具，所有公告以各官方网站正式发布为准，与任何政府机关、考试机构无隶属关系。
