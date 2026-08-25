@@ -4,7 +4,24 @@ module.exports = {
   content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
   theme: {
     extend: {
+      fontFamily: {
+        serif: ['"Noto Serif SC"', '"Songti SC"', 'serif'],
+        sans: ['"Noto Sans SC"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+        num: ['Fraunces', '"Noto Serif SC"', 'serif'],
+      },
       colors: {
+        // 职途图谱设计系统色板（design.md §2）
+        paper: "#F7F3EA",
+        "paper-deep": "#EFE8D9",
+        surface: "#FDFBF5",
+        ink: "#2A2723",
+        "ink-soft": "#5C564B",
+        "ink-faint": "#9A9184",
+        line: "#E4DCCB",
+        cinnabar: { DEFAULT: "#B5493A", deep: "#93392E" },
+        pine: "#3F6C5B",
+        ochre: "#C08A3E",
+        plum: "#7D5A6B",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
