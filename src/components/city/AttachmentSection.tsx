@@ -34,7 +34,7 @@ export default function AttachmentSection({ recruitments, cityAdcode }: Attachme
     }
     return [...map.entries()]
       .sort((a, b) => b[0] - a[0])
-      .map(([year, items]) => ({ year, items: items.sort((x, y) => y.date.localeCompare(x.date)) }))
+      .map(([year, items]) => ({ year, items: items.sort((x, y) => (y.date ?? '').localeCompare(x.date ?? '')) }))
   }, [recruitments])
 
   const [openYear, setOpenYear] = useState<number | null>(() => groups[0]?.year ?? null)

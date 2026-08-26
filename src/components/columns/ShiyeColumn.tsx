@@ -48,7 +48,7 @@ export default function ShiyeColumn({ ctx }: { ctx: CityContext }) {
   const recruit = useMemo(() => byYearFilter(recruitAll, yearFilter), [recruitAll, yearFilter])
   const notice = useMemo(() => byYearFilter(noticeAll, yearFilter), [noticeAll, yearFilter])
   const filtered = useMemo(
-    () => [...recruit, ...notice].sort((a, b) => b.date.localeCompare(a.date)),
+    () => [...recruit, ...notice].sort((a, b) => (b.date ?? '').localeCompare(a.date ?? '')),
     [recruit, notice],
   )
 

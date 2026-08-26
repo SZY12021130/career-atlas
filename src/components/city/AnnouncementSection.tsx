@@ -22,7 +22,7 @@ export default function AnnouncementSection({ recruitments }: AnnouncementSectio
     setLimit(PAGE_SIZE)
   }
 
-  const sorted = useMemo(() => [...recruitments].sort((a, b) => b.date.localeCompare(a.date)), [recruitments])
+  const sorted = useMemo(() => [...recruitments].sort((a, b) => (b.date ?? '').localeCompare(a.date ?? '')), [recruitments])
   const filtered = useMemo(
     () => (filter === '全部' ? sorted : sorted.filter((r) => r.category === filter)),
     [sorted, filter],

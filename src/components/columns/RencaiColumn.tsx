@@ -128,7 +128,7 @@ export default function RencaiColumn({ ctx }: { ctx: CityContext }) {
   const all = useMemo(() => (city?.recruitments ?? []).filter((r) => r.category === '人才引进'), [city])
   const filtered = useMemo(() => {
     const list = yearFilter === '全部' ? all : all.filter((r) => r.year === Number(yearFilter))
-    return [...list].sort((a, b) => b.date.localeCompare(a.date))
+    return [...list].sort((a, b) => (b.date ?? '').localeCompare(a.date ?? ''))
   }, [all, yearFilter])
 
   const headcountTotal = filtered.reduce((s, r) => s + (r.headcount ?? 0), 0)
