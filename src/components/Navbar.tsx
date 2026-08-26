@@ -68,14 +68,8 @@ export default function Navbar() {
           </button>
         </nav>
 
-        {/* 右：快捷键提示 + 移动端汉堡 */}
+        {/* 右：移动端汉堡 */}
         <div className="flex items-center gap-2">
-          <span className="hidden sm:inline-flex items-center gap-1.5 text-xs text-ink-faint bg-surface border border-line rounded-full px-3 py-1 shrink-0">
-            <kbd className="font-num text-ink-soft">Ctrl</kbd>
-            <span className="text-ink-soft">+</span>
-            <kbd className="font-num text-ink-soft">K</kbd>
-            <span className="ml-1">快速搜索</span>
-          </span>
           <button
             type="button"
             aria-label="菜单"

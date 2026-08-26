@@ -1,4 +1,4 @@
-﻿import { memo, useEffect, useMemo, useRef, useState } from 'react'
+﻿import { memo, useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useNavigate, useLocation, Link } from 'react-router'
 import { motion, AnimatePresence, useInView } from 'framer-motion'
 import gsap from 'gsap'
@@ -85,13 +85,13 @@ const HeroMountains = memo(function HeroMountains() {
 function Hero() {
   return (
     <section className="relative overflow-hidden">
-      <div className="relative max-w-[1680px] mx-auto px-6 lg:px-10 pt-20 pb-40 md:pt-28 md:pb-56">
+      <div className="relative max-w-[1680px] mx-auto px-6 lg:px-10 pt-24 pb-48 md:pt-32 md:pb-64">
         {/* eyebrow */}
         <motion.p
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 0.6, delay: 0.05 }}
-          className="flex items-center flex-wrap gap-x-3 gap-y-1 text-[13px] tracking-[0.3em] text-ink-faint mb-8"
+          className="flex items-center flex-wrap gap-x-3 gap-y-1 text-[15px] tracking-[0.3em] text-ink-faint mb-10"
         >
           {['公务员', '选调', '事业单位', '人才引进'].map((w, i) => (
             <span key={w} className="flex items-center gap-3">
@@ -103,8 +103,8 @@ function Hero() {
 
         {/* 主标题：字符级拆分 */}
         <h1
-          className="font-serif font-black text-ink leading-tight mb-6"
-          style={{ fontSize: 'clamp(2.5rem, 5vw, 4.5rem)', letterSpacing: '0.02em' }}
+          className="font-serif font-black text-ink leading-tight mb-8"
+          style={{ fontSize: 'clamp(3rem, 6.5vw, 6rem)', letterSpacing: '0.02em' }}
         >
           {TITLE_CHARS.map((ch, i) => (
             <motion.span
@@ -125,14 +125,14 @@ function Hero() {
           initial={{ opacity: 0, y: 16 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.6, ease: EASE }}
-          className="text-[17px] text-ink-soft max-w-2xl leading-relaxed mb-10"
+          className="text-[20px] md:text-[22px] text-ink-soft max-w-3xl leading-relaxed mb-12"
         >
           覆盖全国 34 个省级行政区的公务员、选调生、事业单位与人才引进一手官方信息。
           点击地图任意省份，下钻至市、区县，直达官方公告与录用公示。
         </motion.p>
 
         {/* 全局搜索 */}
-        <SearchBar className="max-w-2xl" delay={0.8} />
+        <SearchBar className="max-w-3xl" delay={0.8} />
 
         {/* 最近访问（localStorage，v2.0 需求 2） */}
         <RecentCities />
@@ -142,7 +142,7 @@ function Hero() {
           initial="hidden"
           animate="show"
           variants={{ show: { transition: { staggerChildren: 0.08, delayChildren: 1 } } }}
-          className="mt-4 flex items-center flex-wrap gap-x-2 gap-y-1 text-[13px] text-ink-faint"
+          className="mt-6 flex items-center flex-wrap gap-x-3 gap-y-1 text-[15px] text-ink-faint"
         >
           <motion.span variants={{ hidden: { opacity: 0 }, show: { opacity: 1 } }}>热门：</motion.span>
           {HOT_CITIES.map((c, i) => (
@@ -302,6 +302,16 @@ function MapSection({ index, provinces }: MapSectionProps) {
     }
   }, [geo, summaryByAdcode])
 
+  const onChartReady = useCallback((chart: echarts.ECharts) => {
+    // 初始化后将地图缩放到更合适的比例（避免一开始太挤需要手动放大）
+    setTimeout(() => {
+      if (chart.isDisposed?.()) return
+      chart.setOption({
+        series: [{ zoom: 1.35, center: ['48%', '55%'] }],
+      })
+    }, 60)
+  }, [])
+
   const mapEvents = useMemo(
     () => ({
       click: (params: unknown) => {
@@ -322,14 +332,14 @@ function MapSection({ index, provinces }: MapSectionProps) {
   const sectionRef = useRef<HTMLElement>(null)
 
   return (
-    <section id="map" ref={sectionRef} className="py-16 md:py-24">
+    <section id="map" ref={sectionRef} className="py-20 md:py-28">
       <div className="max-w-[1680px] mx-auto px-6 lg:px-10">
-        <div className="mb-10">
-          <h2 className="font-serif font-bold text-[1.75rem] text-ink flex items-center gap-3">
-            <span className="w-1.5 h-7 bg-cinnabar rounded-full inline-block" />
+        <div className="mb-12">
+          <h2 className="font-serif font-bold text-[2.5rem] md:text-[3rem] text-ink flex items-center gap-3">
+            <span className="w-2 h-10 bg-cinnabar rounded-full inline-block" />
             全国招录舆图
           </h2>
-          <p className="mt-3 text-sm text-ink-soft">点击任意省份下钻至地级市地图；配色为均衡示意，不代表数值。</p>
+          <p className="mt-4 text-base md:text-lg text-ink-soft">点击任意省份下钻至地级市地图；配色为均衡示意，不代表数值。</p>
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-6">
@@ -341,9 +351,9 @@ function MapSection({ index, provinces }: MapSectionProps) {
             transition={{ duration: 0.8, ease: EASE }}
             className="lg:col-span-8 relative bg-surface rounded-2xl border border-line shadow-[0_1px_0_rgba(0,0,0,.25)] overflow-hidden"
           >
-            <div data-lenis-prevent className="h-[420px] lg:h-[640px] cursor-pointer">
+            <div data-lenis-prevent className="h-[440px] lg:h-[680px] cursor-pointer">
               {geo ? (
-                <EChart option={option} onEvents={mapEvents} />
+                <EChart option={option} onEvents={mapEvents} onReady={onChartReady} />
               ) : (
                 <div className="h-full flex flex-col items-center justify-center text-ink-faint gap-3">
                   <img src={assetUrl('map-empty.svg')} alt="" className="w-40 h-auto opacity-80" />
@@ -360,9 +370,9 @@ function MapSection({ index, provinces }: MapSectionProps) {
 
           {/* 右侧信息面板 */}
           <aside className="lg:col-span-4 lg:sticky lg:top-24 self-start">
-            <div className="bg-surface rounded-2xl border border-line p-6 shadow-[0_1px_0_rgba(0,0,0,.25)]">
-              <h3 className="font-serif font-bold text-lg text-ink mb-1">全国总览</h3>
-              <p className="text-xs text-ink-faint mb-4">
+            <div className="bg-surface rounded-2xl border border-line p-8 shadow-[0_1px_0_rgba(0,0,0,.25)]">
+              <h3 className="font-serif font-bold text-2xl text-ink mb-1.5">全国总览</h3>
+              <p className="text-sm text-ink-faint mb-6">
                 数据更新：{stats.latestUpdate ?? '整理中'}
               </p>
 
@@ -443,14 +453,14 @@ const COLUMNS = [
 
 function ColumnsSection() {
   return (
-    <section className="py-16 md:py-24 bg-paper-deep/40">
+    <section className="py-20 md:py-28 bg-paper-deep/40">
       <div className="max-w-[1680px] mx-auto px-6 lg:px-10">
-        <div className="mb-10">
-          <h2 className="font-serif font-bold text-[1.75rem] text-ink flex items-center gap-3">
-            <span className="w-1.5 h-7 bg-cinnabar rounded-full inline-block" />
+        <div className="mb-14">
+          <h2 className="font-serif font-bold text-[2.5rem] md:text-[3.25rem] text-ink flex items-center gap-3">
+            <span className="w-2 h-10 bg-cinnabar rounded-full inline-block" />
             四大专栏 · 每个城市一份完整答卷
           </h2>
-          <p className="mt-3 text-sm text-ink-soft">专栏数据以城市为粒度组织，请先选择城市。</p>
+          <p className="mt-5 text-lg md:text-xl text-ink-soft">专栏数据以城市为粒度组织，请先选择城市。</p>
         </div>
 
         <motion.div
@@ -458,7 +468,7 @@ function ColumnsSection() {
           whileInView="show"
           viewport={{ once: true, amount: 0.2 }}
           variants={{ show: { transition: { staggerChildren: 0.08 } } }}
-          className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6"
+          className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-7"
         >
           {COLUMNS.map((col) => (
             <motion.button
@@ -469,17 +479,17 @@ function ColumnsSection() {
               whileHover={{ y: -6 }}
               whileTap={{ scale: 0.97 }}
               transition={{ duration: 0.2 }}
-              className="group bg-surface rounded-2xl border border-line p-6 md:p-8 shadow-[0_1px_0_rgba(0,0,0,.25)] hover:shadow-[0_12px_32px_-12px_rgba(0,0,0,.45)] transition-shadow duration-200 flex flex-col"
+              className="group bg-surface rounded-3xl border border-line p-8 md:p-10 shadow-[0_1px_0_rgba(0,0,0,.25)] hover:shadow-[0_12px_32px_-12px_rgba(0,0,0,.45)] transition-shadow duration-200 flex flex-col min-h-[280px]"
             >
               <span
-                className="w-12 h-12 rounded-full flex items-center justify-center mb-5"
+                className="w-16 h-16 rounded-2xl flex items-center justify-center mb-7"
                 style={{ backgroundColor: `${col.color}1A` }}
               >
-                <col.icon className="w-6 h-6" style={{ color: col.color }} />
+                <col.icon className="w-8 h-8" style={{ color: col.color }} />
               </span>
-              <h3 className="font-serif font-bold text-lg text-ink mb-2">{col.key}</h3>
-              <p className="text-sm text-ink-soft leading-7 flex-1">{col.desc}</p>
-              <span className="mt-5 inline-flex items-center gap-1.5 text-sm font-medium transition-colors duration-200" style={{ color: col.color }}>
+              <h3 className="font-serif font-black text-2xl md:text-3xl text-ink mb-3 tracking-wide">{col.key}</h3>
+              <p className="text-base md:text-[17px] text-ink-soft leading-8 flex-1">{col.desc}</p>
+              <span className="mt-7 inline-flex items-center gap-2 text-base font-medium transition-colors duration-200" style={{ color: col.color }}>
                 进入任意城市查看
                 <span className="inline-block transition-transform duration-200 group-hover:translate-x-1">→</span>
               </span>
@@ -504,18 +514,18 @@ const RESERVED = [
 function ReservedSection() {
   const navigate = useNavigate()
   return (
-    <section className="py-16 md:py-24">
+    <section className="py-20 md:py-28">
       <div className="max-w-[1680px] mx-auto px-6 lg:px-10">
         <motion.div
           initial={{ opacity: 0, y: 24 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true, amount: 0.2 }}
           transition={{ duration: 0.6, ease: EASE }}
-          className="bg-paper-deep rounded-2xl p-8 md:p-10 flex flex-col lg:flex-row lg:items-center gap-8"
+          className="bg-paper-deep rounded-3xl p-10 md:p-14 flex flex-col lg:flex-row lg:items-center gap-10"
         >
           <div className="flex-1">
-            <h2 className="font-serif font-bold text-[1.75rem] text-ink mb-3">博士的出路不止一条</h2>
-            <p className="text-sm text-ink-soft leading-7">
+            <h2 className="font-serif font-black text-4xl md:text-5xl text-ink mb-4">博士的出路不止一条</h2>
+            <p className="text-lg md:text-xl text-ink-soft leading-9">
               国企央企、互联网大厂、博士后流动站——标签已就位，内容持续开发中。
             </p>
           </div>
@@ -524,7 +534,7 @@ function ReservedSection() {
             whileInView="show"
             viewport={{ once: true }}
             variants={{ show: { transition: { staggerChildren: 0.1 } } }}
-            className="flex flex-wrap gap-3"
+            className="flex flex-wrap gap-4"
           >
             {RESERVED.map((t) => (
               <motion.button
@@ -534,9 +544,9 @@ function ReservedSection() {
                 whileHover={{ y: -4 }}
                 whileTap={{ scale: 0.97 }}
                 onClick={() => navigate(t.to)}
-                className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-ink/25 text-ink text-sm font-medium hover:bg-ink hover:text-paper hover:border-ink transition-colors duration-200"
+                className="inline-flex items-center gap-2.5 px-7 py-3.5 rounded-full border border-ink/25 text-ink text-base font-medium hover:bg-ink hover:text-paper hover:border-ink transition-colors duration-200"
               >
-                <t.icon className="w-4 h-4" />
+                <t.icon className="w-5 h-5" />
                 {t.label}
               </motion.button>
             ))}
@@ -561,7 +571,7 @@ const NATIONAL_PORTALS = [
 
 function NationalSection() {
   return (
-    <section className="pb-16 md:pb-24">
+    <section className="pb-20 md:pb-28">
       <div className="max-w-[1680px] mx-auto px-6 lg:px-10">
         <motion.div
           initial={{ opacity: 0, y: 24 }}
@@ -569,12 +579,12 @@ function NationalSection() {
           viewport={{ once: true, amount: 0.2 }}
           transition={{ duration: 0.6, ease: EASE }}
         >
-          <div className="flex items-center gap-3 mb-6">
-            <span className="w-1.5 h-7 bg-cinnabar rounded-full" />
-            <h2 className="font-serif font-bold text-[1.75rem] text-ink">全国级官方入口</h2>
-            <span className="text-xs text-ink-faint">国考 · 部委直属 · 军队文职</span>
+          <div className="flex items-center gap-3 mb-8">
+            <span className="w-2 h-10 bg-cinnabar rounded-full" />
+            <h2 className="font-serif font-black text-3xl md:text-4xl text-ink">全国级官方入口</h2>
+            <span className="text-sm text-ink-faint">国考 · 部委直属 · 军队文职</span>
           </div>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-5">
             {NATIONAL_PORTALS.map((p, i) => (
               <motion.a
                 key={p.url}
@@ -586,13 +596,13 @@ function NationalSection() {
                 viewport={{ once: true }}
                 transition={{ duration: 0.5, delay: i * 0.06, ease: EASE }}
                 whileHover={{ y: -4 }}
-                className="group block bg-surface rounded-2xl border border-line border-l-4 border-l-cinnabar p-5 transition-shadow hover:shadow-[0_12px_32px_-12px_rgba(0,0,0,.45)]"
+                className="group block bg-surface rounded-2xl border border-line border-l-[5px] border-l-cinnabar p-6 md:p-7 transition-shadow hover:shadow-[0_12px_32px_-12px_rgba(0,0,0,.45)]"
               >
-                <div className="flex items-start justify-between gap-2">
-                  <h3 className="text-sm font-bold text-ink">{p.name}</h3>
-                  <Globe className="w-4 h-4 text-ink-faint group-hover:text-cinnabar transition-colors shrink-0" />
+                <div className="flex items-start justify-between gap-3">
+                  <h3 className="text-lg font-black text-ink leading-snug">{p.name}</h3>
+                  <Globe className="w-5 h-5 text-ink-faint group-hover:text-cinnabar transition-colors shrink-0" />
                 </div>
-                <p className="mt-2 text-xs text-ink-faint leading-5">{p.desc}</p>
+                <p className="mt-3 text-sm md:text-[15px] text-ink-soft leading-7">{p.desc}</p>
               </motion.a>
             ))}
           </div>

@@ -1,4 +1,4 @@
-﻿import { useEffect, useMemo, useRef, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { useNavigate } from 'react-router'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Building2, GraduationCap, MapPin, Search } from 'lucide-react'
@@ -93,11 +93,11 @@ export default function SearchBar({
     >
       <div
         className={cn(
-          'flex items-center gap-3 h-16 px-5 rounded-2xl border-2 bg-surface transition-all duration-[250ms]',
+          'flex items-center gap-4 h-[72px] md:h-20 px-6 md:px-7 rounded-2xl border-2 bg-surface transition-all duration-[250ms]',
           'border-line focus-within:border-cinnabar focus-within:shadow-[0_0_0_4px_rgba(34,211,238,.15),0_12px_32px_-12px_rgba(0,0,0,.45)]',
         )}
       >
-        <Search className="w-5 h-5 text-ink-faint shrink-0" />
+        <Search className="w-6 h-6 md:w-7 md:h-7 text-ink-faint shrink-0" />
         <input
           ref={inputRef}
           id="global-search-input"
@@ -112,7 +112,7 @@ export default function SearchBar({
           }}
           onFocus={() => setOpen(true)}
           onKeyDown={onKeyDown}
-          className="flex-1 min-w-0 bg-transparent outline-none text-base text-ink placeholder:text-ink-faint"
+          className="flex-1 min-w-0 bg-transparent outline-none text-lg md:text-xl text-ink placeholder:text-ink-faint"
         />
       </div>
 

@@ -204,7 +204,17 @@ function MapSection({ adcode, province, geo }: { adcode: number; province: Provi
   const navigate = useNavigate()
   const [hovered, setHovered] = useState<string | null>(null)
   const [chart, setChart] = useState<echarts.ECharts | null>(null)
-  const handleReady = useCallback((c: echarts.ECharts) => setChart(c), [])
+  const navigatingRef = useRef(false)
+  const handleReady = useCallback((c: echarts.ECharts) => {
+    setChart(c)
+    // 初始化后将省级地图缩放到更合适的比例（避免太挤需要手动放大）
+    setTimeout(() => {
+      if (c.isDisposed?.()) return
+      c.setOption({
+        series: [{ zoom: 1.4, center: ['50%', '50%'] }],
+      })
+    }, 60)
+  }, [])
 
   /** 城市统计（adcode / 名称 双键索引，兼容 geo 与 data 的名称差异） */
   const { statByAdcode, statByName } = useMemo(() => {
@@ -334,26 +344,43 @@ function MapSection({ adcode, province, geo }: { adcode: number; province: Provi
   const mapEvents = useMemo(
     () => ({
       click: (params: unknown) => {
+        if (navigatingRef.current) return
         const p = params as { data?: { adcode?: number } }
-        if (p.data?.adcode != null) navigate(`/city/${p.data.adcode}`)
+        if (p.data?.adcode != null) {
+          navigatingRef.current = true
+          setHovered(null)
+          // 清理地图高亮后再跳转，避免事件冲突导致卡住
+          try {
+            chart?.dispatchAction({ type: 'downplay', seriesIndex: 0 })
+          } catch {}
+          setTimeout(() => navigate(`/city/${p.data?.adcode}`), 0)
+        }
       },
       mouseover: (params: unknown) => {
+        if (navigatingRef.current) return
         const p = params as { componentType?: string; name?: string }
         if (p.componentType === 'series' && p.name) setHovered(p.name)
       },
-      mouseout: () => setHovered(null),
+      mouseout: () => {
+        if (navigatingRef.current) return
+        setHovered(null)
+      },
     }),
-    [navigate],
+    [navigate, chart],
   )
 
   /** 列表 hover → 地图板块高亮（双向联动的列表侧） */
   const prevHover = useRef<string | null>(null)
   useEffect(() => {
-    if (!chart) return
-    if (prevHover.current && prevHover.current !== hovered) {
-      chart.dispatchAction({ type: 'downplay', seriesIndex: 0, name: prevHover.current })
+    if (!chart || navigatingRef.current) return
+    try {
+      if (prevHover.current && prevHover.current !== hovered) {
+        chart.dispatchAction({ type: 'downplay', seriesIndex: 0, name: prevHover.current })
+      }
+      if (hovered) chart.dispatchAction({ type: 'highlight', seriesIndex: 0, name: hovered })
+    } catch {
+      // 忽略 echarts 操作失败（例如跳转期间实例已销毁）
     }
-    if (hovered) chart.dispatchAction({ type: 'highlight', seriesIndex: 0, name: hovered })
     prevHover.current = hovered
   }, [chart, hovered])
 
@@ -377,7 +404,7 @@ function MapSection({ adcode, province, geo }: { adcode: number; province: Provi
             <MousePointerClick className="w-3.5 h-3.5 text-cinnabar" />
             点击城市进入详情
           </div>
-          <div data-lenis-prevent className="h-[380px] lg:h-[560px] cursor-pointer">
+          <div data-lenis-prevent className="h-[420px] lg:h-[620px] cursor-pointer">
             {geo ? (
               <EChart option={option} onEvents={mapEvents} onReady={handleReady} />
             ) : (
@@ -416,9 +443,19 @@ function MapSection({ adcode, province, geo }: { adcode: number; province: Provi
                     >
                       <button
                         type="button"
-                        onClick={() => navigate(`/city/${row.adcode}`)}
-                        onMouseEnter={() => setHovered(row.name)}
-                        onMouseLeave={() => setHovered(null)}
+                        onClick={() => {
+                          if (navigatingRef.current) return
+                          navigatingRef.current = true
+                          setHovered(null)
+                          try { chart?.dispatchAction({ type: 'downplay', seriesIndex: 0 }) } catch {}
+                          setTimeout(() => navigate(`/city/${row.adcode}`), 0)
+                        }}
+                        onMouseEnter={() => {
+                          if (!navigatingRef.current) setHovered(row.name)
+                        }}
+                        onMouseLeave={() => {
+                          if (!navigatingRef.current) setHovered(null)
+                        }}
                         className={cn(
                           'w-full flex items-center gap-3 px-3 py-2.5 rounded-lg text-left transition-colors duration-100',
                           active ? 'bg-paper-deep' : 'hover:bg-paper-deep',
