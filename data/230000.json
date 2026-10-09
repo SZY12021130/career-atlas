@@ -1,7 +1,7 @@
 {
   "adcode": 230000,
   "name": "黑龙江省",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-02",
   "province": "黑龙江省",
   "provincePortals": [
     {
@@ -43,7 +43,7 @@
   "cities": [
     {
       "name": "哈尔滨市",
-      "adcode": "230100",
+      "adcode": 230100,
       "districts": [
         "道里区",
         "南岗区",
@@ -110,7 +110,8 @@
               "url": "http://ouma-oss-sdgwy2019-qy.oss-cn-beijing.aliyuncs.com/hljgwy2021/b3eaecf515606781",
               "local": "attachments/230100/2025年黑龙江省定向招录优秀村（社区）党组织书记职位表.xlsx"
             }
-          ]
+          ],
+          "year": 2025
         },
         {
           "category": "公务员",
@@ -119,7 +120,14 @@
           "headcount": 470,
           "positions": null,
           "url": "https://www.hljsgwy.org.cn/tyzpwb/website/queryDetail.htm",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "黑龙江哈尔滨相关下载(照片处理工具).zip",
+              "url": "https://cdndownload.oumakspt.com/sdrskscdn/zhaopianshenhe.zip",
+              "local": "attachments/230100/黑龙江哈尔滨相关下载(照片处理工具).zip"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "公务员",
@@ -128,7 +136,8 @@
           "headcount": 7768,
           "positions": null,
           "url": "https://www.tls.gov.cn/newtlsrmzf/c104480/202402/340890.shtml",
-          "attachments": []
+          "attachments": [],
+          "year": 2024
         },
         {
           "category": "选调生",
@@ -138,7 +147,8 @@
           "positions": null,
           "url": "https://gongxuan.ljxfw.gov.cn/index.php/Homes/News/content/cid/207/newid/425.html",
           "attachments": [],
-          "subCategory": "普通选调"
+          "subCategory": "普通选调",
+          "year": 2025
         },
         {
           "category": "选调生",
@@ -148,7 +158,8 @@
           "positions": null,
           "url": "https://gongxuan.ljxfw.gov.cn/newsDetails.html?id=1263db37-91be-491d-a53e-76c620ce676a&type=1",
           "attachments": [],
-          "subCategory": "定向选调"
+          "subCategory": "定向选调",
+          "year": 2026
         },
         {
           "category": "选调生",
@@ -158,7 +169,8 @@
           "positions": null,
           "url": "https://jyt.hlj.gov.cn/jyt/c110476/202601/c00_31908717.shtml",
           "attachments": [],
-          "subCategory": "普通选调"
+          "subCategory": "普通选调",
+          "year": 2026
         },
         {
           "category": "事业单位",
@@ -167,7 +179,19 @@
           "headcount": 426,
           "positions": null,
           "url": "http://www.acheng.gov.cn/achengqu/tzgg/202508/c01_1074683.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "黑龙江哈尔滨“助力乡村振兴万人计划“到村（社区）任职大学生岗位有关政策及要求.doc",
+              "url": "http://www.acheng.gov.cn/achengqu/tzgg/202508/1074683/files/%E9%99%84%E4%BB%B62%EF%BC%9A%E2%80%9C%E5%8A%A9%E5%8A%9B%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E4%B8%87%E4%BA%BA%E8%AE%A1%E5%88%92%E2%80%9C%E5%88%B0%E6%9D%91%EF%BC%88%E7%A4%BE%E5%8C%BA%EF%BC%89%E4%BB%BB%E8%81%8C%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B2%97%E4%BD%8D%E6%9C%89%E5%85%B3%E6%94%BF%E7%AD%96%E5%8F%8A%E8%A6%81%E6%B1%82-20250827110703881.doc",
+              "local": "attachments/230100/黑龙江哈尔滨“助力乡村振兴万人计划“到村（社区）任职大学生岗位有关政策及要求.doc"
+            },
+            {
+              "name": "2025年黑龙江.哈尔滨市下半年事业单位公开招聘工作人员岗位计划表.xlsx",
+              "url": "http://www.acheng.gov.cn/achengqu/tzgg/202508/1074683/files/%E9%99%84%E4%BB%B61.%E5%93%88%E5%B0%94%E6%BB%A8%E5%B8%822025%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%B2%97%E4%BD%8D%E8%AE%A1%E5%88%92%E8%A1%A8-20250827110649656.xlsx",
+              "local": "attachments/230100/2025年黑龙江.哈尔滨市下半年事业单位公开招聘工作人员岗位计划表.xlsx"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -176,7 +200,8 @@
           "headcount": 1347,
           "positions": null,
           "url": "https://www.harbin.gov.cn/haerbin/c107195/202503/c01_1047089.shtml",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -185,7 +210,8 @@
           "headcount": 1290,
           "positions": null,
           "url": "https://www.harbin.gov.cn/haerbin/c107195/202508/c01_1073887.shtml",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -194,13 +220,20 @@
           "headcount": 33,
           "positions": null,
           "url": "http://kfq.harbin.gov.cn/jkq/c109939/202603/c01_1112733.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年黑龙江附件：哈尔滨“丁香人才周”（秋季）平房区事业单位引才招聘工作人员名单（第一批）.xlsx",
+              "url": "http://kfq.harbin.gov.cn/jkq/c109939/202603/1112733/files/%E9%99%84%E4%BB%B6%EF%BC%9A2025%E5%B9%B4%E5%BA%A6%E5%93%88%E5%B0%94%E6%BB%A8%E2%80%9C%E4%B8%81%E9%A6%99%E4%BA%BA%E6%89%8D%E5%91%A8%E2%80%9D%EF%BC%88%E7%A7%8B%E5%AD%A3%EF%BC%89%E5%B9%B3%E6%88%BF%E5%8C%BA%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%BC%95%E6%89%8D%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%88%E7%AC%AC%E4%B8%80%E6%89%B9%EF%BC%89-20260306202945280.xlsx",
+              "local": "attachments/230100/2025年黑龙江附件：哈尔滨“丁香人才周”（秋季）平房区事业单位引才招聘工作人员名单（第一批）.xlsx"
+            }
+          ],
+          "year": 2025
         }
       ]
     },
     {
       "name": "齐齐哈尔市",
-      "adcode": "230200",
+      "adcode": 230200,
       "districts": [
         "龙沙区",
         "建华区",
@@ -245,7 +278,8 @@
           "positions": null,
           "url": "https://www.qqhr.gov.cn",
           "attachments": [],
-          "note": "公告原文发布于齐齐哈尔市人民政府网及黑龙江省事业单位公开招聘服务平台，报名2025年9月1日-5日"
+          "note": "公告原文发布于齐齐哈尔市人民政府网及黑龙江省事业单位公开招聘服务平台，报名2025年9月1日-5日",
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -254,7 +288,24 @@
           "headcount": null,
           "positions": null,
           "url": "https://www.qqhr.gov.cn/qqhe/c100677/202509/c02_576595.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年黑龙江齐齐哈尔市下半年事业单位公开招聘取消招聘计划岗位汇总表.xls",
+              "url": "https://www.qqhr.gov.cn/qqhe/c100677/202509/576595/files/1.%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%B8%822025%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%8F%96%E6%B6%88%E6%8B%9B%E8%81%98%E8%AE%A1%E5%88%92%E5%B2%97%E4%BD%8D%E6%B1%87%E6%80%BB%E8%A1%A8.xls",
+              "local": "attachments/230200/2025年黑龙江齐齐哈尔市下半年事业单位公开招聘取消招聘计划岗位汇总表.xls"
+            },
+            {
+              "name": "2025年黑龙江齐齐哈尔市下半年事业单位公开招聘缩减招聘人数岗位汇总表.xls",
+              "url": "https://www.qqhr.gov.cn/qqhe/c100677/202509/576595/files/2.%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%B8%822025%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E7%BC%A9%E5%87%8F%E6%8B%9B%E8%81%98%E4%BA%BA%E6%95%B0%E5%B2%97%E4%BD%8D%E6%B1%87%E6%80%BB%E8%A1%A8.xls",
+              "local": "attachments/230200/2025年黑龙江齐齐哈尔市下半年事业单位公开招聘缩减招聘人数岗位汇总表.xls"
+            },
+            {
+              "name": "2025年黑龙江齐齐哈尔市下半年事业单位公开招聘降低开考比例岗位汇总表.xls",
+              "url": "https://www.qqhr.gov.cn/qqhe/c100677/202509/576595/files/3.%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%B8%822025%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E9%99%8D%E4%BD%8E%E5%BC%80%E8%80%83%E6%AF%94%E4%BE%8B%E5%B2%97%E4%BD%8D%E6%B1%87%E6%80%BB%E8%A1%A8.xls",
+              "local": "attachments/230200/2025年黑龙江齐齐哈尔市下半年事业单位公开招聘降低开考比例岗位汇总表.xls"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -263,7 +314,24 @@
           "headcount": 9,
           "positions": null,
           "url": "https://www.qqhr.gov.cn/qqhe/c100677/202510/c02_585591.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年黑龙江齐齐哈尔市文广旅游局所属事业单位公开招聘工作人员计划表.xlsx",
+              "url": "https://www.qqhr.gov.cn/qqhe/c100677/202510/585591/files/%E9%99%84%E4%BB%B61.2025%E5%B9%B4%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%B8%82%E6%96%87%E5%B9%BF%E6%97%85%E6%B8%B8%E5%B1%80%E6%89%80%E5%B1%9E%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%AE%A1%E5%88%92%E8%A1%A8.xlsx",
+              "local": "attachments/230200/2025年黑龙江齐齐哈尔市文广旅游局所属事业单位公开招聘工作人员计划表.xlsx"
+            },
+            {
+              "name": "2025年黑龙江齐齐哈尔市文化广电和旅游局所属事业单位公开招聘工作人员报名表.xls",
+              "url": "https://www.qqhr.gov.cn/qqhe/c100677/202510/585591/files/%E9%99%84%E4%BB%B62%EF%BC%9A2025%E5%B9%B4%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%B8%82%E6%96%87%E5%8C%96%E5%B9%BF%E7%94%B5%E5%92%8C%E6%97%85%E6%B8%B8%E5%B1%80%E6%89%80%E5%B1%9E%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8A%A5%E5%90%8D%E8%A1%A8.xls",
+              "local": "attachments/230200/2025年黑龙江齐齐哈尔市文化广电和旅游局所属事业单位公开招聘工作人员报名表.xls"
+            },
+            {
+              "name": "黑龙江齐齐哈尔报考人员承诺书.docx",
+              "url": "https://www.qqhr.gov.cn/qqhe/c100677/202510/585591/files/%E9%99%84%E4%BB%B63%EF%BC%9A%E6%8A%A5%E8%80%83%E4%BA%BA%E5%91%98%E6%89%BF%E8%AF%BA%E4%B9%A6.docx",
+              "local": "attachments/230200/黑龙江齐齐哈尔报考人员承诺书.docx"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -272,7 +340,8 @@
           "headcount": 2067,
           "positions": null,
           "url": "https://www.qqhercw.gov.cn",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -281,7 +350,14 @@
           "headcount": 412,
           "positions": null,
           "url": "https://www.qqhr.gov.cn/qqhe/c100128/202601/c02_600658.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年黑龙江齐齐哈尔市下半年事业单位公开招聘拟进入面试人员名单.xls",
+              "url": "https://www.qqhr.gov.cn/qqhe/c100128/202601/600658/files/%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%B8%822025%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E6%8B%9F%E8%BF%9B%E5%85%A5%E9%9D%A2%E8%AF%95%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95.xls",
+              "local": "attachments/230200/2025年黑龙江齐齐哈尔市下半年事业单位公开招聘拟进入面试人员名单.xls"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -290,13 +366,20 @@
           "headcount": null,
           "positions": null,
           "url": "https://www.qqhr.gov.cn/qqhe/c100128/202604/c02_619537.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年黑龙江下半年齐齐哈尔市水务局所属事业单位公开招聘工作人员拟聘用人员名单.xls",
+              "url": "https://www.qqhr.gov.cn/qqhe/c100128/202604/619537/files/2025%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%B8%82%E6%B0%B4%E5%8A%A1%E5%B1%80%E6%89%80%E5%B1%9E%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8B%9F%E8%81%98%E7%94%A8%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95-20260421101949935.xls",
+              "local": "attachments/230200/2025年黑龙江下半年齐齐哈尔市水务局所属事业单位公开招聘工作人员拟聘用人员名单.xls"
+            }
+          ],
+          "year": 2025
         }
       ]
     },
     {
       "name": "鸡西市",
-      "adcode": "230300",
+      "adcode": 230300,
       "districts": [
         "鸡冠区",
         "恒山区",
@@ -333,8 +416,19 @@
               "name": "2025年鸡西市下半年事业单位公开招聘岗位计划表",
               "url": "https://www.jixi.gov.cn/jixi/c100007/202508/339826/files/附件1：鸡西市2025年下半年事业单位公开招聘工作人员岗位计划表.xlsx",
               "local": "attachments/230300/2025年鸡西市下半年事业单位公开招聘岗位计划表.xlsx"
+            },
+            {
+              "name": "2025年黑龙江鸡西市下半年事业单位公开招聘工作人员岗位计划表.xlsx",
+              "url": "https://www.jixi.gov.cn/jixi/c100007/202508/339826/files/%E9%99%84%E4%BB%B61%EF%BC%9A%E9%B8%A1%E8%A5%BF%E5%B8%822025%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%B2%97%E4%BD%8D%E8%AE%A1%E5%88%92%E8%A1%A8.xlsx",
+              "local": "attachments/230300/2025年黑龙江鸡西市下半年事业单位公开招聘工作人员岗位计划表.xlsx"
+            },
+            {
+              "name": "黑龙江鸡西“助力乡村振兴万人计划”到村（社区）任职大学生岗位有关政策及要求.doc",
+              "url": "https://www.jixi.gov.cn/jixi/c100007/202508/339826/files/%E9%99%84%E4%BB%B62%EF%BC%9A%E2%80%9C%E5%8A%A9%E5%8A%9B%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E4%B8%87%E4%BA%BA%E8%AE%A1%E5%88%92%E2%80%9D%E5%88%B0%E6%9D%91%EF%BC%88%E7%A4%BE%E5%8C%BA%EF%BC%89%E4%BB%BB%E8%81%8C%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B2%97%E4%BD%8D%E6%9C%89%E5%85%B3%E6%94%BF%E7%AD%96%E5%8F%8A%E8%A6%81%E6%B1%82.doc",
+              "local": "attachments/230300/黑龙江鸡西“助力乡村振兴万人计划”到村（社区）任职大学生岗位有关政策及要求.doc"
             }
-          ]
+          ],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -343,7 +437,29 @@
           "headcount": 358,
           "positions": null,
           "url": "http://www.jixi.gov.cn/jixi/c100007/202509/c06_340768.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年鸡西市“黑龙江人才周”校园引才活动事业单位岗位计划表（面试岗位）.xlsx",
+              "url": "http://www.jixi.gov.cn/jixi/c100007/202509/340768/files/%E9%99%84%E4%BB%B61.%E9%B8%A1%E8%A5%BF%E5%B8%822025%E5%B9%B4%E5%BA%A6%E2%80%9C%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BA%BA%E6%89%8D%E5%91%A8%E2%80%9D%E6%A0%A1%E5%9B%AD%E5%BC%95%E6%89%8D%E6%B4%BB%E5%8A%A8%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%B2%97%E4%BD%8D%E8%AE%A1%E5%88%92%E8%A1%A8%EF%BC%88%E9%9D%A2%E8%AF%95%E5%B2%97%E4%BD%8D%EF%BC%89.xlsx",
+              "local": "attachments/230300/2025年鸡西市“黑龙江人才周”校园引才活动事业单位岗位计划表（面试岗位）.xlsx"
+            },
+            {
+              "name": "2025年鸡西市“黑龙江人才周”校园引才活动事业单位岗位计划表（笔试+面试岗位）.xlsx",
+              "url": "http://www.jixi.gov.cn/jixi/c100007/202509/340768/files/%E9%99%84%E4%BB%B62.%E9%B8%A1%E8%A5%BF%E5%B8%822025%E5%B9%B4%E5%BA%A6%E2%80%9C%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BA%BA%E6%89%8D%E5%91%A8%E2%80%9D%E6%A0%A1%E5%9B%AD%E5%BC%95%E6%89%8D%E6%B4%BB%E5%8A%A8%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%B2%97%E4%BD%8D%E8%AE%A1%E5%88%92%E8%A1%A8%EF%BC%88%E7%AC%94%E8%AF%95+%E9%9D%A2%E8%AF%95%E5%B2%97%E4%BD%8D%EF%BC%89-20250909165036178.xlsx",
+              "local": "attachments/230300/2025年鸡西市“黑龙江人才周”校园引才活动事业单位岗位计划表（笔试+面试岗位）.xlsx"
+            },
+            {
+              "name": "2025年鸡西市“黑龙江人才周”校园引才活动企业单位岗位计划表.xlsx",
+              "url": "http://www.jixi.gov.cn/jixi/c100007/202509/340768/files/%E9%99%84%E4%BB%B63.%E9%B8%A1%E8%A5%BF%E5%B8%822025%E5%B9%B4%E5%BA%A6%E2%80%9C%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BA%BA%E6%89%8D%E5%91%A8%E2%80%9D%E6%A0%A1%E5%9B%AD%E5%BC%95%E6%89%8D%E6%B4%BB%E5%8A%A8%E4%BC%81%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%B2%97%E4%BD%8D%E8%AE%A1%E5%88%92%E8%A1%A8.xlsx",
+              "local": "attachments/230300/2025年鸡西市“黑龙江人才周”校园引才活动企业单位岗位计划表.xlsx"
+            },
+            {
+              "name": "2025年鸡西市“黑龙江人才周”校园引才活动企事业单位人才招聘报名表.xlsx",
+              "url": "http://www.jixi.gov.cn/jixi/c100007/202509/340768/files/%E9%99%84%E4%BB%B64.%E9%B8%A1%E8%A5%BF%E5%B8%822025%E5%B9%B4%E5%BA%A6%E2%80%9C%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BA%BA%E6%89%8D%E5%91%A8%E2%80%9D%E6%A0%A1%E5%9B%AD%E5%BC%95%E6%89%8D%E6%B4%BB%E5%8A%A8%E4%BC%81%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E4%BA%BA%E6%89%8D%E6%8B%9B%E8%81%98%E6%8A%A5%E5%90%8D%E8%A1%A8.xlsx",
+              "local": "attachments/230300/2025年鸡西市“黑龙江人才周”校园引才活动企事业单位人才招聘报名表.xlsx"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -352,7 +468,14 @@
           "headcount": null,
           "positions": null,
           "url": "http://www.jixi.gov.cn/jixi/c100007/202511/c06_345686.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年度“黑龙江人才周”校园引才活动鸡西市事业单位招聘直接面试岗位拟聘用人员名单（第一批）.xlsx",
+              "url": "http://www.jixi.gov.cn/jixi/c100007/202511/345686/files/%E9%99%84%E4%BB%B6%EF%BC%9A2025%E5%B9%B4%E5%BA%A6%E2%80%9C%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BA%BA%E6%89%8D%E5%91%A8%E2%80%9D%E6%A0%A1%E5%9B%AD%E5%BC%95%E6%89%8D%E6%B4%BB%E5%8A%A8%E9%B8%A1%E8%A5%BF%E5%B8%82%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%8B%9B%E8%81%98%E7%9B%B4%E6%8E%A5%E9%9D%A2%E8%AF%95%E5%B2%97%E4%BD%8D%E6%8B%9F%E8%81%98%E7%94%A8%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%88%E7%AC%AC%E4%B8%80%E6%89%B9%EF%BC%89.xlsx",
+              "local": "attachments/230300/2025年度“黑龙江人才周”校园引才活动鸡西市事业单位招聘直接面试岗位拟聘用人员名单（第一批）.xlsx"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -361,13 +484,14 @@
           "headcount": null,
           "positions": null,
           "url": "https://www.jixi.gov.cn/jixi/c100007/202608/c06_370444.shtml",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         }
       ]
     },
     {
       "name": "鹤岗市",
-      "adcode": "230400",
+      "adcode": 230400,
       "districts": [
         "向阳区",
         "工农区",
@@ -399,7 +523,8 @@
           "positions": null,
           "url": "https://www.hegang.gov.cn",
           "attachments": [],
-          "note": "公告原文发布于鹤岗市人民政府网通知公告栏（2025-08-27，报名9月1日-5日）"
+          "note": "公告原文发布于鹤岗市人民政府网通知公告栏（2025-08-27，报名9月1日-5日）",
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -409,13 +534,14 @@
           "positions": null,
           "url": "https://jdjywpt.jlu.edu.cn/mportal/recruit/details?id=9328583e19d149f496c77d1d20a98b06",
           "attachments": [],
-          "note": "公告原文发布于鹤岗市人民政府网（hegang.gov.cn 2025-09-11），吉林大学就业信息网全文转载"
+          "note": "公告原文发布于鹤岗市人民政府网（hegang.gov.cn 2025-09-11），吉林大学就业信息网全文转载",
+          "year": 2025
         }
       ]
     },
     {
       "name": "双鸭山市",
-      "adcode": "230500",
+      "adcode": 230500,
       "districts": [
         "尖山区",
         "岭东区",
@@ -447,7 +573,8 @@
           "positions": null,
           "url": "http://www.shuangyashan.gov.cn",
           "attachments": [],
-          "note": "公告原文发布于双鸭山市人民政府网及黑龙江省事业单位公开招聘服务平台（2025-08-27，报名9月1日-5日）"
+          "note": "公告原文发布于双鸭山市人民政府网及黑龙江省事业单位公开招聘服务平台（2025-08-27，报名9月1日-5日）",
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -456,7 +583,8 @@
           "headcount": null,
           "positions": null,
           "url": "http://gkzp.renshenet.org.cn/zp/detail?id=2277&selected=gcxx-1",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -465,7 +593,8 @@
           "headcount": null,
           "positions": null,
           "url": "http://www.shuangyashan.gov.cn/sys/7e4c1e3b127a482dbcaa02e4f33c7586/202510/c07_237200.shtml",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -479,8 +608,34 @@
               "name": "2025年双鸭山市下半年事业单位公开招聘拟进入面试资格审查人员名单",
               "url": "http://www.shuangyashan.gov.cn/sys/7e4c1e3b127a482dbcaa02e4f33c7586/202512/240220/files/附件1.双鸭山市2025年下半年事业单位公开招聘工作人员拟进入面试资格审查人员名单-20251217153648526.xlsx",
               "local": "attachments/230500/2025年双鸭山市下半年事业单位公开招聘拟进入面试资格审查人员名单.xlsx"
+            },
+            {
+              "name": "黑龙江双鸭山市事业单位公开招聘工作人员面试资格确认审查表.xls",
+              "url": "http://www.shuangyashan.gov.cn/sys/7e4c1e3b127a482dbcaa02e4f33c7586/202512/240220/files/%E9%99%84%E4%BB%B63%E5%8F%8C%E9%B8%AD%E5%B1%B1%E5%B8%82%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E9%9D%A2%E8%AF%95%E8%B5%84%E6%A0%BC%E7%A1%AE%E8%AE%A4%E5%AE%A1%E6%9F%A5%E8%A1%A8-20251217153736729.xls",
+              "local": "attachments/230500/黑龙江双鸭山市事业单位公开招聘工作人员面试资格确认审查表.xls"
+            },
+            {
+              "name": "黑龙江双鸭山单位同意报考证明.docx",
+              "url": "http://www.shuangyashan.gov.cn/sys/7e4c1e3b127a482dbcaa02e4f33c7586/202512/240220/files/%E9%99%84%E4%BB%B64%E5%8D%95%E4%BD%8D%E5%90%8C%E6%84%8F%E6%8A%A5%E8%80%83%E8%AF%81%E6%98%8E-20251217153751131.docx",
+              "local": "attachments/230500/黑龙江双鸭山单位同意报考证明.docx"
+            },
+            {
+              "name": "黑龙江双鸭山市事业单位公开招聘工作人员面试资格确认考生个人承诺书.doc",
+              "url": "http://www.shuangyashan.gov.cn/sys/7e4c1e3b127a482dbcaa02e4f33c7586/202512/240220/files/%E9%99%84%E4%BB%B65%E5%8F%8C%E9%B8%AD%E5%B1%B1%E5%B8%82%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E9%9D%A2%E8%AF%95%E8%B5%84%E6%A0%BC%E7%A1%AE%E8%AE%A4%E8%80%83%E7%94%9F%E4%B8%AA%E4%BA%BA%E6%89%BF%E8%AF%BA%E4%B9%A6-20251217153808272.doc",
+              "local": "attachments/230500/黑龙江双鸭山市事业单位公开招聘工作人员面试资格确认考生个人承诺书.doc"
+            },
+            {
+              "name": "2025年黑龙江.双鸭山市下半年事业单位公开招聘工作人员拟进入面试资格审查人员名单.xlsx",
+              "url": "http://www.shuangyashan.gov.cn/sys/7e4c1e3b127a482dbcaa02e4f33c7586/202512/240220/files/%E9%99%84%E4%BB%B61.%E5%8F%8C%E9%B8%AD%E5%B1%B1%E5%B8%822025%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8B%9F%E8%BF%9B%E5%85%A5%E9%9D%A2%E8%AF%95%E8%B5%84%E6%A0%BC%E5%AE%A1%E6%9F%A5%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95-20251217153648526.xlsx",
+              "local": "attachments/230500/2025年黑龙江.双鸭山市下半年事业单位公开招聘工作人员拟进入面试资格审查人员名单.xlsx"
+            },
+            {
+              "name": "2025年“黑龙江人才周”校园引才活动双鸭山市事业单位公开招聘拟进入面试资格审查名单.xlsx",
+              "url": "http://www.shuangyashan.gov.cn/sys/7e4c1e3b127a482dbcaa02e4f33c7586/202512/240220/files/%E9%99%84%E4%BB%B62.2025%E5%B9%B4%E5%BA%A6%E2%80%9C%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BA%BA%E6%89%8D%E5%91%A8%E2%80%9D%E6%A0%A1%E5%9B%AD%E5%BC%95%E6%89%8D%E6%B4%BB%E5%8A%A8%E5%8F%8C%E9%B8%AD%E5%B1%B1%E5%B8%82%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E6%8B%9F%E8%BF%9B%E5%85%A5%E9%9D%A2%E8%AF%95%E8%B5%84%E6%A0%BC%E5%AE%A1%E6%9F%A5%E5%90%8D%E5%8D%95-20251217153717526.xlsx",
+              "local": "attachments/230500/2025年“黑龙江人才周”校园引才活动双鸭山市事业单位公开招聘拟进入面试资格审查名单.xlsx"
             }
-          ]
+          ],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -489,13 +644,14 @@
           "headcount": null,
           "positions": null,
           "url": "http://www.shuangyashan.gov.cn/sys/7e4c1e3b127a482dbcaa02e4f33c7586/202602/c07_242941.shtml",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         }
       ]
     },
     {
       "name": "大庆市",
-      "adcode": "230600",
+      "adcode": 230600,
       "districts": [
         "萨尔图区",
         "龙凤区",
@@ -527,7 +683,14 @@
           "headcount": 297,
           "positions": null,
           "url": "https://www.daqing.gov.cn/daqing/sydwzld/202508/c05_387719.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年黑龙江大庆市下半年事业单位公开招聘工作人员岗位计划表.xlsx",
+              "url": "https://www.daqing.gov.cn/daqing/sydwzld/202508/387719/files/%E9%99%84%E4%BB%B61%EF%BC%9A%E5%A4%A7%E5%BA%86%E5%B8%822025%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%B2%97%E4%BD%8D%E8%AE%A1%E5%88%92%E8%A1%A8.xlsx",
+              "local": "attachments/230600/2025年黑龙江大庆市下半年事业单位公开招聘工作人员岗位计划表.xlsx"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -536,7 +699,24 @@
           "headcount": 44,
           "positions": null,
           "url": "https://www.daqing.gov.cn/daqing/sydwzld/202507/c05_384350.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "黑龙江大庆市卫生健康委所属事业单位公开招聘工作人员岗位需求计划表.xlsx",
+              "url": "https://www.daqing.gov.cn/daqing/sydwzld/202507/384350/files/%E9%99%84%E4%BB%B61%EF%BC%9A%E5%A4%A7%E5%BA%86%E5%B8%82%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7%E5%A7%94%E6%89%80%E5%B1%9E%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%B2%97%E4%BD%8D%E9%9C%80%E6%B1%82%E8%AE%A1%E5%88%92%E8%A1%A8.xlsx",
+              "local": "attachments/230600/黑龙江大庆市卫生健康委所属事业单位公开招聘工作人员岗位需求计划表.xlsx"
+            },
+            {
+              "name": "2025年黑龙江大庆市卫生健康委所属事业单位公开招聘工作人员报名表.xlsx",
+              "url": "https://www.daqing.gov.cn/daqing/sydwzld/202507/384350/files/%E9%99%84%E4%BB%B62%EF%BC%9A2025%E5%B9%B4%E5%A4%A7%E5%BA%86%E5%B8%82%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7%E5%A7%94%E6%89%80%E5%B1%9E%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8A%A5%E5%90%8D%E8%A1%A8.xlsx",
+              "local": "attachments/230600/2025年黑龙江大庆市卫生健康委所属事业单位公开招聘工作人员报名表.xlsx"
+            },
+            {
+              "name": "2025年黑龙江大庆市卫生健康委所属事业单位公开招聘工作人员笔试加分承诺书.docx",
+              "url": "https://www.daqing.gov.cn/daqing/sydwzld/202507/384350/files/%E9%99%84%E4%BB%B63%EF%BC%9A2025%E5%B9%B4%E5%A4%A7%E5%BA%86%E5%B8%82%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7%E5%A7%94%E6%89%80%E5%B1%9E%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%AC%94%E8%AF%95%E5%8A%A0%E5%88%86%E6%89%BF%E8%AF%BA%E4%B9%A6.docx",
+              "local": "attachments/230600/2025年黑龙江大庆市卫生健康委所属事业单位公开招聘工作人员笔试加分承诺书.docx"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -545,13 +725,20 @@
           "headcount": null,
           "positions": null,
           "url": "https://www.daqing.gov.cn/daqing/sydwzld/202602/c05_404110.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年黑龙江大庆市卫生健康委员会所属事业单位公开招聘工作人员拟录用人员名单.xlsx",
+              "url": "https://www.daqing.gov.cn/daqing/sydwzld/202602/404110/files/%E5%A4%A7%E5%BA%86%E5%B8%82%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7%E5%A7%94%E5%91%98%E4%BC%9A%E6%89%80%E5%B1%9E%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D2025%E5%B9%B4%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8B%9F%E5%BD%95%E7%94%A8%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95.xlsx",
+              "local": "attachments/230600/2025年黑龙江大庆市卫生健康委员会所属事业单位公开招聘工作人员拟录用人员名单.xlsx"
+            }
+          ],
+          "year": 2025
         }
       ]
     },
     {
       "name": "伊春市",
-      "adcode": "230700",
+      "adcode": 230700,
       "districts": [
         "伊美区",
         "乌翠区",
@@ -589,8 +776,24 @@
               "name": "2025年伊春市上半年事业单位公开招聘岗位计划表",
               "url": "https://www.yctwx.gov.cn/twxrmzf/c101313/202502/393380/files/伊春市2025年上半年联考岗位计划表-20250214150718423.xlsx",
               "local": "attachments/230700/2025年伊春市上半年事业单位公开招聘岗位计划表.xlsx"
+            },
+            {
+              "name": "2025年黑龙江伊春市上半年联考岗位计划表.xlsx",
+              "url": "https://www.yctwx.gov.cn/twxrmzf/c101313/202502/393380/files/%E4%BC%8A%E6%98%A5%E5%B8%822025%E5%B9%B4%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%81%94%E8%80%83%E5%B2%97%E4%BD%8D%E8%AE%A1%E5%88%92%E8%A1%A8-20250214150718423.xlsx",
+              "local": "attachments/230700/2025年黑龙江伊春市上半年联考岗位计划表.xlsx"
+            },
+            {
+              "name": "黑龙江伊春笔试政策加分考生需要提供材料明细.xlsx",
+              "url": "https://www.yctwx.gov.cn/twxrmzf/c101313/202502/393380/files/%E7%AC%94%E8%AF%95%E6%94%BF%E7%AD%96%E5%8A%A0%E5%88%86%E8%80%83%E7%94%9F%E9%9C%80%E8%A6%81%E6%8F%90%E4%BE%9B%E6%9D%90%E6%96%99%E6%98%8E%E7%BB%86-20250214150730354.xlsx",
+              "local": "attachments/230700/黑龙江伊春笔试政策加分考生需要提供材料明细.xlsx"
+            },
+            {
+              "name": "黑龙江伊春城乡基层公益性岗位工作的高校毕业生报考事业单位资格认定表.xlsx",
+              "url": "https://www.yctwx.gov.cn/twxrmzf/c101313/202502/393380/files/%E5%9F%8E%E4%B9%A1%E5%9F%BA%E5%B1%82%E5%85%AC%E7%9B%8A%E6%80%A7%E5%B2%97%E4%BD%8D%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E6%8A%A5%E8%80%83%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E8%B5%84%E6%A0%BC%E8%AE%A4%E5%AE%9A%E8%A1%A8-20250214150741547.xlsx",
+              "local": "attachments/230700/黑龙江伊春城乡基层公益性岗位工作的高校毕业生报考事业单位资格认定表.xlsx"
             }
-          ]
+          ],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -599,7 +802,8 @@
           "headcount": 228,
           "positions": null,
           "url": "https://www.tls.gov.cn/newtlsrmzf/c104440/202508/408472.shtml",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -618,14 +822,35 @@
               "name": "2025年伊春市“黑龙江人才周”事业单位引才岗位计划表（县区79人）",
               "url": "https://www.yc.gov.cn/ycsrmzf/c101987/202509/bd13090b7e42452f9cf41c55f8bda51a/files/2.伊春市事业单位引才岗位计划表（县区事业单位公开招聘79人）.xlsx",
               "local": "attachments/230700/2025年伊春市“黑龙江人才周”事业单位引才岗位计划表（县区79人）.xlsx"
+            },
+            {
+              "name": "黑龙江伊春市事业单位引才岗位计划表（林都优青116人）.xls",
+              "url": "https://www.yc.gov.cn/ycsrmzf/c101987/202509/bd13090b7e42452f9cf41c55f8bda51a/files/1.%E4%BC%8A%E6%98%A5%E5%B8%82%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%BC%95%E6%89%8D%E5%B2%97%E4%BD%8D%E8%AE%A1%E5%88%92%E8%A1%A8%EF%BC%88%E6%9E%97%E9%83%BD%E4%BC%98%E9%9D%92116%E4%BA%BA%EF%BC%89.xls",
+              "local": "attachments/230700/黑龙江伊春市事业单位引才岗位计划表（林都优青116人）.xls"
+            },
+            {
+              "name": "黑龙江伊春市事业单位引才岗位计划表（县区事业单位公开招聘79人）.xlsx",
+              "url": "https://www.yc.gov.cn/ycsrmzf/c101987/202509/bd13090b7e42452f9cf41c55f8bda51a/files/2.%E4%BC%8A%E6%98%A5%E5%B8%82%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%BC%95%E6%89%8D%E5%B2%97%E4%BD%8D%E8%AE%A1%E5%88%92%E8%A1%A8%EF%BC%88%E5%8E%BF%E5%8C%BA%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%9879%E4%BA%BA%EF%BC%89.xlsx",
+              "local": "attachments/230700/黑龙江伊春市事业单位引才岗位计划表（县区事业单位公开招聘79人）.xlsx"
+            },
+            {
+              "name": "黑龙江伊春报考人员诚信承诺书.pdf",
+              "url": "https://www.yc.gov.cn/ycsrmzf/c101987/202509/bd13090b7e42452f9cf41c55f8bda51a/files/3.%E6%8A%A5%E8%80%83%E4%BA%BA%E5%91%98%E8%AF%9A%E4%BF%A1%E6%89%BF%E8%AF%BA%E4%B9%A6.pdf",
+              "local": "attachments/230700/黑龙江伊春报考人员诚信承诺书.pdf"
+            },
+            {
+              "name": "黑龙江伊春考生报考信息指引.pdf",
+              "url": "https://www.yc.gov.cn/ycsrmzf/c101987/202509/bd13090b7e42452f9cf41c55f8bda51a/files/4.%E8%80%83%E7%94%9F%E6%8A%A5%E8%80%83%E4%BF%A1%E6%81%AF%E6%8C%87%E5%BC%95.pdf",
+              "local": "attachments/230700/黑龙江伊春考生报考信息指引.pdf"
             }
-          ]
+          ],
+          "year": 2025
         }
       ]
     },
     {
       "name": "佳木斯市",
-      "adcode": "230800",
+      "adcode": 230800,
       "districts": [
         "向阳区",
         "前进区",
@@ -658,7 +883,14 @@
           "headcount": 478,
           "positions": null,
           "url": "https://www.jms.gov.cn/jms/c100186/202508/c04_75807.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年黑龙江佳木斯市下半年事业单位公开招聘工作人员岗位计划表.xlsx",
+              "url": "https://www.jms.gov.cn/jms/c100186/202508/75807/files/%E4%BD%B3%E6%9C%A8%E6%96%AF%E5%B8%822025%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%B2%97%E4%BD%8D%E8%AE%A1%E5%88%92%E8%A1%A8.xlsx",
+              "local": "attachments/230800/2025年黑龙江佳木斯市下半年事业单位公开招聘工作人员岗位计划表.xlsx"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -667,7 +899,8 @@
           "headcount": 294,
           "positions": null,
           "url": "https://www.jms.gov.cn/html/index//content/2025/5/bf8a503c04964e6d8e667b14d24f90fe.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -676,7 +909,14 @@
           "headcount": null,
           "positions": null,
           "url": "https://www.jms.gov.cn/jms/c100186/202603/c04_294350.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年黑龙江佳木斯市下半年事业单位公开招聘工作人员拟聘用人员名单.xls",
+              "url": "https://www.jms.gov.cn/jms/c100186/202603/294350/files/%E4%BD%B3%E6%9C%A8%E6%96%AF%E5%B8%822025%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8B%9F%E8%81%98%E7%94%A8%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95.xls",
+              "local": "attachments/230800/2025年黑龙江佳木斯市下半年事业单位公开招聘工作人员拟聘用人员名单.xls"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -685,13 +925,20 @@
           "headcount": 19,
           "positions": null,
           "url": "https://www.jms.gov.cn/jms/c100186/202607/c04_307140.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年度“黑龙江人才周”佳木斯市急需紧缺专业技术人才引进市本级事业单位拟引进人员名单（第三批）.xlsx",
+              "url": "https://www.jms.gov.cn/jms/c100186/202607/307140/files/%E9%99%84%E4%BB%B6%EF%BC%9A2025%E5%B9%B4%E5%BA%A6%E2%80%9C%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BA%BA%E6%89%8D%E5%91%A8%E2%80%9D%E4%BD%B3%E6%9C%A8%E6%96%AF%E5%B8%82%E6%80%A5%E9%9C%80%E7%B4%A7%E7%BC%BA%E4%B8%93%E4%B8%9A%E6%8A%80%E6%9C%AF%E4%BA%BA%E6%89%8D%E5%BC%95%E8%BF%9B%E5%B8%82%E6%9C%AC%E7%BA%A7%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%8B%9F%E5%BC%95%E8%BF%9B%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%88%E7%AC%AC%E4%B8%89%E6%89%B9%EF%BC%89.xlsx",
+              "local": "attachments/230800/2025年度“黑龙江人才周”佳木斯市急需紧缺专业技术人才引进市本级事业单位拟引进人员名单（第三批）.xlsx"
+            }
+          ],
+          "year": 2025
         }
       ]
     },
     {
       "name": "七台河市",
-      "adcode": "230900",
+      "adcode": 230900,
       "districts": [
         "新兴区",
         "桃山区",
@@ -718,7 +965,8 @@
           "headcount": 200,
           "positions": null,
           "url": "http://gkzp.renshenet.org.cn/zp/detail?id=f38f04251749439ab65d4017d96b764e&selected=zpxx",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -727,7 +975,24 @@
           "headcount": 166,
           "positions": null,
           "url": "https://www.qth.gov.cn/qth/c100181/202509/70b8acebc6dc4cb798394cab99d0207f.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年度“黑龙江人才周”校园引才活动七台河市“聚才奥运冠军之城”人才引进事业单位岗位计划表.xlsx",
+              "url": "https://www.qth.gov.cn/qth/c100181/202509/70b8acebc6dc4cb798394cab99d0207f/files/1.2025%E5%B9%B4%E5%BA%A6%E2%80%9C%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BA%BA%E6%89%8D%E5%91%A8%E2%80%9D%E6%A0%A1%E5%9B%AD%E5%BC%95%E6%89%8D%E6%B4%BB%E5%8A%A8%E4%B8%83%E5%8F%B0%E6%B2%B3%E5%B8%82%E2%80%9C%E8%81%9A%E6%89%8D%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E4%B9%8B%E5%9F%8E%E2%80%9D%E4%BA%BA%E6%89%8D%E5%BC%95%E8%BF%9B%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%B2%97%E4%BD%8D%E8%AE%A1%E5%88%92%E8%A1%A8.xlsx",
+              "local": "attachments/230900/2025年度“黑龙江人才周”校园引才活动七台河市“聚才奥运冠军之城”人才引进事业单位岗位计划表.xlsx"
+            },
+            {
+              "name": "2025年度“黑龙江人才周”校园引才活动七台河市“聚才奥运冠军之城”人才引进企业单位岗位计划表.xls",
+              "url": "https://www.qth.gov.cn/qth/c100181/202509/70b8acebc6dc4cb798394cab99d0207f/files/2.2025%E5%B9%B4%E5%BA%A6%E2%80%9C%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BA%BA%E6%89%8D%E5%91%A8%E2%80%9D%E6%A0%A1%E5%9B%AD%E5%BC%95%E6%89%8D%E6%B4%BB%E5%8A%A8%E4%B8%83%E5%8F%B0%E6%B2%B3%E5%B8%82%E2%80%9C%E8%81%9A%E6%89%8D%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E4%B9%8B%E5%9F%8E%E2%80%9D%E4%BA%BA%E6%89%8D%E5%BC%95%E8%BF%9B%E4%BC%81%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%B2%97%E4%BD%8D%E8%AE%A1%E5%88%92%E8%A1%A8.xls",
+              "local": "attachments/230900/2025年度“黑龙江人才周”校园引才活动七台河市“聚才奥运冠军之城”人才引进企业单位岗位计划表.xls"
+            },
+            {
+              "name": "黑龙江七台河市人才引进政策待遇.docx",
+              "url": "https://www.qth.gov.cn/qth/c100181/202509/70b8acebc6dc4cb798394cab99d0207f/files/3.%E4%B8%83%E5%8F%B0%E6%B2%B3%E5%B8%82%E4%BA%BA%E6%89%8D%E5%BC%95%E8%BF%9B%E6%94%BF%E7%AD%96%E5%BE%85%E9%81%87.docx",
+              "local": "attachments/230900/黑龙江七台河市人才引进政策待遇.docx"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -736,13 +1001,20 @@
           "headcount": null,
           "positions": null,
           "url": "https://www.qth.gov.cn/qth/c100181/202603/889d48090d154a3eaa27fc458937bfe8.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年黑龙江七台河市下半年事业单位公开招聘工作人员拟聘用人员名单（第一批）.xls",
+              "url": "https://www.qth.gov.cn/qth/c100181/202603/889d48090d154a3eaa27fc458937bfe8/files/%E4%B8%83%E5%8F%B0%E6%B2%B3%E5%B8%822025%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8B%9F%E8%81%98%E7%94%A8%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%88%E7%AC%AC%E4%B8%80%E6%89%B9%EF%BC%89.xls",
+              "local": "attachments/230900/2025年黑龙江七台河市下半年事业单位公开招聘工作人员拟聘用人员名单（第一批）.xls"
+            }
+          ],
+          "year": 2025
         }
       ]
     },
     {
       "name": "牡丹江市",
-      "adcode": "231000",
+      "adcode": 231000,
       "districts": [
         "东安区",
         "阳明区",
@@ -781,7 +1053,8 @@
           "positions": null,
           "url": "https://www.mdjrcgz.gov.cn/website/index",
           "attachments": [],
-          "note": "公告原文发布于牡丹江人才工作网（2025-08-27，报名9月1日-5日）"
+          "note": "公告原文发布于牡丹江人才工作网（2025-08-27，报名9月1日-5日）",
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -790,7 +1063,8 @@
           "headcount": 16,
           "positions": null,
           "url": "https://www.mdjrcgz.gov.cn/website/newsDetail?id=573",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -799,13 +1073,14 @@
           "headcount": null,
           "positions": null,
           "url": "https://www.mdjrcgz.gov.cn/website/newsDetail?id=606",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         }
       ]
     },
     {
       "name": "黑河市",
-      "adcode": "231100",
+      "adcode": 231100,
       "districts": [
         "爱辉区",
         "逊克县",
@@ -840,7 +1115,8 @@
               "url": "https://www.heihe.gov.cn/hhs/sydwzlx/202508/337526/files/附件1 黑河市2025年下半年事业单位公开招聘工作人员岗位计划表 .xlsx",
               "local": "attachments/231100/2025年黑河市下半年事业单位公开招聘岗位计划表.xlsx"
             }
-          ]
+          ],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -855,7 +1131,8 @@
               "url": "https://www.heihe.gov.cn/hhs/sydwzlx/202602/347949/files/附件：黑河市2025年下半年事业单位公开招聘工作人员市直岗位拟聘用人员名单.xlsx",
               "local": "attachments/231100/2025年黑河市下半年事业单位公开招聘市直岗位拟聘用人员名单.xlsx"
             }
-          ]
+          ],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -864,13 +1141,14 @@
           "headcount": 23,
           "positions": null,
           "url": "https://www.heihe.gov.cn/hhs/sydwzlx/202507/c11_334895.shtml",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         }
       ]
     },
     {
       "name": "绥化市",
-      "adcode": "231200",
+      "adcode": 231200,
       "districts": [
         "北林区",
         "望奎县",
@@ -904,7 +1182,8 @@
           "positions": null,
           "url": "https://www.suihua.gov.cn",
           "attachments": [],
-          "note": "公告原文发布于绥化市人民政府网公告信息栏（2025-08-27，报名9月1日-5日）"
+          "note": "公告原文发布于绥化市人民政府网公告信息栏（2025-08-27，报名9月1日-5日）",
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -913,7 +1192,8 @@
           "headcount": 389,
           "positions": null,
           "url": "https://www.suihua.gov.cn/sh/ggxx/202509/c12_216313.shtml",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -922,7 +1202,8 @@
           "headcount": null,
           "positions": null,
           "url": "https://www.suihua.gov.cn/sh/ggxx/202512/c12_223598.shtml",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -931,13 +1212,14 @@
           "headcount": null,
           "positions": null,
           "url": "https://www.suihua.gov.cn/sh/ggxx/202601/c12_225624.shtml",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         }
       ]
     },
     {
       "name": "大兴安岭地区",
-      "adcode": "232700",
+      "adcode": 232700,
       "districts": [
         "加格达奇区",
         "松岭区",
@@ -967,8 +1249,40 @@
           "headcount": 7890,
           "positions": null,
           "url": "https://www.dxal.gov.cn/dxal/c100025/202502/c13_304977.shtml",
-          "attachments": [],
-          "note": "全省统一招录7890人，含大兴安岭地区各级机关职位"
+          "attachments": [
+            {
+              "name": "2025年黑龙江省各级机关考试录用公务员计划（省市级综合管理类）.xlsx",
+              "url": "https://www.dxal.gov.cn/dxal/c100025/202502/304977/files/1.%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%812025%E5%B9%B4%E5%BA%A6%E5%90%84%E7%BA%A7%E6%9C%BA%E5%85%B3%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E8%AE%A1%E5%88%92%EF%BC%88%E7%9C%81%E5%B8%82%E7%BA%A7%E7%BB%BC%E5%90%88%E7%AE%A1%E7%90%86%E7%B1%BB%EF%BC%89.xlsx",
+              "local": "attachments/232700/2025年黑龙江省各级机关考试录用公务员计划（省市级综合管理类）.xlsx"
+            },
+            {
+              "name": "黑龙江省定向招录优秀村（社区）党组织书记职位.xlsx",
+              "url": "https://www.dxal.gov.cn/dxal/c100025/202502/304977/files/4.%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E5%AE%9A%E5%90%91%E6%8B%9B%E5%BD%95%E4%BC%98%E7%A7%80%E6%9D%91%EF%BC%88%E7%A4%BE%E5%8C%BA%EF%BC%89%E5%85%9A%E7%BB%84%E7%BB%87%E4%B9%A6%E8%AE%B0%E8%81%8C%E4%BD%8D.xlsx",
+              "local": "attachments/232700/黑龙江省定向招录优秀村（社区）党组织书记职位.xlsx"
+            },
+            {
+              "name": "2025年黑龙江省各级机关考试录用公务员报考指南.docx",
+              "url": "https://www.dxal.gov.cn/dxal/c100025/202502/304977/files/5.%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%812025%E5%B9%B4%E5%BA%A6%E5%90%84%E7%BA%A7%E6%9C%BA%E5%85%B3%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E6%8A%A5%E8%80%83%E6%8C%87%E5%8D%97.docx",
+              "local": "attachments/232700/2025年黑龙江省各级机关考试录用公务员报考指南.docx"
+            },
+            {
+              "name": "2025年黑龙江省各级机关考试录用公务员计划（行政执法类）.xlsx",
+              "url": "https://www.dxal.gov.cn/dxal/c100025/202502/304977/files/3.%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%812025%E5%B9%B4%E5%BA%A6%E5%90%84%E7%BA%A7%E6%9C%BA%E5%85%B3%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E8%AE%A1%E5%88%92%EF%BC%88%E8%A1%8C%E6%94%BF%E6%89%A7%E6%B3%95%E7%B1%BB%EF%BC%89.xlsx",
+              "local": "attachments/232700/2025年黑龙江省各级机关考试录用公务员计划（行政执法类）.xlsx"
+            },
+            {
+              "name": "2025年黑龙江省各级机关考试录用公务员工作政策咨询电话.xlsx",
+              "url": "https://www.dxal.gov.cn/dxal/c100025/202502/304977/files/6.%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%812025%E5%B9%B4%E5%BA%A6%E5%90%84%E7%BA%A7%E6%9C%BA%E5%85%B3%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E5%B7%A5%E4%BD%9C%E6%94%BF%E7%AD%96%E5%92%A8%E8%AF%A2%E7%94%B5%E8%AF%9D.xlsx",
+              "local": "attachments/232700/2025年黑龙江省各级机关考试录用公务员工作政策咨询电话.xlsx"
+            },
+            {
+              "name": "2025年黑龙江省各级机关考试录用公务员计划（县乡级综合管理类）(1).xlsx",
+              "url": "https://www.dxal.gov.cn/dxal/c100025/202502/304977/files/2.%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%812025%E5%B9%B4%E5%BA%A6%E5%90%84%E7%BA%A7%E6%9C%BA%E5%85%B3%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E8%AE%A1%E5%88%92%EF%BC%88%E5%8E%BF%E4%B9%A1%E7%BA%A7%E7%BB%BC%E5%90%88%E7%AE%A1%E7%90%86%E7%B1%BB%EF%BC%89%20(1).xlsx",
+              "local": "attachments/232700/2025年黑龙江省各级机关考试录用公务员计划（县乡级综合管理类）(1).xlsx"
+            }
+          ],
+          "note": "全省统一招录7890人，含大兴安岭地区各级机关职位",
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -978,7 +1292,8 @@
           "positions": null,
           "url": "https://www.dxal.gov.cn/dxal/c100025/common_list.shtml",
           "attachments": [],
-          "note": "公告发布于大兴安岭地区行政公署网通知公告栏（2025-08-27）"
+          "note": "公告发布于大兴安岭地区行政公署网通知公告栏（2025-08-27）",
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -992,8 +1307,29 @@
               "name": "2025年大兴安岭地区“黑龙江人才周”引才活动事业单位岗位计划表",
               "url": "https://www.dxal.gov.cn/dxal/c100025/202509/319503/files/附件1：2025年度“黑龙江人才周”大兴安岭地区引才活动事业单位岗位计划表.xls",
               "local": "attachments/232700/2025年大兴安岭地区“黑龙江人才周”引才活动事业单位岗位计划表.xls"
+            },
+            {
+              "name": "2025年度“黑龙江人才周”大兴安岭地区引才活动企业岗位计划表.xls",
+              "url": "https://www.dxal.gov.cn/dxal/c100025/202509/319503/files/%E9%99%84%E4%BB%B62%EF%BC%9A2025%E5%B9%B4%E5%BA%A6%E2%80%9C%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BA%BA%E6%89%8D%E5%91%A8%E2%80%9D%E5%A4%A7%E5%85%B4%E5%AE%89%E5%B2%AD%E5%9C%B0%E5%8C%BA%E5%BC%95%E6%89%8D%E6%B4%BB%E5%8A%A8%E4%BC%81%E4%B8%9A%E5%B2%97%E4%BD%8D%E8%AE%A1%E5%88%92%E8%A1%A8.xls",
+              "local": "attachments/232700/2025年度“黑龙江人才周”大兴安岭地区引才活动企业岗位计划表.xls"
+            },
+            {
+              "name": "2025年度“黑龙江人才周”大兴安岭地区引才活动事业单位岗位计划表.xls",
+              "url": "https://www.dxal.gov.cn/dxal/c100025/202509/319503/files/%E9%99%84%E4%BB%B61%EF%BC%9A2025%E5%B9%B4%E5%BA%A6%E2%80%9C%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BA%BA%E6%89%8D%E5%91%A8%E2%80%9D%E5%A4%A7%E5%85%B4%E5%AE%89%E5%B2%AD%E5%9C%B0%E5%8C%BA%E5%BC%95%E6%89%8D%E6%B4%BB%E5%8A%A8%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%B2%97%E4%BD%8D%E8%AE%A1%E5%88%92%E8%A1%A8.xls",
+              "local": "attachments/232700/2025年度“黑龙江人才周”大兴安岭地区引才活动事业单位岗位计划表.xls"
+            },
+            {
+              "name": "2026年黑龙江大兴安岭地区应届毕业生个人承诺书.docx",
+              "url": "https://www.dxal.gov.cn/dxal/c100025/202509/319503/files/%E9%99%84%E4%BB%B63%EF%BC%9A2026%E5%B9%B4%E5%BA%94%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%AA%E4%BA%BA%E6%89%BF%E8%AF%BA%E4%B9%A6.docx",
+              "local": "attachments/232700/2026年黑龙江大兴安岭地区应届毕业生个人承诺书.docx"
+            },
+            {
+              "name": "黑龙江大兴安岭地区诚信承诺书.docx",
+              "url": "https://www.dxal.gov.cn/dxal/c100025/202509/319503/files/%E9%99%84%E4%BB%B64%EF%BC%9A%E8%AF%9A%E4%BF%A1%E6%89%BF%E8%AF%BA%E4%B9%A6.docx",
+              "local": "attachments/232700/黑龙江大兴安岭地区诚信承诺书.docx"
             }
-          ]
+          ],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -1002,7 +1338,8 @@
           "headcount": null,
           "positions": null,
           "url": "https://www.dxal.gov.cn/dxal/c100025/202512/c13_325635.shtml",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -1011,7 +1348,8 @@
           "headcount": 46,
           "positions": null,
           "url": "https://www.dxal.gov.cn/dxal/c100025/202602/c13_328636.shtml",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         }
       ]
     }

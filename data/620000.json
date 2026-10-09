@@ -1,7 +1,7 @@
 {
   "adcode": 620000,
   "name": "甘肃省",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-03",
   "note": "骨架数据：省级官方入口与代表性公告已人工核验；市级明细持续采集中",
   "provincePortals": [
     {
@@ -42,7 +42,900 @@
           "url": "https://ks.rst.gansu.gov.cn"
         }
       ],
-      "recruitments": []
+      "recruitments": [
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "“陇梧可栖、有凤来仪”甘肃省2026年秋季“组团式”引才宣介活动公告",
+          "date": "2026-09-18",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20260918/dbd719fe9d0944638403195bc05fe0cb/c.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "关于甘肃省2026年省直单位拟录用选调生公示的公告",
+          "date": "2026-07-13",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20260713/dbd9b4d5df8949268c5ade030e868c45/c.html",
+          "attachments": [
+            {
+              "name": "2026年甘肃省省直单位拟录用选调生名单.xls",
+              "url": "http://www.gszg.gov.cn/20260713/dbd9b4d5df8949268c5ade030e868c45/20260713dbd9b4d5df8949268c5ade030e868c45_183d49d5a71f8c4f9c88bea46b640a50c1.XLS",
+              "local": "attachments/620100/2026年甘肃省省直单位拟录用选调生名单.xls"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "关于中共甘肃省委办公厅所属事业单位2026年上半年公开招聘拟聘用人员公示的公告",
+          "date": "2026-07-06",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20260706/8c9972daafe34549860cb42389843364/c.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "甘肃省2026年拟录用选调生体检、公示等有关事项的公告",
+          "date": "2026-06-22",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20260622/fa15b631c4cf40eaa29ac974001b604a/c.html",
+          "attachments": [
+            {
+              "name": "2026年各市（州）体检时间安排和集合地点.xls",
+              "url": "http://www.gszg.gov.cn/20260622/fa15b631c4cf40eaa29ac974001b604a/20260622fa15b631c4cf40eaa29ac974001b604a_561ad869b9161a43fabe87a6f32a59cd17.et",
+              "local": "attachments/620100/2026年各市（州）体检时间安排和集合地点.xls"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "中共甘肃省委办公厅关于所属事业单位2026年公开招聘工作人员考试总成绩和进入体检人员名单的公告",
+          "date": "2026-06-01",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20260601/0749c5222f074119b064a6363440cde0/c.html",
+          "attachments": [
+            {
+              "name": "2026年中共甘肃省委办公厅所属事业单位上半年公开招聘工作人员总成绩和进入体检人员名单.xls",
+              "url": "http://www.gszg.gov.cn/20260601/0749c5222f074119b064a6363440cde0/202606010749c5222f074119b064a6363440cde0_5788ea47ae260d476b949a7eac93bd03f1.et",
+              "local": "attachments/620100/2026年中共甘肃省委办公厅所属事业单位上半年公开招聘工作人员总成绩和进入体检人员名单.xls"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "甘肃省2026年拟补录选调生结果查询等有关事项的公告",
+          "date": "2026-06-01",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20260601/e846c4087a3648cea019964dd8eca081/c.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "关于公布甘肃省2026年度省直机关公开遴选和公开选调公务员进入体检人员名单（第一批）及相关事宜的公告",
+          "date": "2026-05-20",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20260520/dcc75390d3d34798845ee5fbe83ad3ce/c.html",
+          "attachments": [
+            {
+              "name": "2026年甘肃省省直机关公开遴选和公开选调公务员进入体检人员名单（第一批）.xlsx",
+              "url": "http://www.gszg.gov.cn/20260520/dcc75390d3d34798845ee5fbe83ad3ce/20260520dcc75390d3d34798845ee5fbe83ad3ce_57b4a721e5e84d4fe396e0f33b3cab0355.xlsx",
+              "local": "attachments/620100/2026年甘肃省省直机关公开遴选和公开选调公务员进入体检人员名单（第一批）.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "关于公布甘肃省2026年度省直机关公开遴选和公开选调公务员进入考察人员名单的通知",
+          "date": "2026-05-11",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20260511/5c1bf25dc0d54931a6132b94c3204720/c.html",
+          "attachments": [
+            {
+              "name": "2026年甘肃省省直机关公开遴选和公开选调公务员进入考察人员名单.xlsx",
+              "url": "http://www.gszg.gov.cn/20260511/5c1bf25dc0d54931a6132b94c3204720/202605115c1bf25dc0d54931a6132b94c3204720_291f1935ce461240bbba7dece60f33d73b.xlsx",
+              "local": "attachments/620100/2026年甘肃省省直机关公开遴选和公开选调公务员进入考察人员名单.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "中共甘肃省委办公厅所属事业单位2026年上半年公开招聘工作人员笔试成绩和资格复审名单的公告",
+          "date": "2026-04-30",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20260430/0e60c93bc10644d39d90cdd9855f406a/c.html",
+          "attachments": [
+            {
+              "name": "2026年中共甘肃省委办公厅所属事业单位上半年公开招聘工作人员笔试成绩及进入资格复审人员名单.doc",
+              "url": "http://www.gszg.gov.cn/20260430/0e60c93bc10644d39d90cdd9855f406a/202604300e60c93bc10644d39d90cdd9855f406a_409cce7f0252084b8391aa53aec46aff4b.xls",
+              "local": "attachments/620100/2026年中共甘肃省委办公厅所属事业单位上半年公开招聘工作人员笔试成绩及进入资格复审人员名单.doc"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "关于公布甘肃省2026年度考试录用公务员省直考区进入体检人员名单及相关事宜的公告",
+          "date": "2026-04-30",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20260430/1c30004c093d4b6684b005b90d3aa4ea/c.html",
+          "attachments": [
+            {
+              "name": "2026年甘肃省考试录用公务员省直考区进入体检人员名单.xlsx",
+              "url": "http://www.gszg.gov.cn/20260430/1c30004c093d4b6684b005b90d3aa4ea/202604301c30004c093d4b6684b005b90d3aa4ea_3041fd5701e4e7477bbb449f6c47964b8b.xlsx",
+              "local": "attachments/620100/2026年甘肃省考试录用公务员省直考区进入体检人员名单.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "关于公布甘肃省2026年度省直机关公开遴选和公开选调公务员进入资格复审人员名单及相关事宜的公告",
+          "date": "2026-04-27",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20260427/6530cc95158943ce87c229e8778e0bb8/c.html",
+          "attachments": [
+            {
+              "name": "2026年甘肃省省直机关公开遴选公务员进入资格复审人员名单（普通职位）.xls",
+              "url": "http://www.gszg.gov.cn/20260427/6530cc95158943ce87c229e8778e0bb8/202604276530cc95158943ce87c229e8778e0bb8_1541c9e998e40f4bdfaca057a374ec1bb9.et",
+              "local": "attachments/620100/2026年甘肃省省直机关公开遴选公务员进入资格复审人员名单（普通职位）.xls"
+            },
+            {
+              "name": "2026年甘肃省省直机关公开遴选公务员进入资格复审人员名单（面向选调生职位）.xls",
+              "url": "http://www.gszg.gov.cn/20260427/6530cc95158943ce87c229e8778e0bb8/202604276530cc95158943ce87c229e8778e0bb8_15398dd1553bbe4e4ebddb3571b9422352.et",
+              "local": "attachments/620100/2026年甘肃省省直机关公开遴选公务员进入资格复审人员名单（面向选调生职位）.xls"
+            },
+            {
+              "name": "2026年甘肃省省直机关公开选调公务员进入资格复审人员名单.xls",
+              "url": "http://www.gszg.gov.cn/20260427/6530cc95158943ce87c229e8778e0bb8/202604276530cc95158943ce87c229e8778e0bb8_15114d3b4d32eb41af98e287ce34ef0066.et",
+              "local": "attachments/620100/2026年甘肃省省直机关公开选调公务员进入资格复审人员名单.xls"
+            },
+            {
+              "name": "2026年放弃资格复审声明.docx",
+              "url": "http://www.gszg.gov.cn/20260427/6530cc95158943ce87c229e8778e0bb8/202604276530cc95158943ce87c229e8778e0bb8_15bdc8a193b95f465a9eb4e75c7d14536e.docx",
+              "local": "attachments/620100/2026年放弃资格复审声明.docx"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "关于公布甘肃省2026年度考试录用公务员省直考区体能测评人员名单及相关事宜的公告",
+          "date": "2026-04-15",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20260415/f48cf7286c94499695a29f66fd988ab6/c.html",
+          "attachments": [
+            {
+              "name": "2026年甘肃省考试录用公务员省直考区体能测评人员名单.xlsx",
+              "url": "http://www.gszg.gov.cn/20260415/f48cf7286c94499695a29f66fd988ab6/20260415f48cf7286c94499695a29f66fd988ab6_06d4e74911d74c448ab5b2db6042318236.xlsx",
+              "local": "attachments/620100/2026年甘肃省考试录用公务员省直考区体能测评人员名单.xlsx"
+            },
+            {
+              "name": "2026年公安机关录用人民警察体能测评项目、标准和实施规则.docx",
+              "url": "http://www.gszg.gov.cn/20260415/f48cf7286c94499695a29f66fd988ab6/20260415f48cf7286c94499695a29f66fd988ab6_06294ab2331be14025bbe303023e6b2eef.docx",
+              "local": "attachments/620100/2026年公安机关录用人民警察体能测评项目、标准和实施规则.docx"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "关于公布甘肃省2026年度考试录用公务员笔试成绩的公告",
+          "date": "2026-04-08",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20260408/f0e84c56764b4eb19bdaba864fc6f2f3/c.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "关于公布甘肃省2026年度考试录用公务员省直考区进入资格复审人员名单及相关事宜的公告",
+          "date": "2026-04-08",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20260408/8bbd2277f4f145c69b236b9d0d1f014d/c.html",
+          "attachments": [
+            {
+              "name": "2026年甘肃省考试录用公务员省直考区进入资格复审人员名单.xls",
+              "url": "http://www.gszg.gov.cn/20260408/8bbd2277f4f145c69b236b9d0d1f014d/202604088bbd2277f4f145c69b236b9d0d1f014d_225aafcc7a344e46b89289d7009e4c67f5.XLS",
+              "local": "attachments/620100/2026年甘肃省考试录用公务员省直考区进入资格复审人员名单.xls"
+            },
+            {
+              "name": "2024年、2025年高校毕业生未就业承诺书.doc",
+              "url": "http://www.gszg.gov.cn/20260408/8bbd2277f4f145c69b236b9d0d1f014d/202604088bbd2277f4f145c69b236b9d0d1f014d_224a3926f9c0e0448993dc8576affd8c0f.doc",
+              "local": "attachments/620100/2024年、2025年高校毕业生未就业承诺书.doc"
+            },
+            {
+              "name": "2026年放弃资格复审声明_2.doc",
+              "url": "http://www.gszg.gov.cn/20260408/8bbd2277f4f145c69b236b9d0d1f014d/202604088bbd2277f4f145c69b236b9d0d1f014d_22dbd287ab5de7402399f9f75441be4bb9.doc",
+              "local": "attachments/620100/2026年放弃资格复审声明_2.doc"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "甘肃省2026年度省直机关及参照公务员法管理单位公开遴选和公开选调公务员及参照公务员法管理单位工作人员公告",
+          "date": "2026-03-29",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20260329/cdfc254d7fe5488fa30665d168b8c081/c.html",
+          "attachments": [
+            {
+              "name": "2026年甘肃省省直机关及参照公务员法管理单位公开遴选公务员及参照公务员法管理单位工作人员职位表.xlsx",
+              "url": "http://www.gszg.gov.cn/20260329/cdfc254d7fe5488fa30665d168b8c081/20260329cdfc254d7fe5488fa30665d168b8c081_5365222582006549328a96c9b12da71956.xlsx",
+              "local": "attachments/620100/2026年甘肃省省直机关及参照公务员法管理单位公开遴选公务员及参照公务员法管理单位工作人员职位表.xlsx"
+            },
+            {
+              "name": "2026年甘肃省省直机关及参照公务员法管理单位公开选调公务员及参照公务员法管理单位工作人员职位表.xlsx",
+              "url": "http://www.gszg.gov.cn/20260329/cdfc254d7fe5488fa30665d168b8c081/20260329cdfc254d7fe5488fa30665d168b8c081_535c25a6ee0a5a4b9a84490a861f23902d.xlsx",
+              "local": "attachments/620100/2026年甘肃省省直机关及参照公务员法管理单位公开选调公务员及参照公务员法管理单位工作人员职位表.xlsx"
+            },
+            {
+              "name": "2026年甘肃省省直机关及参照公务员法管理单位公开遴选和公开选调公务员及参照公务员法管理单位工作人员报考指南.doc",
+              "url": "http://www.gszg.gov.cn/20260329/cdfc254d7fe5488fa30665d168b8c081/20260329cdfc254d7fe5488fa30665d168b8c081_536bb1fefd17d048c3a0ddf957fae3542e.wps",
+              "local": "attachments/620100/2026年甘肃省省直机关及参照公务员法管理单位公开遴选和公开选调公务员及参照公务员法管理单位工作人员报考指南.doc"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "“陇梧可栖、有凤来仪”甘肃省2026年春季“组团式”引进高层次和急需紧缺人才公告",
+          "date": "2026-03-13",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20260313/5ac0d050c2724cc0ad0bb9d2f2da0935/c.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "中共甘肃省委办公厅所属事业单位2026年上半年公开招聘工作人员公告",
+          "date": "2026-02-13",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20260213/50cc8816d6504c41958def3b8dcab470/c.html",
+          "attachments": [
+            {
+              "name": "2026年中共甘肃省委办公厅公开招聘岗位列表.xlsx",
+              "url": "http://www.gszg.gov.cn/20260213/50cc8816d6504c41958def3b8dcab470/2026021350cc8816d6504c41958def3b8dcab470_37e7d3f0e43c0a4684950f2af949bcc02e.xlsx",
+              "local": "attachments/620100/2026年中共甘肃省委办公厅公开招聘岗位列表.xlsx"
+            },
+            {
+              "name": "2026年报名信息更改申请表.doc",
+              "url": "http://www.gszg.gov.cn/20260213/50cc8816d6504c41958def3b8dcab470/2026021350cc8816d6504c41958def3b8dcab470_373b8c52e618774b5c977226653089fa57.doc",
+              "local": "attachments/620100/2026年报名信息更改申请表.doc"
+            },
+            {
+              "name": "2026年报名系统操作指南.doc",
+              "url": "http://www.gszg.gov.cn/20260213/50cc8816d6504c41958def3b8dcab470/2026021350cc8816d6504c41958def3b8dcab470_37005caf91fdc5449cae3c96d46a69407f.doc",
+              "local": "attachments/620100/2026年报名系统操作指南.doc"
+            },
+            {
+              "name": "2026年《事业单位公开招聘分类考试公共科目笔试考试大纲》（版）.pdf",
+              "url": "http://www.gszg.gov.cn/20260213/50cc8816d6504c41958def3b8dcab470/2026021350cc8816d6504c41958def3b8dcab470_37ae43c2055b6a4efe91e9850baa25880e.pdf",
+              "local": "attachments/620100/2026年《事业单位公开招聘分类考试公共科目笔试考试大纲》（版）.pdf"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "甘肃省2026年拟录用选调生结果查询等有关事项的公告",
+          "date": "2026-01-12",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20260112/c44765e47cc14bceb430e6bcde74d64e/c.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "关于发布甘肃省2026年选调生笔试成绩及面试有关事项的公告",
+          "date": "2025-12-03",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20251203/3fffe690632c42c8a6c10199ff05db2d/c.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "关于中共甘肃省委机要和保密局事业单位2025年下半年公开招聘拟聘用人员公示的公告",
+          "date": "2026-06-05",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20260604/5a6d95df334141acbc34d761d09e29e4/c.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "关于甘肃省2025年度“带编入企”引进高层次人才（第二批）拟引进人员的公示",
+          "date": "2026-03-23",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20260323/f8c94872eebc4ea7a0a8b24aaba179a2/c.html",
+          "attachments": [
+            {
+              "name": "2025年甘肃省“带编入企”引进高层次人才（第二批）拟引进人员名单.docx",
+              "url": "http://www.gszg.gov.cn/20260323/f8c94872eebc4ea7a0a8b24aaba179a2/664c7cd5f9c34e6391f1c3311cbc181c.docx",
+              "local": "attachments/620100/2025年甘肃省“带编入企”引进高层次人才（第二批）拟引进人员名单.docx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "关于中共甘肃省委机要和保密局 事业单位2025年下半年公开招聘拟聘用人员公示的公告",
+          "date": "2026-01-04",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20260104/99bc5f883cbe4063a4893d5e1ff1b3ac/c.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "甘肃省2025年秋季“组团式”引进高层次和急需紧缺人才公告（上海市、陕西省西安市）",
+          "date": "2025-10-11",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20251011/91ecddbcf19349cd9696d9d1328f67c5/c.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "“陇梧可栖、有凤来仪”甘肃省2025年秋季“组团式”引进高层次和急需紧缺人才公告",
+          "date": "2025-09-13",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20250913/e2aa31370b864e98a1fbfec9c33ffdab/c.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "甘肃省2025年度“带编入企”引进高层次人才公告（第二批）",
+          "date": "2025-09-13",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20250913/63af18aebc3746298d4e53bb1e37f5ab/c.html",
+          "attachments": [
+            {
+              "name": "2025年甘肃省“带编入企”引进高层次人才岗位需求表（第二批）.zip",
+              "url": "http://www.gszg.gov.cn/20250913/63af18aebc3746298d4e53bb1e37f5ab/2025091363af18aebc3746298d4e53bb1e37f5ab_58a68e9acf464e4d6ea321eb87283cb5cf.xls",
+              "local": "attachments/620100/2025年甘肃省“带编入企”引进高层次人才岗位需求表（第二批）.zip"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "关于中共甘肃省委办公厅所属事业单位2025年上半年公开招聘拟聘用人员公示的公告",
+          "date": "2025-09-08",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20250908/2f69a04dd2de4fb5a66ee87f4c7eecdf/c.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "中共甘肃省委机要和保密局事业单位2025年下半年公开招聘工作人员公告",
+          "date": "2025-08-29",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20250829/5c61f2c2c28a40b1b46cdcf659b9ed44/c.html",
+          "attachments": [
+            {
+              "name": "2025年中共甘肃省委机要和保密局事业单位下半年公开招聘岗位列表.xlsx",
+              "url": "http://www.gszg.gov.cn/20250829/5c61f2c2c28a40b1b46cdcf659b9ed44/bdb6af397b234f8c8a711355be593c1f.XLSX",
+              "local": "attachments/620100/2025年中共甘肃省委机要和保密局事业单位下半年公开招聘岗位列表.xlsx"
+            },
+            {
+              "name": "2025年报名信息更改申请表.doc",
+              "url": "http://www.gszg.gov.cn/20250829/5c61f2c2c28a40b1b46cdcf659b9ed44/202508295c61f2c2c28a40b1b46cdcf659b9ed44_0494ea28e2accd450f959eb245e1a124a6.doc",
+              "local": "attachments/620100/2025年报名信息更改申请表.doc"
+            },
+            {
+              "name": "2025年网上报名报考指南.pdf",
+              "url": "http://www.gszg.gov.cn/20250829/5c61f2c2c28a40b1b46cdcf659b9ed44/202508295c61f2c2c28a40b1b46cdcf659b9ed44_04ca1c358f79ad454dbb707d79d7441ce9.pdf",
+              "local": "attachments/620100/2025年网上报名报考指南.pdf"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "关于甘肃省2025年度“带编入企”引进高层次人才（第一批）拟引进人员的公示",
+          "date": "2025-08-18",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20250818/28b9f11b946b46e7988f7b865f03b517/c.html",
+          "attachments": [
+            {
+              "name": "2025年甘肃省“带编入企”引进高层次人才（第一批）拟引进人员名单.doc",
+              "url": "http://www.gszg.gov.cn/20250818/28b9f11b946b46e7988f7b865f03b517/2025081828b9f11b946b46e7988f7b865f03b517_22e36df4c124e04fe2a18d709b9a0cfce3.wps",
+              "local": "attachments/620100/2025年甘肃省“带编入企”引进高层次人才（第一批）拟引进人员名单.doc"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "关于甘肃省2025年省直单位拟录用选调生公示的公告",
+          "date": "2025-07-13",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20250713/dc8a460798714e7697636faed0f15619/c.html",
+          "attachments": [
+            {
+              "name": "2025年甘肃省省直单位拟录用选调生名单.xls",
+              "url": "http://www.gszg.gov.cn/20250713/dc8a460798714e7697636faed0f15619/20250713dc8a460798714e7697636faed0f15619_5054216698bf734c3c9f6e363788c636fc.XLS",
+              "local": "attachments/620100/2025年甘肃省省直单位拟录用选调生名单.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "关于公布甘肃省2025年度省直机关公开遴选和公开选调公务员进入考察人员名单的公告",
+          "date": "2025-06-24",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20250624/96cadcd53ddf4465939e63680cf62577/c.html",
+          "attachments": [
+            {
+              "name": "2025年甘肃省省直机关公开遴选和公开选调公务员进入考察人员名单.xlsx",
+              "url": "http://www.gszg.gov.cn/20250624/96cadcd53ddf4465939e63680cf62577/2025062496cadcd53ddf4465939e63680cf62577_48e13eca5fc2674cecadfe50616525c76d.xlsx",
+              "local": "attachments/620100/2025年甘肃省省直机关公开遴选和公开选调公务员进入考察人员名单.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "关于公布甘肃省2025年度省直机关公开遴选和公开选调公务员进入面试人员名单的公告",
+          "date": "2025-06-18",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20250618/fd171c0bb48545fc97cef4d8d79f4ca1/c.html",
+          "attachments": [
+            {
+              "name": "2025年甘肃省省直机关公开遴选公务员进入面试人员名单（普通职位）.zip",
+              "url": "http://www.gszg.gov.cn/20250618/fd171c0bb48545fc97cef4d8d79f4ca1/20250618fd171c0bb48545fc97cef4d8d79f4ca1_156464371e0c6f4e1fb689aecdf30e121a.xlsx",
+              "local": "attachments/620100/2025年甘肃省省直机关公开遴选公务员进入面试人员名单（普通职位）.zip"
+            },
+            {
+              "name": "2025年甘肃省省直机关公开遴选公务员进入面试人员名单（面向选调生职位）.xlsx",
+              "url": "http://www.gszg.gov.cn/20250618/fd171c0bb48545fc97cef4d8d79f4ca1/20250618fd171c0bb48545fc97cef4d8d79f4ca1_15b93671968f5a4d4eb3cb7046d57ea37c.xlsx",
+              "local": "attachments/620100/2025年甘肃省省直机关公开遴选公务员进入面试人员名单（面向选调生职位）.xlsx"
+            },
+            {
+              "name": "2025年甘肃省省直机关公开选调公务员进入面试人员名单.xlsx",
+              "url": "http://www.gszg.gov.cn/20250618/fd171c0bb48545fc97cef4d8d79f4ca1/20250618fd171c0bb48545fc97cef4d8d79f4ca1_156df0cceb4dcf4d09a01079bb05575e2a.xlsx",
+              "local": "attachments/620100/2025年甘肃省省直机关公开选调公务员进入面试人员名单.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "关于公布甘肃省2025年度省直机关公开遴选和公开选调公务员进入资格复审人员名单及相关事宜的公告",
+          "date": "2025-06-13",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20250613/1205681517734d10a326f66f72d1c389/c.html",
+          "attachments": [
+            {
+              "name": "2025年甘肃省省直机关公开遴选公务员进入资格复审人员名单（普通职位）.xlsx",
+              "url": "http://www.gszg.gov.cn/20250613/1205681517734d10a326f66f72d1c389/dd6fed19e99047b091707dacaf950933.xlsx",
+              "local": "attachments/620100/2025年甘肃省省直机关公开遴选公务员进入资格复审人员名单（普通职位）.xlsx"
+            },
+            {
+              "name": "2025年甘肃省省直机关公开遴选公务员进入资格复审人员名单（面向选调生职位）.xlsx",
+              "url": "http://www.gszg.gov.cn/20250613/1205681517734d10a326f66f72d1c389/4c7a32b319694f09ac42d0e264bb1384.xlsx",
+              "local": "attachments/620100/2025年甘肃省省直机关公开遴选公务员进入资格复审人员名单（面向选调生职位）.xlsx"
+            },
+            {
+              "name": "2025年甘肃省省直机关公开选调公务员进入资格复审人员名单.xlsx",
+              "url": "http://www.gszg.gov.cn/20250613/1205681517734d10a326f66f72d1c389/202506131205681517734d10a326f66f72d1c389_5743f8f50b6a9340d087b2812f273e0c2e.xlsx",
+              "local": "attachments/620100/2025年甘肃省省直机关公开选调公务员进入资格复审人员名单.xlsx"
+            },
+            {
+              "name": "2025年放弃资格复审声明.docx",
+              "url": "http://www.gszg.gov.cn/20250613/1205681517734d10a326f66f72d1c389/202506131205681517734d10a326f66f72d1c389_57ab2364f3c64b4a0088d0224fb88d9b91.docx",
+              "local": "attachments/620100/2025年放弃资格复审声明.docx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "甘肃省2025年度“带编入企”引进高层次人才公告（第一批）",
+          "date": "2025-05-27",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20250527/4699bd61e7ee47d49eea32bd4f401a83/c.html",
+          "attachments": [
+            {
+              "name": "2025年甘肃省“带编入企”引进高层次人才岗位需求表（第一批）.xlsx",
+              "url": "http://www.gszg.gov.cn/20250527/4699bd61e7ee47d49eea32bd4f401a83/202505274699bd61e7ee47d49eea32bd4f401a83_3003740702f2bc4d7fa0623653eefb0744.xlsx",
+              "local": "attachments/620100/2025年甘肃省“带编入企”引进高层次人才岗位需求表（第一批）.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "关于公布省委组织部管理事业单位公开选聘工作人员进入面试人员名单的通知",
+          "date": "2025-05-22",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20250522/7496f7860245493eb531d85fa1be717c/c.html",
+          "attachments": [
+            {
+              "name": "2025年省委组织部管理事业单位公开选聘工作人员进入面试人员名单.doc",
+              "url": "http://www.gszg.gov.cn/20250522/7496f7860245493eb531d85fa1be717c/202505227496f7860245493eb531d85fa1be717c_23f7c7243d499343b09ca3a6e7fccedbe6.wps",
+              "local": "attachments/620100/2025年省委组织部管理事业单位公开选聘工作人员进入面试人员名单.doc"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "甘肃省2025年度省直机关及参照公务员法管理单位公开遴选和公开选调公务员及参照公务员法管理单位工作人员部分职位减少或取消计划的公告",
+          "date": "2025-05-21",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20250521/c3671eda391b4d1c97b38da520051e73/c.html",
+          "attachments": [
+            {
+              "name": "2025年1.甘肃省2025年度省直机关公开遴选和公开选调公务员及参照公务员法管理单位工作人员部分职位减少计划表.xls",
+              "url": "http://www.gszg.gov.cn/20250521/c3671eda391b4d1c97b38da520051e73/20250521c3671eda391b4d1c97b38da520051e73_200c17bff1731e448fbf5fddfb8f4b53f6.et",
+              "local": "attachments/620100/2025年1.甘肃省2025年度省直机关公开遴选和公开选调公务员及参照公务员法管理单位工作人员部分职位减少计划表.xls"
+            },
+            {
+              "name": "2025年2.甘肃省2025年度省直机关公开遴选和公开选调公务员及参照公务员法管理单位工作人员部分职位取消计划表.xls",
+              "url": "http://www.gszg.gov.cn/20250521/c3671eda391b4d1c97b38da520051e73/20250521c3671eda391b4d1c97b38da520051e73_209cd1ac53dc924d198097980843c52c86.et",
+              "local": "attachments/620100/2025年2.甘肃省2025年度省直机关公开遴选和公开选调公务员及参照公务员法管理单位工作人员部分职位取消计划表.xls"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "甘肃省2025年拟补录选调生结果查询等有关事项的公告",
+          "date": "2025-05-16",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20250516/c513511087394be68d04e5231b5e32c2/c.html",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "甘肃省2025年度省直机关及参照公务员法管理单位公开遴选和公开选调公务员及参照公务员法管理单位工作人员公告",
+          "date": "2025-05-14",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20250514/4e9a0eced1154f1ab5c1880070c9c9ef/c.html",
+          "attachments": [
+            {
+              "name": "2025年甘肃省省直机关及参照公务员法管理单位公开遴选公务员及参照公务员法管理单位工作人员职位表.xlsx",
+              "url": "http://www.gszg.gov.cn/20250514/4e9a0eced1154f1ab5c1880070c9c9ef/20d86ce80752442bae8950b4d393eba0.xlsx",
+              "local": "attachments/620100/2025年甘肃省省直机关及参照公务员法管理单位公开遴选公务员及参照公务员法管理单位工作人员职位表.xlsx"
+            },
+            {
+              "name": "2025年甘肃省省直机关及参照公务员法管理单位公开选调公务员及参照公务员法管理单位工作人员职位表.xlsx",
+              "url": "http://www.gszg.gov.cn/20250514/4e9a0eced1154f1ab5c1880070c9c9ef/a2675384daf24022a983fa622a9d916b.xlsx",
+              "local": "attachments/620100/2025年甘肃省省直机关及参照公务员法管理单位公开选调公务员及参照公务员法管理单位工作人员职位表.xlsx"
+            },
+            {
+              "name": "2025年度甘肃省省直机关公开遴选和公开选调公务员报考指南.doc",
+              "url": "http://www.gszg.gov.cn/20250514/4e9a0eced1154f1ab5c1880070c9c9ef/4cf9f3bc9cb34765b122e25b75373c06.wps",
+              "local": "attachments/620100/2025年度甘肃省省直机关公开遴选和公开选调公务员报考指南.doc"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "关于公布省委组织部管理事业单位公开选聘通过资格复审人员名单的通知",
+          "date": "2025-05-09",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20250509/c5c69997d00f42a09d7ad0b1016d413c/c.html",
+          "attachments": [
+            {
+              "name": "2025年省委组织部管理事业单位公开选聘通过资格复审人员名单.doc",
+              "url": "http://www.gszg.gov.cn/20250509/c5c69997d00f42a09d7ad0b1016d413c/20250509c5c69997d00f42a09d7ad0b1016d413c_1978f2a5e1a0954d0c862dd32522f88e78.wps",
+              "local": "attachments/620100/2025年省委组织部管理事业单位公开选聘通过资格复审人员名单.doc"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "关于公布省委组织部管理事业单位公开选聘工作人员进入资格复审人员名单的通知",
+          "date": "2025-04-25",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20250425/eb614a03f2754049b259f6e273814562/c.html",
+          "attachments": [
+            {
+              "name": "2025年省委组织部管理事业单位公开选聘工作人员进入资格复审人员名单.doc",
+              "url": "http://www.gszg.gov.cn/20250425/eb614a03f2754049b259f6e273814562/20250425eb614a03f2754049b259f6e273814562_52873d6efeeac24d3fa2c28fc320fcce5e.wps",
+              "local": "attachments/620100/2025年省委组织部管理事业单位公开选聘工作人员进入资格复审人员名单.doc"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "关于公布甘肃省2025年度考试录用公务员省直考区面试人员分组名单及相关事宜的公告",
+          "date": "2025-04-15",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20250415/cf6e1fda36c34eaf9a3b77b37bd1d804/c.html",
+          "attachments": [
+            {
+              "name": "2025年甘肃省考试录用公务员省直考区4月19日参加面试人员分组名单.zip",
+              "url": "http://www.gszg.gov.cn/20250415/cf6e1fda36c34eaf9a3b77b37bd1d804/20250415cf6e1fda36c34eaf9a3b77b37bd1d804_558c6600df74d8464fadead6503db7524e.xlsx",
+              "local": "attachments/620100/2025年甘肃省考试录用公务员省直考区4月19日参加面试人员分组名单.zip"
+            },
+            {
+              "name": "2025年甘肃省考试录用公务员省直考区4月20日参加面试人员分组名单.xlsx",
+              "url": "http://www.gszg.gov.cn/20250415/cf6e1fda36c34eaf9a3b77b37bd1d804/20250415cf6e1fda36c34eaf9a3b77b37bd1d804_55aa2f246562764a3f9b81959213342726.xlsx",
+              "local": "attachments/620100/2025年甘肃省考试录用公务员省直考区4月20日参加面试人员分组名单.xlsx"
+            },
+            {
+              "name": "2025年甘肃省考试录用公务员省直考区降低面试比例职位表.xlsx",
+              "url": "http://www.gszg.gov.cn/20250415/cf6e1fda36c34eaf9a3b77b37bd1d804/20250415cf6e1fda36c34eaf9a3b77b37bd1d804_5519102fc7e1da458aa1192520b648935a.xlsx",
+              "local": "attachments/620100/2025年甘肃省考试录用公务员省直考区降低面试比例职位表.xlsx"
+            },
+            {
+              "name": "2025年面试人员须知.doc",
+              "url": "http://www.gszg.gov.cn/20250415/cf6e1fda36c34eaf9a3b77b37bd1d804/20250415cf6e1fda36c34eaf9a3b77b37bd1d804_55b1e9b58afeac466aabad3c7f0f0094c7.doc",
+              "local": "attachments/620100/2025年面试人员须知.doc"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "关于公布甘肃省2025年度考试录用公务员省直考区体能测评人员名单及相关事宜的公告",
+          "date": "2025-04-11",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20250411/d9200b247e5e4a88a7c800b8cfe84869/c.html",
+          "attachments": [
+            {
+              "name": "2025年甘肃省考试录用公务员省直考区体能测评人员名单.xlsx",
+              "url": "http://www.gszg.gov.cn/20250411/d9200b247e5e4a88a7c800b8cfe84869/20250411d9200b247e5e4a88a7c800b8cfe84869_5800cad1ba384143f294d1528168bbbaa2.xlsx",
+              "local": "attachments/620100/2025年甘肃省考试录用公务员省直考区体能测评人员名单.xlsx"
+            },
+            {
+              "name": "2025年公安机关录用人民警察体能测评项目、标准和实施规则.docx",
+              "url": "http://www.gszg.gov.cn/20250411/d9200b247e5e4a88a7c800b8cfe84869/20250411d9200b247e5e4a88a7c800b8cfe84869_5822606d72930d4985bf1d1fbc77cf67f7.docx",
+              "local": "attachments/620100/2025年公安机关录用人民警察体能测评项目、标准和实施规则.docx"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "关于公布甘肃省2025年度考试录用公务员省直考区进入资格复审人员名单及相关事宜的公告",
+          "date": "2025-04-07",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20250407/d8dd873e7bc844179ee95f0b606b75d0/c.html",
+          "attachments": [
+            {
+              "name": "2025年甘肃省考试录用公务员省直考区进入资格复审人员名单.xls",
+              "url": "http://www.gszg.gov.cn/20250407/d8dd873e7bc844179ee95f0b606b75d0/20250407d8dd873e7bc844179ee95f0b606b75d0_29714ae17eddcc433ba562a231e971f23b.XLS",
+              "local": "attachments/620100/2025年甘肃省考试录用公务员省直考区进入资格复审人员名单.xls"
+            },
+            {
+              "name": "2023年、2024年高校毕业生未就业承诺书.doc",
+              "url": "http://www.gszg.gov.cn/20250407/d8dd873e7bc844179ee95f0b606b75d0/20250407d8dd873e7bc844179ee95f0b606b75d0_29643d64b497af43cd980e245a4e8db9e9.doc",
+              "local": "attachments/620100/2023年、2024年高校毕业生未就业承诺书.doc"
+            },
+            {
+              "name": "2025年放弃资格复审声明_2.doc",
+              "url": "http://www.gszg.gov.cn/20250407/d8dd873e7bc844179ee95f0b606b75d0/20250407d8dd873e7bc844179ee95f0b606b75d0_29224defcbbe924780b2c4a1789981e852.doc",
+              "local": "attachments/620100/2025年放弃资格复审声明_2.doc"
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "中共甘肃省委办公厅所属事业单位2025年上半年公开招聘工作人员公告",
+          "date": "2025-02-27",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/20250227/0d924f0d61a946689b249467f674952c/c.html",
+          "attachments": [
+            {
+              "name": "2025年甘肃省委办公厅所属事业单位公开招聘岗位列表.xlsx",
+              "url": "http://www.gszg.gov.cn/20250227/0d924f0d61a946689b249467f674952c/202502270d924f0d61a946689b249467f674952c_28b71b45e2ccf14ec195522d45609ec370.XLS",
+              "local": "attachments/620100/2025年甘肃省委办公厅所属事业单位公开招聘岗位列表.xlsx"
+            },
+            {
+              "name": "2025年报名信息更改申请表_2.doc",
+              "url": "http://www.gszg.gov.cn/20250227/0d924f0d61a946689b249467f674952c/202502270d924f0d61a946689b249467f674952c_28819d68245e034e88888efe40fbacbf94.DOC",
+              "local": "attachments/620100/2025年报名信息更改申请表_2.doc"
+            },
+            {
+              "name": "2025年报名系统操作指南.pdf",
+              "url": "http://www.gszg.gov.cn/20250227/0d924f0d61a946689b249467f674952c/202502270d924f0d61a946689b249467f674952c_29b8ec37972c274c33afaba596c063e8ef.PDF",
+              "local": "attachments/620100/2025年报名系统操作指南.pdf"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "中共甘肃省委机要和保密局事业单位2024年下半年公开招聘工作人员公告",
+          "date": "2024-09-02",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/2024-09/02/c_1130198039.htm",
+          "attachments": [
+            {
+              "name": "2024年中共甘肃省委机要和保密局事业单位下半年公开招聘岗位列表.xlsx",
+              "url": "http://www.gszg.gov.cn/1130198039_17252670391791n.XLSX",
+              "local": "attachments/620100/2024年中共甘肃省委机要和保密局事业单位下半年公开招聘岗位列表.xlsx"
+            },
+            {
+              "name": "2024年报名信息更改申请表.doc",
+              "url": "http://www.gszg.gov.cn/1130198039_17252670581961n.doc",
+              "local": "attachments/620100/2024年报名信息更改申请表.doc"
+            },
+            {
+              "name": "2024年网上报名报考指南.pdf",
+              "url": "http://www.gszg.gov.cn/1130198039_17252670690751n.pdf",
+              "local": "attachments/620100/2024年网上报名报考指南.pdf"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "中共甘肃省委办公厅所属事业单位2022年公开招聘工作人员公告",
+          "date": "2022-08-11",
+          "headcount": null,
+          "positions": null,
+          "source": "甘肃组工网（中共甘肃省委组织部）",
+          "url": "http://www.gszg.gov.cn/2022-08/09/c_1128900784.htm",
+          "attachments": [
+            {
+              "name": "2022年中共甘肃省委办公厅所属事业单位公开招聘工作人员岗位列表.zip",
+              "url": "http://www.gszg.gov.cn/1128900784_16600118354061n.xlsx",
+              "local": "attachments/620100/2022年中共甘肃省委办公厅所属事业单位公开招聘工作人员岗位列表.zip"
+            },
+            {
+              "name": "2022年考生报考信息更改申请表.doc",
+              "url": "http://www.gszg.gov.cn/1128900784_16600118480481n.doc",
+              "local": "attachments/620100/2022年考生报考信息更改申请表.doc"
+            }
+          ]
+        }
+      ]
     },
     {
       "adcode": 620200,

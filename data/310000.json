@@ -1,7 +1,7 @@
 {
   "adcode": 310000,
   "name": "上海市",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-02",
   "provincePortals": [
     {
       "category": "公务员",
@@ -161,7 +161,23 @@
           "positions": null,
           "source": "中共上海市委组织部、上海市人力资源和社会保障局",
           "url": "https://rsj.sh.gov.cn/tgsgg_17341/20240126/t0035_1420926.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2024年上海市事业单位公开招聘简章.xls",
+              "url": "https://rsj.sh.gov.cn/cmsres/e5/e539d3c3d87347f0b19d13cba17d1ead/ba583ee5e7ca1e5d55b774235623a0d4.xls",
+              "local": "attachments/310000/2024年上海市事业单位公开招聘简章.xls"
+            },
+            {
+              "name": "2024年上海市事业单位公开招聘政策咨询电话、监督电话一览表.xlsx",
+              "url": "https://rsj.sh.gov.cn/cmsres/ab/ab32375f5c4f4442ae597aa5bc8098d8/cedb0faa5dfea7994ce24aedd4fa2081.xlsx",
+              "local": "attachments/310000/2024年上海市事业单位公开招聘政策咨询电话、监督电话一览表.xlsx"
+            },
+            {
+              "name": "2024年上海事业单位公开招聘分类考试公共科目笔试考试大纲（2022年版）.pdf",
+              "url": "https://rsj.sh.gov.cn/cmsres/91/91d54edc61aa45fa9180d90dc2110e54/1583df1a4faf949fb46fcb810b5e6d26.pdf",
+              "local": "attachments/310000/2024年上海事业单位公开招聘分类考试公共科目笔试考试大纲（2022年版）.pdf"
+            }
+          ]
         },
         {
           "year": 2024,
@@ -172,7 +188,13 @@
           "positions": null,
           "source": "上海市人力资源和社会保障局",
           "url": "https://rsj.sh.gov.cn/tgsgg_17341/20240725/t0035_1426678.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2024年上海市事业单位公开招聘高层次急需紧缺专业技术人才简章.xls",
+              "url": "https://rsj.sh.gov.cn/cmsres/9c/9c410f9fc84a42559dd1b2e651de6585/57682df51e8222b89880a919538f97f5.xls",
+              "local": "attachments/310000/2024年上海市事业单位公开招聘高层次急需紧缺专业技术人才简章.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -193,6 +215,16 @@
               "name": "2025年上海市事业单位公开招聘政策咨询电话监督电话一览表.xlsx",
               "url": "https://rsj.sh.gov.cn/cmsres/2b/2b5091fdb6234de796be55c1cd8a900c/2f87e6eebbdbf06aa51089cf88266ae8.xlsx",
               "local": "attachments/310000/2025年上海市事业单位公开招聘政策咨询电话监督电话一览表.xlsx"
+            },
+            {
+              "name": "2025年上海事业单位公开招聘分类考试公共科目笔试考试大纲.pdf",
+              "url": "https://rsj.sh.gov.cn/cmsres/46/46c87d80a05f418082ed6d1a48f26f1c/64352321f9fb2f091bc6a76f440cd66d.pdf",
+              "local": "attachments/310000/2025年上海事业单位公开招聘分类考试公共科目笔试考试大纲.pdf"
+            },
+            {
+              "name": "2025年上海事业单位集中公开招聘操作手册（演示稿）.pdf",
+              "url": "https://rsj.sh.gov.cn/cmsres/1b/1b2183aef8434ad9811ff8da867788aa/2b939cd57d84296e3f4948f8778fff3c.pdf",
+              "local": "attachments/310000/2025年上海事业单位集中公开招聘操作手册（演示稿）.pdf"
             }
           ]
         },
@@ -210,6 +242,11 @@
               "name": "2025年上海市部分事业单位公开招聘简章（第二批）.xlsx",
               "url": "https://rsj.sh.gov.cn/cmsres/1e/1e244646c3454a179c73cde74bde696a/8799d2a960afa9e1809191e52974c280.xlsx",
               "local": "attachments/310000/2025年上海市部分事业单位公开招聘简章（第二批）.xlsx"
+            },
+            {
+              "name": "2025年上海市部分事业单位公开招聘（第二批）政策咨询电话、监督电话一览表.xlsx",
+              "url": "https://rsj.sh.gov.cn/cmsres/5f/5f3ecaa86bb94650ac0f6460a65cb87f/32dd64e11c72d5ca68ace7f406b5ad8f.xlsx",
+              "local": "attachments/310000/2025年上海市部分事业单位公开招聘（第二批）政策咨询电话、监督电话一览表.xlsx"
             }
           ]
         },
@@ -244,6 +281,26 @@
               "name": "2026年上海市事业单位公开招聘简章.xlsx",
               "url": "https://rsj.sh.gov.cn/cmsres/dc/dc7be59af9c54cbbb30643a8788bde6a/5c318df0949a93dd14aef1da75dd4778.xlsx",
               "local": "attachments/310000/2026年上海市事业单位公开招聘简章.xlsx"
+            },
+            {
+              "name": "2026年上海市事业单位公开招聘政策咨询电话、监督电话一览表.xlsx",
+              "url": "https://rsj.sh.gov.cn/cmsres/7d/7dfb48108d7a464bae38f695a02c3ac2/4ab4a499205b29a854323909145a94cd.xlsx",
+              "local": "attachments/310000/2026年上海市事业单位公开招聘政策咨询电话、监督电话一览表.xlsx"
+            },
+            {
+              "name": "2026年上海事业单位公开招聘分类考试公共科目笔试考试大纲（版）.pdf",
+              "url": "https://rsj.sh.gov.cn/cmsres/e7/e78160cd5d264e28af7efdf5bc0ea182/3e23d33897821a3ebeefe751dc01a70f.pdf",
+              "local": "attachments/310000/2026年上海事业单位公开招聘分类考试公共科目笔试考试大纲（版）.pdf"
+            },
+            {
+              "name": "2026年上海市事业单位公开招聘考试问答.docx",
+              "url": "https://rsj.sh.gov.cn/cmsres/e4/e4e50f4fb7dd4aec8ed1e7cf47b2f151/9b3506a2be6ea7706fa5b884f91666c5.docx",
+              "local": "attachments/310000/2026年上海市事业单位公开招聘考试问答.docx"
+            },
+            {
+              "name": "2026年上海市事业单位集中公开招聘报名系统操作手册.pdf",
+              "url": "https://rsj.sh.gov.cn/cmsres/e2/e2460cc70fc0416da6089566e53bc047/44e6685eb279e3ffb1a633f1dbf5fbfe.pdf",
+              "local": "attachments/310000/2026年上海市事业单位集中公开招聘报名系统操作手册.pdf"
             }
           ]
         },
@@ -261,6 +318,21 @@
               "name": "2026年上海市奉贤区卫生健康系统第一轮部分事业单位公开招聘事业单位医技人员职位简章.xls",
               "url": "https://www.fengxian.gov.cn/rsj/tzgg/20251127/99226/5fe0696988664a59b88597b78ac3bf5d.xls",
               "local": "attachments/310000/2026年上海市奉贤区卫生健康系统第一轮部分事业单位公开招聘事业单位医技人员职位简章.xls"
+            },
+            {
+              "name": "2026年上海市奉贤区卫生健康系统第一轮部分事业单位公开招聘联系方式.xls",
+              "url": "https://www.fengxian.gov.cn/rsj/tzgg/20251127/99226/f4acc6ad2ccc4839b30180c902d00bcf.xls",
+              "local": "attachments/310000/2026年上海市奉贤区卫生健康系统第一轮部分事业单位公开招聘联系方式.xls"
+            },
+            {
+              "name": "2026年上海市奉贤区卫生健康系统公开招聘事业单位医技人员报名登记表.doc",
+              "url": "https://www.fengxian.gov.cn/rsj/tzgg/20251127/99226/2fd7cc8e40934eed85beab8a07b35598.doc",
+              "local": "attachments/310000/2026年上海市奉贤区卫生健康系统公开招聘事业单位医技人员报名登记表.doc"
+            },
+            {
+              "name": "2026年上海市奉贤区卫生健康系统公开招聘事业单位人员报考诚信承诺书.doc",
+              "url": "https://www.fengxian.gov.cn/rsj/tzgg/20251127/99226/a9992e1b62c449e694a676aabd36d99f.doc",
+              "local": "attachments/310000/2026年上海市奉贤区卫生健康系统公开招聘事业单位人员报考诚信承诺书.doc"
             }
           ]
         },
@@ -284,7 +356,13 @@
           "positions": null,
           "source": "上海市公务员局",
           "url": "https://xds.ecnu.edu.cn/5c/2b/c35876a678955/page.htm",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年上海华东师范大学公示名单.xlsx",
+              "url": "https://xds.ecnu.edu.cn/_upload/article/files/64/34/24f236a746edaa7866a6b9809310/303f0868-dfba-4dde-8034-51d64a64388b.xlsx",
+              "local": "attachments/310000/2025年上海华东师范大学公示名单.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,

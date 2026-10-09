@@ -1,7 +1,7 @@
 {
   "adcode": 450000,
   "name": "广西壮族自治区",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-03",
   "provincePortals": [
     {
       "category": "公务员",
@@ -102,7 +102,23 @@
           "positions": null,
           "source": "广西人事考试网",
           "url": "https://www.gxpta.com.cn/sy/kstz/t2315.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广西从应届优秀大学毕业生中招录选调生职位表.xls",
+              "url": "https://www.gxpta.com.cn/sy/kstz/P020250208446150971901.xls",
+              "local": "attachments/450100/2025年广西从应届优秀大学毕业生中招录选调生职位表.xls"
+            },
+            {
+              "name": "2025年广西南宁各设区市资格审查咨询电话、电子邮箱及发布相关公告网站地址.doc",
+              "url": "https://www.gxpta.com.cn/sy/kstz/P020250208446150979955.doc",
+              "local": "attachments/450100/2025年广西南宁各设区市资格审查咨询电话、电子邮箱及发布相关公告网站地址.doc"
+            },
+            {
+              "name": "2025年广西从应届优秀大学毕业生中招录选调生报名表.doc",
+              "url": "https://www.gxpta.com.cn/sy/kstz/P020250208446150972899.doc",
+              "local": "attachments/450100/2025年广西从应届优秀大学毕业生中招录选调生报名表.doc"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -114,7 +130,23 @@
           "positions": null,
           "source": "广西人事考试网",
           "url": "https://www.gxpta.com.cn/ksxm/gwyzlks/gx2026ndkslygwyxdszt/2026nxdsgg/t13231.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年广西从应届优秀大学毕业生中招录选调生职位表.xlsx",
+              "url": "https://www.gxpta.com.cn/ksxm/gwyzlks/gx2026ndkslygwyxdszt/2026nxdsgg/P020260118403669695998.xlsx",
+              "local": "attachments/450100/2026年广西从应届优秀大学毕业生中招录选调生职位表.xlsx"
+            },
+            {
+              "name": "2026年广西南宁各市资格审查咨询电话、电子邮箱及发布相关公告网站地址.doc",
+              "url": "https://www.gxpta.com.cn/ksxm/gwyzlks/gx2026ndkslygwyxdszt/2026nxdsgg/P020260118403669693099.doc",
+              "local": "attachments/450100/2026年广西南宁各市资格审查咨询电话、电子邮箱及发布相关公告网站地址.doc"
+            },
+            {
+              "name": "2026年广西从应届优秀大学毕业生中招录选调生报名表.doc",
+              "url": "https://www.gxpta.com.cn/ksxm/gwyzlks/gx2026ndkslygwyxdszt/2026nxdsgg/P020260118403669702438.doc",
+              "local": "attachments/450100/2026年广西从应届优秀大学毕业生中招录选调生报名表.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -136,7 +168,13 @@
           "positions": null,
           "source": "南宁市人民政府门户网站",
           "url": "https://www.nanning.gov.cn/zwgk/fdzdgknr/rsxx/klzp/t6498214.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年南宁市政务服务局下半年公开考试招聘事业单位工作人员考察人选名单.xlsx",
+              "url": "https://www.nanning.gov.cn/zwgk/fdzdgknr/rsxx/klzp/W020251216383567775221.xlsx",
+              "local": "attachments/450100/2025年南宁市政务服务局下半年公开考试招聘事业单位工作人员考察人选名单.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -147,7 +185,23 @@
           "positions": null,
           "source": "南宁市人力资源和社会保障局",
           "url": "https://rsj.nanning.gov.cn/tzgg/t6337378.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "公告.2024—2025年度南宁市事业单位急需紧缺专业人才目录（卫生类）及考试方式.xlsx",
+              "url": "https://rsj.nanning.gov.cn/tzgg/P020250513601885632051.xlsx",
+              "local": "attachments/450100/公告.2024—2025年度南宁市事业单位急需紧缺专业人才目录（卫生类）及考试方式.xlsx"
+            },
+            {
+              "name": "2025年公告.南宁市卫生健康委员会所属事业单位公开招聘医药卫生类急需紧缺人才招聘单位联系方式及报名地址.xlsx",
+              "url": "https://rsj.nanning.gov.cn/tzgg/P020250513652093314642.xlsx",
+              "local": "attachments/450100/2025年公告.南宁市卫生健康委员会所属事业单位公开招聘医药卫生类急需紧缺人才招聘单位联系方式及报名地址.xlsx"
+            },
+            {
+              "name": "2025年公告.南宁市卫生健康委员会所属事业单位公开招聘医药卫生类急需紧缺人才报名表.doc",
+              "url": "https://rsj.nanning.gov.cn/tzgg/P020250513601886111990.doc",
+              "local": "attachments/450100/2025年公告.南宁市卫生健康委员会所属事业单位公开招聘医药卫生类急需紧缺人才报名表.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -158,7 +212,18 @@
           "positions": null,
           "source": "南宁市人力资源和社会保障局",
           "url": "http://rsj.nanning.gov.cn/tzgg/t6357527.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2024-2025年度南宁市事业单位急需紧缺专业人才目录及考试方式.xls",
+              "url": "http://rsj.nanning.gov.cn/tzgg/P020250616357674783648.xls",
+              "local": "attachments/450100/2024-2025年度南宁市事业单位急需紧缺专业人才目录及考试方式.xls"
+            },
+            {
+              "name": "2025年南宁职业技术大学急需紧缺专业人才报名登记表.docx",
+              "url": "http://rsj.nanning.gov.cn/tzgg/P020250616357675246223.docx",
+              "local": "attachments/450100/2025年南宁职业技术大学急需紧缺专业人才报名登记表.docx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -169,7 +234,18 @@
           "positions": null,
           "source": "南宁市人民政府门户网站",
           "url": "https://www.nanning.gov.cn/zwgk/fdzdgknr/rsxx/gwyzk/t6369666.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年1.南宁市审计局考试录用公务员拟录用人员名单（一）.doc",
+              "url": "https://www.nanning.gov.cn/zwgk/fdzdgknr/rsxx/gwyzk/P020250703579623638992.doc",
+              "local": "attachments/450100/2025年1.南宁市审计局考试录用公务员拟录用人员名单（一）.doc"
+            },
+            {
+              "name": "2025年2.南宁市审计局考试录用公务员暂缓公示职位表.doc",
+              "url": "https://www.nanning.gov.cn/zwgk/fdzdgknr/rsxx/gwyzk/P020250703579623780960.doc",
+              "local": "attachments/450100/2025年2.南宁市审计局考试录用公务员暂缓公示职位表.doc"
+            }
+          ]
         }
       ]
     },
@@ -261,6 +337,26 @@
               "name": "2025年柳州市下半年事业单位公开考试招聘工作人员岗位表.xls",
               "url": "http://rsj.liuzhou.gov.cn/ztzl/ywzt/lzsrcfwhrspxkszx/sydwzp/zpjz/202508/P020250901607132718076.xls",
               "local": "attachments/450200/2025年柳州市下半年事业单位公开考试招聘工作人员岗位表.xls"
+            },
+            {
+              "name": "2025年柳州市事业单位公开考试招聘报考指南.docx",
+              "url": "http://rsj.liuzhou.gov.cn/ztzl/ywzt/lzsrcfwhrspxkszx/sydwzp/zpjz/202508/P020250829577723542104.docx",
+              "local": "attachments/450200/2025年柳州市事业单位公开考试招聘报考指南.docx"
+            },
+            {
+              "name": "2025年事业单位公开招聘分类考试公共科目笔试考试大纲（版）.pdf",
+              "url": "http://rsj.liuzhou.gov.cn/ztzl/ywzt/lzsrcfwhrspxkszx/sydwzp/zpjz/202508/P020250829577723586655.pdf",
+              "local": "attachments/450200/2025年事业单位公开招聘分类考试公共科目笔试考试大纲（版）.pdf"
+            },
+            {
+              "name": "2025年专业分类指导目录参考.xlsx",
+              "url": "http://rsj.liuzhou.gov.cn/ztzl/ywzt/lzsrcfwhrspxkszx/sydwzp/zpjz/202508/P020250829577723607529.xlsx",
+              "local": "attachments/450200/2025年专业分类指导目录参考.xlsx"
+            },
+            {
+              "name": "2025年网上报名系统考生使用操作手册.doc",
+              "url": "http://rsj.liuzhou.gov.cn/ztzl/ywzt/lzsrcfwhrspxkszx/sydwzp/zpjz/202508/P020250829577723603093.doc",
+              "local": "attachments/450200/2025年网上报名系统考生使用操作手册.doc"
             }
           ]
         },
@@ -507,7 +603,13 @@
           "positions": null,
           "source": "梧州市人力资源和社会保障局",
           "url": "http://rsj.wuzhou.gov.cn/sydwzp/t23361005.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年公示拟聘人员名单（二）.xlsx",
+              "url": "http://rsj.wuzhou.gov.cn/sydwzp/P020250730306612271272.xlsx",
+              "local": "attachments/450400/2025年公示拟聘人员名单（二）.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -518,7 +620,53 @@
           "positions": null,
           "source": "梧州市人力资源和社会保障局",
           "url": "http://rsj.wuzhou.gov.cn/sydwzp/t21183554.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年1.梧州市面向社会公开考试招聘事业单位（非中小学教师岗位）面试人员名单（市直）.xls",
+              "url": "http://rsj.wuzhou.gov.cn/sydwzp/W020250609592577824944.xls",
+              "local": "attachments/450400/2025年1.梧州市面向社会公开考试招聘事业单位（非中小学教师岗位）面试人员名单（市直）.xls"
+            },
+            {
+              "name": "2025年2.梧州市面向社会公开考试招聘事业单位（非中小学教师岗位）面试人员名单（万秀区）.xls",
+              "url": "http://rsj.wuzhou.gov.cn/sydwzp/W020250609592578191589.xls",
+              "local": "attachments/450400/2025年2.梧州市面向社会公开考试招聘事业单位（非中小学教师岗位）面试人员名单（万秀区）.xls"
+            },
+            {
+              "name": "2025年3.梧州市面向社会公开考试招聘事业单位（非中小学教师岗位）面试人员名单（长洲区）.xlsx",
+              "url": "http://rsj.wuzhou.gov.cn/sydwzp/W020250609592578368608.xlsx",
+              "local": "attachments/450400/2025年3.梧州市面向社会公开考试招聘事业单位（非中小学教师岗位）面试人员名单（长洲区）.xlsx"
+            },
+            {
+              "name": "2025年4.梧州市面向社会公开考试招聘事业单位（非中小学教师岗位）面试人员名单（龙圩区）.xlsx",
+              "url": "http://rsj.wuzhou.gov.cn/sydwzp/W020250609592578515622.xlsx",
+              "local": "attachments/450400/2025年4.梧州市面向社会公开考试招聘事业单位（非中小学教师岗位）面试人员名单（龙圩区）.xlsx"
+            },
+            {
+              "name": "2025年5.梧州市面向社会公开考试招聘事业单位（非中小学教师岗位）面试人员名单（苍梧县）.xlsx",
+              "url": "http://rsj.wuzhou.gov.cn/sydwzp/W020250609592578689877.xlsx",
+              "local": "attachments/450400/2025年5.梧州市面向社会公开考试招聘事业单位（非中小学教师岗位）面试人员名单（苍梧县）.xlsx"
+            },
+            {
+              "name": "2025年6.梧州市面向社会公开考试招聘事业单位（非中小学教师岗位）面试人员名单（岑溪市）.xls",
+              "url": "http://rsj.wuzhou.gov.cn/sydwzp/W020250609592578883470.xls",
+              "local": "attachments/450400/2025年6.梧州市面向社会公开考试招聘事业单位（非中小学教师岗位）面试人员名单（岑溪市）.xls"
+            },
+            {
+              "name": "2025年7.梧州市面向社会公开考试招聘事业单位（非中小学教师岗位）面试人员名单（藤县）.xlsx",
+              "url": "http://rsj.wuzhou.gov.cn/sydwzp/W020250609592579035075.xlsx",
+              "local": "attachments/450400/2025年7.梧州市面向社会公开考试招聘事业单位（非中小学教师岗位）面试人员名单（藤县）.xlsx"
+            },
+            {
+              "name": "2025年8.梧州市面向社会公开考试招聘事业单位（非中小学教师岗位）面试人员名单（蒙山县）.xls",
+              "url": "http://rsj.wuzhou.gov.cn/sydwzp/W020250609592579225247.xls",
+              "local": "attachments/450400/2025年8.梧州市面向社会公开考试招聘事业单位（非中小学教师岗位）面试人员名单（蒙山县）.xls"
+            },
+            {
+              "name": "2025年9.考生面试须知.docx",
+              "url": "http://rsj.wuzhou.gov.cn/sydwzp/W020250609592579426032.docx",
+              "local": "attachments/450400/2025年9.考生面试须知.docx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -529,7 +677,13 @@
           "positions": null,
           "source": "梧州市人民政府门户网站",
           "url": "http://www.wuzhou.gov.cn/zfxxgk_2/fdzdgknr/ldjy/gwyzk/t25999744.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年梧州市苍梧县考试录用公务员（参照公务员法管理单位工作人员）拟录用人员名单（四）.xls",
+              "url": "http://www.wuzhou.gov.cn/zfxxgk_2/fdzdgknr/ldjy/gwyzk/W020250925316370062443.xls",
+              "local": "attachments/450400/2025年梧州市苍梧县考试录用公务员（参照公务员法管理单位工作人员）拟录用人员名单（四）.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -724,7 +878,23 @@
           "positions": null,
           "source": "防城港市人力资源和社会保障局",
           "url": "http://rsj.fcgs.gov.cn/zpxx/t19571682.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年防城港市公开招聘事业单位工作人员岗位表.xls",
+              "url": "http://rsj.fcgs.gov.cn/zpxx/P020250208566187030509.xls",
+              "local": "attachments/450600/2025年防城港市公开招聘事业单位工作人员岗位表.xls"
+            },
+            {
+              "name": "2025年事业单位公开招聘分类考试公共科目笔试考试大纲（版）.pdf",
+              "url": "http://rsj.fcgs.gov.cn/zpxx/P020250208566187175497.pdf",
+              "local": "attachments/450600/2025年事业单位公开招聘分类考试公共科目笔试考试大纲（版）.pdf"
+            },
+            {
+              "name": "2024年广西壮族自治区考试录用公务员专业分类指导目录（版）.xlsx",
+              "url": "http://rsj.fcgs.gov.cn/zpxx/P020250208566187384522.xlsx",
+              "local": "attachments/450600/2024年广西壮族自治区考试录用公务员专业分类指导目录（版）.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -735,7 +905,13 @@
           "positions": null,
           "source": "防城港市人民政府门户网站",
           "url": "https://www.fcgs.gov.cn/jtj/tzgg/t23350635.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年附件.防城港市交通运输局防城港市公开招聘事业单位工作人员考试拟聘用人员名单.docx",
+              "url": "https://www.fcgs.gov.cn/jtj/tzgg/P020250724619514440945.docx",
+              "local": "attachments/450600/2025年附件.防城港市交通运输局防城港市公开招聘事业单位工作人员考试拟聘用人员名单.docx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -838,7 +1014,13 @@
           "positions": null,
           "source": "钦州市人力资源和社会保障局",
           "url": "http://www.qinzhou.gov.cn/zfxxgk/qzszfxxgkpt/qzsrlzyhshbzj/fdzdgknr_16/klzp_2/t26166383.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年钦州市市直事业单位公开招聘拟聘用人员公示名单（第一批）.xlsx",
+              "url": "http://www.qinzhou.gov.cn/zfxxgk/qzszfxxgkpt/qzsrlzyhshbzj/fdzdgknr_16/klzp_2/P020251114312766683109.xlsx",
+              "local": "attachments/450700/2025年钦州市市直事业单位公开招聘拟聘用人员公示名单（第一批）.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -849,7 +1031,13 @@
           "positions": null,
           "source": "钦州市人力资源和社会保障局",
           "url": "http://www.qinzhou.gov.cn/zfxxgk/qzszfxxgkpt/qzsrlzyhshbzj/fdzdgknr_16/klzp_2/t26168052.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年钦州市市直事业单位公开招聘拟聘用人员公示名单（第三批）.xlsx",
+              "url": "http://www.qinzhou.gov.cn/zfxxgk/qzszfxxgkpt/qzsrlzyhshbzj/fdzdgknr_16/klzp_2/P020251114427943606662.xlsx",
+              "local": "attachments/450700/2025年钦州市市直事业单位公开招聘拟聘用人员公示名单（第三批）.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -876,6 +1064,66 @@
               "name": "2025年钦州市教育系统2026年钦聚英才专场招聘岗位需求表.xlsx",
               "url": "http://jyj.qinzhou.gov.cn/zw/zfxxgk/fdzdgknr/tzgg/P020251203668559132570.xlsx",
               "local": "attachments/450700/2025年钦州市教育系统2026年钦聚英才专场招聘岗位需求表.xlsx"
+            },
+            {
+              "name": "2026年钦州市市直中学招聘硕士研究生骨干教师岗位需求表.xlsx",
+              "url": "http://jyj.qinzhou.gov.cn/zw/zfxxgk/fdzdgknr/tzgg/P020251203668559279021.xlsx",
+              "local": "attachments/450700/2026年钦州市市直中学招聘硕士研究生骨干教师岗位需求表.xlsx"
+            },
+            {
+              "name": "2026年钦州市市直中学“钦聚英才”专场集中招聘急需紧缺人才报名登记表.doc",
+              "url": "http://jyj.qinzhou.gov.cn/zw/zfxxgk/fdzdgknr/tzgg/P020251203668559609286.doc",
+              "local": "attachments/450700/2026年钦州市市直中学“钦聚英才”专场集中招聘急需紧缺人才报名登记表.doc"
+            },
+            {
+              "name": "2026年钦州市市直中学招聘硕士研究生骨干教师报名登记表.doc",
+              "url": "http://jyj.qinzhou.gov.cn/zw/zfxxgk/fdzdgknr/tzgg/P020251203668559761428.doc",
+              "local": "attachments/450700/2026年钦州市市直中学招聘硕士研究生骨干教师报名登记表.doc"
+            },
+            {
+              "name": "2026年钦州市灵山县高中学校“钦聚英才”专场集中招聘急需紧缺人才报名登记表.doc",
+              "url": "http://jyj.qinzhou.gov.cn/zw/zfxxgk/fdzdgknr/tzgg/P020251203668559871153.doc",
+              "local": "attachments/450700/2026年钦州市灵山县高中学校“钦聚英才”专场集中招聘急需紧缺人才报名登记表.doc"
+            },
+            {
+              "name": "2026年钦州市市直中学“钦聚英才”专场集中招聘急需紧缺人才报名二维码.doc",
+              "url": "http://jyj.qinzhou.gov.cn/zw/zfxxgk/fdzdgknr/tzgg/P020251203668560165474.doc",
+              "local": "attachments/450700/2026年钦州市市直中学“钦聚英才”专场集中招聘急需紧缺人才报名二维码.doc"
+            },
+            {
+              "name": "2026年钦州市市直中学硕士研究生骨干教师报名二维码.doc",
+              "url": "http://jyj.qinzhou.gov.cn/zw/zfxxgk/fdzdgknr/tzgg/P020251203668560275173.doc",
+              "local": "attachments/450700/2026年钦州市市直中学硕士研究生骨干教师报名二维码.doc"
+            },
+            {
+              "name": "2026年钦州市灵山县高中学校“钦聚英才”专场集中招聘急需紧缺人才报名二维码.docx",
+              "url": "http://jyj.qinzhou.gov.cn/zw/zfxxgk/fdzdgknr/tzgg/P020251203668560401890.docx",
+              "local": "attachments/450700/2026年钦州市灵山县高中学校“钦聚英才”专场集中招聘急需紧缺人才报名二维码.docx"
+            },
+            {
+              "name": "2026年专业核心课程相同举证审批表.docx",
+              "url": "http://jyj.qinzhou.gov.cn/zw/zfxxgk/fdzdgknr/tzgg/P020251203668560557686.docx",
+              "local": "attachments/450700/2026年专业核心课程相同举证审批表.docx"
+            },
+            {
+              "name": "2026年专业核心课程相同举证承诺书.docx",
+              "url": "http://jyj.qinzhou.gov.cn/zw/zfxxgk/fdzdgknr/tzgg/P020251203668560699677.docx",
+              "local": "attachments/450700/2026年专业核心课程相同举证承诺书.docx"
+            },
+            {
+              "name": "2026年岗位试教（模拟教学）选用教材.xls",
+              "url": "http://jyj.qinzhou.gov.cn/zw/zfxxgk/fdzdgknr/tzgg/P020251203668560882155.xls",
+              "local": "attachments/450700/2026年岗位试教（模拟教学）选用教材.xls"
+            },
+            {
+              "name": "2026年钦州市灵山县高中学校“钦聚英才”专场集中招聘急需紧缺人才岗位需求表.xlsx",
+              "url": "http://jyj.qinzhou.gov.cn/zw/zfxxgk/fdzdgknr/tzgg/P020251204404877151133.xlsx",
+              "local": "attachments/450700/2026年钦州市灵山县高中学校“钦聚英才”专场集中招聘急需紧缺人才岗位需求表.xlsx"
+            },
+            {
+              "name": "2025年广西壮族自治区考试录用公务员专业分类指导目录（版）.xlsx",
+              "url": "http://jyj.qinzhou.gov.cn/zw/zfxxgk/fdzdgknr/tzgg/P020260616406209980300.xlsx",
+              "local": "attachments/450700/2025年广西壮族自治区考试录用公务员专业分类指导目录（版）.xlsx"
             }
           ]
         }
@@ -959,7 +1207,33 @@
           "positions": null,
           "source": "贵港市人力资源和社会保障局",
           "url": "http://rsj.gxgg.gov.cn/tzgg/t19572970.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年上半年贵港市事业单位公开招聘工作人员计划表.xls",
+              "url": "http://rsj.gxgg.gov.cn/tzgg/P020250208828591608439.xls",
+              "local": "attachments/450800/2025年上半年贵港市事业单位公开招聘工作人员计划表.xls"
+            },
+            {
+              "name": "2025年事业单位公开招聘分类考试公共科目笔试考试大纲（版）.pdf",
+              "url": "http://rsj.gxgg.gov.cn/tzgg/P020250208828591999935.pdf",
+              "local": "attachments/450800/2025年事业单位公开招聘分类考试公共科目笔试考试大纲（版）.pdf"
+            },
+            {
+              "name": "2025年广西壮族自治区考试录用公务员专业分类指导目录（版）.xlsx",
+              "url": "http://rsj.gxgg.gov.cn/tzgg/P020250208828592151681.xlsx",
+              "local": "attachments/450800/2025年广西壮族自治区考试录用公务员专业分类指导目录（版）.xlsx"
+            },
+            {
+              "name": "2025年专业核心课程相同举证审批表.doc",
+              "url": "http://rsj.gxgg.gov.cn/tzgg/P020250208828592232020.doc",
+              "local": "attachments/450800/2025年专业核心课程相同举证审批表.doc"
+            },
+            {
+              "name": "2025年上半年贵港市事业单位公开招聘工作人员笔试考试费减免办理须知.docx",
+              "url": "http://rsj.gxgg.gov.cn/tzgg/P020250208828592311375.docx",
+              "local": "attachments/450800/2025年上半年贵港市事业单位公开招聘工作人员笔试考试费减免办理须知.docx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -1087,7 +1361,13 @@
           "positions": null,
           "source": "玉林市人民政府门户网站",
           "url": "http://www.yulin.gov.cn/gkzl/fadingzhudonggongkaineirong/rsxx/klzp/t21210934.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年玉林市玉州区考试录用公务员拟录用人员名单（第一批）.xlsx",
+              "url": "http://www.yulin.gov.cn/gkzl/fadingzhudonggongkaineirong/rsxx/klzp/P020250617686454688290.xlsx",
+              "local": "attachments/450900/2025年玉林市玉州区考试录用公务员拟录用人员名单（第一批）.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -1098,7 +1378,13 @@
           "positions": null,
           "source": "玉林市人民政府门户网站",
           "url": "http://www.yulin.gov.cn/gkzl/fadingzhudonggongkaineirong/rsxx/klzp/t22613835.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年玉林市玉州区考试录用公务员拟录用人员名单（第二批）.xlsx",
+              "url": "http://www.yulin.gov.cn/gkzl/fadingzhudonggongkaineirong/rsxx/klzp/P020250717381418535720.xlsx",
+              "local": "attachments/450900/2025年玉林市玉州区考试录用公务员拟录用人员名单（第二批）.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -1291,7 +1577,33 @@
           "positions": null,
           "source": "贺州市人民政府门户网站",
           "url": "http://www.gxhz.gov.cn/zfxxgk/fdzdgknr/rsxx/klzp/t25913335.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广西.下半年贺州市昭平县事业单位公开招聘工作人员计划表.xls",
+              "url": "http://www.gxhz.gov.cn/zfxxgk/fdzdgknr/rsxx/klzp/P020250903573536758568.xls",
+              "local": "attachments/451100/2025年广西.下半年贺州市昭平县事业单位公开招聘工作人员计划表.xls"
+            },
+            {
+              "name": "2025年广西贺州.专业核心课程相似说明承诺书（样式）.doc",
+              "url": "http://www.gxhz.gov.cn/zfxxgk/fdzdgknr/rsxx/klzp/P020250901670492198059.doc",
+              "local": "attachments/451100/2025年广西贺州.专业核心课程相似说明承诺书（样式）.doc"
+            },
+            {
+              "name": "2025年广西贺州.核心课程证明（样式）.doc",
+              "url": "http://www.gxhz.gov.cn/zfxxgk/fdzdgknr/rsxx/klzp/P020250901670492204605.doc",
+              "local": "attachments/451100/2025年广西贺州.核心课程证明（样式）.doc"
+            },
+            {
+              "name": "2025年广西壮族自治区考试录用公务员专业分类指导目录（版）.xlsx",
+              "url": "http://www.gxhz.gov.cn/zfxxgk/fdzdgknr/rsxx/klzp/P020250901670492258941.xlsx",
+              "local": "attachments/451100/2025年广西壮族自治区考试录用公务员专业分类指导目录（版）.xlsx"
+            },
+            {
+              "name": "2025年广西贺州.事业单位公开招聘分类考试公共科目笔试考试大纲（版）.pdf",
+              "url": "http://www.gxhz.gov.cn/zfxxgk/fdzdgknr/rsxx/klzp/P020250901670492200004.pdf",
+              "local": "attachments/451100/2025年广西贺州.事业单位公开招聘分类考试公共科目笔试考试大纲（版）.pdf"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -1313,7 +1625,13 @@
           "positions": null,
           "source": "贺州市八步区人民政府门户网站",
           "url": "http://www.gxbabu.gov.cn/zwgk_81325/rsxx/klzp/t26555603.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年贺州市八步区考试录用公务员拟录用人员名单（第三批）.xls",
+              "url": "http://www.gxbabu.gov.cn/zwgk_81325/rsxx/klzp/P020251211325760644944.xls",
+              "local": "attachments/451100/2025年贺州市八步区考试录用公务员拟录用人员名单（第三批）.xls"
+            }
+          ]
         }
       ]
     },
@@ -1401,7 +1719,33 @@
           "positions": null,
           "source": "河池市人民政府门户网站",
           "url": "http://www.hechi.gov.cn/zfxxgk/fdzdgknr/fd_rsxx/sydwzk/t22615652.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广西．河池市事业单位公开招聘面试前取消和减少招聘计划汇总表．xls.xls",
+              "url": "https://image.gxrc.com/news/files/2025/%E9%99%84%E4%BB%B63.%E6%B2%B3%E6%B1%A0%E5%B8%822025%E5%B9%B4%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E9%9D%A2%E8%AF%95%E5%89%8D%E5%8F%96%E6%B6%88%E5%92%8C%E5%87%8F%E5%B0%91%E6%8B%9B%E8%81%98%E8%AE%A1%E5%88%92%E6%B1%87%E6%80%BB%E8%A1%A8.xls",
+              "local": "attachments/451200/2025年广西．河池市事业单位公开招聘面试前取消和减少招聘计划汇总表．xls.xls"
+            },
+            {
+              "name": "2025年广西河池．实际操作能力（专业）测试岗位表．xls.xls",
+              "url": "https://image.gxrc.com/news/files/2025/%E9%99%84%E4%BB%B64.%E5%AE%9E%E9%99%85%E6%93%8D%E4%BD%9C%E8%83%BD%E5%8A%9B%EF%BC%88%E4%B8%93%E4%B8%9A%EF%BC%89%E6%B5%8B%E8%AF%95%E5%B2%97%E4%BD%8D%E8%A1%A8.xls",
+              "local": "attachments/451200/2025年广西河池．实际操作能力（专业）测试岗位表．xls.xls"
+            },
+            {
+              "name": "2025年广西．河池市事业单位公开招聘面试人员名单（同一岗位人选按准考证号排序）．xls.xls",
+              "url": "https://image.gxrc.com/news/files/2025/%E9%99%84%E4%BB%B61.%E6%B2%B3%E6%B1%A0%E5%B8%822025%E5%B9%B4%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E9%9D%A2%E8%AF%95%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%88%E5%90%8C%E4%B8%80%E5%B2%97%E4%BD%8D%E4%BA%BA%E9%80%89%E6%8C%89%E5%87%86%E8%80%83%E8%AF%81%E5%8F%B7%E6%8E%92%E5%BA%8F%EF%BC%89.xls",
+              "local": "attachments/451200/2025年广西．河池市事业单位公开招聘面试人员名单（同一岗位人选按准考证号排序）．xls.xls"
+            },
+            {
+              "name": "2025年广西．河池市事业单位公开招聘资格审查单位联系方式．xls.xls",
+              "url": "https://image.gxrc.com/news/files/2025/%E9%99%84%E4%BB%B62.%E6%B2%B3%E6%B1%A0%E5%B8%822025%E5%B9%B4%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E8%B5%84%E6%A0%BC%E5%AE%A1%E6%9F%A5%E5%8D%95%E4%BD%8D%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F.xls",
+              "local": "attachments/451200/2025年广西．河池市事业单位公开招聘资格审查单位联系方式．xls.xls"
+            },
+            {
+              "name": "2025年广西河池．考生面试须知．docx.docx",
+              "url": "https://image.gxrc.com/news/files/2025/%E9%99%84%E4%BB%B65.%E8%80%83%E7%94%9F%E9%9D%A2%E8%AF%95%E9%A1%BB%E7%9F%A5.docx",
+              "local": "attachments/451200/2025年广西河池．考生面试须知．docx.docx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -1561,7 +1905,13 @@
           "positions": null,
           "source": "忻城县人民政府门户网站",
           "url": "http://www.gxxc.gov.cn/zfxxgk/fdzdgknr/rsxx/klzp/t27067862.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年附件来宾市忻城县考试录用公务员拟录用人员名单（第三批）(1).docx",
+              "url": "http://www.gxxc.gov.cn/zfxxgk/fdzdgknr/rsxx/klzp/P020251230612974063115.docx",
+              "local": "attachments/451300/2025年附件来宾市忻城县考试录用公务员拟录用人员名单（第三批）(1).docx"
+            }
+          ]
         }
       ]
     },
@@ -1656,7 +2006,13 @@
           "positions": null,
           "source": "崇左市人民政府门户网站",
           "url": "http://www.chongzuo.gov.cn/zfxxgkzl/xxgkzn_fdzdgknr/rsxx/zkzl/t22615031.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年附件.崇左市考试录用公务员拟录用人员名单(第一批）.xls",
+              "url": "http://www.chongzuo.gov.cn/zfxxgkzl/xxgkzn_fdzdgknr/rsxx/zkzl/P020250920784808849751.xls",
+              "local": "attachments/451400/2025年附件.崇左市考试录用公务员拟录用人员名单(第一批）.xls"
+            }
+          ]
         },
         {
           "year": 2025,

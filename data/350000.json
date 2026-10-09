@@ -1,7 +1,7 @@
 {
   "adcode": 350000,
   "name": "福建省",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-02",
   "provincePortals": [
     {
       "category": "公务员",
@@ -211,7 +211,13 @@
           "positions": null,
           "source": "福建省公务员考试录用网",
           "url": "http://gwykl.fujian.gov.cn/portal/xm/klbulletin/6d0d39df-c12d-404e-b334-351ae053110a",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年福建厦门市海沧区关于拟录用公务员（参公人员）的公示.doc",
+              "url": "http://gwykl.fujian.gov.cn/attachment/upfiles/202506/%E5%8E%A6%E9%97%A8%E5%B8%82%E6%B5%B7%E6%B2%A7%E5%8C%BA%E5%85%B3%E4%BA%8E2025%E5%B9%B4%E5%BA%A6%E6%8B%9F%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%EF%BC%88%E5%8F%82%E5%85%AC%E4%BA%BA%E5%91%98%EF%BC%89%E7%9A%84%E5%85%AC%E7%A4%BA.doc",
+              "local": "attachments/350200/2025年福建厦门市海沧区关于拟录用公务员（参公人员）的公示.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -222,7 +228,13 @@
           "positions": 265,
           "source": "厦门市人力资源和社会保障局",
           "url": "https://hrss.xm.gov.cn/xxgk/tzgg/202509/t20250901_2953303.htm",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年福建厦门市事业单位公开招聘工作人员报考须知.doc",
+              "url": "http://hrss.xm.gov.cn/xxgk/tzgg/202509/P020260420589678093600.doc",
+              "local": "attachments/350200/2025年福建厦门市事业单位公开招聘工作人员报考须知.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -233,7 +245,23 @@
           "positions": null,
           "source": "厦门市人力资源和社会保障局",
           "url": "http://hrss.xm.gov.cn/xxgk/tzgg/202510/t20251017_2960501.htm",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年福建.厦门市人力资源和社会保障局所属厦门技师学院公开招聘事业单位人员岗位信息表（10月）.xls",
+              "url": "http://hrss.xm.gov.cn/xxgk/tzgg/202510/P020251017324528133863.xls",
+              "local": "attachments/350200/2025年福建.厦门市人力资源和社会保障局所属厦门技师学院公开招聘事业单位人员岗位信息表（10月）.xls"
+            },
+            {
+              "name": "2025年福建.厦门市人力资源和社会保障局所属事业单位厦门技师学院招聘工作人员报考须知（10月）.docx",
+              "url": "http://hrss.xm.gov.cn/xxgk/tzgg/202510/P020251017324529956138.docx",
+              "local": "attachments/350200/2025年福建.厦门市人力资源和社会保障局所属事业单位厦门技师学院招聘工作人员报考须知（10月）.docx"
+            },
+            {
+              "name": "2025年福建省机关事业单位招考专业指导目录（）.docx",
+              "url": "http://hrss.xm.gov.cn/xxgk/tzgg/202510/P020251017324530496767.docx",
+              "local": "attachments/350200/2025年福建省机关事业单位招考专业指导目录（）.docx"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -542,6 +570,11 @@
               "name": "2026年泉州市事业单位公开招聘编制内工作人员岗位信息表.zip",
               "url": "https://rsj.quanzhou.gov.cn/zwgk/zxdt/syzk/202603/W020260320404321707455.zip",
               "local": "attachments/350500/2026年泉州市事业单位公开招聘编制内工作人员岗位信息表.zip"
+            },
+            {
+              "name": "2026年福建泉州市事业单位公开招聘编制内工作人员报名若干问题说明.doc",
+              "url": "https://rsj.quanzhou.gov.cn/zwgk/zxdt/syzk/202603/W020260320404321928298.doc",
+              "local": "attachments/350500/2026年福建泉州市事业单位公开招聘编制内工作人员报名若干问题说明.doc"
             }
           ]
         },
@@ -559,6 +592,11 @@
               "name": "2025年泉州市事业单位公开招聘编制内工作人员公告附件.doc",
               "url": "https://rsj.quanzhou.gov.cn/zwgk/zxdt/syzk/202503/W020250326770715010343.doc",
               "local": "attachments/350500/2025年泉州市事业单位公开招聘编制内工作人员公告附件.doc"
+            },
+            {
+              "name": "2025年福建泉州市事业单位公开招聘编制内工作人员岗位信息表.rar",
+              "url": "https://rsj.quanzhou.gov.cn/zwgk/zxdt/syzk/202503/W020250401342720046811.rar",
+              "local": "attachments/350500/2025年福建泉州市事业单位公开招聘编制内工作人员岗位信息表.rar"
             }
           ]
         },
@@ -571,7 +609,23 @@
           "positions": null,
           "source": "泉州市人力资源和社会保障局",
           "url": "https://rsj.quanzhou.gov.cn/zwgk/zxdt/syzk/202603/t20260317_3275068.htm",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年福建泉州市公办学校公开招聘编制内新任教师岗位信息表.rar",
+              "url": "https://rsj.quanzhou.gov.cn/zwgk/zxdt/syzk/202603/W020260317785688585706.rar",
+              "local": "attachments/350500/2026年福建泉州市公办学校公开招聘编制内新任教师岗位信息表.rar"
+            },
+            {
+              "name": "2026年福建泉州报考前已征得同意承诺书.docx",
+              "url": "https://rsj.quanzhou.gov.cn/zwgk/zxdt/syzk/202603/W020260317785688717967.docx",
+              "local": "attachments/350500/2026年福建泉州报考前已征得同意承诺书.docx"
+            },
+            {
+              "name": "2026年福建泉州关于__同志表现及查档情况的函.doc",
+              "url": "https://rsj.quanzhou.gov.cn/zwgk/zxdt/syzk/202603/W020260317785688800820.doc",
+              "local": "attachments/350500/2026年福建泉州关于__同志表现及查档情况的函.doc"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -594,7 +648,13 @@
           "positions": null,
           "source": "中国海峡人才市场（海峡人才网考务平台）",
           "url": "https://hx.kaowu.cn/home/exam-notice/view.html?notice_id=808",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年福建泉州南安市属国有企业人才引进岗位计划表.doc",
+              "url": "https://cdn.kaowu.cn/hx_ksbm/other/202506/UD1aLQAyozFEr7X4H8VI3J5hNqm92G0Z.doc",
+              "local": "attachments/350500/2025年福建泉州南安市属国有企业人才引进岗位计划表.doc"
+            }
+          ]
         }
       ]
     },
@@ -652,7 +712,18 @@
           "positions": null,
           "source": "福建省公务员考试录用网",
           "url": "http://gwykl.fujian.gov.cn/Portal/zz/klbulletin/e8581c4a-9cc6-40a8-9ed7-17c14ffd3328",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年福建漳州点击下载.pdf",
+              "url": "http://gwykl.fujian.gov.cn/attachment/upfiles/202506/%E6%8B%9B%E5%BD%95%E5%8D%95%E4%BD%8D%E7%94%B5%E8%AF%9D.pdf",
+              "local": "attachments/350600/2025年福建漳州点击下载.pdf"
+            },
+            {
+              "name": "2025年福建漳州市考试录用公务员（含参公人员）拟录用人员名单（一）.pdf",
+              "url": "http://gwykl.fujian.gov.cn/attachment/upfiles/202506/%E6%BC%B3%E5%B7%9E%E5%B8%822025%E5%B9%B4%E5%BA%A6%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%EF%BC%88%E5%90%AB%E5%8F%82%E5%85%AC%E4%BA%BA%E5%91%98%EF%BC%89%E6%8B%9F%E5%BD%95%E7%94%A8%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%88%E4%B8%80%EF%BC%891.pdf",
+              "local": "attachments/350600/2025年福建漳州市考试录用公务员（含参公人员）拟录用人员名单（一）.pdf"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -686,7 +757,23 @@
           "positions": null,
           "source": "漳州人才人事网（漳州市委人才办）",
           "url": "https://www.zzrcrs.com/portal/exam/examArticle2/475466623092920320",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年福建漳州市2026届国企类选优生选拔引进高校及相关学科.docx",
+              "url": "https://www.zzrcrs.com/profile/upload/2025/11/26/bc549294620aa2ee4f53ff21438d8a5c_20251126173612A859.docx",
+              "local": "attachments/350600/2026年福建漳州市2026届国企类选优生选拔引进高校及相关学科.docx"
+            },
+            {
+              "name": "2026年福建漳州市2026届国企类选优生岗位需求信息表.xls",
+              "url": "https://www.zzrcrs.com/profile/upload/2025/11/26/337757faf8e54286cc685b2bc10ac33d_20251126183152A024.xls",
+              "local": "attachments/350600/2026年福建漳州市2026届国企类选优生岗位需求信息表.xls"
+            },
+            {
+              "name": "2026年福建漳州市2026届国企类选优生报名表.xlsx",
+              "url": "https://www.zzrcrs.com/profile/upload/2025/11/26/445ffdea6dab487341b988558504cb91_20251126202521A423.xlsx",
+              "local": "attachments/350600/2026年福建漳州市2026届国企类选优生报名表.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -783,7 +870,13 @@
           "positions": null,
           "source": "南平市卫生健康委员会",
           "url": "https://wjw.np.gov.cn/cms/html/npswshjhsywyh/2025-02-26/578563849.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年福建南平市属医疗卫生单位第八届“人才&middot;南平校园行”招聘紧缺急需人才岗位信息表.xlsx",
+              "url": "https://wjw.np.gov.cn/cms/pages/430646460356170000/attachments/%E9%99%84%E4%BB%B6%EF%BC%9A2025%E5%B9%B4%E5%8D%97%E5%B9%B3%E5%B8%82%E5%B1%9E%E5%8C%BB%E7%96%97%E5%8D%AB%E7%94%9F%E5%8D%95%E4%BD%8D%E7%AC%AC%E5%85%AB%E5%B1%8A%E2%80%9C%E4%BA%BA%E6%89%8D%E5%8D%97%E5%B9%B3%E6%A0%A1%E5%9B%AD%E8%A1%8C%E2%80%9D%E6%8B%9B%E8%81%98%E7%B4%A7%E7%BC%BA%E6%80%A5%E9%9C%80%E4%BA%BA%E6%89%8D%E5%B2%97%E4%BD%8D%E4%BF%A1%E6%81%AF%E8%A1%A8.xlsx",
+              "local": "attachments/350700/2025年福建南平市属医疗卫生单位第八届“人才&middot;南平校园行”招聘紧缺急需人才岗位信息表.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -832,7 +925,13 @@
           "positions": null,
           "source": "福建省公务员考试录用网",
           "url": "http://gwykl.fujian.gov.cn/portal/ly/klbulletin/1af1260e-ab4d-44a9-a1e1-3b14c5d8cb02",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年福建龙岩点此下载.pdf",
+              "url": "http://gwykl.fujian.gov.cn/attachment/upfiles/202506/%E9%BE%99%E5%B2%A9%E5%B8%822025%E5%B9%B4%E5%BA%A6%E6%8B%9F%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%EF%BC%88%E5%90%AB%E5%8F%82%E7%85%A7%E5%85%AC%E5%8A%A1%E5%91%98%E6%B3%95%E7%AE%A1%E7%90%86%E5%8D%95%E4%BD%8D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%EF%BC%89%E5%85%AC%E7%A4%BA%EF%BC%88%E7%AC%AC%E4%B8%80%E6%89%B9%EF%BC%89%20%20.pdf",
+              "local": "attachments/350800/2025年福建龙岩点此下载.pdf"
+            }
+          ]
         },
         {
           "year": 2025,

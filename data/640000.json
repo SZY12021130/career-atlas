@@ -1,7 +1,7 @@
 {
   "adcode": 640000,
   "name": "宁夏回族自治区",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-03",
   "note": "骨架数据：省级官方入口与代表性公告已人工核验；市级明细持续采集中",
   "provincePortals": [
     {
@@ -42,7 +42,23 @@
           "positions": null,
           "source": "宁夏党建网",
           "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202601/t20260129_5081504.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年《宁夏回族自治区考试录用公务员职位一览表》.xls",
+              "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202601/W020260129608218278214.xls",
+              "local": "attachments/640100/2026年《宁夏回族自治区考试录用公务员职位一览表》.xls"
+            },
+            {
+              "name": "2026年《宁夏回族自治区考试录用公务员职位专业指导目录》.xls",
+              "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202601/W020260129608218752597.xls",
+              "local": "attachments/640100/2026年《宁夏回族自治区考试录用公务员职位专业指导目录》.xls"
+            },
+            {
+              "name": "2026年《宁夏回族自治区考试录用公务员报考说明》.doc",
+              "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202601/W020260129608218955482.doc",
+              "local": "attachments/640100/2026年《宁夏回族自治区考试录用公务员报考说明》.doc"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -53,7 +69,18 @@
           "positions": null,
           "source": "宁夏党建网",
           "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202603/t20260313_5084510.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年宁夏回族自治区区直机关公开遴选公务员职位表.xlsx",
+              "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202603/W020260313322813664825.xlsx",
+              "local": "attachments/640100/2026年宁夏回族自治区区直机关公开遴选公务员职位表.xlsx"
+            },
+            {
+              "name": "2026年宁夏回族自治区区直机关公开遴选公务员报名推荐表.doc",
+              "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202603/W020260313322814026178.doc",
+              "local": "attachments/640100/2026年宁夏回族自治区区直机关公开遴选公务员报名推荐表.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -64,7 +91,23 @@
           "positions": null,
           "source": "宁夏党建网",
           "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202502/t20250205_5041863.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年宁夏回族自治区考试录用公务员职位一览表.xls",
+              "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202502/W020250205369198503210.xls",
+              "local": "attachments/640100/2025年宁夏回族自治区考试录用公务员职位一览表.xls"
+            },
+            {
+              "name": "2025年宁夏回族自治区考试录用公务员职位专业指导目录.xlsx",
+              "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202502/W020250205369198637842.xlsx",
+              "local": "attachments/640100/2025年宁夏回族自治区考试录用公务员职位专业指导目录.xlsx"
+            },
+            {
+              "name": "2025年宁夏回族自治区考试录用公务员报考说明.docx",
+              "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202502/W020250205369199039586.docx",
+              "local": "attachments/640100/2025年宁夏回族自治区考试录用公务员报考说明.docx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -75,7 +118,18 @@
           "positions": null,
           "source": "宁夏党建网",
           "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202503/t20250324_5048263.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年宁夏回族自治区区直机关公开遴选公务员职位表.xlsx",
+              "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202503/W020250324394318719097.xlsx",
+              "local": "attachments/640100/2025年宁夏回族自治区区直机关公开遴选公务员职位表.xlsx"
+            },
+            {
+              "name": "2025年宁夏回族自治区区直机关公开遴选公务员报名推荐表.doc",
+              "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202503/W020250324394319219109.doc",
+              "local": "attachments/640100/2025年宁夏回族自治区区直机关公开遴选公务员报名推荐表.doc"
+            }
+          ]
         },
         {
           "year": 2024,
@@ -86,7 +140,362 @@
           "positions": null,
           "source": "宁夏党建网",
           "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202402/t20240218_4989736.html",
+          "attachments": [
+            {
+              "name": "2024年宁夏回族自治区考试录用公务员职位一览表.xls",
+              "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202402/W020240218329391324061.xls",
+              "local": "attachments/640100/2024年宁夏回族自治区考试录用公务员职位一览表.xls"
+            },
+            {
+              "name": "2024年宁夏回族自治区考试录用公务员职位专业指导目录.xlsx",
+              "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202402/W020240218329391825704.xlsx",
+              "local": "attachments/640100/2024年宁夏回族自治区考试录用公务员职位专业指导目录.xlsx"
+            },
+            {
+              "name": "2024年宁夏回族自治区考试录用公务员报考说明.docx",
+              "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202402/W020240218329391997195.docx",
+              "local": "attachments/640100/2024年宁夏回族自治区考试录用公务员报考说明.docx"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "宁夏回族自治区2026年高校毕业生“三支一扶”计划拟补充招募人员公示",
+          "date": "2026-09-10",
+          "headcount": null,
+          "positions": null,
+          "source": "宁夏人事考试中心 / 宁夏党建网",
+          "url": "https://www.nxpta.com/qtksxxzz/202609/t20260910_5100486.html",
+          "attachments": [
+            {
+              "name": "2026年银川市高校毕业生“三支一扶”计划拟补充招募人员名单.xlsx",
+              "url": "https://www.nxpta.com/qtksxxzz/202609/W020260910557690116878.xlsx",
+              "local": "attachments/640100/2026年银川市高校毕业生“三支一扶”计划拟补充招募人员名单.xlsx"
+            },
+            {
+              "name": "2026年石嘴山市高校毕业生“三支一扶”计划拟补充招募人员名单.xlsx",
+              "url": "https://www.nxpta.com/qtksxxzz/202609/W020260910557690359966.xlsx",
+              "local": "attachments/640100/2026年石嘴山市高校毕业生“三支一扶”计划拟补充招募人员名单.xlsx"
+            },
+            {
+              "name": "2026年吴忠市高校毕业生“三支一扶”计划拟补充招募人员名单.xls",
+              "url": "https://www.nxpta.com/qtksxxzz/202609/W020260910557690679100.xls",
+              "local": "attachments/640100/2026年吴忠市高校毕业生“三支一扶”计划拟补充招募人员名单.xls"
+            },
+            {
+              "name": "2026年固原市高校毕业生“三支一扶”计划拟补充招募人员名单.xlsx",
+              "url": "https://www.nxpta.com/qtksxxzz/202609/W020260910557690695604.xlsx",
+              "local": "attachments/640100/2026年固原市高校毕业生“三支一扶”计划拟补充招募人员名单.xlsx"
+            },
+            {
+              "name": "2026年中卫市高校毕业生“三支一扶”计划拟补充招募人员名单.xlsx",
+              "url": "https://www.nxpta.com/qtksxxzz/202609/W020260910557690925624.xlsx",
+              "local": "attachments/640100/2026年中卫市高校毕业生“三支一扶”计划拟补充招募人员名单.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "宁夏回族自治区宁东能源化工基地管理委员会2026年事业单位自主公开招聘急需紧缺高层次人才公告",
+          "date": "2026-09-01",
+          "headcount": null,
+          "positions": null,
+          "source": "宁夏人事考试中心 / 宁夏党建网",
+          "url": "http://ningdong.nx.gov.cn/qyfc_277/qydt/202609/t20260901_5327819.html",
+          "attachments": [
+            {
+              "name": "2026年宁东基地管委会事业单位自主公开招聘急需紧缺高层次人才岗位计划一览表.xlsx",
+              "url": "http://ningdong.nx.gov.cn/qyfc_277/qydt/202609/P020260901376901956400.xlsx",
+              "local": "attachments/640100/2026年宁东基地管委会事业单位自主公开招聘急需紧缺高层次人才岗位计划一览表.xlsx"
+            },
+            {
+              "name": "2026年宁东基地管委会事业单位自主公开招聘急需紧缺高层次人才报名表.docx",
+              "url": "http://ningdong.nx.gov.cn/qyfc_277/qydt/202609/P020260901376906442930.docx",
+              "local": "attachments/640100/2026年宁东基地管委会事业单位自主公开招聘急需紧缺高层次人才报名表.docx"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "宁夏回族自治区2026年高校毕业生“三支一扶”计划拟招募人员公示",
+          "date": "2026-08-25",
+          "headcount": null,
+          "positions": null,
+          "source": "宁夏人事考试中心 / 宁夏党建网",
+          "url": "https://www.nxpta.com/qtksxxzz/202608/t20260825_5098744.html",
+          "attachments": [
+            {
+              "name": "2026年银川市高校毕业生“三支一扶”计划拟招募人员名单.xlsx",
+              "url": "https://www.nxpta.com/qtksxxzz/202608/W020260825334988531734.xlsx",
+              "local": "attachments/640100/2026年银川市高校毕业生“三支一扶”计划拟招募人员名单.xlsx"
+            },
+            {
+              "name": "2026年.石嘴山市2026年高校毕业生“三支一扶”计划拟招募人员名单.xls",
+              "url": "https://www.nxpta.com/qtksxxzz/202608/W020260825334988801545.xls",
+              "local": "attachments/640100/2026年.石嘴山市2026年高校毕业生“三支一扶”计划拟招募人员名单.xls"
+            },
+            {
+              "name": "2026年吴忠市高校毕业生“三支一扶”计划拟招募人员名单.xls",
+              "url": "https://www.nxpta.com/qtksxxzz/202608/W020260825334988867812.xls",
+              "local": "attachments/640100/2026年吴忠市高校毕业生“三支一扶”计划拟招募人员名单.xls"
+            },
+            {
+              "name": "2026年固原市高校毕业生“三支一扶”计划拟招募人员名单.zip",
+              "url": "https://www.nxpta.com/qtksxxzz/202608/W020260825334988916050.xlsx",
+              "local": "attachments/640100/2026年固原市高校毕业生“三支一扶”计划拟招募人员名单.zip"
+            },
+            {
+              "name": "2026年中卫市高校毕业生“三支一扶”计划拟招募人员名单.xls",
+              "url": "https://www.nxpta.com/qtksxxzz/202608/W020260825334989401887.xls",
+              "local": "attachments/640100/2026年中卫市高校毕业生“三支一扶”计划拟招募人员名单.xls"
+            },
+            {
+              "name": "2026年宁东能源化工基地管委会高校毕业生“三支一扶”计划拟招募人员名单.xls",
+              "url": "https://www.nxpta.com/qtksxxzz/202608/W020260825334989669476.xls",
+              "local": "attachments/640100/2026年宁东能源化工基地管委会高校毕业生“三支一扶”计划拟招募人员名单.xls"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "宁夏回族自治区文化和旅游厅2026年事业单位自主公开招聘高层次人才公告",
+          "date": "2026-07-27",
+          "headcount": null,
+          "positions": null,
+          "source": "宁夏人事考试中心 / 宁夏党建网",
+          "url": "https://whhlyt.nx.gov.cn/zwgk/fdzdgknr/tzgg/202607/t20260727_5298952.html",
+          "attachments": [
+            {
+              "name": "2026年宁夏回族自治区文化和旅游厅事业单位自主公开招聘高层次人才岗位计划一览表.doc",
+              "url": "https://whhlyt.nx.gov.cn/zwgk/fdzdgknr/tzgg/202607/P020260727543463212613.doc",
+              "local": "attachments/640100/2026年宁夏回族自治区文化和旅游厅事业单位自主公开招聘高层次人才岗位计划一览表.doc"
+            },
+            {
+              "name": "2026年宁夏回族自治区文化和旅游厅事业单位自主公开招聘高层次人才报名表.doc",
+              "url": "https://whhlyt.nx.gov.cn/zwgk/fdzdgknr/tzgg/202607/P020260727548934394763.doc",
+              "local": "attachments/640100/2026年宁夏回族自治区文化和旅游厅事业单位自主公开招聘高层次人才报名表.doc"
+            },
+            {
+              "name": "2026年宁夏回族自治区事业单位公开招聘工作人员专业参考目录及有关专业目录查询网址.xls",
+              "url": "https://whhlyt.nx.gov.cn/zwgk/fdzdgknr/tzgg/202607/P020260727543463334675.xls",
+              "local": "attachments/640100/2026年宁夏回族自治区事业单位公开招聘工作人员专业参考目录及有关专业目录查询网址.xls"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "宁夏回族自治区2026年考试录用公务员拟录用人员名单公示公告（第5号）",
+          "date": "2026-09-02",
+          "headcount": null,
+          "positions": null,
+          "source": "宁夏人事考试中心 / 宁夏党建网",
+          "url": "https://www.nxpta.com/gwyks/202609/t20260902_5099801.html",
+          "attachments": [
+            {
+              "name": "2026年全区考试录用公务员拟录用人员名单（第五批）.xlsx",
+              "url": "https://www.nxpta.com/gwyks/202609/W020260902689944115337.xlsx",
+              "local": "attachments/640100/2026年全区考试录用公务员拟录用人员名单（第五批）.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "2026年度宁夏招录选调生拟录用人员名单公示公告（第2号）",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "宁夏人事考试中心 / 宁夏党建网",
+          "url": "https://www.nxpta.com/gwyks/202607/P020260717639855158470.pdf",
           "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "宁夏回族自治区2026年考试录用公务员拟录用人员名单公示公告（第4号）",
+          "date": "2026-07-16",
+          "headcount": null,
+          "positions": null,
+          "source": "宁夏人事考试中心 / 宁夏党建网",
+          "url": "https://www.nxpta.com/gwyks/202607/t20260716_5095368.html",
+          "attachments": [
+            {
+              "name": "2026年全区考试录用公务员拟录用人员名单（第四批）.pdf",
+              "url": "https://www.nxpta.com/gwyks/202607/W020260716592576138377.pdf",
+              "local": "attachments/640100/2026年全区考试录用公务员拟录用人员名单（第四批）.pdf"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "2026年度公安机关、司法行政机关面向公安院校公安专业、中央司法警官学院有关专业毕业生考试录用公务员拟录用人员名单公示公告",
+          "date": "2026-06-29",
+          "headcount": null,
+          "positions": null,
+          "source": "宁夏人事考试中心 / 宁夏党建网",
+          "url": "https://www.nxpta.com/gwyks/202606/t20260629_5093495.html",
+          "attachments": [
+            {
+              "name": "2026 年度公安机关、司法行政机关面向公安院校公安专业、中央司法警官学院有关专业毕业生考试录用公务员拟录用人员名单 （ 147 人）.pdf",
+              "url": "https://www.nxpta.com/gwyks/202606/W020260629703691395944.pdf",
+              "local": "attachments/640100/2026 年度公安机关、司法行政机关面向公安院校公安专业、中央司法警官学院有关专业毕业生考试录用公务员拟录用人员名单 （ 147 人）.pdf"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "宁夏回族自治区2026年考试录用公务员拟录用人员名单公示公告（第3号）",
+          "date": "2026-06-29",
+          "headcount": null,
+          "positions": null,
+          "source": "宁夏人事考试中心 / 宁夏党建网",
+          "url": "https://www.nxpta.com/gwyks/202606/t20260629_5093488.html",
+          "attachments": [
+            {
+              "name": "2026年全区考试录用公务员拟录用人员名单（第三批）.pdf",
+              "url": "https://www.nxpta.com/gwyks/202606/W020260629645065483646.pdf",
+              "local": "attachments/640100/2026年全区考试录用公务员拟录用人员名单（第三批）.pdf"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "宁夏回族自治区2026年考试录用公务员拟录用人员名单公示公告（第2号）",
+          "date": "2026-06-16",
+          "headcount": null,
+          "positions": null,
+          "source": "宁夏人事考试中心 / 宁夏党建网",
+          "url": "https://www.nxpta.com/gwyks/202606/t20260616_5092141.html",
+          "attachments": [
+            {
+              "name": "2026年全区考试录用公务员拟录用人员名单（第二批）.pdf",
+              "url": "https://www.nxpta.com/gwyks/202606/W020260616332535641906.pdf",
+              "local": "attachments/640100/2026年全区考试录用公务员拟录用人员名单（第二批）.pdf"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "选调生",
+          "subCategory": "普通选调",
+          "title": "2026年度宁夏招录选调生拟录用人员名单公示公告（第1号）",
+          "date": "2026-06-16",
+          "headcount": null,
+          "positions": null,
+          "source": "宁夏人事考试中心 / 宁夏党建网",
+          "url": "https://www.nxpta.com/gwyks/202606/t20260616_5092139.html",
+          "attachments": [
+            {
+              "name": "2026年.2026年度宁夏招录选调生第一批次拟录用人员名单（报考职位表一）.pdf",
+              "url": "https://www.nxpta.com/gwyks/202606/W020260616331857843205.pdf",
+              "local": "attachments/640100/2026年.2026年度宁夏招录选调生第一批次拟录用人员名单（报考职位表一）.pdf"
+            },
+            {
+              "name": "2026年度宁夏招录选调生第二批次拟录用人员名单（报考职位表二）.pdf",
+              "url": "https://www.nxpta.com/gwyks/202606/W020260616331857880828.pdf",
+              "local": "attachments/640100/2026年度宁夏招录选调生第二批次拟录用人员名单（报考职位表二）.pdf"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "2026年自治区档案馆、公务服务中心拟聘用人员公示",
+          "date": "2026-08-27",
+          "headcount": null,
+          "positions": null,
+          "source": "宁夏人事考试中心 / 宁夏党建网",
+          "url": "https://www.nxpta.com/sydwzk/202608/t20260827_5098978.html",
+          "attachments": [
+            {
+              "name": "2026年自治区档案馆、公务服务中心公开招聘工作人员拟聘用人员名单.doc",
+              "url": "https://www.nxpta.com/sydwzk/202608/W020260827408715312421.doc",
+              "local": "attachments/640100/2026年自治区档案馆、公务服务中心公开招聘工作人员拟聘用人员名单.doc"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "宁夏回族自治区2026年区直机关公开遴选公务员面试人员名单公示公告",
+          "date": "2026-05-11",
+          "headcount": null,
+          "positions": null,
+          "source": "宁夏人事考试中心 / 宁夏党建网",
+          "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202604/t20260415_5087247.html",
+          "attachments": [
+            {
+              "name": "2026年宁夏回族自治区区直机关公开遴选公务员面试人员名单（323人）.xlsx",
+              "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202604/W020260415356236851877.xlsx",
+              "local": "attachments/640100/2026年宁夏回族自治区区直机关公开遴选公务员面试人员名单（323人）.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "宁夏回族自治区2026年考试录用公务员资格复审公告",
+          "date": "2026-04-13",
+          "headcount": null,
+          "positions": null,
+          "source": "宁夏人事考试中心 / 宁夏党建网",
+          "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202604/t20260414_5087141.html",
+          "attachments": [
+            {
+              "name": "2026年艰苦边远地区面向当地事业单位在编在岗人员招考公务员报考者工作经历审核表（样表）.xlsx",
+              "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202604/W020260414386715947689.xls",
+              "local": "attachments/640100/2026年艰苦边远地区面向当地事业单位在编在岗人员招考公务员报考者工作经历审核表（样表）.xlsx"
+            }
+          ]
+        },
+        {
+          "year": 2026,
+          "category": "公务员",
+          "subCategory": null,
+          "title": "宁夏回族自治区2026年考试录用公务员体能测评公告",
+          "date": "2026-04-09",
+          "headcount": null,
+          "positions": null,
+          "source": "宁夏人事考试中心 / 宁夏党建网",
+          "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202604/t20260409_5086864.html",
+          "attachments": [
+            {
+              "name": "2026年全区考试录用公务员进入体能测评人员名单.pdf",
+              "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202604/W020260409543936879601.pdf",
+              "local": "attachments/640100/2026年全区考试录用公务员进入体能测评人员名单.pdf"
+            },
+            {
+              "name": "2026年公安机关录用人民警察体能测评项目和标准.pdf",
+              "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202604/W020260409543936920154.pdf",
+              "local": "attachments/640100/2026年公安机关录用人民警察体能测评项目和标准.pdf"
+            },
+            {
+              "name": "2026年全区考试录用人民警察职位体能测评登记表.pdf",
+              "url": "https://www.nxdjw.gov.cn/nxdjgsgg/202604/W020260409543936973576.pdf",
+              "local": "attachments/640100/2026年全区考试录用人民警察职位体能测评登记表.pdf"
+            }
+          ]
         }
       ]
     },

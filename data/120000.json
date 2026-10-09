@@ -1,7 +1,7 @@
 {
   "adcode": 120000,
   "name": "天津市",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-02",
   "provincePortals": [
     {
       "category": "公务员",
@@ -247,7 +247,18 @@
           "positions": null,
           "source": "天津卫生人才网",
           "url": "https://www.tjwsrc.com/system/2025/09/08/030173981.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年天津市东丽区卫生健康委员会公开招聘高层次人才计划表.xlsx",
+              "url": "https://www.tjwsrc.com/doc/003/001/806/00300180666_e557ad40.xlsx",
+              "local": "attachments/120000/2025年天津市东丽区卫生健康委员会公开招聘高层次人才计划表.xlsx"
+            },
+            {
+              "name": "2025年天津市东丽区卫生健康委员会公开招聘高层次人才报名表.doc",
+              "url": "https://www.tjwsrc.com/doc/003/001/806/00300180667_7384483f.doc",
+              "local": "attachments/120000/2025年天津市东丽区卫生健康委员会公开招聘高层次人才报名表.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -259,7 +270,18 @@
           "positions": null,
           "source": "天津市人才服务中心网",
           "url": "https://zxbm.tjtalents.com.cn/wsbm_ggfb//beifang/WebPage.aspx?id=92af35137e004e08ae816e4a882c2fae",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年《天津市河西区卫生健康系统公开招聘高层次人才计划表》.xls",
+              "url": "https://zxbm.tjtalents.com.cn/wsbm_ggfb/attached/file/20251028/202510281357085d27de55597d4d4195632e0ab7c4f455.xls",
+              "local": "attachments/120000/2025年《天津市河西区卫生健康系统公开招聘高层次人才计划表》.xls"
+            },
+            {
+              "name": "2025年《天津市河西区卫生健康系统公开招聘高层次人才报名表》.doc",
+              "url": "https://zxbm.tjtalents.com.cn/wsbm_ggfb/attached/file/20251028/2025102813565195f07072a59148568bafdd86a6e492b9.doc",
+              "local": "attachments/120000/2025年《天津市河西区卫生健康系统公开招聘高层次人才报名表》.doc"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -271,7 +293,18 @@
           "positions": null,
           "source": "天津市人才服务中心网",
           "url": "https://zxbm.tjtalents.com.cn/wsbm_ggfb//beifang/WebPage.aspx?id=3110c11aba274950a91b3e33afbb9d8d",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年天津市西青区卫健委公开招聘高层次人才报名表.doc",
+              "url": "https://zxbm.tjtalents.com.cn/wsbm_ggfb/attached/file/20260821/20260821160212312712f67f03409e80a66f33dfe3863c.doc",
+              "local": "attachments/120000/2026年天津市西青区卫健委公开招聘高层次人才报名表.doc"
+            },
+            {
+              "name": "2026年天津市西青区卫健委事业单位公开招聘高层次人才计划表.xls",
+              "url": "https://zxbm.tjtalents.com.cn/wsbm_ggfb/attached/file/20260821/202608211601595766f8b448ef46caaefef09cd1f9cb88.xls",
+              "local": "attachments/120000/2026年天津市西青区卫健委事业单位公开招聘高层次人才计划表.xls"
+            }
+          ]
         },
         {
           "year": 2025,

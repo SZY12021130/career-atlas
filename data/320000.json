@@ -1,7 +1,7 @@
 {
   "adcode": 320000,
   "name": "江苏省",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-02",
   "provincePortals": [
     {
       "category": "公务员",
@@ -97,7 +97,18 @@
           "positions": null,
           "source": "江苏省公务员局",
           "url": "https://www.wxjkq.wuxi.gov.cn/doc/2025/11/06/4677369.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年江苏南京rar.rar",
+              "url": "https://wxjkq.wuxi.gov.cn/uploadfiles/202511/06/2025110609184892165820.rar",
+              "local": "attachments/320100/2025年江苏南京rar.rar"
+            },
+            {
+              "name": "2025年江苏南京公告、2.rar",
+              "url": "https://wxjkq.wuxi.gov.cn/uploadfiles/202511/06/2025110609175179920008.rar",
+              "local": "attachments/320100/2025年江苏南京公告、2.rar"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -206,6 +217,11 @@
               "name": "无锡市2026年市属事业单位统一公开招聘人员岗位简介表",
               "url": "https://hrss.wuxi.gov.cn/uploadfiles/202603/18/2026031816105785930490.xlsx",
               "local": "attachments/320200/2026年无锡市市属事业单位统一公开招聘人员岗位简介表.xlsx"
+            },
+            {
+              "name": "2026年江苏无锡咨询与监督电话.xls",
+              "url": "https://hrss.wuxi.gov.cn/uploadfiles/202603/18/2026031815041851295982.XLS",
+              "local": "attachments/320200/2026年江苏无锡咨询与监督电话.xls"
             }
           ]
         },
@@ -242,7 +258,13 @@
           "positions": null,
           "source": "无锡市人力资源和社会保障局",
           "url": "https://hrss.wuxi.gov.cn/doc/2026/07/21/4807979.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年江苏附件：无锡市市属事业单位统一公开招聘拟聘用人员名单（一）.xlsx",
+              "url": "https://hrss.wuxi.gov.cn/uploadfiles/202607/21/2026072114174218395775.xlsx",
+              "local": "attachments/320200/2026年江苏附件：无锡市市属事业单位统一公开招聘拟聘用人员名单（一）.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -289,7 +311,13 @@
           "positions": null,
           "source": "中共徐州市委组织部、徐州市公务员局",
           "url": "http://www.xzdj.cn/Item/24182.aspx",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年江苏徐州市考录职位简介表.xls",
+              "url": "http://www.xzdj.cn/UploadFiles/gwyklzl/2025/10/202510311646223509.xls",
+              "local": "attachments/320300/2026年江苏徐州市考录职位简介表.xls"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -301,7 +329,28 @@
           "positions": null,
           "source": "中共徐州市委组织部、徐州市人力资源和社会保障局",
           "url": "https://hrss.xz.gov.cn/001/001004/20260320/9545437c-677a-4dac-bcc9-476e7e0773d1.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年江苏徐州市事业单位统一公开招聘岗位表.xls",
+              "url": "https://hrss.xz.gov.cn/rsj/9545437c-677a-4dac-bcc9-476e7e0773d1/cb0023f2-652e-4557-b750-8e3362656a0b/%E9%99%84%E4%BB%B61%EF%BC%9A%E5%BE%90%E5%B7%9E%E5%B8%822026%E5%B9%B4%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E7%BB%9F%E4%B8%80%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B2%97%E4%BD%8D%E8%A1%A8.xls",
+              "local": "attachments/320300/2026年江苏徐州市事业单位统一公开招聘岗位表.xls"
+            },
+            {
+              "name": "2026年江苏徐州招聘主管部门网址（公众号）和联系电话.xls",
+              "url": "https://hrss.xz.gov.cn/rsj/9545437c-677a-4dac-bcc9-476e7e0773d1/d80394d3-de3a-4696-8fee-8c51ca63f1a3/%E9%99%84%E4%BB%B62%EF%BC%9A%E6%8B%9B%E8%81%98%E4%B8%BB%E7%AE%A1%E9%83%A8%E9%97%A8%E7%BD%91%E5%9D%80%EF%BC%88%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%89%E5%92%8C%E8%81%94%E7%B3%BB%E7%94%B5%E8%AF%9D.xls",
+              "local": "attachments/320300/2026年江苏徐州招聘主管部门网址（公众号）和联系电话.xls"
+            },
+            {
+              "name": "2026年江苏省考试录用公务员专业参考目录.doc",
+              "url": "https://hrss.xz.gov.cn/rsj/9545437c-677a-4dac-bcc9-476e7e0773d1/3dc39183-d517-4aa1-9557-0a5122539b39/%E9%99%84%E4%BB%B63%EF%BC%9A%E6%B1%9F%E8%8B%8F%E7%9C%812026%E5%B9%B4%E5%BA%A6%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E4%B8%93%E4%B8%9A%E5%8F%82%E8%80%83%E7%9B%AE%E5%BD%95.doc",
+              "local": "attachments/320300/2026年江苏省考试录用公务员专业参考目录.doc"
+            },
+            {
+              "name": "2026年江苏省省属事业单位统一公开招聘人员公共科目笔试考试大纲.doc",
+              "url": "https://hrss.xz.gov.cn/rsj/9545437c-677a-4dac-bcc9-476e7e0773d1/c35321ab-02f9-47fc-bee4-80e6766a3c7d/%E9%99%84%E4%BB%B64%EF%BC%9A%E6%B1%9F%E8%8B%8F%E7%9C%812026%E5%B9%B4%E7%9C%81%E5%B1%9E%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E7%BB%9F%E4%B8%80%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E4%BA%BA%E5%91%98%E5%85%AC%E5%85%B1%E7%A7%91%E7%9B%AE%E7%AC%94%E8%AF%95%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B2.doc",
+              "local": "attachments/320300/2026年江苏省省属事业单位统一公开招聘人员公共科目笔试考试大纲.doc"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -325,7 +374,13 @@
           "positions": null,
           "source": "徐州市人力资源和社会保障局",
           "url": "https://hrss.xz.gov.cn/001/001004/20250304/ec75a3b6-e966-4e3a-84d6-d53883e9a5d8.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年江苏徐州市市直事业单位高层次、紧缺型人才目录.xls",
+              "url": "https://hrss.xz.gov.cn/rsj/ec75a3b6-e966-4e3a-84d6-d53883e9a5d8/0a1c2774-95db-4bfa-a880-6578947643d6/2025%E5%B9%B4%E5%BA%A6%E5%BE%90%E5%B7%9E%E5%B8%82%E5%B8%82%E7%9B%B4%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E9%AB%98%E5%B1%82%E6%AC%A1%E3%80%81%E7%B4%A7%E7%BC%BA%E5%9E%8B%E4%BA%BA%E6%89%8D%E7%9B%AE%E5%BD%95.xls",
+              "local": "attachments/320300/2025年江苏徐州市市直事业单位高层次、紧缺型人才目录.xls"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -337,7 +392,13 @@
           "positions": null,
           "source": "徐州市人力资源和社会保障局",
           "url": "http://hrss.xz.gov.cn/001/001004/20260805/10ccf562-4f00-42a9-b9b2-a6c4fe0b490f.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年江苏徐州市事业单位统一公开招聘拟聘人员名单（四）.xls",
+              "url": "http://hrss.xz.gov.cn/rsj/10ccf562-4f00-42a9-b9b2-a6c4fe0b490f/580e333b-baaf-436f-b31a-352fef312943/%E5%BE%90%E5%B7%9E%E5%B8%822026%E5%B9%B4%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E7%BB%9F%E4%B8%80%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E6%8B%9F%E8%81%98%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%88%E5%9B%9B%EF%BC%89.xls",
+              "local": "attachments/320300/2026年江苏徐州市事业单位统一公开招聘拟聘人员名单（四）.xls"
+            }
+          ]
         }
       ]
     },
@@ -397,6 +458,21 @@
               "name": "2026年常州市事业单位统一公开招聘工作人员岗位表",
               "url": "https://rsj.changzhou.gov.cn/uploadfile/czrsj/2026/0318/20260318164643_76475.xlsx",
               "local": "attachments/320400/2026年常州市事业单位统一公开招聘工作人员岗位表.xlsx"
+            },
+            {
+              "name": "2026年江苏省考试录用公务员专业参考目录.doc",
+              "url": "https://rsj.changzhou.gov.cn/uploadfile/czrsj/2026/0318/20260318160718_62370.doc",
+              "local": "attachments/320400/2026年江苏省考试录用公务员专业参考目录.doc"
+            },
+            {
+              "name": "2026年江苏省省属事业单位统一公开招聘人员公共科目笔试考试大纲.doc",
+              "url": "https://rsj.changzhou.gov.cn/uploadfile/czrsj/2026/0318/20260318160800_77707.doc",
+              "local": "attachments/320400/2026年江苏省省属事业单位统一公开招聘人员公共科目笔试考试大纲.doc"
+            },
+            {
+              "name": "2026年江苏常州咨询与监督电话.xlsx",
+              "url": "https://rsj.changzhou.gov.cn/uploadfile/czrsj/2026/0318/20260318160814_63340.xlsx",
+              "local": "attachments/320400/2026年江苏常州咨询与监督电话.xlsx"
             }
           ]
         },
@@ -468,6 +544,16 @@
               "name": "苏州市2026年度考试录用公务员职位简介表",
               "url": "https://www.suzhou.gov.cn/szsrmzf/gwyjsydwklxx/202510/a45abee782ad42e4bad5f0ab076f3bd1/files/8373982bdec245b298.xls",
               "local": "attachments/320500/2026年苏州市考试录用公务员职位简介表.xls"
+            },
+            {
+              "name": "2025年江苏苏州市2026年度考录职位简介表.xls",
+              "url": "https://www.suzhou.gov.cn/szsrmzf/gwyjsydwklxx/202510/a45abee782ad42e4bad5f0ab076f3bd1/files/8373982bdec245b29ca969e1b8abf761.xls",
+              "local": "attachments/320500/2025年江苏苏州市2026年度考录职位简介表.xls"
+            },
+            {
+              "name": "2025年江苏省2026年度考试录用公务员专业参考目录.doc",
+              "url": "https://www.suzhou.gov.cn/szsrmzf/gwyjsydwklxx/202510/a45abee782ad42e4bad5f0ab076f3bd1/files/9e45a6ea792749a8b7d820c37dec3b3f.doc",
+              "local": "attachments/320500/2025年江苏省2026年度考试录用公务员专业参考目录.doc"
             }
           ]
         },
@@ -486,6 +572,26 @@
               "name": "苏州市2026年市属事业单位公开招聘工作人员岗位简介表",
               "url": "https://hrss.suzhou.gov.cn/szrskszl/sydwkszt/202603/c6fb537f773c4ef7a953b94ab20eeead/files/f76efb5e55614cad86c.xls",
               "local": "attachments/320500/2026年苏州市市属事业单位公开招聘工作人员岗位简介表.xls"
+            },
+            {
+              "name": "2026年江苏.苏州市市属事业单位公开招聘工作人员岗位简介表.xls",
+              "url": "https://hrss.suzhou.gov.cn/szrskszl/sydwkszt/202603/c6fb537f773c4ef7a953b94ab20eeead/files/f76efb5e55614cad86c848f1b5224b11.xls",
+              "local": "attachments/320500/2026年江苏.苏州市市属事业单位公开招聘工作人员岗位简介表.xls"
+            },
+            {
+              "name": "2026年江苏.苏州市市属事业单位公开招聘工作人员报考须知.docx",
+              "url": "https://hrss.suzhou.gov.cn/szrskszl/sydwkszt/202603/c6fb537f773c4ef7a953b94ab20eeead/files/02d1c8284d534a70a06e36efeaf588b8.docx",
+              "local": "attachments/320500/2026年江苏.苏州市市属事业单位公开招聘工作人员报考须知.docx"
+            },
+            {
+              "name": "2026年江苏省省属事业单位统一公开招聘人员公共科目笔试考试大纲.docx",
+              "url": "https://hrss.suzhou.gov.cn/szrskszl/sydwkszt/202603/c6fb537f773c4ef7a953b94ab20eeead/files/070daa5741d14cfe80c7404ec40fe700.docx",
+              "local": "attachments/320500/2026年江苏省省属事业单位统一公开招聘人员公共科目笔试考试大纲.docx"
+            },
+            {
+              "name": "2026年江苏.苏州市市属事业单位公开招聘咨询电话一览表.xls",
+              "url": "https://hrss.suzhou.gov.cn/szrskszl/sydwkszt/202603/c6fb537f773c4ef7a953b94ab20eeead/files/346049a64aa44dcda7e6e2ebd9cb7cad.xls",
+              "local": "attachments/320500/2026年江苏.苏州市市属事业单位公开招聘咨询电话一览表.xls"
             }
           ]
         },
@@ -555,7 +661,18 @@
           "positions": null,
           "source": "中共南通市委组织部、南通市公务员局",
           "url": "https://rsj.nantong.gov.cn/ntsrsj/gwyzlkszl/content/ed514208-64eb-446c-aef7-a36a21938641.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年江苏南通市2026年度考试录用公务员（参照管理单位工作人员）职位简介表.xls",
+              "url": "https://rsj.nantong.gov.cn/ntsrsj/upload/b6fe2463-850c-4cf1-854e-d2d3df393e06.xls",
+              "local": "attachments/320600/2025年江苏南通市2026年度考试录用公务员（参照管理单位工作人员）职位简介表.xls"
+            },
+            {
+              "name": "2025年江苏南通省属监狱、省统计局驻通机构2026年度考试录用公务员职位简介表.xls",
+              "url": "https://rsj.nantong.gov.cn/ntsrsj/upload/d03bd752-f102-4f2d-8ed3-6ca63b17e033.xls",
+              "local": "attachments/320600/2025年江苏南通省属监狱、省统计局驻通机构2026年度考试录用公务员职位简介表.xls"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -567,7 +684,23 @@
           "positions": null,
           "source": "中共南通市委组织部、南通市人力资源和社会保障局",
           "url": "https://dj.nantong.gov.cn/ntdjw/tzggt/content/cf83902e-12cd-4b9f-a50f-0ca628f50a78.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年江苏.南通市市属事业单位统一公开招聘工作人员岗位简介表.pdf",
+              "url": "https://dj.nantong.gov.cn/ntdjw/upload/e088790e-8858-4aed-8b15-d09c52463501.pdf",
+              "local": "attachments/320600/2026年江苏.南通市市属事业单位统一公开招聘工作人员岗位简介表.pdf"
+            },
+            {
+              "name": "2026年江苏.南通市市属事业单位统一公开招聘工作人员应聘须知.doc",
+              "url": "https://dj.nantong.gov.cn/ntdjw/upload/1c95d0cd-7653-4d9a-b3f2-ff8c5067cd5c.doc",
+              "local": "attachments/320600/2026年江苏.南通市市属事业单位统一公开招聘工作人员应聘须知.doc"
+            },
+            {
+              "name": "2026年江苏南通.招聘咨询与监督电话.xlsx",
+              "url": "https://dj.nantong.gov.cn/ntdjw/upload/70064e6d-8e73-44c0-b2d2-3297654cfa63.xlsx",
+              "local": "attachments/320600/2026年江苏南通.招聘咨询与监督电话.xlsx"
+            }
+          ]
         },
         {
           "year": 2024,
@@ -683,7 +816,7 @@
           "category": "录用公示",
           "subCategory": null,
           "title": "连云港市2025年度考试录用公务员拟录用人员名单（第四批）公示",
-          "date": null,
+          "date": "2026-02-08",
           "headcount": null,
           "positions": null,
           "source": "中共连云港市委组织部",
@@ -737,6 +870,36 @@
               "name": "淮安市2026年度考试录用公务员职位简介表",
               "url": "http://zzb.huaian.gov.cn/upload/2025-10/90eb21a1-1933-438c-9b7e-8a88d0531436.xls",
               "local": "attachments/320800/2026年淮安市考试录用公务员职位简介表.xls"
+            },
+            {
+              "name": "2025年江苏省 2026 年度考试录用公务员专业参考目录 .doc",
+              "url": "http://zzb.huaian.gov.cn/upload/2025-10/3fe0a689-a29b-4b24-8016-c543be35a06e.doc",
+              "local": "attachments/320800/2025年江苏省 2026 年度考试录用公务员专业参考目录 .doc"
+            },
+            {
+              "name": "2025年江苏省 2026 年度考试录用公务员报考指南 .doc",
+              "url": "http://zzb.huaian.gov.cn/upload/2025-10/9963ca66-0034-436d-922b-47202c668043.doc",
+              "local": "attachments/320800/2025年江苏省 2026 年度考试录用公务员报考指南 .doc"
+            },
+            {
+              "name": "2025年江苏淮安市 2026 年度考试录用公务员有关问题解释 .doc",
+              "url": "http://zzb.huaian.gov.cn/upload/2025-10/426452bf-4d3b-4364-9c60-dcdabc2f530f.doc",
+              "local": "attachments/320800/2025年江苏淮安市 2026 年度考试录用公务员有关问题解释 .doc"
+            },
+            {
+              "name": "2025年江苏省 2026 年度考试录用公安机关公务员（人民警察）简章 .docx",
+              "url": "http://zzb.huaian.gov.cn/upload/2025-10/44b84b17-cce6-4ee0-a833-1508fceb1f7b.docx",
+              "local": "attachments/320800/2025年江苏省 2026 年度考试录用公安机关公务员（人民警察）简章 .docx"
+            },
+            {
+              "name": "2025年江苏省 2026 年度考试录用人民法院法官助理、人民检察院检察官助理简章 .doc",
+              "url": "http://zzb.huaian.gov.cn/upload/2025-10/41105841-357f-49a1-a779-b3959a4e71f5.doc",
+              "local": "attachments/320800/2025年江苏省 2026 年度考试录用人民法院法官助理、人民检察院检察官助理简章 .doc"
+            },
+            {
+              "name": "2025年江苏省 2026 年度考试录用司法行政系统公务员（人民警察）简章 .docx",
+              "url": "http://zzb.huaian.gov.cn/upload/2025-10/335d16b7-db9c-4510-a2c3-e3d7587d4418.docx",
+              "local": "attachments/320800/2025年江苏省 2026 年度考试录用司法行政系统公务员（人民警察）简章 .docx"
             }
           ]
         },
@@ -755,6 +918,16 @@
               "name": "2026年淮安市事业单位统一公开招聘人员岗位表",
               "url": "http://rsj.huaian.gov.cn/upload/2026-03/39aaa73c-1d0f-4fef-8bae-dcf79f8e32b4.xls",
               "local": "attachments/320800/2026年淮安市事业单位统一公开招聘人员岗位表.xls"
+            },
+            {
+              "name": "2026年江苏省考试录用公务员专业参考目录.doc",
+              "url": "http://rsj.huaian.gov.cn/upload/2026-03/a9999a30-9b73-44f2-873c-d92c345cea16.doc",
+              "local": "attachments/320800/2026年江苏省考试录用公务员专业参考目录.doc"
+            },
+            {
+              "name": "2026年江苏淮安市事业单位统一公开招聘人员报考指南.doc",
+              "url": "http://rsj.huaian.gov.cn/upload/2026-03/6ad16291-2492-4dbc-82fb-0d7ce4d6b4a3.doc",
+              "local": "attachments/320800/2026年江苏淮安市事业单位统一公开招聘人员报考指南.doc"
             }
           ]
         },
@@ -780,7 +953,23 @@
           "positions": null,
           "source": "中共淮安市委组织部、淮安市人力资源和社会保障局",
           "url": "http://rsj.huaian.gov.cn/col/4588_227787/art/17303904/1731464442399bXe0Q41P.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年江苏省淮安市引进“名校优生”（教育类）岗位表.xls",
+              "url": "http://rsj.huaian.gov.cn/upload/2024-11/38ae2adb-17f9-4db4-96eb-f63a20d25bf6.xls",
+              "local": "attachments/320800/2025年江苏省淮安市引进“名校优生”（教育类）岗位表.xls"
+            },
+            {
+              "name": "2025年江苏省淮安市引进“名校优生”（教育类）专业参考目录.xls",
+              "url": "http://rsj.huaian.gov.cn/upload/2024-11/55140bf8-a4a5-4398-afe8-6f20737a041b.xls",
+              "local": "attachments/320800/2025年江苏省淮安市引进“名校优生”（教育类）专业参考目录.xls"
+            },
+            {
+              "name": "2025年江苏省淮安市引进“名校优生”（教育类）报名表.doc",
+              "url": "http://rsj.huaian.gov.cn/upload/2024-11/2839afaa-f410-457e-b7bc-eba769929e40.doc",
+              "local": "attachments/320800/2025年江苏省淮安市引进“名校优生”（教育类）报名表.doc"
+            }
+          ]
         }
       ]
     },
@@ -826,6 +1015,11 @@
               "name": "盐城市2026年度考录职位简介表（含垂直管理机构）",
               "url": "http://site.ycnews.cn/a/10007/202510/0908d196fc2acfeab754083e6a42ca3d.xls",
               "local": "attachments/320900/2026年盐城市考试录用公务员考录职位简介表（含垂直管理机构）.xls"
+            },
+            {
+              "name": "2025年江苏01-01-盐城市2026年度考录职位简介表（含垂直管理机构）.xls",
+              "url": "https://img.ycnews.cn/a/10007/202510/0908d196fc2acfeab754083e6a42ca3d.xls?201504091823",
+              "local": "attachments/320900/2025年江苏01-01-盐城市2026年度考录职位简介表（含垂直管理机构）.xls"
             }
           ]
         },
@@ -844,6 +1038,11 @@
               "name": "盐城市2026年事业单位统一公开招聘岗位表",
               "url": "https://jsychrss.yancheng.gov.cn/module/download/downfile.jsp?classid=0&filename=63f6c9f18bbc4747b782d39df0b343ee.xls",
               "local": "attachments/320900/2026年盐城市事业单位统一公开招聘岗位表.xls"
+            },
+            {
+              "name": "2026年江苏省考试录用公务员专业参考目录.doc",
+              "url": "https://jsychrss.yancheng.gov.cn/module/download/downfile.jsp?classid=0&filename=f3d956f8d9f04a0e84f58ab43a6ee035.doc",
+              "local": "attachments/320900/2026年江苏省考试录用公务员专业参考目录.doc"
             }
           ]
         },
@@ -955,12 +1154,23 @@
           "category": "录用公示",
           "subCategory": null,
           "title": "扬州市2026年市属事业单位公开招聘拟聘用人员名单公示（第一批）",
-          "date": null,
+          "date": "2026-07-13",
           "headcount": null,
           "positions": null,
           "source": "扬州市人力资源和社会保障局",
           "url": "https://hrss.yangzhou.gov.cn/ztzl/zlzp/art/2026/art_9897011dca7f41c99df5505b0558dc67.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年江苏扬州市市属事业单位统一公开招聘工作人员拟聘用人员名单（一）.xlsx",
+              "url": "https://hrss.yangzhou.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6CUCkHsP37K%2FZEGW9Da%2BU6lyYkLnD%2Bsws7uAS068ohMwdlkTyhkMC52J4K3JMLKTQEnTu4p8JjqAuaEmFcSfpZzrp%2Bn7LF19c3zq%2BaqMo7XFAoglWuqtPGk8Irn5BCG%2FSMAvtp3I80szNb3n5RcJOqI%3D&fileName=2026%E5%B9%B4%E6%89%AC%E5%B7%9E%E5%B8%82%E5%B8%82%E5%B1%9E%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E7%BB%9F%E4%B8%80%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8B%9F%E8%81%98%E7%94%A8%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%88%E4%B8%80%EF%BC%89.xlsx",
+              "local": "attachments/321000/2026年江苏扬州市市属事业单位统一公开招聘工作人员拟聘用人员名单（一）.xlsx"
+            },
+            {
+              "name": "2026年江苏扬州市市属事业单位统一公开招聘工作人员拟聘用人员名单（二）.xlsx",
+              "url": "https://hrss.yangzhou.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6CUCkHsP37K%2FZEGW9Da%2BU6mykjut0MtDXuTZU1B5nBj5Aeg6FzlN7LT%2Btr%2FgdZ0F5H1xj1fZI9tjZBZ7t1JXmtnrp%2Bn7LF19c3zq%2BaqMo7XFAoglWuqtPGk8Irn5BCG%2FSMAvtp3I80szNb3n5RcJOqI%3D&fileName=2026%E5%B9%B4%E6%89%AC%E5%B7%9E%E5%B8%82%E5%B8%82%E5%B1%9E%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E7%BB%9F%E4%B8%80%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8B%9F%E8%81%98%E7%94%A8%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%88%E4%BA%8C%EF%BC%89.xlsx",
+              "local": "attachments/321000/2026年江苏扬州市市属事业单位统一公开招聘工作人员拟聘用人员名单（二）.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -1015,7 +1225,18 @@
           "positions": null,
           "source": "镇江市人力资源和社会保障局",
           "url": "https://hrss.zhenjiang.gov.cn/hrss/kskg/ztzl_ks.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年江苏镇江事业单位公开招聘违纪违规....doc",
+              "url": "https://hrss.zhenjiang.gov.cn/hrss/file/srlzyhshbz/xwzx/ks/zcfg/201901/P020190104337622335178.doc",
+              "local": "attachments/321100/2026年江苏镇江事业单位公开招聘违纪违规....doc"
+            },
+            {
+              "name": "2026年江苏镇江专业技术人员资格考试违纪....docx",
+              "url": "https://hrss.zhenjiang.gov.cn/hrss/file/srlzyhshbz/xwzx/ks/zcfg/201802/P020180228486793858299.docx",
+              "local": "attachments/321100/2026年江苏镇江专业技术人员资格考试违纪....docx"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -1087,6 +1308,11 @@
               "name": "泰州市2026年度考试录用公务员职位简介表（含垂直管理机构）",
               "url": "http://djw.taizhou.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2Ft",
               "local": "attachments/321200/2026年泰州市考试录用公务员职位简介表（含垂直管理机构）.xls"
+            },
+            {
+              "name": "2025年江苏泰州市2026年度考试录用公务员职位简介表（含垂直管理机构）.xls",
+              "url": "http://djw.taizhou.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6Di%2FAcycVgzSe9RRngAG11ZNiOC4KZqnB%2B%2F9xh%2BmBnV%2FbD3%2FDuIykxnx3HFUTeilmkCOuQDLlGPqT7azJS9dh2BEjdJejmp3KHiCbEwDulgZHGHBhZV%2FoJy7KglHrhR7xtk89YRtN9PAZ9g4Qsb4POI%3D&fileName=%E6%B3%B0%E5%B7%9E%E5%B8%822026%E5%B9%B4%E5%BA%A6%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E8%81%8C%E4%BD%8D%E7%AE%80%E4%BB%8B%E8%A1%A8%EF%BC%88%E5%90%AB%E5%9E%82%E7%9B%B4%E7%AE%A1%E7%90%86%E6%9C%BA%E6%9E%84%EF%BC%89.xls",
+              "local": "attachments/321200/2025年江苏泰州市2026年度考试录用公务员职位简介表（含垂直管理机构）.xls"
             }
           ]
         },
@@ -1095,7 +1321,7 @@
           "category": "事业单位",
           "subCategory": null,
           "title": "泰州市2026年市直事业单位统一公开招聘人员公告",
-          "date": null,
+          "date": "2026-03-18",
           "headcount": 56,
           "positions": null,
           "source": "泰州市人力资源和社会保障局",
@@ -1105,6 +1331,16 @@
               "name": "泰州市2026年市直事业单位公开招聘工作人员岗位表",
               "url": "https://rsj.taizhou.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2F",
               "local": "attachments/321200/2026年泰州市市直事业单位公开招聘工作人员岗位表.xls"
+            },
+            {
+              "name": "2026年江苏《泰州市市直事业单位公开招聘工作人员岗位表》.xls",
+              "url": "https://rsj.taizhou.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6P5h3sxegI9w9DO5wwzTQef256H6qB6EL9Y0bv3R5A%2FBnOP6PAbsZss79oHkvRp87yZPbnSu0JjqaJJvo6czmtsFkt5MXrDbtQ9X9sMKSCalkgpiYu%2ByAkziTM%2FF8ynMXlZYxuEbj8ogGq55QE7kTJw%3D&fileName=%E3%80%8A%E6%B3%B0%E5%B7%9E%E5%B8%822026%E5%B9%B4%E5%B8%82%E7%9B%B4%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%B2%97%E4%BD%8D%E8%A1%A8%E3%80%8B.xls",
+              "local": "attachments/321200/2026年江苏《泰州市市直事业单位公开招聘工作人员岗位表》.xls"
+            },
+            {
+              "name": "2026年江苏《泰州市市直事业单位公开招聘工作人员专业参考目录》.doc",
+              "url": "https://rsj.taizhou.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6P5h3sxegI9w9DO5wwzTQefwKT8tpWnFQBSC3d89p9UCQ7%2BvG19XfVvJ2XG7DMpGDop8zrHlrCpNrvTeykTOQOzd8a%2BCnX9E53a9HZ3YOolTkgpiYu%2ByAkziTM%2FF8ynMXlZYxuEbj8ogGq55QE7kTJw%3D&fileName=%E3%80%8A%E6%B3%B0%E5%B7%9E%E5%B8%822026%E5%B9%B4%E5%B8%82%E7%9B%B4%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E4%B8%93%E4%B8%9A%E5%8F%82%E8%80%83%E7%9B%AE%E5%BD%95%E3%80%8B.doc",
+              "local": "attachments/321200/2026年江苏《泰州市市直事业单位公开招聘工作人员专业参考目录》.doc"
             }
           ]
         },
@@ -1196,7 +1432,18 @@
           "positions": null,
           "source": "宿迁市人力资源和社会保障局",
           "url": "https://sqhrss.suqian.gov.cn/rlzyj/rsxx/202603/65d58cc33c89406bac17ae1da67b445a.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年江苏宿迁市市属事业单位公开招聘岗位表.xlsx",
+              "url": "https://sqhrss.suqian.gov.cn/rlzyj/rsxx/202603/65d58cc33c89406bac17ae1da67b445a/files/b3be9afe6dde40e299c7e32b5c949a17.xlsx",
+              "local": "attachments/321300/2026年江苏宿迁市市属事业单位公开招聘岗位表.xlsx"
+            },
+            {
+              "name": "2026年江苏省考试录用公务员专业参考目录.pdf",
+              "url": "https://sqhrss.suqian.gov.cn/rlzyj/rsxx/202603/65d58cc33c89406bac17ae1da67b445a/files/d892551ad85d44bdb4c130a30023519e.pdf",
+              "local": "attachments/321300/2026年江苏省考试录用公务员专业参考目录.pdf"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -1227,7 +1474,7 @@
           "category": "录用公示",
           "subCategory": null,
           "title": "宿迁市2025年选聘应届紧缺专业毕业生拟聘用人员公示（第二批）",
-          "date": null,
+          "date": "2025-07-16",
           "headcount": null,
           "positions": null,
           "source": "中共宿迁市委组织部",

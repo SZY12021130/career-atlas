@@ -1,7 +1,7 @@
 {
   "adcode": 330000,
   "name": "浙江省",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-02",
   "provincePortals": [
     {
       "category": "公务员",
@@ -94,7 +94,13 @@
           "positions": null,
           "source": "杭州市人力资源和社会保障局",
           "url": "https://www.hangzhou.gov.cn/art/2025/3/18/art_1229063421_4338344.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年浙江杭州市市属事业单位统一公开招聘计划表.xls",
+              "url": "https://www.hangzhou.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web3163/site/attach/0/2eea0b6af31f4e519fcf8b4c7c95e8ca.xls",
+              "local": "attachments/330100/2025年浙江杭州市市属事业单位统一公开招聘计划表.xls"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -113,7 +119,7 @@
           "category": "录用公示",
           "subCategory": null,
           "title": "2026年杭州市市直机关单位考试录用公务员拟录用公示名单（十三）",
-          "date": null,
+          "date": "2026-07-30",
           "headcount": null,
           "positions": null,
           "source": "浙江省公务员考试录用网",
@@ -130,7 +136,13 @@
           "positions": null,
           "source": "杭州市人力资源和社会保障局",
           "url": "https://hrss.hangzhou.gov.cn/art/2025/9/25/art_1229782005_4407661.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年浙江杭州浙大城市学院下半年教学科研人员招聘计划.xlsx",
+              "url": "https://hrss.hangzhou.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web3163/site/attach/0/ae75a2be127445ae9ea2ad17b4d3dc99.xlsx",
+              "local": "attachments/330100/2025年浙江杭州浙大城市学院下半年教学科研人员招聘计划.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -219,7 +231,7 @@
           "category": "录用公示",
           "subCategory": null,
           "title": "宁波市级机关单位2026年度考试录用公务员拟录用人员公示（一）",
-          "date": null,
+          "date": "2026-05-11",
           "headcount": null,
           "positions": null,
           "source": "浙江省公务员考试录用网",
@@ -236,7 +248,18 @@
           "positions": null,
           "source": "宁波党建网（东方党建网）",
           "url": "http://web.dfdj.gov.cn/info_show.asp?ArticleID=156472&newstype_id=436",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年浙江宁波支持赛道.pdf",
+              "url": "http://www.dfdj.gov.cn/WebManage/ueditor1_2_4_0-utf8-net/net/upload/2026-02-13/6eee6d4e-9a8c-40cd-a0f6-3e46073e795b.pdf",
+              "local": "attachments/330200/2026年浙江宁波支持赛道.pdf"
+            },
+            {
+              "name": "2026年浙江宁波破格口径.pdf",
+              "url": "http://www.dfdj.gov.cn/WebManage/ueditor1_2_4_0-utf8-net/net/upload/2026-02-13/6514e8a9-02f7-44c7-98d4-1c22b7486059.pdf",
+              "local": "attachments/330200/2026年浙江宁波破格口径.pdf"
+            }
+          ]
         }
       ]
     },
@@ -327,7 +350,7 @@
           "category": "录用公示",
           "subCategory": null,
           "title": "2026年温州市市级机关单位考试录用公务员拟录用人员公示（四）",
-          "date": null,
+          "date": "2026-07-10",
           "headcount": null,
           "positions": null,
           "source": "浙江省公务员考试录用网",
@@ -430,7 +453,7 @@
           "category": "录用公示",
           "subCategory": null,
           "title": "2026年嘉兴市级机关考试录用公务员拟录用人员公示（一）",
-          "date": null,
+          "date": "2026-04-29",
           "headcount": null,
           "positions": null,
           "source": "浙江省公务员考试录用网",
@@ -514,7 +537,6 @@
           "category": "录用公示",
           "subCategory": null,
           "title": "2026年湖州市市级机关单位考试录用公务员拟录用人员名单（一）",
-          "date": null,
           "headcount": null,
           "positions": null,
           "source": "浙江省公务员考试录用网",
@@ -599,7 +621,6 @@
           "category": "录用公示",
           "subCategory": null,
           "title": "绍兴市市级机关单位2026年度考试录用公务员拟录用人员名单（一）",
-          "date": null,
           "headcount": null,
           "positions": null,
           "source": "浙江省公务员考试录用网",
@@ -616,7 +637,13 @@
           "positions": null,
           "source": "绍兴市人力资源和社会保障局",
           "url": "https://rsj.sx.gov.cn/art/2025/7/17/art_1229454481_4227536.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年浙江附件：绍兴市直事业单位公开招聘工作人员公示名单（一）.pdf",
+              "url": "https://rsj.sx.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web3007/site/attach/0/2da79a346ffe4cbea048c39eb60c7f75.pdf",
+              "local": "attachments/330600/2025年浙江附件：绍兴市直事业单位公开招聘工作人员公示名单（一）.pdf"
+            }
+          ]
         }
       ]
     },
@@ -680,7 +707,23 @@
           "positions": null,
           "source": "金华市人力资源和社会保障局",
           "url": "http://rsj.jinhua.gov.cn/art/2025/3/18/art_1229708695_4217894.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年浙江金华市直属事业单位统一公开招聘岗位条件需求表.xls",
+              "url": "http://rsj.jinhua.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web3562/site/attach/0/c91e64f239444c24af162246f796325b.xls",
+              "local": "attachments/330700/2025年浙江金华市直属事业单位统一公开招聘岗位条件需求表.xls"
+            },
+            {
+              "name": "2025年浙江金华公开招聘事业单位工作人员资格复审表.xls",
+              "url": "http://rsj.jinhua.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web3562/site/attach/0/6a3b78f5df4340a89be681b86a881c9a.xls",
+              "local": "attachments/330700/2025年浙江金华公开招聘事业单位工作人员资格复审表.xls"
+            },
+            {
+              "name": "2025年浙江金华考试大纲.pdf",
+              "url": "http://rsj.jinhua.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web3562/site/attach/0/8b36de2e1a8f4ed3aadb878dbaccf6d2.pdf",
+              "local": "attachments/330700/2025年浙江金华考试大纲.pdf"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -699,7 +742,6 @@
           "category": "录用公示",
           "subCategory": null,
           "title": "2026年金华市本级考试录用公务员拟录用人员公示（一）",
-          "date": null,
           "headcount": null,
           "positions": null,
           "source": "浙江省公务员考试录用网",
@@ -765,7 +807,23 @@
           "positions": null,
           "source": "衢州市人力资源和社会保障局",
           "url": "http://rsj.qz.gov.cn/art/2025/8/20/art_1229850746_58929371.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年浙江下半年衢州市属事业单位公开招聘工作人员计划表.xls",
+              "url": "http://rsj.qz.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web2771/site/attach/0/81c83879acae42dea9d9b36df5533d44.xls",
+              "local": "attachments/330800/2025年浙江下半年衢州市属事业单位公开招聘工作人员计划表.xls"
+            },
+            {
+              "name": "2025年浙江衢州市属事业单位公开招聘工作人员资格复审表.docx",
+              "url": "http://rsj.qz.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web2771/site/attach/0/03448452512644eab1e199e4113a6e1e.docx",
+              "local": "attachments/330800/2025年浙江衢州市属事业单位公开招聘工作人员资格复审表.docx"
+            },
+            {
+              "name": "2025年浙江衢州公务员招考专业参考目录.xls",
+              "url": "http://rsj.qz.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web2771/site/attach/0/154eea6c319740f0b3bcb46ec8223989.xls",
+              "local": "attachments/330800/2025年浙江衢州公务员招考专业参考目录.xls"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -784,7 +842,7 @@
           "category": "录用公示",
           "subCategory": null,
           "title": "2026年衢州市级机关单位考试录用公务员拟录用人员名单公示",
-          "date": null,
+          "date": "2026-05-07",
           "headcount": null,
           "positions": null,
           "source": "浙江省公务员考试录用网",
@@ -848,7 +906,18 @@
           "positions": null,
           "source": "舟山市人力资源和社会保障局",
           "url": "https://www.zhoushan.gov.cn/art/2025/8/15/art_1229294426_3926312.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年浙江舟山招聘计划表.xls",
+              "url": "https://www.zhoushan.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web2237/site/attach/0/c85366cb89c74dbab2dba6e805bb3283.xls",
+              "local": "attachments/330900/2025年浙江舟山招聘计划表.xls"
+            },
+            {
+              "name": "2025年浙江舟山同意报考证明.doc",
+              "url": "https://www.zhoushan.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web2237/site/attach/0/32f135671e8a4735b0acbac1c6da1fda.doc",
+              "local": "attachments/330900/2025年浙江舟山同意报考证明.doc"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -867,7 +936,6 @@
           "category": "录用公示",
           "subCategory": null,
           "title": "舟山市市级机关单位2026年度考试录用公务员拟录用人员公示",
-          "date": null,
           "headcount": null,
           "positions": null,
           "source": "浙江省公务员考试录用网",
@@ -936,7 +1004,23 @@
           "positions": null,
           "source": "台州市人力资源和社会保障局",
           "url": "https://rsj.zjtz.gov.cn/art/2025/3/19/art_1229045970_4029293.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年浙江上半年台州市属事业单位公开招聘工作人员一览表.xls",
+              "url": "https://rsj.zjtz.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web3476/site/attach/0/92c148f0389940149d249430a17d2070.xls",
+              "local": "attachments/331000/2025年浙江上半年台州市属事业单位公开招聘工作人员一览表.xls"
+            },
+            {
+              "name": "2025年浙江台州工作经历证明.doc",
+              "url": "https://rsj.zjtz.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web3476/site/attach/0/538765c8a72c4db19f445ebbe191baac.doc",
+              "local": "attachments/331000/2025年浙江台州工作经历证明.doc"
+            },
+            {
+              "name": "2025年浙江台州专业参考目录.zip",
+              "url": "https://rsj.zjtz.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web3476/site/attach/0/19088e6137184c7ba21060fe1e0486c3.zip",
+              "local": "attachments/331000/2025年浙江台州专业参考目录.zip"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -955,7 +1039,7 @@
           "category": "录用公示",
           "subCategory": null,
           "title": "台州市市级机关单位2026年度考试录用公务员拟录用人员名单公示",
-          "date": null,
+          "date": "2026-05-26",
           "headcount": null,
           "positions": null,
           "source": "浙江省公务员考试录用网",
@@ -1024,7 +1108,33 @@
           "positions": null,
           "source": "丽水市人力资源和社会保障局",
           "url": "http://rsj.lishui.gov.cn/art/2025/8/28/art_1229574716_5589963.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年浙江下半年丽水市直事业单位公开招聘人员计划表.xlsx",
+              "url": "http://rsj.lishui.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web3685/site/attach/0/ca9da31b52c04182bd888b21979384cb.xlsx",
+              "local": "attachments/331100/2025年浙江下半年丽水市直事业单位公开招聘人员计划表.xlsx"
+            },
+            {
+              "name": "2025年浙江下半年丽水市直事业单位公开选聘人员计划表.xlsx",
+              "url": "http://rsj.lishui.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web3685/site/attach/0/cd052fdd13d24ac880e623cd5c12c8fb.xlsx",
+              "local": "attachments/331100/2025年浙江下半年丽水市直事业单位公开选聘人员计划表.xlsx"
+            },
+            {
+              "name": "2025年浙江下半年丽水市直事业单位公开招聘人员同意报考证明.doc",
+              "url": "http://rsj.lishui.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web3685/site/attach/0/c1fd440862864c228ec7e7348e7d5762.doc",
+              "local": "attachments/331100/2025年浙江下半年丽水市直事业单位公开招聘人员同意报考证明.doc"
+            },
+            {
+              "name": "2025年浙江下半年丽水市直事业单位公开选聘人员报名表.doc",
+              "url": "http://rsj.lishui.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web3685/site/attach/0/3df12bcca6a744bb8d9ae66f95c1678c.doc",
+              "local": "attachments/331100/2025年浙江下半年丽水市直事业单位公开选聘人员报名表.doc"
+            },
+            {
+              "name": "2025年浙江丽水工作经历证明.doc",
+              "url": "http://rsj.lishui.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web3685/site/attach/0/fbe45481c3b24c20ac2b5302d949f032.doc",
+              "local": "attachments/331100/2025年浙江丽水工作经历证明.doc"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -1043,7 +1153,7 @@
           "category": "录用公示",
           "subCategory": null,
           "title": "2026丽水市市级机关单位专项招录公务员拟录用人员公示",
-          "date": null,
+          "date": "2026-06-17",
           "headcount": null,
           "positions": null,
           "source": "浙江省公务员考试录用网",

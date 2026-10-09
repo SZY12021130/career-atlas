@@ -1,7 +1,7 @@
 {
   "adcode": 460000,
   "name": "海南省",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-03",
   "provincePortals": [
     {
       "category": "公务员",
@@ -67,7 +67,33 @@
           "positions": null,
           "source": "南海先锋网（中共海南省委组织部）",
           "url": "https://www.hainan.gov.cn/hainan/gwyzk/202501/0fc2bceb2a9f45bfa02a08d10365950d.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年海南省考试录用公务员职位表.xls",
+              "url": "https://www.hainan.gov.cn/hainan/gwyzk/202501/0fc2bceb2a9f45bfa02a08d10365950d/files/8492ea9f08064b1cb312093d9311f52f.xls",
+              "local": "attachments/460100/2025年海南省考试录用公务员职位表.xls"
+            },
+            {
+              "name": "2025年海南省考试录用公务员报考指南.docx",
+              "url": "https://www.hainan.gov.cn/hainan/gwyzk/202501/0fc2bceb2a9f45bfa02a08d10365950d/files/cdec36f39e8b422aa217918059e54f00.docx",
+              "local": "attachments/460100/2025年海南省考试录用公务员报考指南.docx"
+            },
+            {
+              "name": "2025年海南海口公安机关人民警察职位专业科目笔试考试大纲.docx",
+              "url": "https://www.hainan.gov.cn/hainan/gwyzk/202501/0fc2bceb2a9f45bfa02a08d10365950d/files/e6a53c35475c40aa9fc39114726c31fd.docx",
+              "local": "attachments/460100/2025年海南海口公安机关人民警察职位专业科目笔试考试大纲.docx"
+            },
+            {
+              "name": "2025年海南省考试录用公务员咨询电话一览表.xls",
+              "url": "https://www.hainan.gov.cn/hainan/gwyzk/202501/0fc2bceb2a9f45bfa02a08d10365950d/files/d95cfd0c2cfc4eb3842009b2a939a0dc.xls",
+              "local": "attachments/460100/2025年海南省考试录用公务员咨询电话一览表.xls"
+            },
+            {
+              "name": "2025年海南省考试录用公务员专业参考目录.zip",
+              "url": "https://www.hainan.gov.cn/hainan/gwyzk/202501/0fc2bceb2a9f45bfa02a08d10365950d/files/3028348cf32a4f66a355317dfebbaa03.zip",
+              "local": "attachments/460100/2025年海南省考试录用公务员专业参考目录.zip"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -79,7 +105,33 @@
           "positions": null,
           "source": "南海先锋网（中共海南省委组织部）",
           "url": "https://www.nanhaixf.gov.cn/articles/59/48852.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年海南省考试录用公务员职位表.xls",
+              "url": "https://www.nanhaixf.gov.cn/uploads/1/file/2026/01/20260115103924732_i2oefyac89ua.xls",
+              "local": "attachments/460100/2026年海南省考试录用公务员职位表.xls"
+            },
+            {
+              "name": "2026年海南省考试录用公务员报考指南.docx",
+              "url": "https://www.nanhaixf.gov.cn/uploads/1/file/2026/01/20260115103909642_nej4gy9bwuo4.docx",
+              "local": "attachments/460100/2026年海南省考试录用公务员报考指南.docx"
+            },
+            {
+              "name": "2026年海南海口公安机关人民警察职位专业科目笔试考试大纲.docx",
+              "url": "https://www.nanhaixf.gov.cn/uploads/1/file/2026/01/20260115103953780_9t9tksilp1dd.docx",
+              "local": "attachments/460100/2026年海南海口公安机关人民警察职位专业科目笔试考试大纲.docx"
+            },
+            {
+              "name": "2026年海南省考试录用公务员专业参考目录.zip",
+              "url": "https://www.nanhaixf.gov.cn/uploads/1/file/2026/01/20260115103943211_k9bnlj0i416x.zip",
+              "local": "attachments/460100/2026年海南省考试录用公务员专业参考目录.zip"
+            },
+            {
+              "name": "2026年海南省考试录用公务员咨询电话一览表.xls",
+              "url": "https://www.nanhaixf.gov.cn/uploads/1/file/2026/01/20260115104004334_2jmlw3uxze18.xls",
+              "local": "attachments/460100/2026年海南省考试录用公务员咨询电话一览表.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -91,7 +143,13 @@
           "positions": null,
           "source": "南海先锋网（中共海南省委组织部）",
           "url": "https://www.nanhaixf.gov.cn/articles/59/46364.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年附件&#xff1a;海南省第二批选调应届优秀大学毕业生拟录用人选名单.pdf",
+              "url": "https://www.nanhaixf.gov.cn/uploads/1/file/2025/07/20250709205955327_xytjttlgcw0y.pdf",
+              "local": "attachments/460100/2025年附件&#xff1a;海南省第二批选调应届优秀大学毕业生拟录用人选名单.pdf"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -115,7 +173,38 @@
           "positions": null,
           "source": "海口市美兰区人民政府网",
           "url": "http://mlqzf.haikou.gov.cn/xgk/gsgg/202502/t1405813.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年海口市美兰区事业单位公开招聘工作人员职位表.xlsx",
+              "url": "http://mlqzf.haikou.gov.cn/xgk/gsgg/202502/P020250205403458947019.xlsx",
+              "local": "attachments/460100/2025年海口市美兰区事业单位公开招聘工作人员职位表.xlsx"
+            },
+            {
+              "name": "2025年毕业证明.doc",
+              "url": "http://mlqzf.haikou.gov.cn/xgk/gsgg/202502/P020250205403459072679.doc",
+              "local": "attachments/460100/2025年毕业证明.doc"
+            },
+            {
+              "name": "2025年同意报考证明.doc",
+              "url": "http://mlqzf.haikou.gov.cn/xgk/gsgg/202502/P020250205403459111233.doc",
+              "local": "attachments/460100/2025年同意报考证明.doc"
+            },
+            {
+              "name": "2025年未被失信惩戒承诺书.doc",
+              "url": "http://mlqzf.haikou.gov.cn/xgk/gsgg/202502/P020250205403459188904.doc",
+              "local": "attachments/460100/2025年未被失信惩戒承诺书.doc"
+            },
+            {
+              "name": "2025年海南省考试录用公务员专业参考目录.rar",
+              "url": "http://mlqzf.haikou.gov.cn/xgk/gsgg/202502/P020250205403459221895.rar",
+              "local": "attachments/460100/2025年海南省考试录用公务员专业参考目录.rar"
+            },
+            {
+              "name": "2025年版事业单位公开招聘分类考试公共科目笔试考试大纲.pdf",
+              "url": "http://mlqzf.haikou.gov.cn/xgk/gsgg/202502/P020250205403459668278.pdf",
+              "local": "attachments/460100/2025年版事业单位公开招聘分类考试公共科目笔试考试大纲.pdf"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -127,7 +216,18 @@
           "positions": null,
           "source": "海口市美兰区人民政府网",
           "url": "http://mlqzf.haikou.gov.cn/xgk/gsgg/202508/t1441363.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年海口市美兰区公开招聘事业单位工作人员拟聘用人员名单.pdf",
+              "url": "http://mlqzf.haikou.gov.cn/xgk/gsgg/202508/P020250808412198468258.pdf",
+              "local": "attachments/460100/2025年海口市美兰区公开招聘事业单位工作人员拟聘用人员名单.pdf"
+            },
+            {
+              "name": "2025年海口市美兰区公开招聘事业单位工作人员拟聘用人员名单.xls",
+              "url": "http://mlqzf.haikou.gov.cn/xgk/gsgg/202508/P020250808412198548415.xls",
+              "local": "attachments/460100/2025年海口市美兰区公开招聘事业单位工作人员拟聘用人员名单.xls"
+            }
+          ]
         }
       ]
     },
@@ -168,7 +268,28 @@
           "positions": null,
           "source": "三亚市海棠区人力资源和社会保障局",
           "url": "http://ht.sanya.gov.cn/htqrsjsite/bmwjxx/202508/8806b297af564c438cc9b257c9d887bf.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年海南三亚市海棠区公开招聘事业单位工作人员岗位表.xls",
+              "url": "https://ht.sanya.gov.cn/htqrsjsite/bmwjxx/202508/8806b297af564c438cc9b257c9d887bf/files/ea40b061fbee49df937929f494893f7d.xls",
+              "local": "attachments/460200/2025年海南三亚市海棠区公开招聘事业单位工作人员岗位表.xls"
+            },
+            {
+              "name": "2025年海南三亚市海棠区公开招聘事业单位工作人员报名表.doc",
+              "url": "https://ht.sanya.gov.cn/htqrsjsite/bmwjxx/202508/8806b297af564c438cc9b257c9d887bf/files/eb4123b03d234868b198d44b49ae6db5.doc",
+              "local": "attachments/460200/2025年海南三亚市海棠区公开招聘事业单位工作人员报名表.doc"
+            },
+            {
+              "name": "2025年海南三亚诚信承诺书.doc",
+              "url": "https://ht.sanya.gov.cn/htqrsjsite/bmwjxx/202508/8806b297af564c438cc9b257c9d887bf/files/23f1bac7f0554a6085caa363066da1d2.doc",
+              "local": "attachments/460200/2025年海南三亚诚信承诺书.doc"
+            },
+            {
+              "name": "2025年海南三亚4-1.研究生教育学科专业目录（2022年）.pdf",
+              "url": "https://ht.sanya.gov.cn/htqrsjsite/bmwjxx/202508/8806b297af564c438cc9b257c9d887bf/files/1af6571dc401437c9a8fa0108bc0087e.pdf",
+              "local": "attachments/460200/2025年海南三亚4-1.研究生教育学科专业目录（2022年）.pdf"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -180,7 +301,13 @@
           "positions": null,
           "source": "三亚市吉阳区人力资源和社会保障局",
           "url": "https://jy.sanya.gov.cn/jyqrsjsite/bmwjxx/202603/5b517de81ad0495996c0ab3122e7eb85.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年海南三亚市吉阳区公开招聘事业单位工作人员考察合格及拟聘用人员名单.xlsx",
+              "url": "https://jy.sanya.gov.cn/jyqrsjsite/bmwjxx/202603/5b517de81ad0495996c0ab3122e7eb85/files/224e0a6ea64b494ab743e078f25eb34e.xlsx",
+              "local": "attachments/460200/2025年海南三亚市吉阳区公开招聘事业单位工作人员考察合格及拟聘用人员名单.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -209,12 +336,38 @@
           "category": "事业单位",
           "subCategory": null,
           "title": "2026年三沙市公开招聘事业单位工作人员公告（第1号）",
-          "date": null,
+          "date": "2026-08-13",
           "headcount": null,
           "positions": null,
           "source": "三沙市人民政府网",
           "url": "http://www.sansha.gov.cn/sansha/zwfwxxgs/202608/2b8a435c53be42879fdf7e97e6fe6ee4.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年海南三沙市公开招聘事业单位工作人员岗位表.xls",
+              "url": "http://www.sansha.gov.cn/sansha/zwfwxxgs/202608/2b8a435c53be42879fdf7e97e6fe6ee4/files/8132c127d5594a8292e48c3d621dcadc.xls",
+              "local": "attachments/460300/2026年海南三沙市公开招聘事业单位工作人员岗位表.xls"
+            },
+            {
+              "name": "2026年海南三沙市公开招聘事业单位工作人员报名表.xls",
+              "url": "http://www.sansha.gov.cn/sansha/zwfwxxgs/202608/2b8a435c53be42879fdf7e97e6fe6ee4/files/453d8eba8b6a471b962a70249047577b.xls",
+              "local": "attachments/460300/2026年海南三沙市公开招聘事业单位工作人员报名表.xls"
+            },
+            {
+              "name": "2026年海南三沙同意报考证明.docx",
+              "url": "http://www.sansha.gov.cn/sansha/zwfwxxgs/202608/2b8a435c53be42879fdf7e97e6fe6ee4/files/bf6ced3d1112494c8e6686f729083032.docx",
+              "local": "attachments/460300/2026年海南三沙同意报考证明.docx"
+            },
+            {
+              "name": "2026年海南三沙市公开招聘事业单位工作人员考试诚信承诺书.pdf",
+              "url": "http://www.sansha.gov.cn/sansha/zwfwxxgs/202608/2b8a435c53be42879fdf7e97e6fe6ee4/files/3ce64099c1d140f19db838e95ff1effb.pdf",
+              "local": "attachments/460300/2026年海南三沙市公开招聘事业单位工作人员考试诚信承诺书.pdf"
+            },
+            {
+              "name": "2026年海南省考试录用公务员专业参考目录.zip",
+              "url": "http://www.sansha.gov.cn/sansha/zwfwxxgs/202608/2b8a435c53be42879fdf7e97e6fe6ee4/files/322ba3bfe3584d5d8c2b6178e2102513.zip",
+              "local": "attachments/460300/2026年海南省考试录用公务员专业参考目录.zip"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -262,7 +415,43 @@
           "positions": null,
           "source": "儋州市人民政府网（儋州市人力资源和社会保障局）",
           "url": "https://www.danzhou.gov.cn/danzhou/zfxxgkzl/bm/rsj/gkml/202501/t20250127_3810290.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年儋州市事业单位公开（考核）招聘单位、岗位、人数、资格条件及范围.xls",
+              "url": "https://www.danzhou.gov.cn/danzhou/zfxxgkzl/bm/rsj/gkml/202501/P020250127397251955130.xls",
+              "local": "attachments/460400/2025年儋州市事业单位公开（考核）招聘单位、岗位、人数、资格条件及范围.xls"
+            },
+            {
+              "name": "2025年儋州市事业单位公开（考核）招聘工作人员考试报名表.doc",
+              "url": "https://www.danzhou.gov.cn/danzhou/zfxxgkzl/bm/rsj/gkml/202501/P020250127397251996925.doc",
+              "local": "attachments/460400/2025年儋州市事业单位公开（考核）招聘工作人员考试报名表.doc"
+            },
+            {
+              "name": "2024年海南省考试录用公务员（参照公务员法管理工作人员）专业参考目录.zip",
+              "url": "https://www.danzhou.gov.cn/danzhou/zfxxgkzl/bm/rsj/gkml/202501/P020250127397252031806.zip",
+              "local": "attachments/460400/2024年海南省考试录用公务员（参照公务员法管理工作人员）专业参考目录.zip"
+            },
+            {
+              "name": "2025年事业单位公开招聘分类考试公共科目笔试考试大纲（版）.docx",
+              "url": "https://www.danzhou.gov.cn/danzhou/zfxxgkzl/bm/rsj/gkml/202501/P020250416396858338697.docx",
+              "local": "attachments/460400/2025年事业单位公开招聘分类考试公共科目笔试考试大纲（版）.docx"
+            },
+            {
+              "name": "2025年承诺书.doc",
+              "url": "https://www.danzhou.gov.cn/danzhou/zfxxgkzl/bm/rsj/gkml/202501/P020250127397252284756.doc",
+              "local": "attachments/460400/2025年承诺书.doc"
+            },
+            {
+              "name": "2025年同意报考证明.doc",
+              "url": "https://www.danzhou.gov.cn/danzhou/zfxxgkzl/bm/rsj/gkml/202501/P020250127397252330073.doc",
+              "local": "attachments/460400/2025年同意报考证明.doc"
+            },
+            {
+              "name": "2025年未被列入失信联合惩戒对象承诺书.doc",
+              "url": "https://www.danzhou.gov.cn/danzhou/zfxxgkzl/bm/rsj/gkml/202501/P020250127397252360574.doc",
+              "local": "attachments/460400/2025年未被列入失信联合惩戒对象承诺书.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -274,7 +463,13 @@
           "positions": null,
           "source": "儋州市人民政府网（儋州市人力资源和社会保障局）",
           "url": "https://www.danzhou.gov.cn/danzhou/zfxxgkzl/bm/rsj/gkml/202508/t20250819_3915511.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年儋州市事业单位公开（考核）招聘拟聘用人员名单.xlsx",
+              "url": "https://www.danzhou.gov.cn/danzhou/zfxxgkzl/bm/rsj/gkml/202508/P020250819606191031104.xlsx",
+              "local": "attachments/460400/2025年儋州市事业单位公开（考核）招聘拟聘用人员名单.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -300,12 +495,28 @@
           "category": "事业单位",
           "subCategory": null,
           "title": "五指山市2026年公开招聘事业单位工作人员公告（1号）",
-          "date": null,
+          "date": "2026-03-25",
           "headcount": null,
           "positions": null,
           "source": "五指山市人民政府网",
           "url": "http://wzs.hainan.gov.cn/wzs/zkly/202603/fe5ebe8f17bf462493f17c3f2d3ae0f2.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年海南五指山市公开招聘事业单位工作人员岗位表.xlsx",
+              "url": "http://wzs.hainan.gov.cn/wzs/zkly/202603/fe5ebe8f17bf462493f17c3f2d3ae0f2/files/ddf4d436024243a79adf268b305a9012.xlsx",
+              "local": "attachments/469001/2026年海南五指山市公开招聘事业单位工作人员岗位表.xlsx"
+            },
+            {
+              "name": "2026年海南五指山事业单位公开招聘分类考试公共科目笔试考试大纲.docx",
+              "url": "http://wzs.hainan.gov.cn/wzs/zkly/202603/fe5ebe8f17bf462493f17c3f2d3ae0f2/files/882b94c47dcd4746b713d62bd7fc2c62.docx",
+              "local": "attachments/469001/2026年海南五指山事业单位公开招聘分类考试公共科目笔试考试大纲.docx"
+            },
+            {
+              "name": "2026年海南五指山专业参考目录.zip",
+              "url": "http://wzs.hainan.gov.cn/wzs/zkly/202603/fe5ebe8f17bf462493f17c3f2d3ae0f2/files/be0a477936984962a0ecc4103f110f90.zip",
+              "local": "attachments/469001/2026年海南五指山专业参考目录.zip"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -317,7 +528,13 @@
           "positions": null,
           "source": "五指山市人民政府网（五指山市人力资源和社会保障局）",
           "url": "http://wzs.hainan.gov.cn/wzs/0400/202602/5eaeb15e8d8441f58651006c53634f13.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年海南附件：五指山市2025年公开招聘事业单位工作人员拟聘用人员花名册.xls",
+              "url": "http://wzs.hainan.gov.cn/wzs/0400/202602/5eaeb15e8d8441f58651006c53634f13/files/862c03e58d2c407b9c280cf7c37f6b68.xls",
+              "local": "attachments/469001/2026年海南附件：五指山市2025年公开招聘事业单位工作人员拟聘用人员花名册.xls"
+            }
+          ]
         }
       ]
     },
@@ -477,7 +694,38 @@
           "positions": null,
           "source": "东方市人力资源和社会保障局",
           "url": "http://dongfang.hainan.gov.cn/xxgkzl/rsj/xxgkml/202508/t20250822_3917486.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年1.东方市第二次公开招聘事业编制工作人员岗位表.xlsx",
+              "url": "http://dongfang.hainan.gov.cn/xxgkzl/rsj/xxgkml/202508/P020250827427246350731.xlsx",
+              "local": "attachments/469007/2025年1.东方市第二次公开招聘事业编制工作人员岗位表.xlsx"
+            },
+            {
+              "name": "2025年2.应届毕业生承诺书.doc",
+              "url": "http://dongfang.hainan.gov.cn/xxgkzl/rsj/xxgkml/202508/P020250827427246418807.doc",
+              "local": "attachments/469007/2025年2.应届毕业生承诺书.doc"
+            },
+            {
+              "name": "2025年3.同意报考证明.doc",
+              "url": "http://dongfang.hainan.gov.cn/xxgkzl/rsj/xxgkml/202508/P020250827427246467218.doc",
+              "local": "attachments/469007/2025年3.同意报考证明.doc"
+            },
+            {
+              "name": "2025年4.东方市从优秀村(社区)“两委”班子成员中选聘任用事业单位工作人员报名表.docx",
+              "url": "http://dongfang.hainan.gov.cn/xxgkzl/rsj/xxgkml/202508/P020250827427246503599.docx",
+              "local": "attachments/469007/2025年4.东方市从优秀村(社区)“两委”班子成员中选聘任用事业单位工作人员报名表.docx"
+            },
+            {
+              "name": "2022年《事业单位公开招聘分类考试公共科目笔试考试大纲》(版).pdf",
+              "url": "http://dongfang.hainan.gov.cn/xxgkzl/rsj/xxgkml/202508/P020250828423120373082.pdf",
+              "local": "attachments/469007/2022年《事业单位公开招聘分类考试公共科目笔试考试大纲》(版).pdf"
+            },
+            {
+              "name": "2024年6.海南省考试录用公务员专业参考目录.zip",
+              "url": "http://dongfang.hainan.gov.cn/xxgkzl/rsj/xxgkml/202508/P020250827427246644236.zip",
+              "local": "attachments/469007/2024年6.海南省考试录用公务员专业参考目录.zip"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -489,7 +737,13 @@
           "positions": null,
           "source": "东方市人力资源和社会保障局",
           "url": "http://dongfang.hainan.gov.cn/xxgkzl/rsj/xxgkml/202511/t20251105_3960458.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年东方市第二次公开招聘事业编制工作人员第一批拟聘用人员名单.pdf",
+              "url": "http://dongfang.hainan.gov.cn/xxgkzl/rsj/xxgkml/202511/P020251105597313940947.pdf",
+              "local": "attachments/469007/2025年东方市第二次公开招聘事业编制工作人员第一批拟聘用人员名单.pdf"
+            }
+          ]
         }
       ]
     },
@@ -520,7 +774,13 @@
           "positions": null,
           "source": "定安县人民政府网",
           "url": "https://dingan.hainan.gov.cn/dingan/xxgk/zpzl/202508/t20250813_3912820.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年海南定安县公开招聘事业单位工作人员岗位表.xlsx",
+              "url": "https://dingan.hainan.gov.cn/dingan/xxgk/zpzl/202508/P020250813657484728698.xlsx",
+              "local": "attachments/469021/2025年海南定安县公开招聘事业单位工作人员岗位表.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -532,7 +792,13 @@
           "positions": null,
           "source": "定安县人民政府网",
           "url": "https://dingan.hainan.gov.cn/dingan/xxgk/zpzl/202512/t20251230_4002231.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年海南附件：定安县公开招聘事业单位工作人员拟聘用人员名单（第一批）.xlsx",
+              "url": "https://dingan.hainan.gov.cn/dingan/xxgk/zpzl/202512/P020251230318308740689.xlsx",
+              "local": "attachments/469021/2025年海南附件：定安县公开招聘事业单位工作人员拟聘用人员名单（第一批）.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -563,7 +829,38 @@
           "positions": null,
           "source": "屯昌县人民政府网",
           "url": "https://tunchang.hainan.gov.cn/tunchang/zfxxgk/ggl/202508/t20250812_3911899.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年下半年屯昌县公开（考核）招聘事业单位工作人员岗位表.xlsx",
+              "url": "https://tunchang.hainan.gov.cn/zfxxgk/ggl/202508/P020250812406437884851.xlsx",
+              "local": "attachments/469022/2025年下半年屯昌县公开（考核）招聘事业单位工作人员岗位表.xlsx"
+            },
+            {
+              "name": "2025年海南省考试录用公务员专业参考目录.zip",
+              "url": "https://tunchang.hainan.gov.cn/zfxxgk/ggl/202508/P020250812406438023863.zip",
+              "local": "attachments/469022/2025年海南省考试录用公务员专业参考目录.zip"
+            },
+            {
+              "name": "2025年同意报考证明.doc",
+              "url": "https://tunchang.hainan.gov.cn/zfxxgk/ggl/202508/P020250812406438517713.doc",
+              "local": "attachments/469022/2025年同意报考证明.doc"
+            },
+            {
+              "name": "2025年自愿放弃XX资格承诺书.doc",
+              "url": "https://tunchang.hainan.gov.cn/zfxxgk/ggl/202508/P020250812406438605053.doc",
+              "local": "attachments/469022/2025年自愿放弃XX资格承诺书.doc"
+            },
+            {
+              "name": "2025年未被列入失信惩戒对象承诺书.doc",
+              "url": "https://tunchang.hainan.gov.cn/zfxxgk/ggl/202508/P020250812406438658945.doc",
+              "local": "attachments/469022/2025年未被列入失信惩戒对象承诺书.doc"
+            },
+            {
+              "name": "2025年版事业单位公开招聘分类考试公共科目笔试考试大纲.docx",
+              "url": "https://tunchang.hainan.gov.cn/zfxxgk/ggl/202508/P020250908570382805265.docx",
+              "local": "attachments/469022/2025年版事业单位公开招聘分类考试公共科目笔试考试大纲.docx"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -575,7 +872,13 @@
           "positions": null,
           "source": "屯昌县人民政府网",
           "url": "https://tunchang.hainan.gov.cn/tunchang/zfxxgk/ggl/202602/t20260211_4027300.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年下半年屯昌县公开（考核）招聘事业单位工作人员拟聘用人员名单.xls",
+              "url": "https://tunchang.hainan.gov.cn/zfxxgk/ggl/202602/P020260228421723252059.xls",
+              "local": "attachments/469022/2025年下半年屯昌县公开（考核）招聘事业单位工作人员拟聘用人员名单.xls"
+            }
+          ]
         }
       ]
     },
@@ -606,19 +909,46 @@
           "positions": 121,
           "source": "澄迈县人力资源和社会保障局",
           "url": "https://chengmai.hainan.gov.cn/cmrsj/gsgg/202509/31e54d9397414143858c23cdeb3a4e0f.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年海南澄迈县招才引智活动公开招聘第二批事业单位工作人员岗位表.xlsx",
+              "url": "https://chengmai.hainan.gov.cn/cmrsj/gsgg/202509/31e54d9397414143858c23cdeb3a4e0f/files/d8865ad1d59e4dd186ebd76def615098.xlsx",
+              "local": "attachments/469023/2025年海南澄迈县招才引智活动公开招聘第二批事业单位工作人员岗位表.xlsx"
+            },
+            {
+              "name": "2025年海南澄迈县招才引智活动公开招聘第二批事业单位工作人员报名表.doc",
+              "url": "https://chengmai.hainan.gov.cn/cmrsj/gsgg/202509/31e54d9397414143858c23cdeb3a4e0f/files/eab0295b1cc34be6804242145a8f660d.doc",
+              "local": "attachments/469023/2025年海南澄迈县招才引智活动公开招聘第二批事业单位工作人员报名表.doc"
+            },
+            {
+              "name": "2025年海南澄迈县同意报考证明.doc",
+              "url": "https://chengmai.hainan.gov.cn/cmrsj/gsgg/202509/31e54d9397414143858c23cdeb3a4e0f/files/3651266a02c84e1f9b05770065487451.doc",
+              "local": "attachments/469023/2025年海南澄迈县同意报考证明.doc"
+            },
+            {
+              "name": "2025年海南澄迈县a3bdfd52abf54e42b7f344d7cbbaebc4.xlsx",
+              "url": "https://chengmai.hainan.gov.cn/cmrsj/gsgg/202509/31e54d9397414143858c23cdeb3a4e0f/files/a3bdfd52abf54e42b7f344d7cbbaebc4.xlsx",
+              "local": "attachments/469023/2025年海南澄迈县a3bdfd52abf54e42b7f344d7cbbaebc4.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
           "category": "录用公示",
           "subCategory": null,
           "title": "澄迈县2025年招才引智活动公开招聘第二批事业单位工作人员拟聘用人员公告（第10号）",
-          "date": null,
+          "date": "2025-12-19",
           "headcount": 117,
           "positions": null,
           "source": "澄迈县人力资源和社会保障局",
           "url": "http://chengmai.hainan.gov.cn/cmrsj/gsgg/202512/a902ce0555004a52affa938fa6b5c96e.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年海南澄迈县招才引智活动公开招聘第二批事业单位工作人员拟录用人员名单(第一批).xlsx",
+              "url": "http://chengmai.hainan.gov.cn/cmrsj/gsgg/202512/a902ce0555004a52affa938fa6b5c96e/files/8726d39c920545dbac2ae06595a96f30.xlsx",
+              "local": "attachments/469023/2025年海南澄迈县招才引智活动公开招聘第二批事业单位工作人员拟录用人员名单(第一批).xlsx"
+            }
+          ]
         }
       ]
     },
@@ -649,7 +979,68 @@
           "positions": null,
           "source": "临高县人民政府网",
           "url": "http://lingao.hainan.gov.cn/zwgk_32990/gsgg/202505/t20250530_3872435.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年临高县中等职业技术学校考试招聘工作人员职位表.xlsx",
+              "url": "http://lingao.hainan.gov.cn/zwgk_32990/gsgg/202505/P020250530361037495823.xlsx",
+              "local": "attachments/469024/2025年临高县中等职业技术学校考试招聘工作人员职位表.xlsx"
+            },
+            {
+              "name": "2025年临高县公开招聘引进教师岗位表.xlsx",
+              "url": "http://lingao.hainan.gov.cn/zwgk_32990/gsgg/202505/P020250530361037554981.xlsx",
+              "local": "attachments/469024/2025年临高县公开招聘引进教师岗位表.xlsx"
+            },
+            {
+              "name": "2025年临高县中等职业技术学校及各中小学考核招聘工作人员职位表.xlsx",
+              "url": "http://lingao.hainan.gov.cn/zwgk_32990/gsgg/202505/P020250530361037586548.xlsx",
+              "local": "attachments/469024/2025年临高县中等职业技术学校及各中小学考核招聘工作人员职位表.xlsx"
+            },
+            {
+              "name": "2025年临高县新盈中学等3所学校公开招聘引进骨干教师岗位表.xlsx",
+              "url": "http://lingao.hainan.gov.cn/zwgk_32990/gsgg/202505/P020250530361037625456.xlsx",
+              "local": "attachments/469024/2025年临高县新盈中学等3所学校公开招聘引进骨干教师岗位表.xlsx"
+            },
+            {
+              "name": "2025年临高县公开招聘引进教师报名表.xls",
+              "url": "http://lingao.hainan.gov.cn/zwgk_32990/gsgg/202505/P020250530361037659339.xls",
+              "local": "attachments/469024/2025年临高县公开招聘引进教师报名表.xls"
+            },
+            {
+              "name": "2025年临高县新盈中学等3所中学公开招聘引进骨干教师报名表.doc",
+              "url": "http://lingao.hainan.gov.cn/zwgk_32990/gsgg/202505/P020250530361037698660.doc",
+              "local": "attachments/469024/2025年临高县新盈中学等3所中学公开招聘引进骨干教师报名表.doc"
+            },
+            {
+              "name": "2025年未被列入失信惩戒对象承诺书.docx.docx",
+              "url": "http://lingao.hainan.gov.cn/zwgk_32990/gsgg/202505/P020250530361037732619.docx",
+              "local": "attachments/469024/2025年未被列入失信惩戒对象承诺书.docx.docx"
+            },
+            {
+              "name": "2025年同意报考证明.doc",
+              "url": "http://lingao.hainan.gov.cn/zwgk_32990/gsgg/202505/P020250530361037762689.doc",
+              "local": "attachments/469024/2025年同意报考证明.doc"
+            },
+            {
+              "name": "2022年普通高等学校本科专业目录（）.pdf",
+              "url": "http://lingao.hainan.gov.cn/zwgk_32990/gsgg/202505/P020250530361037807892.pdf",
+              "local": "attachments/469024/2022年普通高等学校本科专业目录（）.pdf"
+            },
+            {
+              "name": "2022年研究生教育学专业目录（）.pdf",
+              "url": "http://lingao.hainan.gov.cn/zwgk_32990/gsgg/202505/P020250530361037857213.pdf",
+              "local": "attachments/469024/2022年研究生教育学专业目录（）.pdf"
+            },
+            {
+              "name": "2021年职业教育专业目录（）.pdf",
+              "url": "http://lingao.hainan.gov.cn/zwgk_32990/gsgg/202505/P020250530361038221850.pdf",
+              "local": "attachments/469024/2021年职业教育专业目录（）.pdf"
+            },
+            {
+              "name": "2025年承诺书.doc",
+              "url": "http://lingao.hainan.gov.cn/zwgk_32990/gsgg/202505/P020250530361038261866.doc",
+              "local": "attachments/469024/2025年承诺书.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -661,7 +1052,33 @@
           "positions": null,
           "source": "临高县人民政府网",
           "url": "http://lingao.hainan.gov.cn/zwgk_32990/gsgg/202512/t20251212_3988062.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年临高县考核招聘医疗专业技术人才岗位表.xls",
+              "url": "http://lingao.hainan.gov.cn/zwgk_32990/gsgg/202512/P020251212614038163901.xls",
+              "local": "attachments/469024/2025年临高县考核招聘医疗专业技术人才岗位表.xls"
+            },
+            {
+              "name": "2025年临高县考核招聘医疗专业技术人才报名表.xls",
+              "url": "http://lingao.hainan.gov.cn/zwgk_32990/gsgg/202512/P020251212566174445489.xls",
+              "local": "attachments/469024/2025年临高县考核招聘医疗专业技术人才报名表.xls"
+            },
+            {
+              "name": "2025年未被列入失信惩戒对象承诺书.docx",
+              "url": "http://lingao.hainan.gov.cn/zwgk_32990/gsgg/202512/P020251212566174574253.docx",
+              "local": "attachments/469024/2025年未被列入失信惩戒对象承诺书.docx"
+            },
+            {
+              "name": "2025年考生承诺书.docx",
+              "url": "http://lingao.hainan.gov.cn/zwgk_32990/gsgg/202512/P020251212566174645677.docx",
+              "local": "attachments/469024/2025年考生承诺书.docx"
+            },
+            {
+              "name": "2025年海南省考试录用公务员专业参考目录.rar",
+              "url": "http://lingao.hainan.gov.cn/zwgk_32990/gsgg/202512/P020251212566174735493.rar",
+              "local": "attachments/469024/2025年海南省考试录用公务员专业参考目录.rar"
+            }
+          ]
         }
       ]
     },
@@ -692,7 +1109,23 @@
           "positions": null,
           "source": "白沙黎族自治县人力资源和社会保障局",
           "url": "https://baisha.hainan.gov.cn/baisha/zfxxgkzl/xgbmzfxxgk/bsxrlzyhshbzj/gkml/202511/t20251112_3969654.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年白沙黎族自治县下半年公开招聘事业单位工作人员岗位表.xls",
+              "url": "https://baisha.hainan.gov.cn/baisha/zfxxgkzl/xgbmzfxxgk/bsxrlzyhshbzj/gkml/202511/P020251112388789595623.xls",
+              "local": "attachments/469025/2025年白沙黎族自治县下半年公开招聘事业单位工作人员岗位表.xls"
+            },
+            {
+              "name": "2025年未被失信惩戒承诺书.docx",
+              "url": "https://baisha.hainan.gov.cn/baisha/zfxxgkzl/xgbmzfxxgk/bsxrlzyhshbzj/gkml/202511/P020251112388789712514.docx",
+              "local": "attachments/469025/2025年未被失信惩戒承诺书.docx"
+            },
+            {
+              "name": "2025年专业参考目录.zip",
+              "url": "https://baisha.hainan.gov.cn/baisha/zfxxgkzl/xgbmzfxxgk/bsxrlzyhshbzj/gkml/202511/P020251112388789986514.zip",
+              "local": "attachments/469025/2025年专业参考目录.zip"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -704,7 +1137,13 @@
           "positions": null,
           "source": "白沙黎族自治县人力资源和社会保障局",
           "url": "http://baisha.hainan.gov.cn/baisha/zfxxgkzl/xgbmzfxxgk/bsxrlzyhshbzj/gkml/202508/t20250828_3920228.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年白沙黎族自治县上半年公开招聘事业单位工作人员拟聘用名单（第一批）.xlsx",
+              "url": "https://baisha.hainan.gov.cn/baisha/zfxxgkzl/xgbmzfxxgk/bsxrlzyhshbzj/gkml/202508/P020250828399175473120.xlsx",
+              "local": "attachments/469025/2025年白沙黎族自治县上半年公开招聘事业单位工作人员拟聘用名单（第一批）.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -735,19 +1174,86 @@
           "positions": null,
           "source": "昌江黎族自治县人力资源和社会保障局",
           "url": "http://changjiang.hainan.gov.cn/cjxrlzyhshbzj/rsxx/202508/734aa6cd6dd9422eb5331a5177fefda6.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年海南昌江黎族自治县事业单位公开招聘工作人员岗位表.xls",
+              "url": "http://changjiang.hainan.gov.cn/cjxrlzyhshbzj/rsxx/202508/734aa6cd6dd9422eb5331a5177fefda6/files/23a11186d2f8414296306cd841626dcb.xls",
+              "local": "attachments/469026/2025年海南昌江黎族自治县事业单位公开招聘工作人员岗位表.xls"
+            }
+          ]
         },
         {
           "year": 2026,
           "category": "事业单位",
           "subCategory": null,
           "title": "昌江黎族自治县2026年公开招聘教育事业编制工作人员公告（第1号）",
-          "date": null,
+          "date": "2026-01-20",
           "headcount": null,
           "positions": null,
           "source": "昌江黎族自治县人民政府网",
           "url": "https://changjiang.hainan.gov.cn/changjiang/0400/202601/b4277873df6d40ffa71f6e11c091f525.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年海南1昌江黎族自治县公开招聘教育综合服务中心工作人员岗位表.xls",
+              "url": "https://changjiang.hainan.gov.cn/changjiang/0400/202601/b4277873df6d40ffa71f6e11c091f525/files/74f9981d7c6c482da045b690e00446b1.xls",
+              "local": "attachments/469026/2026年海南1昌江黎族自治县公开招聘教育综合服务中心工作人员岗位表.xls"
+            },
+            {
+              "name": "2026年海南2昌江黎族自治县公开招聘专职学科教研员岗位表.xlsx",
+              "url": "https://changjiang.hainan.gov.cn/changjiang/0400/202601/b4277873df6d40ffa71f6e11c091f525/files/51cccd110c1a460595c34ad24784b061.xlsx",
+              "local": "attachments/469026/2026年海南2昌江黎族自治县公开招聘专职学科教研员岗位表.xlsx"
+            },
+            {
+              "name": "2026年海南3昌江黎族自治县公开招聘中小学紧缺学科教师岗位表.xlsx",
+              "url": "https://changjiang.hainan.gov.cn/changjiang/0400/202601/b4277873df6d40ffa71f6e11c091f525/files/882b6cf132e3442aaefbf614ac26b34c.xlsx",
+              "local": "attachments/469026/2026年海南3昌江黎族自治县公开招聘中小学紧缺学科教师岗位表.xlsx"
+            },
+            {
+              "name": "2026年海南昌江黎族自治县&ensp;.xls",
+              "url": "https://changjiang.hainan.gov.cn/changjiang/0400/202601/b4277873df6d40ffa71f6e11c091f525/files/578bdc9a387f4071991642f9839f4138.xls",
+              "local": "attachments/469026/2026年海南昌江黎族自治县&ensp;.xls"
+            },
+            {
+              "name": "2026年海南昌江黎族自治县&ensp;.xlsx",
+              "url": "https://changjiang.hainan.gov.cn/changjiang/0400/202601/b4277873df6d40ffa71f6e11c091f525/files/dd855b1579e6462a99c6274469553212.xlsx",
+              "local": "attachments/469026/2026年海南昌江黎族自治县&ensp;.xlsx"
+            },
+            {
+              "name": "2026年海南昌江黎族自治县&ensp;_2.xlsx",
+              "url": "https://changjiang.hainan.gov.cn/changjiang/0400/202601/b4277873df6d40ffa71f6e11c091f525/files/871b1e444f4048f0ae96c13b26f8e38c.xlsx",
+              "local": "attachments/469026/2026年海南昌江黎族自治县&ensp;_2.xlsx"
+            },
+            {
+              "name": "2026年海南昌江黎族自治县公开招聘教育事业编制工作人员报名表.doc",
+              "url": "https://changjiang.hainan.gov.cn/changjiang/0400/202601/b4277873df6d40ffa71f6e11c091f525/files/cbec0fb3916e483b97144bd221d4e49b.doc",
+              "local": "attachments/469026/2026年海南昌江黎族自治县公开招聘教育事业编制工作人员报名表.doc"
+            },
+            {
+              "name": "2026年海南昌江黎族自治县诚信承诺书.docx",
+              "url": "https://changjiang.hainan.gov.cn/changjiang/0400/202601/b4277873df6d40ffa71f6e11c091f525/files/4a4f57b79f40415883dd89c43139a959.docx",
+              "local": "attachments/469026/2026年海南昌江黎族自治县诚信承诺书.docx"
+            },
+            {
+              "name": "2026年海南昌江黎族自治县未被失信惩戒承诺书.docx",
+              "url": "https://changjiang.hainan.gov.cn/changjiang/0400/202601/b4277873df6d40ffa71f6e11c091f525/files/3c748712d5d645d493e217b6af0e080c.docx",
+              "local": "attachments/469026/2026年海南昌江黎族自治县未被失信惩戒承诺书.docx"
+            },
+            {
+              "name": "2026年海南昌江黎族自治县应届毕业生毕业证明.docx",
+              "url": "https://changjiang.hainan.gov.cn/changjiang/0400/202601/b4277873df6d40ffa71f6e11c091f525/files/54634e92da674f31b2bb45b3a8d6ff9d.docx",
+              "local": "attachments/469026/2026年海南昌江黎族自治县应届毕业生毕业证明.docx"
+            },
+            {
+              "name": "2026年海南昌江黎族自治县应届毕业生承诺书.docx",
+              "url": "https://changjiang.hainan.gov.cn/changjiang/0400/202601/b4277873df6d40ffa71f6e11c091f525/files/a9ac6234d53945d68249e2f01cd530d2.docx",
+              "local": "attachments/469026/2026年海南昌江黎族自治县应届毕业生承诺书.docx"
+            },
+            {
+              "name": "2026年海南省2025年度考试录用公务员专业参考目录.rar",
+              "url": "https://changjiang.hainan.gov.cn/changjiang/0400/202601/b4277873df6d40ffa71f6e11c091f525/files/a185288692ac444f98349d6a700d4e1f.rar",
+              "local": "attachments/469026/2026年海南省2025年度考试录用公务员专业参考目录.rar"
+            }
+          ]
         }
       ]
     },
@@ -864,7 +1370,33 @@
           "positions": null,
           "source": "保亭黎族苗族自治县人力资源和社会保障局",
           "url": "https://baoting.hainan.gov.cn/zfxxgk/xgbmgk/rlzyshbz/gkml/202511/t20251106_3961810.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年保亭黎族苗族自治县第二批公开招聘（考核招聘）事业单位工作人员职位表.xls",
+              "url": "https://baoting.hainan.gov.cn/zfxxgk/xgbmgk/rlzyshbz/gkml/202511/P020251106642365303621.xls",
+              "local": "attachments/469029/2025年保亭黎族苗族自治县第二批公开招聘（考核招聘）事业单位工作人员职位表.xls"
+            },
+            {
+              "name": "2025年公开招聘承诺书.doc",
+              "url": "https://baoting.hainan.gov.cn/zfxxgk/xgbmgk/rlzyshbz/gkml/202511/P020251106642365402113.doc",
+              "local": "attachments/469029/2025年公开招聘承诺书.doc"
+            },
+            {
+              "name": "2025年用人单位工作证明.doc",
+              "url": "https://baoting.hainan.gov.cn/zfxxgk/xgbmgk/rlzyshbz/gkml/202511/P020251106642365559620.doc",
+              "local": "attachments/469029/2025年用人单位工作证明.doc"
+            },
+            {
+              "name": "2025年单位同意报考证明.doc",
+              "url": "https://baoting.hainan.gov.cn/zfxxgk/xgbmgk/rlzyshbz/gkml/202511/P020251106642365648670.doc",
+              "local": "attachments/469029/2025年单位同意报考证明.doc"
+            },
+            {
+              "name": "2025年海南省考试录用公务员专业参考目录.zip",
+              "url": "https://baoting.hainan.gov.cn/zfxxgk/xgbmgk/rlzyshbz/gkml/202511/P020251106642365690772.zip",
+              "local": "attachments/469029/2025年海南省考试录用公务员专业参考目录.zip"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -876,7 +1408,38 @@
           "positions": null,
           "source": "保亭黎族苗族自治县人民政府网",
           "url": "https://baoting.hainan.gov.cn/zfxxgk/xgbmgk/wsjhsy/gkml/202509/t20250911_3928595.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年1.保亭黎族苗族自治县卫生系统面向社会招聘事业编制及员额制工作人员岗位表.xlsx",
+              "url": "https://baoting.hainan.gov.cn/zfxxgk/xgbmgk/wsjhsy/gkml/202509/P020250911351039073556.xlsx",
+              "local": "attachments/469029/2025年1.保亭黎族苗族自治县卫生系统面向社会招聘事业编制及员额制工作人员岗位表.xlsx"
+            },
+            {
+              "name": "2025年2.保亭黎族苗族自治县卫生系统面向社会招聘事业编制及员额制工作人员报名登记表.xls",
+              "url": "https://baoting.hainan.gov.cn/zfxxgk/xgbmgk/wsjhsy/gkml/202509/P020250911351039218680.xls",
+              "local": "attachments/469029/2025年2.保亭黎族苗族自治县卫生系统面向社会招聘事业编制及员额制工作人员报名登记表.xls"
+            },
+            {
+              "name": "2025年3.单位同意报考证明.doc",
+              "url": "https://baoting.hainan.gov.cn/zfxxgk/xgbmgk/wsjhsy/gkml/202509/P020250911351039258010.doc",
+              "local": "attachments/469029/2025年3.单位同意报考证明.doc"
+            },
+            {
+              "name": "2025年4.用人单位工作证明.doc",
+              "url": "https://baoting.hainan.gov.cn/zfxxgk/xgbmgk/wsjhsy/gkml/202509/P020250911351039293217.doc",
+              "local": "attachments/469029/2025年4.用人单位工作证明.doc"
+            },
+            {
+              "name": "2025年5.未被列入失信惩戒对象和诚信承诺书.doc",
+              "url": "https://baoting.hainan.gov.cn/zfxxgk/xgbmgk/wsjhsy/gkml/202509/P020250911351039355275.doc",
+              "local": "attachments/469029/2025年5.未被列入失信惩戒对象和诚信承诺书.doc"
+            },
+            {
+              "name": "2025年6.海南省考试录用公务员专业参考目录.zip",
+              "url": "https://baoting.hainan.gov.cn/zfxxgk/xgbmgk/wsjhsy/gkml/202509/P020250911351039404761.zip",
+              "local": "attachments/469029/2025年6.海南省考试录用公务员专业参考目录.zip"
+            }
+          ]
         }
       ]
     },

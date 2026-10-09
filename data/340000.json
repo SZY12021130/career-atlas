@@ -1,7 +1,7 @@
 {
   "adcode": 340000,
   "name": "安徽省",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-03",
   "provincePortals": [
     {
       "category": "公务员",
@@ -81,7 +81,18 @@
           "positions": null,
           "source": "安徽省人事考试网",
           "url": "http://www.apta.gov.cn/Officer/FAnnouncementDetail/1082",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年安徽省考试录用公务员职位表.xls",
+              "url": "http://www.apta.gov.cn/uploads/day_260115/202601151117051806.xls",
+              "local": "attachments/340100/2026年安徽省考试录用公务员职位表.xls"
+            },
+            {
+              "name": "2026年安徽省考试录用公务员报考指南.rar",
+              "url": "http://www.apta.gov.cn/uploads/day_260115/1.2ah2026gwybkzn.rar",
+              "local": "attachments/340100/2026年安徽省考试录用公务员报考指南.rar"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -92,7 +103,18 @@
           "positions": null,
           "source": "安徽省公务员局（安徽省教育厅转载）",
           "url": "https://jyj.ah.gov.cn/xxfb/tzgg/40734350.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年1.安徽省考试录用公务员职位表.xlsx",
+              "url": "https://jyj.ah.gov.cn/group3/M00/11/90/wKg86md3sr2AA9J7AADduohX5gY83.xlsx",
+              "local": "attachments/340100/2025年1.安徽省考试录用公务员职位表.xlsx"
+            },
+            {
+              "name": "2025年2.安徽省考试录用公务员报考指南.docx.docx",
+              "url": "https://jyj.ah.gov.cn/group3/M00/11/90/wKg86md3ssiAFcUMACpBdnbJJQw22.docx",
+              "local": "attachments/340100/2025年2.安徽省考试录用公务员报考指南.docx.docx"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -104,7 +126,18 @@
           "positions": null,
           "source": "安徽省人事考试网",
           "url": "http://www.apta.gov.cn/Officer/FAnnouncementDetail/1081",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年安徽省 202 6 年度 选调生招录职位表.xlsx",
+              "url": "http://www.apta.gov.cn/uploads/day_260115/202601151031392055.xlsx",
+              "local": "attachments/340100/2026年安徽省 202 6 年度 选调生招录职位表.xlsx"
+            },
+            {
+              "name": "2026年安徽合肥选调高校名单.docx",
+              "url": "http://www.apta.gov.cn/uploads/day_260115/202601151031307113.docx",
+              "local": "attachments/340100/2026年安徽合肥选调高校名单.docx"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -115,7 +148,18 @@
           "positions": null,
           "source": "安徽省人力资源和社会保障厅",
           "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahssydwgkzp/80783682.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年安徽省省直事业单位统一公开招聘岗位汇总表.xlsx",
+              "url": "https://hrss.ah.gov.cn/group2/M00/04/C0/wKg8FGl7Bn6AQ7pnAAGPNVDX_Rs81.xlsx",
+              "local": "attachments/340100/2026年安徽省省直事业单位统一公开招聘岗位汇总表.xlsx"
+            },
+            {
+              "name": "2026年安徽省省直各招聘单位主管部门纪检监察联系电话一览表.xlsx",
+              "url": "https://hrss.ah.gov.cn/group2/M00/04/C0/wKg8FGl7BoaAGl1ZAAAu0TOiv7467.xlsx",
+              "local": "attachments/340100/2026年安徽省省直各招聘单位主管部门纪检监察联系电话一览表.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -126,7 +170,18 @@
           "positions": null,
           "source": "安徽省人力资源和社会保障厅",
           "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahssydwgkzp/80761883.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年度安徽省直事业单位统一笔试公开招聘岗位汇总表.xlsx",
+              "url": "https://hrss.ah.gov.cn/group2/M00/04/24/wKg8FGfBZYWATsIHAAGp_VzICQQ83.xlsx",
+              "local": "attachments/340100/2025年度安徽省直事业单位统一笔试公开招聘岗位汇总表.xlsx"
+            },
+            {
+              "name": "2025年度安徽省直各招聘单位主管部门纪检监察电话表.xlsx",
+              "url": "https://hrss.ah.gov.cn/group2/M00/04/24/wKg8FGfBZY-AYw3GAAAxPW15PSQ99.xlsx",
+              "local": "attachments/340100/2025年度安徽省直各招聘单位主管部门纪检监察电话表.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -137,7 +192,13 @@
           "positions": null,
           "source": "安徽省人力资源和社会保障厅",
           "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahsszsydwgkzpzl/gsszgxgkzp/80762095.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年度上半年合肥市市直事业单位公开招聘工作人员岗位表.xlsx",
+              "url": "https://hrss.ah.gov.cn/group2/M00/04/25/wKg8FGfFdCKAHWKPAAA2c_CqF5I55.xlsx",
+              "local": "attachments/340100/2025年度上半年合肥市市直事业单位公开招聘工作人员岗位表.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -153,6 +214,11 @@
               "name": "2025年合肥市市直事业单位公开招聘岗位表（下半年）.xlsx",
               "url": "https://www.hfxf.gov.cn/group5/M00/33/76/wKgEImi_nj2AHhUuAAdGjzDMzgY36.xlsx",
               "local": "attachments/340100/2025年合肥市市直事业单位公开招聘岗位表（下半年）.xlsx"
+            },
+            {
+              "name": "2025年安徽下半年合肥市市直事业单位公开招聘工作人员有关问题解答.doc",
+              "url": "https://www.hfxf.gov.cn/group5/M00/33/76/wKgEImi_nkeAe_JlAACWAP4J_AA215.doc",
+              "local": "attachments/340100/2025年安徽下半年合肥市市直事业单位公开招聘工作人员有关问题解答.doc"
             }
           ]
         }
@@ -213,6 +279,11 @@
               "name": "2025年度芜湖市事业单位公开招聘工作人员岗位表.xlsx",
               "url": "https://rsj.wuhu.gov.cn/group4/M00/04/D4/rBwdT2fBeHOAeAoQAAC4TN6nkoM66.xlsx",
               "local": "attachments/340200/2025年度芜湖市事业单位公开招聘工作人员岗位表.xlsx"
+            },
+            {
+              "name": "2025年安徽芜湖各区、主管部门（招聘单位）纪检监察部门电话表.xlsx",
+              "url": "https://rsj.wuhu.gov.cn/group4/M00/04/D4/rBwdT2fBeJGARJH_AAArNqot0_o35.xlsx",
+              "local": "attachments/340200/2025年安徽芜湖各区、主管部门（招聘单位）纪检监察部门电话表.xlsx"
             }
           ]
         },
@@ -284,7 +355,18 @@
           "positions": null,
           "source": "蚌埠市人力资源和社会保障局",
           "url": "https://rsj.bengbu.gov.cn/tslm/rsks/sydwl/140865346.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年蚌埠市事业单位公开招聘工作人员岗位计划表（市区）.xlsx",
+              "url": "https://rsj.bengbu.gov.cn/group4/M00/0F/F7/wKgQGWfBdBaAY1TrAACO0BErmhc26.xlsx",
+              "local": "attachments/340300/2025年蚌埠市事业单位公开招聘工作人员岗位计划表（市区）.xlsx"
+            },
+            {
+              "name": "2025年蚌埠市事业单位公开招聘有关问题的解答.doc",
+              "url": "https://rsj.bengbu.gov.cn/group4/M00/0F/F6/wKgQGWfBbPqAahp4AADerm1bK7k489.doc",
+              "local": "attachments/340300/2025年蚌埠市事业单位公开招聘有关问题的解答.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -295,7 +377,13 @@
           "positions": null,
           "source": "蚌埠市人力资源和社会保障局",
           "url": "https://rsj.bengbu.gov.cn/tslm/rsks/sydwl/140947634.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年蚌埠市事业单位公开招聘工作人员（市区）拟聘用人员公示（第一批）.pdf",
+              "url": "https://rsj.bengbu.gov.cn/group4/M00/10/AE/wKgQGWh4QeiAQfXZAAZ47tO9lC8847.pdf",
+              "local": "attachments/340300/2025年蚌埠市事业单位公开招聘工作人员（市区）拟聘用人员公示（第一批）.pdf"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -306,7 +394,13 @@
           "positions": null,
           "source": "蚌埠市人力资源和社会保障局",
           "url": "https://rsj.bengbu.gov.cn/tslm/rsks/sydwl/140957811.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年蚌埠市事业单位公开招聘工作人员拟聘用人员名单（第二批）.xlsx",
+              "url": "https://rsj.bengbu.gov.cn/group4/M00/10/C1/wKgQGWiQereAEYIEAAAxd-llJ6425.xlsx",
+              "local": "attachments/340300/2025年蚌埠市事业单位公开招聘工作人员拟聘用人员名单（第二批）.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -365,7 +459,13 @@
           "positions": null,
           "source": "安徽省人力资源和社会保障厅",
           "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahsszsydwgkzpzl/gsszgxgkzp/80762097.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年度淮南市事业单位公开招聘工作人员岗位计划表.xlsx",
+              "url": "https://hrss.ah.gov.cn/group2/M00/04/25/wKg8FGfFdLKARdiEAADiaJjciNQ89.xlsx",
+              "local": "attachments/340400/2025年度淮南市事业单位公开招聘工作人员岗位计划表.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -381,6 +481,11 @@
               "name": "2025年度淮南市事业单位引进急需紧缺人才岗位计划表.docx",
               "url": "https://rsj.huainan.gov.cn/group4/M00/10/ED/rB40qWk3z1yAYxmOAAA_XBPmWqk68.docx",
               "local": "attachments/340400/2025年度淮南市事业单位引进急需紧缺人才岗位计划表.docx"
+            },
+            {
+              "name": "2025年安徽淮南市事业单位引进急需紧缺人才岗位报名表.docx",
+              "url": "https://rsj.huainan.gov.cn/group4/M00/10/ED/rB40qWk3z2WAYq2dAAA7TgRUDh492.docx",
+              "local": "attachments/340400/2025年安徽淮南市事业单位引进急需紧缺人才岗位报名表.docx"
             }
           ]
         },
@@ -446,7 +551,18 @@
           "positions": null,
           "source": "马鞍山先锋网",
           "url": "https://www.masxf.gov.cn/Home/detail/164841",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年安徽省考试录用公务员职位表.xlsx",
+              "url": "https://www.masxf.gov.cn/Public/Upload/ueupload/file/20250105/6387167040104034621351259.xlsx",
+              "local": "attachments/340500/2025年安徽省考试录用公务员职位表.xlsx"
+            },
+            {
+              "name": "2025年安徽省考试录用公务员报考指南.docx",
+              "url": "https://www.masxf.gov.cn/Public/Upload/ueupload/file/20250105/6387167043287626075047742.docx",
+              "local": "attachments/340500/2025年安徽省考试录用公务员报考指南.docx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -457,7 +573,23 @@
           "positions": null,
           "source": "马鞍山市人力资源和社会保障局",
           "url": "https://rsj.mas.gov.cn/zyzx/ywzl/rsks/2005741641.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年度马鞍山市直事业单位公开招聘工作人员岗位表.xlsx",
+              "url": "https://rsj.mas.gov.cn/group4/M00/0C/07/Cu7KgmfBdOaAO7z4AACLorvIiKA30.xlsx",
+              "local": "attachments/340500/2025年度马鞍山市直事业单位公开招聘工作人员岗位表.xlsx"
+            },
+            {
+              "name": "2025年教育部专业（学科）指导目录.zip",
+              "url": "https://rsj.mas.gov.cn/group4/M00/0C/07/Cu7KgmfBdPGAeEaEAFB_OH4OMik074.zip",
+              "local": "attachments/340500/2025年教育部专业（学科）指导目录.zip"
+            },
+            {
+              "name": "2025年度马鞍山市直事业单位公开招聘工作人员有关问题解答.doc",
+              "url": "https://rsj.mas.gov.cn/group4/M00/0C/07/Cu7KgmfBdPqAYBnBAAEIAHImY1k895.doc",
+              "local": "attachments/340500/2025年度马鞍山市直事业单位公开招聘工作人员有关问题解答.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -468,7 +600,13 @@
           "positions": null,
           "source": "马鞍山先锋网",
           "url": "https://www.masxf.gov.cn/Home/detail/165411",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年安徽马鞍山市考试录用公务员拟录用人员名单（第三批）.xls",
+              "url": "https://www.masxf.gov.cn/Public/Upload/ueupload/file/20250620/6388601147278479064338393.xls",
+              "local": "attachments/340500/2025年安徽马鞍山市考试录用公务员拟录用人员名单（第三批）.xls"
+            }
+          ]
         }
       ]
     },
@@ -603,6 +741,71 @@
               "name": "2025年铜陵市市直事业单位公开招聘工作人员岗位表.xlsx",
               "url": "https://www.tl.gov.cn/doc/ucap/1676766850592583680/document/20250304/U8TOhMQo.xlsx",
               "local": null
+            },
+            {
+              "name": "2025年PDicjuxO.xls",
+              "url": "https://www.tl.gov.cn/tlsrmzf/zpzn/2086620097062690816/PDicjuxO.xls",
+              "local": "attachments/340700/2025年PDicjuxO.xls"
+            },
+            {
+              "name": "2025年gSIaedx3.xls",
+              "url": "https://www.tl.gov.cn/tlsrmzf/zpzn/2068952143638618112/gSIaedx3.xls",
+              "local": "attachments/340700/2025年gSIaedx3.xls"
+            },
+            {
+              "name": "2025年K8Xe1kMZ.xls",
+              "url": "https://www.tl.gov.cn/tlsrmzf/zpzn/2056556700527026176/K8Xe1kMZ.xls",
+              "local": "attachments/340700/2025年K8Xe1kMZ.xls"
+            },
+            {
+              "name": "2025年Y07jV6Zd.xlsx",
+              "url": "https://www.tl.gov.cn/tlsrmzf/zpzn/2053655757225517056/Y07jV6Zd.xlsx",
+              "local": "attachments/340700/2025年Y07jV6Zd.xlsx"
+            },
+            {
+              "name": "2025年2y5jBTww.xlsx",
+              "url": "https://www.tl.gov.cn/tlsrmzf/zpzn/2046399570788540416/2y5jBTww.xlsx",
+              "local": "attachments/340700/2025年2y5jBTww.xlsx"
+            },
+            {
+              "name": "2025年Ar3n5ovj.xls",
+              "url": "https://www.tl.gov.cn/tlsrmzf/zpzn/2046400119944568832/Ar3n5ovj.xls",
+              "local": "attachments/340700/2025年Ar3n5ovj.xls"
+            },
+            {
+              "name": "2025年pGeZcjLG.xls",
+              "url": "https://www.tl.gov.cn/tlsrmzf/zpzn/2030815959871971328/pGeZcjLG.xls",
+              "local": "attachments/340700/2025年pGeZcjLG.xls"
+            },
+            {
+              "name": "2025年qOvwjQDV.doc",
+              "url": "https://www.tl.gov.cn/tlsrmzf/zpzn/2030815959871971328/qOvwjQDV.doc",
+              "local": "attachments/340700/2025年qOvwjQDV.doc"
+            },
+            {
+              "name": "2025年pK7rLtia.xlsx",
+              "url": "https://www.tl.gov.cn/tlsrmzf/zpzn/2015602682829266944/pK7rLtia.xlsx",
+              "local": "attachments/340700/2025年pK7rLtia.xlsx"
+            },
+            {
+              "name": "2025年a4cRzqzS.doc",
+              "url": "https://www.tl.gov.cn/tlsrmzf/zpzn/1980456191383101440/a4cRzqzS.doc",
+              "local": "attachments/340700/2025年a4cRzqzS.doc"
+            },
+            {
+              "name": "2025年0ZKwOuzy.pdf",
+              "url": "https://www.tl.gov.cn/tlsrmzf/zpzn/1937423391143026688/0ZKwOuzy.pdf",
+              "local": "attachments/340700/2025年0ZKwOuzy.pdf"
+            },
+            {
+              "name": "2025年U8TOhMQo.xlsx",
+              "url": "https://www.tl.gov.cn/tlsrmzf/zpzn/1897199993842622464/U8TOhMQo.xlsx",
+              "local": "attachments/340700/2025年U8TOhMQo.xlsx"
+            },
+            {
+              "name": "2025年MdlZXlBD.doc",
+              "url": "https://www.tl.gov.cn/tlsrmzf/zpzn/1897199993842622464/MdlZXlBD.doc",
+              "local": "attachments/340700/2025年MdlZXlBD.doc"
             }
           ]
         },
@@ -677,7 +880,18 @@
           "positions": null,
           "source": "安庆市人力资源和社会保障局",
           "url": "https://rsj.anqing.gov.cn/xxfb/tzgg/2003986698.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年安徽、安庆市市直事业单位公开招聘工作人员岗位表.xls",
+              "url": "https://rsj.anqing.gov.cn/group4/M00/01/46/FBUWFGfBc1mAFXvcAADKAMyhUMg355.xls",
+              "local": "attachments/340800/2025年安徽、安庆市市直事业单位公开招聘工作人员岗位表.xls"
+            },
+            {
+              "name": "2025年安徽、安庆市市直事业单位公开招聘工作人员有关问题的政策解答.docx",
+              "url": "https://rsj.anqing.gov.cn/group4/M00/01/46/FBUWFGfBcrGAcn1kAABCnrBjMck19.docx",
+              "local": "attachments/340800/2025年安徽、安庆市市直事业单位公开招聘工作人员有关问题的政策解答.docx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -688,7 +902,13 @@
           "positions": null,
           "source": "安庆市人力资源和社会保障局",
           "url": "https://rsj.anqing.gov.cn/xxfb/ztzl/gkzk/sydwhzyzgjsks/2004108217.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年安徽安庆市市直事业单位公开招聘拟聘用人员名单（一）.xls",
+              "url": "https://rsj.anqing.gov.cn/group4/M00/02/D6/FBUWFGh9tqmALovaAAB0AJZ2Tz0481.xls",
+              "local": "attachments/340800/2025年安徽安庆市市直事业单位公开招聘拟聘用人员名单（一）.xls"
+            }
+          ]
         }
       ]
     },
@@ -813,7 +1033,13 @@
           "positions": null,
           "source": "安徽省人力资源和社会保障厅",
           "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahsszsydwgkzpzl/gsszgxgkzp/80762073.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年度滁州市市直事业单位公开招聘工作人员岗位表 .xls",
+              "url": "https://hrss.ah.gov.cn/group2/M00/04/25/wKg8FGfFZuOAFnGIAADGAE1M2xM304.xls",
+              "local": "attachments/341100/2025年度滁州市市直事业单位公开招聘工作人员岗位表 .xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -824,7 +1050,13 @@
           "positions": null,
           "source": "滁州市人力资源和社会保障局",
           "url": "https://rsj.chuzhou.gov.cn/gsgg/1104438959.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年度滁州市市直事业单位公开招聘拟聘用人员名单（第三批）.xls",
+              "url": "https://rsj.chuzhou.gov.cn/group4/M00/12/F1/CpYIZmiQGQaARkhtAAA6AJzIT2w405.xls",
+              "local": "attachments/341100/2025年度滁州市市直事业单位公开招聘拟聘用人员名单（第三批）.xls"
+            }
+          ]
         }
       ]
     },
@@ -879,7 +1111,13 @@
           "positions": null,
           "source": "安徽省人力资源和社会保障厅",
           "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahsszsydwgkzpzl/gsszgxgkzp/80762024.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年附件1-3.zip",
+              "url": "https://hrss.ah.gov.cn/group2/M00/04/25/wKg8FGfFXVKAMZfqAAB78SzeYo0640.zip",
+              "local": "attachments/341200/2025年附件1-3.zip"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -947,7 +1185,13 @@
           "positions": null,
           "source": "宿州市人力资源和社会保障局",
           "url": "https://rsj.ahsz.gov.cn/rsks/rsks/195370501.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年安徽宿州市市直事业单位公开招聘工作人员岗位表.xlsx",
+              "url": "https://rsj.ahsz.gov.cn/group1/M00/54/76/Cpc8VmfBcb-AFw0QAABV-gE6U_A07.xlsx",
+              "local": "attachments/341300/2025年安徽宿州市市直事业单位公开招聘工作人员岗位表.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -958,7 +1202,13 @@
           "positions": null,
           "source": "宿州市人力资源和社会保障局",
           "url": "https://rsj.ahsz.gov.cn/rsks/rsks/195652611.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年安徽宿州市市属学校公开招聘工作人员岗位表.xls",
+              "url": "https://rsj.ahsz.gov.cn/group1/M00/57/94/Cpc8VmhBUdmASfc8AADSAKJD1XY039.xls",
+              "local": "attachments/341300/2025年安徽宿州市市属学校公开招聘工作人员岗位表.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -1034,7 +1284,38 @@
           "positions": null,
           "source": "六安市人力资源和社会保障局",
           "url": "https://rsj.luan.gov.cn/zwzx/tzgg/5409517.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年度六安市市直事业单位公开招聘岗位计划表.xls",
+              "url": "https://rsj.luan.gov.cn/group4/M00/15/39/wKgSHGfBboqAQUPvAAEkADGLn6U498.xls",
+              "local": "attachments/341500/2025年度六安市市直事业单位公开招聘岗位计划表.xls"
+            },
+            {
+              "name": "2025年度六安市市直事业单位公开招聘工作人员有关问题解答.doc",
+              "url": "https://rsj.luan.gov.cn/group4/M00/15/39/wKgSHGfBa4GAIA3kAAEOJbsB5ko281.doc",
+              "local": "attachments/341500/2025年度六安市市直事业单位公开招聘工作人员有关问题解答.doc"
+            },
+            {
+              "name": "2025年六安市城市社区名录.xlsx",
+              "url": "https://rsj.luan.gov.cn/group4/M00/15/39/wKgSHGfBW_uAGzKKAAAx0J1BB2k45.xlsx",
+              "local": "attachments/341500/2025年六安市城市社区名录.xlsx"
+            },
+            {
+              "name": "2025年公共科目类别代码.doc",
+              "url": "https://rsj.luan.gov.cn/group4/M00/15/39/wKgSHGfBXAeAGhgPAABsAAVwHaQ870.doc",
+              "local": "attachments/341500/2025年公共科目类别代码.doc"
+            },
+            {
+              "name": "2025年关于同意XXX同志参加六安市市直事业单位公开招聘工作人员报名的证明.doc",
+              "url": "https://rsj.luan.gov.cn/group4/M00/15/39/wKgSHGfBXBGAP8vtAAA0AECOQcs573.doc",
+              "local": "attachments/341500/2025年关于同意XXX同志参加六安市市直事业单位公开招聘工作人员报名的证明.doc"
+            },
+            {
+              "name": "2025年关于XXX同志工作经历的证明.doc",
+              "url": "https://rsj.luan.gov.cn/group4/M00/15/39/wKgSHGfBXB-APlzQAAAwAP2RlGM360.doc",
+              "local": "attachments/341500/2025年关于XXX同志工作经历的证明.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -1102,7 +1383,13 @@
           "positions": null,
           "source": "安徽省人力资源和社会保障厅",
           "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahsszsydwgkzpzl/gsszgxgkzp/80762031.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年度亳州市市直事业单位公开招聘工作人员岗位表 .xlsx",
+              "url": "https://hrss.ah.gov.cn/group2/M00/04/25/wKg8FGfFX2SAR6KyAABOA1QimOw41.xlsx",
+              "local": "attachments/341600/2025年度亳州市市直事业单位公开招聘工作人员岗位表 .xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -1252,7 +1539,13 @@
           "positions": null,
           "source": "安徽省人力资源和社会保障厅",
           "url": "https://hrss.ah.gov.cn/zxzx/ztzl/ahsszsydwgkzpzl/gsszgxgkzp/80762100.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年附件1-3.zip",
+              "url": "https://hrss.ah.gov.cn/group2/M00/04/25/wKg8FGfFdVSAPyQRAE_Gx8HXAao510.zip",
+              "local": "attachments/341800/2025年附件1-3.zip"
+            }
+          ]
         },
         {
           "year": 2025,

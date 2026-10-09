@@ -1,7 +1,7 @@
 {
   "adcode": 530000,
   "name": "云南省",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-03",
   "provincePortals": [
     {
       "category": "公务员",
@@ -99,7 +99,18 @@
           "positions": null,
           "source": "中共昆明市委组织部",
           "url": "http://zzb.km.gov.cn/c/2025-06-05/4986406.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年云南昆明市拟录用公务员人员名单（一）.pdf",
+              "url": "http://zzb.km.gov.cn/upload/resources/file/2025/06/05/4099516.pdf",
+              "local": "attachments/530100/2025年云南昆明市拟录用公务员人员名单（一）.pdf"
+            },
+            {
+              "name": "2025年云南昆明pdf.pdf",
+              "url": "http://zzb.km.gov.cn/upload/resources/file/2025/06/05/4099512.pdf",
+              "local": "attachments/530100/2025年云南昆明pdf.pdf"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -121,7 +132,33 @@
           "positions": null,
           "source": "昆明市人力资源和社会保障局",
           "url": "https://rsj.km.gov.cn/c/2025-06-09/4987658.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年云南昆明市卫生健康委员会直属事业单位第二次公开招聘工作人员公告.docx",
+              "url": "https://rsj.km.gov.cn/upload/resources/file/2026/07/24/4311344.docx",
+              "local": "attachments/530100/2025年云南昆明市卫生健康委员会直属事业单位第二次公开招聘工作人员公告.docx"
+            },
+            {
+              "name": "2025年云南.昆明市卫生健康委员会直属事业单位第二批公开招聘事业单位工作人员岗位信息表.xlsx",
+              "url": "https://rsj.km.gov.cn/upload/resources/file/2025/06/10/4100692.xlsx",
+              "local": "attachments/530100/2025年云南.昆明市卫生健康委员会直属事业单位第二批公开招聘事业单位工作人员岗位信息表.xlsx"
+            },
+            {
+              "name": "2025年云南昆明.研究生教育学科专业目录（2022年）.pdf",
+              "url": "https://rsj.km.gov.cn/upload/resources/file/2025/06/09/4100609.pdf",
+              "local": "attachments/530100/2025年云南昆明.研究生教育学科专业目录（2022年）.pdf"
+            },
+            {
+              "name": "2025年云南昆明.学位授予单位（不含军队单位）自主设置二级学科名单（截至2024年6月30日）.pdf",
+              "url": "https://rsj.km.gov.cn/upload/resources/file/2025/06/09/4100610.pdf",
+              "local": "attachments/530100/2025年云南昆明.学位授予单位（不含军队单位）自主设置二级学科名单（截至2024年6月30日）.pdf"
+            },
+            {
+              "name": "2025年云南昆明.学位授予单位（不含军队单位）自主设置交叉学科名单（截至2024年6月30日）.pdf",
+              "url": "https://rsj.km.gov.cn/upload/resources/file/2025/06/09/4100611.pdf",
+              "local": "attachments/530100/2025年云南昆明.学位授予单位（不含军队单位）自主设置交叉学科名单（截至2024年6月30日）.pdf"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -183,7 +220,13 @@
           "positions": null,
           "source": "中共曲靖市委组织部",
           "url": "http://rsj.qj.gov.cn/view/gsgg/140627.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年云南附件：曲靖市考试录用公务员拟录用人员名单（一）.pdf",
+              "url": "https://rsj.qj.gov.cn/upfiles/ueditor/upload/file/20250609/1749434306980078174.pdf",
+              "local": "attachments/530300/2025年云南附件：曲靖市考试录用公务员拟录用人员名单（一）.pdf"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -234,7 +277,33 @@
           "positions": null,
           "source": "玉溪市人力资源和社会保障局（玉溪人才网）",
           "url": "https://www.yxrc.cn/yxrc/article.g?m=detailRc&p_id=31356351&cateid=4",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年1．玉溪市事业单位公开招聘工作人员岗位表.zip",
+              "url": "https://www.yxrc.cn/tpfwqserver/uploads/articleFiles/files/20250214/1739502819685001888.xlsx",
+              "local": "attachments/530400/2025年1．玉溪市事业单位公开招聘工作人员岗位表.zip"
+            },
+            {
+              "name": "2025年2．事业单位公开招聘分类考试公共科目笔试考试大纲（版）.pdf",
+              "url": "https://www.yxrc.cn/tpfwqserver/uploads/articleFiles/files/20250210/1739152391014027000.pdf",
+              "local": "attachments/530400/2025年2．事业单位公开招聘分类考试公共科目笔试考试大纲（版）.pdf"
+            },
+            {
+              "name": "2021年3．职业教育专业目录（）.docx",
+              "url": "https://www.yxrc.cn/tpfwqserver/uploads/articleFiles/files/20250210/1739152410705091251.docx",
+              "local": "attachments/530400/2021年3．职业教育专业目录（）.docx"
+            },
+            {
+              "name": "2023年4．普通高等学校本科专业目录（）.pdf",
+              "url": "https://www.yxrc.cn/tpfwqserver/uploads/articleFiles/files/20250210/1739152432093027789.pdf",
+              "local": "attachments/530400/2023年4．普通高等学校本科专业目录（）.pdf"
+            },
+            {
+              "name": "2022年5．研究生教育学科专业目录（）.pdf",
+              "url": "https://www.yxrc.cn/tpfwqserver/uploads/articleFiles/files/20250210/1739152451655053238.pdf",
+              "local": "attachments/530400/2022年5．研究生教育学科专业目录（）.pdf"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -245,7 +314,33 @@
           "positions": null,
           "source": "玉溪市人力资源和社会保障局（玉溪人才网）",
           "url": "https://www.yxrc.cn/yxrc/article.g?m=detailRc&p_id=32620351&cateid=4",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年1．玉溪市下半年事业单位公开招聘工作人员岗位表.xlsx",
+              "url": "https://www.yxrc.cn/tpfwqserver/uploads/articleFiles/files/20250902/1756775652207054684.xlsx",
+              "local": "attachments/530400/2025年1．玉溪市下半年事业单位公开招聘工作人员岗位表.xlsx"
+            },
+            {
+              "name": "2025年2．事业单位公开招聘分类考试公共科目笔试考试大纲（版）.pdf",
+              "url": "https://www.yxrc.cn/tpfwqserver/uploads/articleFiles/files/20250902/1756775698305022551.pdf",
+              "local": "attachments/530400/2025年2．事业单位公开招聘分类考试公共科目笔试考试大纲（版）.pdf"
+            },
+            {
+              "name": "2021年3．职业教育专业目录（）_2.docx",
+              "url": "https://www.yxrc.cn/tpfwqserver/uploads/articleFiles/files/20250902/1756775718751030218.docx",
+              "local": "attachments/530400/2021年3．职业教育专业目录（）_2.docx"
+            },
+            {
+              "name": "2023年4．普通高等学校本科专业目录（）.pdf",
+              "url": "https://www.yxrc.cn/tpfwqserver/uploads/articleFiles/files/20250902/1756775745673067745.pdf",
+              "local": "attachments/530400/2023年4．普通高等学校本科专业目录（）.pdf"
+            },
+            {
+              "name": "2022年5．研究生教育学科专业目录（）.pdf",
+              "url": "https://www.yxrc.cn/tpfwqserver/uploads/articleFiles/files/20250902/1756775765334057818.pdf",
+              "local": "attachments/530400/2022年5．研究生教育学科专业目录（）.pdf"
+            }
+          ]
         }
       ]
     },
@@ -292,7 +387,13 @@
           "positions": null,
           "source": "云南省保山市人民检察院",
           "url": "http://www.baoshan.jcy.gov.cn/bjdt/202605/t20260526_7744931.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年保山市检察系统考试录用公务员拟录用人员名单.xls",
+              "url": "http://www.baoshan.jcy.gov.cn/bjdt/202605/P020260526679531125953.xls",
+              "local": "attachments/530500/2026年保山市检察系统考试录用公务员拟录用人员名单.xls"
+            }
+          ]
         }
       ]
     },
@@ -334,7 +435,18 @@
           "positions": null,
           "source": "中共昭通市委组织部、昭通市人力资源和社会保障局",
           "url": "https://www.zt.gov.cn/lanmu/xwzx/contents/15/237607.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年云南2昭通市事业单位公开招聘工作人员报考指南及注意事项.docx",
+              "url": "https://www.zt.gov.cn/zhaotong/upload/files/2025/2/10/7f32314f2c57d57b.docx",
+              "local": "attachments/530600/2025年云南2昭通市事业单位公开招聘工作人员报考指南及注意事项.docx"
+            },
+            {
+              "name": "2025年云南昭通3事业单位公开招聘分类考试公共科目笔试考试大纲（版）.pdf",
+              "url": "https://www.zt.gov.cn/zhaotong/upload/files/2025/2/10/36ce001587869906.pdf",
+              "local": "attachments/530600/2025年云南昭通3事业单位公开招聘分类考试公共科目笔试考试大纲（版）.pdf"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -345,7 +457,13 @@
           "positions": null,
           "source": "昭通市人力资源和社会保障局",
           "url": "https://www.zt.gov.cn/lanmu/xwzx/contents/15/250902.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年云南昭通市2025年事业单位公开招聘工作人员第九批拟办理聘用手续人员名单（最终）.xls",
+              "url": "https://www.zt.gov.cn/zhaotong/upload/files/2026/5/26/47314c1009de2b4b.xls",
+              "local": "attachments/530600/2026年云南昭通市2025年事业单位公开招聘工作人员第九批拟办理聘用手续人员名单（最终）.xls"
+            }
+          ]
         }
       ]
     },
@@ -381,7 +499,33 @@
           "positions": null,
           "source": "丽江市人力资源和社会保障局",
           "url": "https://ljhrss.lijiang.gov.cn/xljrsj/c101886/202502/f6c7b35c34e5431c9d3ef753cd9bcfbc.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年云南丽江市公开招聘事业单位工作人员计划表.xlsx",
+              "url": "https://ljhrss.lijiang.gov.cn/xljrsj/c101886/202502/f6c7b35c34e5431c9d3ef753cd9bcfbc/files/e2558bec678a432981f047c5d11711ca.xlsx",
+              "local": "attachments/530700/2025年云南丽江市公开招聘事业单位工作人员计划表.xlsx"
+            },
+            {
+              "name": "2025年云南丽江专科专业目录.xlsx",
+              "url": "https://ljhrss.lijiang.gov.cn/xljrsj/c101886/202502/f6c7b35c34e5431c9d3ef753cd9bcfbc/files/d4cbbc086bda4c18b558ade5adc86f94.xlsx",
+              "local": "attachments/530700/2025年云南丽江专科专业目录.xlsx"
+            },
+            {
+              "name": "2025年云南丽江本科专业目录.pdf",
+              "url": "https://ljhrss.lijiang.gov.cn/xljrsj/c101886/202502/f6c7b35c34e5431c9d3ef753cd9bcfbc/files/3598602c56b24b0baf653f2e536f7bbc.pdf",
+              "local": "attachments/530700/2025年云南丽江本科专业目录.pdf"
+            },
+            {
+              "name": "2025年云南丽江研究生教育学科专业目录.pdf",
+              "url": "https://ljhrss.lijiang.gov.cn/xljrsj/c101886/202502/f6c7b35c34e5431c9d3ef753cd9bcfbc/files/a97433bdfe804d6cbffebe4d9d9222e9.pdf",
+              "local": "attachments/530700/2025年云南丽江研究生教育学科专业目录.pdf"
+            },
+            {
+              "name": "2025年云南丽江2025版事业单位公开招聘分类考试公共科目笔试考试大纲.pdf",
+              "url": "https://ljhrss.lijiang.gov.cn/xljrsj/c101886/202502/f6c7b35c34e5431c9d3ef753cd9bcfbc/files/f95972ac80b74b6b91ccc673190e96e3.pdf",
+              "local": "attachments/530700/2025年云南丽江2025版事业单位公开招聘分类考试公共科目笔试考试大纲.pdf"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -392,7 +536,13 @@
           "positions": null,
           "source": "丽江市人力资源和社会保障局",
           "url": "https://ljhrss.lijiang.gov.cn/xljrsj/c101886/202506/983a8628ea864bc392aa411a75ad46f7.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年云南附件：丽江市考试录用公务员拟录用人员名单（不含法检系统）.xls",
+              "url": "https://ljhrss.lijiang.gov.cn/xljrsj/c101886/202506/983a8628ea864bc392aa411a75ad46f7/files/63b5f99cc12546b8acc56dc841d572a1.xls",
+              "local": "attachments/530700/2025年云南附件：丽江市考试录用公务员拟录用人员名单（不含法检系统）.xls"
+            }
+          ]
         }
       ]
     },
@@ -617,7 +767,13 @@
           "positions": null,
           "source": "红河州公务员局（红河人才网）",
           "url": "https://www.hhzrc.cn/Article/Index/Index/show/id/15934",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年红河州考试录用公务员拟录用人员名单（一）.pdf",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202506/09/17494289381578458bFTSE.pdf",
+              "local": "attachments/532500/2025年红河州考试录用公务员拟录用人员名单（一）.pdf"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -628,7 +784,158 @@
           "positions": null,
           "source": "红河州人力资源和社会保障局（红河人才网）",
           "url": "https://www.hhzrc.cn/Article/Index/Index/show/id/15996",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年屏边县事业单位公开招聘工作人员拟聘用人员名单（第一批）.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202506/23/1750643154296133AZq4PM.xls",
+              "local": "attachments/532500/2025年屏边县事业单位公开招聘工作人员拟聘用人员名单（第一批）.xls"
+            },
+            {
+              "name": "2025年红河州住房公积金中心公开招聘拟聘用人员名单.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/03/1751533643863595x3NFdO.xls",
+              "local": "attachments/532500/2025年红河州住房公积金中心公开招聘拟聘用人员名单.xls"
+            },
+            {
+              "name": "2025年泸西县事业单位公开招聘工作人员拟聘用人员名单（第一批）.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/08/1751943288374572Xt0oFd.xls",
+              "local": "attachments/532500/2025年泸西县事业单位公开招聘工作人员拟聘用人员名单（第一批）.xls"
+            },
+            {
+              "name": "2025年红河州事业单位公开招聘工作人员拟聘用人员名单公示期：7月11日-7月17日-第一批（河口县）.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/10/17521406724472126qGyU1.xls",
+              "local": "attachments/532500/2025年红河州事业单位公开招聘工作人员拟聘用人员名单公示期：7月11日-7月17日-第一批（河口县）.xls"
+            },
+            {
+              "name": "2025年弥勒市事业单位公开招聘工作人员拟聘用人员名单（第一批）公示期：7月14日—7月21日.xlsx",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/11/1752205594559465z8qV8q.xlsx",
+              "local": "attachments/532500/2025年弥勒市事业单位公开招聘工作人员拟聘用人员名单（第一批）公示期：7月14日—7月21日.xlsx"
+            },
+            {
+              "name": "2025年红河州卫生健康委员会事业单位公开招聘工作人员拟聘用人员名单(第一批)公示期7月15日-7月22日.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/14/1752464510972513YBk19N.xls",
+              "local": "attachments/532500/2025年红河州卫生健康委员会事业单位公开招聘工作人员拟聘用人员名单(第一批)公示期7月15日-7月22日.xls"
+            },
+            {
+              "name": "2025年红河县事业单位公开招聘工作人员拟聘用人员名单（公示期：7月17日－7月24日）.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/16/1752651554609301Z7bmY3.xls",
+              "local": "attachments/532500/2025年红河县事业单位公开招聘工作人员拟聘用人员名单（公示期：7月17日－7月24日）.xls"
+            },
+            {
+              "name": "2025年石屏县事业单位公开招聘工作人员拟聘用人员名单(第一批).xlsx",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/16/1752651554115259jmw1JJ.xlsx",
+              "local": "attachments/532500/2025年石屏县事业单位公开招聘工作人员拟聘用人员名单(第一批).xlsx"
+            },
+            {
+              "name": "2025年金平县事业单位公开招聘工作人员拟聘用人员名单（第一批）公示期：7月17日-7月24日.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/16/1752656434707120ThcBhH.xls",
+              "local": "attachments/532500/2025年金平县事业单位公开招聘工作人员拟聘用人员名单（第一批）公示期：7月17日-7月24日.xls"
+            },
+            {
+              "name": "2025年红河州自然资源和规划局事业单位公开招聘工作人员拟聘用人员名单.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/17/1752714688924780DC2RkQ.xls",
+              "local": "attachments/532500/2025年红河州自然资源和规划局事业单位公开招聘工作人员拟聘用人员名单.xls"
+            },
+            {
+              "name": "2025年红河州广播电视局事业单位公开招聘拟聘用人员名单.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/21/1753077647808276UyRTHJ.xls",
+              "local": "attachments/532500/2025年红河州广播电视局事业单位公开招聘拟聘用人员名单.xls"
+            },
+            {
+              "name": "2025年红河州检验检测院事业单位公开招聘工作人员拟聘用人员名单（公示期：7月22日—7月28日）.xlsx",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/21/17530776471201796vurpb.xlsx",
+              "local": "attachments/532500/2025年红河州检验检测院事业单位公开招聘工作人员拟聘用人员名单（公示期：7月22日—7月28日）.xlsx"
+            },
+            {
+              "name": "2025年红河州审计系统事业单位公开招聘拟聘用人员名单.pdf",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/21/1753077647358570PUhbAd.pdf",
+              "local": "attachments/532500/2025年红河州审计系统事业单位公开招聘拟聘用人员名单.pdf"
+            },
+            {
+              "name": "2025年红河州残联事业单位公开招聘拟聘用人员名单.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/22/1753148683310721gXbsQe.xls",
+              "local": "attachments/532500/2025年红河州残联事业单位公开招聘拟聘用人员名单.xls"
+            },
+            {
+              "name": "2025年中共红河州委宣传部拟聘用人员名单.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/22/17531728399766506KcXHi.xls",
+              "local": "attachments/532500/2025年中共红河州委宣传部拟聘用人员名单.xls"
+            },
+            {
+              "name": "2025年建水县事业单位公开招聘工作人员拟聘用人员名单（第一批）公示期：7月23日-7月29日.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/22/1753176390979037y1X6SI.xls",
+              "local": "attachments/532500/2025年建水县事业单位公开招聘工作人员拟聘用人员名单（第一批）公示期：7月23日-7月29日.xls"
+            },
+            {
+              "name": "2025年蒙自市事业单位公开招聘工作人员拟聘用人员名单(第一批).xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/23/1753236286978612k3yFV2.xls",
+              "local": "attachments/532500/2025年蒙自市事业单位公开招聘工作人员拟聘用人员名单(第一批).xls"
+            },
+            {
+              "name": "2025年绿春县事业单位公开招聘工作人员拟聘用人员名单（第一批）公示期：7月24日——7月30日.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/23/1753261910398646symlDm.xls",
+              "local": "attachments/532500/2025年绿春县事业单位公开招聘工作人员拟聘用人员名单（第一批）公示期：7月24日——7月30日.xls"
+            },
+            {
+              "name": "2025年元阳县事业单位公开招聘工作人员拟聘用人员名单（第一批）公示期：7月24日—7月30日.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/23/1753261911416709QjKUtF.xls",
+              "local": "attachments/532500/2025年元阳县事业单位公开招聘工作人员拟聘用人员名单（第一批）公示期：7月24日—7月30日.xls"
+            },
+            {
+              "name": "2025年红河州融媒体中心事业单位公开招聘工作人员拟聘用人员名单.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/24/1753321786205114iAeIT2.xls",
+              "local": "attachments/532500/2025年红河州融媒体中心事业单位公开招聘工作人员拟聘用人员名单.xls"
+            },
+            {
+              "name": "2025年开远市事业单位公开招聘工作人员拟聘用人员名单（第一批）（公示时间：7月25日-7月31日）.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/24/17533465643799568XsW95.xls",
+              "local": "attachments/532500/2025年开远市事业单位公开招聘工作人员拟聘用人员名单（第一批）（公示时间：7月25日-7月31日）.xls"
+            },
+            {
+              "name": "2025年河口县事业单位公开招聘工作人员拟聘用人员名单公示期：7月25日-8月1日-第二批.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/25/1753431833734803oJJptB.xls",
+              "local": "attachments/532500/2025年河口县事业单位公开招聘工作人员拟聘用人员名单公示期：7月25日-8月1日-第二批.xls"
+            },
+            {
+              "name": "2025年红河州教育体育局所属事业单位事业单位公开招聘拟聘用人员名单（公示期：7月28日至8月1日）.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/25/1753431833903534NtCsLd.xls",
+              "local": "attachments/532500/2025年红河州教育体育局所属事业单位事业单位公开招聘拟聘用人员名单（公示期：7月28日至8月1日）.xls"
+            },
+            {
+              "name": "2025年州交通局拟聘用人员名单.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/28/1753663952377232rWbTp0.xls",
+              "local": "attachments/532500/2025年州交通局拟聘用人员名单.xls"
+            },
+            {
+              "name": "2025年个旧市公开招聘事业单位工作人员聘人员公示（一）（公示期7月30日至8月5日）.xlsx",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/29/1753755577466230b9J3Nh.xlsx",
+              "local": "attachments/532500/2025年个旧市公开招聘事业单位工作人员聘人员公示（一）（公示期7月30日至8月5日）.xlsx"
+            },
+            {
+              "name": "2025年红河州统计局事业单位公开招聘拟聘用人员名单.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/29/1753755577983843tLpxyA.xls",
+              "local": "attachments/532500/2025年红河州统计局事业单位公开招聘拟聘用人员名单.xls"
+            },
+            {
+              "name": "2025年红河州市场监督管理局事业单位公开招聘拟聘用人员名单.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/29/17537567574947661Ic0cq.xls",
+              "local": "attachments/532500/2025年红河州市场监督管理局事业单位公开招聘拟聘用人员名单.xls"
+            },
+            {
+              "name": "2025年红河州生态环境局事业单位公开招聘拟聘用人员名单.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/30/1753842062998281KNdPXp.xls",
+              "local": "attachments/532500/2025年红河州生态环境局事业单位公开招聘拟聘用人员名单.xls"
+            },
+            {
+              "name": "2025年红河州事业单位公开招聘工作人员拟聘用人员名单（屏边县第二批）.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202507/31/1753924650479617E0Km64.xls",
+              "local": "attachments/532500/2025年红河州事业单位公开招聘工作人员拟聘用人员名单（屏边县第二批）.xls"
+            },
+            {
+              "name": "2025年红河州水利局下属事业单位公开招聘拟聘用人员名单.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202508/01/1754038962314187xSmGnT.xls",
+              "local": "attachments/532500/2025年红河州水利局下属事业单位公开招聘拟聘用人员名单.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -639,7 +946,43 @@
           "positions": null,
           "source": "红河州教育体育局（红河人才网）",
           "url": "https://www.hhzrc.cn/Article/Index/Index/show/id/15695",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年红河州“红河奔腾”教育人才专项招引报名表.doc",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202504/07/17440143228531881VqxgF.doc",
+              "local": "attachments/532500/2025年红河州“红河奔腾”教育人才专项招引报名表.doc"
+            },
+            {
+              "name": "2025年红河州“红河奔腾”教育人才专项招引基本信息表.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202504/07/1744014322813299s9SEAs.xls",
+              "local": "attachments/532500/2025年红河州“红河奔腾”教育人才专项招引基本信息表.xls"
+            },
+            {
+              "name": "2025年红河州“红河奔腾”教育人才专项招引单位联系方式.xlsx",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202504/07/17440143227206396pbSUm.xlsx",
+              "local": "attachments/532500/2025年红河州“红河奔腾”教育人才专项招引单位联系方式.xlsx"
+            },
+            {
+              "name": "2025年“红河奔腾”教育专项人才公开招聘专业技术人员岗位信息表.xls",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202504/07/1744014322795726f71axu.xls",
+              "local": "attachments/532500/2025年“红河奔腾”教育专项人才公开招聘专业技术人员岗位信息表.xls"
+            },
+            {
+              "name": "2024年普通高等学校本科专业目录（）.pdf",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202504/07/1744014322967013nIDrVM.pdf",
+              "local": "attachments/532500/2024年普通高等学校本科专业目录（）.pdf"
+            },
+            {
+              "name": "2022年研究生教育学科专业目录（）.pdf",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202504/07/1744014322155408oMKpom.pdf",
+              "local": "attachments/532500/2022年研究生教育学科专业目录（）.pdf"
+            },
+            {
+              "name": "2025年第二轮“双一流”建设高校名单.docx",
+              "url": "https://www.hhzrc.cn/uploadfile/file/2025/202504/07/1744014322368293piEOSd.docx",
+              "local": "attachments/532500/2025年第二轮“双一流”建设高校名单.docx"
+            }
+          ]
         }
       ]
     },
@@ -678,7 +1021,13 @@
           "positions": null,
           "source": "文山州人力资源和社会保障局（文山州人社网）",
           "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/pc/content/content_1888909921476763648.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年云南文山壮族苗族自治州文山州事业单位公开招聘工作人员岗位计划表.xls",
+              "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/1888909921476763648/I0P7c1FZ.xls",
+              "local": "attachments/532600/2025年云南文山壮族苗族自治州文山州事业单位公开招聘工作人员岗位计划表.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -689,7 +1038,113 @@
           "positions": null,
           "source": "文山州教育体育局（文山州人社网）",
           "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/pc/content/content_1925850436692467712.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年BsYM5EHl.xls",
+              "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/2104574992847245312/BsYM5EHl.xls",
+              "local": "attachments/532600/2025年BsYM5EHl.xls"
+            },
+            {
+              "name": "2025年3k4nAQP8.xls",
+              "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/2104574992847245312/3k4nAQP8.xls",
+              "local": "attachments/532600/2025年3k4nAQP8.xls"
+            },
+            {
+              "name": "2025年rlx0viLB.xlsx",
+              "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/2102687523948236800/rlx0viLB.xlsx",
+              "local": "attachments/532600/2025年rlx0viLB.xlsx"
+            },
+            {
+              "name": "2025年LM4173LD.xlsx",
+              "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/2102687523948236800/LM4173LD.xlsx",
+              "local": "attachments/532600/2025年LM4173LD.xlsx"
+            },
+            {
+              "name": "2025年VDIPYGf6.xlsx",
+              "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/2087387389798682624/VDIPYGf6.xlsx",
+              "local": "attachments/532600/2025年VDIPYGf6.xlsx"
+            },
+            {
+              "name": "2025年lACMUj0u.xlsx",
+              "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/2087387389798682624/lACMUj0u.xlsx",
+              "local": "attachments/532600/2025年lACMUj0u.xlsx"
+            },
+            {
+              "name": "2025年auYDc28x.xls",
+              "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/2085562696825344000/auYDc28x.xls",
+              "local": "attachments/532600/2025年auYDc28x.xls"
+            },
+            {
+              "name": "2025年1ZhTgz0x.xls",
+              "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/2085562696825344000/1ZhTgz0x.xls",
+              "local": "attachments/532600/2025年1ZhTgz0x.xls"
+            },
+            {
+              "name": "2025年bzf5ZjMX.xlsx",
+              "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/2082027592375140352/bzf5ZjMX.xlsx",
+              "local": "attachments/532600/2025年bzf5ZjMX.xlsx"
+            },
+            {
+              "name": "2025年i139BLBU.xlsx",
+              "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/2082014286776172544/i139BLBU.xlsx",
+              "local": "attachments/532600/2025年i139BLBU.xlsx"
+            },
+            {
+              "name": "2025年6haUl0SK.xls",
+              "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/2081206487271931904/6haUl0SK.xls",
+              "local": "attachments/532600/2025年6haUl0SK.xls"
+            },
+            {
+              "name": "2025年QSc8Zeec.xls",
+              "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/2074822457483919360/QSc8Zeec.xls",
+              "local": "attachments/532600/2025年QSc8Zeec.xls"
+            },
+            {
+              "name": "2025年M5GHTFUu.xls",
+              "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/2074822457483919360/M5GHTFUu.xls",
+              "local": "attachments/532600/2025年M5GHTFUu.xls"
+            },
+            {
+              "name": "2025年zIEoKVjK.xls",
+              "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/2071529671112351744/zIEoKVjK.xls",
+              "local": "attachments/532600/2025年zIEoKVjK.xls"
+            },
+            {
+              "name": "2025年2wDh2y5i.xls",
+              "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/2071529671112351744/2wDh2y5i.xls",
+              "local": "attachments/532600/2025年2wDh2y5i.xls"
+            },
+            {
+              "name": "2025年9lQXGed4.xls",
+              "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/2064918962328920064/9lQXGed4.xls",
+              "local": "attachments/532600/2025年9lQXGed4.xls"
+            },
+            {
+              "name": "2025年7Dr2RMoI.xlsx",
+              "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/2062357836567240704/7Dr2RMoI.xlsx",
+              "local": "attachments/532600/2025年7Dr2RMoI.xlsx"
+            },
+            {
+              "name": "2025年59vLk2En.xlsx",
+              "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/2062357836567240704/59vLk2En.xlsx",
+              "local": "attachments/532600/2025年59vLk2En.xlsx"
+            },
+            {
+              "name": "2025年tB1Ez30l.pdf",
+              "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/2059906071657799680/tB1Ez30l.pdf",
+              "local": "attachments/532600/2025年tB1Ez30l.pdf"
+            },
+            {
+              "name": "2025年hgCLZYY8.xlsx",
+              "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/2059906071657799680/hgCLZYY8.xlsx",
+              "local": "attachments/532600/2025年hgCLZYY8.xlsx"
+            },
+            {
+              "name": "2025年xhK7J5We.xls",
+              "url": "https://wszrsj.ynws.gov.cn/wszrsw/tzgg/2059906071657799680/xhK7J5We.xls",
+              "local": "attachments/532600/2025年xhK7J5We.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -700,7 +1155,13 @@
           "positions": null,
           "source": "云南省文山壮族苗族自治州中级人民法院",
           "url": "http://fy.wszy.gov.cn/article/detail/2025/06/id/8860106.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年云南文山壮族苗族自治州文山州法院系统考试录用公务员拟录用人员公示名单.xlsx",
+              "url": "https://img.chinacourt.cn/mup/uploadfile/2025/06/06/17/b3efe4df8ecc94680c34b3334064c404.xlsx",
+              "local": "attachments/532600/2025年云南文山壮族苗族自治州文山州法院系统考试录用公务员拟录用人员公示名单.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -788,7 +1249,13 @@
           "positions": null,
           "source": "云南省大理州人民检察院",
           "url": "http://www.dali.jcy.gov.cn/djkx/202506/t20250606_6986981.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年云南大理白族自治州《大理州检察机关考试录用公务员拟录用人员公示名单》.xlsx",
+              "url": "http://www.dali.jcy.gov.cn/djkx/202506/P020250606600604466407.xlsx",
+              "local": "attachments/532900/2025年云南大理白族自治州《大理州检察机关考试录用公务员拟录用人员公示名单》.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -886,7 +1353,43 @@
           "positions": null,
           "source": "怒江州人力资源和社会保障局",
           "url": "https://www.nujiang.gov.cn/xxgk/568806162/info/2025-258708.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年云南怒江傈僳族自治州怒江州各级事业单位公开招聘人员考试计划职位表.xls",
+              "url": "https://file.nujiang.cn/files/20250214/fd9e35a3db89e663d3c8edd4fc9b199f.xls",
+              "local": "attachments/533300/2025年云南怒江傈僳族自治州怒江州各级事业单位公开招聘人员考试计划职位表.xls"
+            },
+            {
+              "name": "2025年云南怒江傈僳族自治州怒江州各级事业单位公开招聘人员报考指南及注意事项wps.doc",
+              "url": "https://file.nujiang.cn/files/20250214/b9ead01a91b9e0c421cf73a2b716a21f.doc",
+              "local": "attachments/533300/2025年云南怒江傈僳族自治州怒江州各级事业单位公开招聘人员报考指南及注意事项wps.doc"
+            },
+            {
+              "name": "2025年云南怒江傈僳族自治州专业目录.zip",
+              "url": "https://file.nujiang.cn/files/20250210/be934563c9a827d4f6c5e40f098018d4.zip",
+              "local": "attachments/533300/2025年云南怒江傈僳族自治州专业目录.zip"
+            },
+            {
+              "name": "2025年云南怒江傈僳族自治州定向招聘服务基层项目服务期满人员信息审核表.doc",
+              "url": "https://file.nujiang.cn/files/20250210/dc605f9bf44f4d5222400aa0590b686d.doc",
+              "local": "attachments/533300/2025年云南怒江傈僳族自治州定向招聘服务基层项目服务期满人员信息审核表.doc"
+            },
+            {
+              "name": "2025年云南怒江傈僳族自治州事业单位公开招聘退役士官士兵信息审核表.docx",
+              "url": "https://file.nujiang.cn/files/20250210/1308d7a97adf5dfe2d7f1a4af5d37457.docx",
+              "local": "attachments/533300/2025年云南怒江傈僳族自治州事业单位公开招聘退役士官士兵信息审核表.docx"
+            },
+            {
+              "name": "2025年云南怒江傈僳族自治州定向招聘优秀村（社区）干部信息审核表.doc",
+              "url": "https://file.nujiang.cn/files/20250210/acf297f309a0201f3a05583c6607f5bb.doc",
+              "local": "attachments/533300/2025年云南怒江傈僳族自治州定向招聘优秀村（社区）干部信息审核表.doc"
+            },
+            {
+              "name": "2025年云南怒江傈僳族自治州事业单位公开招聘分类考试公共科目笔试考试大纲（版）.pdf",
+              "url": "https://file.nujiang.cn/files/20250210/caaf65e3f48fe63ef05a6ea8320b76e3.pdf",
+              "local": "attachments/533300/2025年云南怒江傈僳族自治州事业单位公开招聘分类考试公共科目笔试考试大纲（版）.pdf"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -897,7 +1400,23 @@
           "positions": null,
           "source": "怒江州人力资源和社会保障局",
           "url": "https://www.nujiang.gov.cn/xxgk/568806162/info/2025-268547.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年云南怒江傈僳族自治州怒江州州级事业单位公开选聘计划岗位表.xls",
+              "url": "https://file.nujiang.cn/files/20250912/2d9db583f88b0b758a70f01bea621eea.xls",
+              "local": "attachments/533300/2025年云南怒江傈僳族自治州怒江州州级事业单位公开选聘计划岗位表.xls"
+            },
+            {
+              "name": "2025年云南怒江傈僳族自治州怒江州州级事业单位公开选聘工作人员报名推荐表.xls",
+              "url": "https://file.nujiang.cn/files/20250912/e3b0a6058169d8032763d989ead5a754.xls",
+              "local": "attachments/533300/2025年云南怒江傈僳族自治州怒江州州级事业单位公开选聘工作人员报名推荐表.xls"
+            },
+            {
+              "name": "2025年云南怒江傈僳族自治州怒江州州级事业单位公开选聘工作人员专业目录.zip",
+              "url": "https://file.nujiang.cn/files/20250912/1ba7781a3324f75dafb1b5853999c33a.zip",
+              "local": "attachments/533300/2025年云南怒江傈僳族自治州怒江州州级事业单位公开选聘工作人员专业目录.zip"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -908,7 +1427,23 @@
           "positions": null,
           "source": "怒江州人力资源和社会保障局",
           "url": "https://www.nujiang.gov.cn/xxgk/568806162/info/2025-261422.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年云南怒江傈僳族自治州.怒江州重点产业紧缺专业人才引进计划岗位表.xls",
+              "url": "https://file.nujiang.cn/files/20250414/61656fc3d6f9ab9ae947fe0085c97783.xls",
+              "local": "attachments/533300/2025年云南怒江傈僳族自治州.怒江州重点产业紧缺专业人才引进计划岗位表.xls"
+            },
+            {
+              "name": "2025年云南怒江傈僳族自治州.研究生教育学科专业目录.zip",
+              "url": "https://file.nujiang.cn/files/20250415/2364672b31c6362714249f6cfc1fea88.zip",
+              "local": "attachments/533300/2025年云南怒江傈僳族自治州.研究生教育学科专业目录.zip"
+            },
+            {
+              "name": "2025年云南怒江傈僳族自治州.学历获取保证书（尚未拿到学历证书及学位证书原件的应届毕业生）.doc",
+              "url": "https://file.nujiang.cn/files/20250414/2c664b36d5104c7bd3eb4776de16d03c.doc",
+              "local": "attachments/533300/2025年云南怒江傈僳族自治州.学历获取保证书（尚未拿到学历证书及学位证书原件的应届毕业生）.doc"
+            }
+          ]
         },
         {
           "year": 2025,
