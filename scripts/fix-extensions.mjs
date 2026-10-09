@@ -14,66 +14,13 @@
  */
 import fs from 'node:fs'
 import path from 'node:path'
+import { detectExt } from './lib/magictype.mjs'
 
 const DATA_DIR = path.resolve('public/data')
 const PUB = path.resolve('public')
 const APPLY = process.argv.includes('--apply')
 
-/**
- * 按文件头 magic bytes 判定文档类型，返回扩展名（不含点）或 null。
- * 参考 scripts/lib/fetcher.mjs looksLikeDocument 的判定口径。
- */
-function detectExt(buf) {
-  if (!buf || buf.length < 8) return null
-  const h = buf.slice(0, 8)
-  const hex = h.toString('hex')
-  const latin = h.toString('latin1')
-
-  // PDF
-  if (latin.startsWith('%PDF-')) return 'pdf'
-  // OLE2 复合文档：老式 .doc/.xls/.ppt/.wps —— 按内部特征流名精确区分
-  if (hex === 'd0cf11e0a1b11ae1') return oleSubtype(buf)
-  // ZIP 容器：docx/xlsx/pptx/ofd/zip —— 读内部 [Content_Types].xml 进一步判定
-  if (h[0] === 0x50 && h[1] === 0x4b) return zipSubtype(buf)
-  // RAR
-  if (latin.startsWith('Rar!')) return 'rar'
-  // 7z
-  if (h[0] === 0x37 && h[1] === 0x7a) return '7z'
-  return null
-}
-
-/**
- * OLE2 复合文档细分：按 FAT 目录里的特征流名判定。
- * 这些流名以 UTF-16LE 存储于目录区，直接在字节流里搜索其特征子串即可。
- *  - WordDocument → .doc
- *  - Workbook / Book → .xls
- *  - PowerPoint Document → .ppt
- *  - 兜底 .doc（Word 最常见）
- */
-function oleSubtype(buf) {
-  const scan = buf.slice(0, Math.min(buf.length, 262144)).toString('latin1')
-  // Excel：Workbook（BIFF8）或 Book（BIFF5-7）
-  if (scan.includes('W\x00o\x00r\x00k\x00b\x00o\x00o\x00k') || scan.includes('B\x00o\x00o\x00k')) return 'xls'
-  // PowerPoint
-  if (scan.includes('P\x00o\x00w\x00e\x00r\x00P\x00o\x00i\x00n\x00t')) return 'ppt'
-  // Word
-  if (scan.includes('W\x00o\x00r\x00d\x00D\x00o\x00c\x00u\x00m\x00e\x00n\x00t')) return 'doc'
-  // WPS 文字
-  if (scan.includes('W\x00P\x00S')) return 'wps'
-  return 'doc'
-}
-
-/** ZIP 容器细分：从本地文件头里找 Office/OFD 特征目录 */
-function zipSubtype(buf) {
-  // 在前 64KB 内搜索特征路径
-  const head = buf.slice(0, 65536).toString('latin1')
-  if (head.includes('word/document.xml')) return 'docx'
-  if (head.includes('xl/workbook.xml')) return 'xlsx'
-  if (head.includes('ppt/presentation.xml')) return 'pptx'
-  if (head.includes('OFD.xml') || head.includes('Doc_0/')) return 'ofd'
-  if (head.includes('wps/')) return 'wps'
-  return 'zip'
-}
+/** 判型实现见 scripts/lib/magictype.mjs（与 fix-noext-final.mjs 共用，避免规则分叉） */
 
 /** 已有合法扩展名则跳过 */
 const HAS_EXT = /\.(docx?|xlsx?|pptx?|pdf|wps|et|dps|zip|rar|7z|txt|csv|ofd)$/i
