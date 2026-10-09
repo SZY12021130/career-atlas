@@ -1,7 +1,7 @@
 {
   "adcode": 220000,
   "name": "吉林省",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-03",
   "provincePortals": [
     {
       "category": "公务员",
@@ -90,7 +90,23 @@
           "positions": null,
           "source": "吉林公务员考试网",
           "url": "https://xxgk.jl.gov.cn/zcbm/fgw_98057/xxgkmlqy/202503/t20250320_9107638.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年吉林省商务厅考试录用公务员职位与报考资格条件一览表.xls",
+              "url": "https://xxgk.jl.gov.cn/zcbm/fgw_98057/xxgkmlqy/202503/W020250320476483892800.xls",
+              "local": "attachments/220100/2025年吉林省商务厅考试录用公务员职位与报考资格条件一览表.xls"
+            },
+            {
+              "name": "2025年吉林长春word下载.doc",
+              "url": "https://xxgk.jl.gov.cn/PDFfile/202503/9107638.doc",
+              "local": "attachments/220100/2025年吉林长春word下载.doc"
+            },
+            {
+              "name": "2025年吉林长春pdf下载.pdf",
+              "url": "https://xxgk.jl.gov.cn/PDFfile/202503/9107638.pdf",
+              "local": "attachments/220100/2025年吉林长春pdf下载.pdf"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -112,7 +128,18 @@
           "positions": null,
           "source": "吉林省委组织部（高校就业信息网发布）",
           "url": "https://career.muc.edu.cn/front/showContent.jspa?channelId=808&contentId=4871",
-          "attachments": [],
+          "attachments": [
+            {
+              "name": "2026年吉林省定向招录2026届选调生报名推荐表.doc",
+              "url": "https://career.muc.edu.cn/uploadfile/muc/front/default/upload_file_111362.doc",
+              "local": "attachments/220100/2026年吉林省定向招录2026届选调生报名推荐表.doc"
+            },
+            {
+              "name": "2026年吉林省各市州定向招录2026届选调生政策.pdf",
+              "url": "https://career.muc.edu.cn/uploadfile/muc/front/default/upload_file_111363.pdf",
+              "local": "attachments/220100/2026年吉林省各市州定向招录2026届选调生政策.pdf"
+            }
+          ],
           "subCategory": "定向选调"
         },
         {
@@ -129,6 +156,41 @@
               "name": "2026年长春市市直事业单位公开招聘工作人员岗位及资格条件一览表（2号）.xlsx",
               "url": "http://ccrs.changchun.gov.cn/ywdt/tzgg/202601/P020260129680607662484.xlsx",
               "local": "attachments/220100/2026年长春市市直事业单位公开招聘工作人员岗位及资格条件一览表（2号）.xlsx"
+            },
+            {
+              "name": "2026年长春市15个县（市）区、开发区事业单位公开招聘工作人员（含专项招聘高校毕业生）岗位及资格条件一览表（2号）.xlsx",
+              "url": "http://ccrs.changchun.gov.cn/ywdt/tzgg/202601/P020260129629752496101.xlsx",
+              "local": "attachments/220100/2026年长春市15个县（市）区、开发区事业单位公开招聘工作人员（含专项招聘高校毕业生）岗位及资格条件一览表（2号）.xlsx"
+            },
+            {
+              "name": "2026年普通高校毕业生报名推荐表.doc",
+              "url": "http://ccrs.changchun.gov.cn/ywdt/tzgg/202601/P020260129629752647692.doc",
+              "local": "attachments/220100/2026年普通高校毕业生报名推荐表.doc"
+            },
+            {
+              "name": "2024年和2025年普通高校毕业生择业期内未落实工作单位承诺书.docx",
+              "url": "http://ccrs.changchun.gov.cn/ywdt/tzgg/202601/P020260129629752950076.docx",
+              "local": "attachments/220100/2024年和2025年普通高校毕业生择业期内未落实工作单位承诺书.docx"
+            },
+            {
+              "name": "2026年按时取得教师资格承诺书.docx",
+              "url": "http://ccrs.changchun.gov.cn/ywdt/tzgg/202601/P020260129629753274256.docx",
+              "local": "attachments/220100/2026年按时取得教师资格承诺书.docx"
+            },
+            {
+              "name": "2026年按时取得国外学历学位认证承诺书.docx",
+              "url": "http://ccrs.changchun.gov.cn/ywdt/tzgg/202601/P020260129629753420273.docx",
+              "local": "attachments/220100/2026年按时取得国外学历学位认证承诺书.docx"
+            },
+            {
+              "name": "2026年享受最低生活保障家庭考生笔试费用减免登记表.docx",
+              "url": "http://ccrs.changchun.gov.cn/ywdt/tzgg/202601/P020260129629753740425.docx",
+              "local": "attachments/220100/2026年享受最低生活保障家庭考生笔试费用减免登记表.docx"
+            },
+            {
+              "name": "2026年事业单位公开招聘分类考试公共科目笔试考试大纲（版）.pdf",
+              "url": "http://ccrs.changchun.gov.cn/ywdt/tzgg/202601/P020260129629754052051.pdf",
+              "local": "attachments/220100/2026年事业单位公开招聘分类考试公共科目笔试考试大纲（版）.pdf"
             }
           ]
         },
@@ -300,6 +362,21 @@
               "name": "2025年四平市事业单位专项招聘高校毕业生岗位表.xls",
               "url": "http://www.siping.gov.cn/zw/tzgg/202504/W020250408395834234101.xls",
               "local": "attachments/220300/2025年四平市事业单位专项招聘高校毕业生岗位表.xls"
+            },
+            {
+              "name": "2025年吉林《四平市事业单位专项招聘高校毕业生考试大纲》.docx",
+              "url": "http://www.siping.gov.cn/zw/tzgg/202504/W020250408395834239499.docx",
+              "local": "attachments/220300/2025年吉林《四平市事业单位专项招聘高校毕业生考试大纲》.docx"
+            },
+            {
+              "name": "2025年吉林四平《2023年和2024年普通高校毕业生择业期内未落实工作单位承诺书》.docx",
+              "url": "http://www.siping.gov.cn/zw/tzgg/202504/W020250408395834234589.docx",
+              "local": "attachments/220300/2025年吉林四平《2023年和2024年普通高校毕业生择业期内未落实工作单位承诺书》.docx"
+            },
+            {
+              "name": "2025年吉林《四平市事业单位专项招聘应届毕业生报名推荐表》.doc",
+              "url": "http://www.siping.gov.cn/zw/tzgg/202504/W020250408395834234435.doc",
+              "local": "attachments/220300/2025年吉林《四平市事业单位专项招聘应届毕业生报名推荐表》.doc"
             }
           ]
         },
@@ -312,7 +389,23 @@
           "positions": null,
           "source": "四平市人民政府",
           "url": "http://www.siping.gov.cn/zw/tzgg/202511/t20251117_753094.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年吉林《四平市教育局直属学校专项招聘高校毕业生岗位及其资格条件一览表》.xls",
+              "url": "http://www.siping.gov.cn/zw/tzgg/202511/W020251117553108737265.xls",
+              "local": "attachments/220300/2025年吉林《四平市教育局直属学校专项招聘高校毕业生岗位及其资格条件一览表》.xls"
+            },
+            {
+              "name": "2025年吉林《四平市教育局直属学校专项招聘高校毕业生报名推荐表》.doc",
+              "url": "http://www.siping.gov.cn/zw/tzgg/202511/W020251117550077347279.doc",
+              "local": "attachments/220300/2025年吉林《四平市教育局直属学校专项招聘高校毕业生报名推荐表》.doc"
+            },
+            {
+              "name": "2025年吉林四平《2023和2024年普通高校毕业生择业期内未落实工作单位承诺书》.docx",
+              "url": "http://www.siping.gov.cn/zw/tzgg/202511/W020251117550077348181.docx",
+              "local": "attachments/220300/2025年吉林四平《2023和2024年普通高校毕业生择业期内未落实工作单位承诺书》.docx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -323,7 +416,13 @@
           "positions": null,
           "source": "四平市人民政府",
           "url": "http://www.siping.gov.cn/zw/tzgg/202507/t20250723_744250.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年吉林附：《四平市事业单位专项招聘高校毕业生拟聘人员名单》.xlsx",
+              "url": "http://www.siping.gov.cn/zw/tzgg/202507/W020250723539674275824.xlsx",
+              "local": "attachments/220300/2025年吉林附：《四平市事业单位专项招聘高校毕业生拟聘人员名单》.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -660,6 +759,21 @@
               "name": "2025年白城市市直事业单位公开招聘岗位及资格条件一览表（3号）.xlsx",
               "url": "http://hrss.jlbc.gov.cn/xwzx/zxgg/202507/P020250705265853845386.xlsx",
               "local": "attachments/220800/2025年白城市市直事业单位公开招聘岗位及资格条件一览表（3号）.xlsx"
+            },
+            {
+              "name": "2025年白城市市直事业单位公开招聘工作人员（含专项招聘高校毕业生）《通用知识》考试大纲.doc",
+              "url": "http://hrss.jlbc.gov.cn/xwzx/zxgg/202507/P020250704555750257280.doc",
+              "local": "attachments/220800/2025年白城市市直事业单位公开招聘工作人员（含专项招聘高校毕业生）《通用知识》考试大纲.doc"
+            },
+            {
+              "name": "2025年普通高校应届毕业生报名推荐表.doc",
+              "url": "http://hrss.jlbc.gov.cn/xwzx/zxgg/202507/P020250704555750415504.doc",
+              "local": "attachments/220800/2025年普通高校应届毕业生报名推荐表.doc"
+            },
+            {
+              "name": "2025年自主就业退役大学生士兵报名审核表.xls",
+              "url": "http://hrss.jlbc.gov.cn/xwzx/zxgg/202507/P020250704555750728306.xls",
+              "local": "attachments/220800/2025年自主就业退役大学生士兵报名审核表.xls"
             }
           ]
         },
@@ -672,7 +786,23 @@
           "positions": null,
           "source": "白城市人力资源和社会保障局",
           "url": "http://hrss.jlbc.gov.cn/xwzx/zxgg/202508/t20250801_1018591.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年白城市事业单位公开招聘大学生乡村医生岗位及其条件一览表.xls",
+              "url": "http://hrss.jlbc.gov.cn/xwzx/zxgg/202508/P020250801416835001971.xls",
+              "local": "attachments/220800/2025年白城市事业单位公开招聘大学生乡村医生岗位及其条件一览表.xls"
+            },
+            {
+              "name": "2025年白城市大学生乡村医生公开招聘报名登记表.doc",
+              "url": "http://hrss.jlbc.gov.cn/xwzx/zxgg/202508/P020250801416835162271.doc",
+              "local": "attachments/220800/2025年白城市大学生乡村医生公开招聘报名登记表.doc"
+            },
+            {
+              "name": "2025年承诺书.doc",
+              "url": "http://hrss.jlbc.gov.cn/xwzx/zxgg/202508/P020250801416835476555.doc",
+              "local": "attachments/220800/2025年承诺书.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -683,7 +813,28 @@
           "positions": null,
           "source": "白城市人力资源和社会保障局",
           "url": "http://hrss.jlbc.gov.cn/xwzx/zxgg/202509/t20250923_1021813.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年白城市市直事业单位公开招聘高层次人才岗位及其条件一览表（4号）.xlsx",
+              "url": "http://hrss.jlbc.gov.cn/xwzx/zxgg/202509/P020250923700484612955.xlsx",
+              "local": "attachments/220800/2025年白城市市直事业单位公开招聘高层次人才岗位及其条件一览表（4号）.xlsx"
+            },
+            {
+              "name": "2025年白城市市直事业单位公开招聘高层次人才报名登记表（4号）.doc",
+              "url": "http://hrss.jlbc.gov.cn/xwzx/zxgg/202509/P020250923700484932474.doc",
+              "local": "attachments/220800/2025年白城市市直事业单位公开招聘高层次人才报名登记表（4号）.doc"
+            },
+            {
+              "name": "2026年普通高校应届毕业生报名推荐表.doc",
+              "url": "http://hrss.jlbc.gov.cn/xwzx/zxgg/202509/P020250923700485240236.doc",
+              "local": "attachments/220800/2026年普通高校应届毕业生报名推荐表.doc"
+            },
+            {
+              "name": "2025年在编在岗人员报考意见表.xls",
+              "url": "http://hrss.jlbc.gov.cn/xwzx/zxgg/202509/P020250923700485405711.xls",
+              "local": "attachments/220800/2025年在编在岗人员报考意见表.xls"
+            }
+          ]
         }
       ]
     },

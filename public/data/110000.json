@@ -1,7 +1,7 @@
 {
   "adcode": 110000,
   "name": "北京市",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-03",
   "provincePortals": [
     {
       "category": "公务员",
@@ -110,14 +110,14 @@
               "local": "attachments/110000/2026年北京市公务员招录招考简章.xlsx"
             },
             {
-              "name": "2026年北京市公务员招录报考指南.docx",
+              "name": "2026年北京市各级机关考试录用公务员报考指南.docx",
               "url": "https://ks3-cn-beijing.ksyun.com/zgw/article/3000206044/content/20251110095632_703.docx",
-              "local": null
+              "local": "attachments/110000/2026年北京市各级机关考试录用公务员报考指南.docx"
             },
             {
-              "name": "2026年北京市公务员招录公共科目笔试考试大纲.docx",
+              "name": "2026年北京市各级机关考试录用公务员公共科目笔试考试大纲.docx",
               "url": "https://ks3-cn-beijing.ksyun.com/zgw/article/3000206044/content/20251110095705_931.docx",
-              "local": null
+              "local": "attachments/110000/2026年北京市各级机关考试录用公务员公共科目笔试考试大纲.docx"
             }
           ]
         },
@@ -137,14 +137,14 @@
               "local": "attachments/110000/2025年北京市公务员招录招考简章.xls"
             },
             {
-              "name": "2025年北京市公务员招录报考指南.doc",
+              "name": "2025年北京市各级机关考试录用公务员报考指南.doc",
               "url": "https://ks3-cn-beijing.ksyun.com/zgw/article/3000199569/content/20241112104303_615.doc",
-              "local": null
+              "local": "attachments/110000/2025年北京市各级机关考试录用公务员报考指南.doc"
             },
             {
-              "name": "2025年北京市公务员招录公共科目笔试考试大纲.doc",
+              "name": "2025年北京市各级机关考试录用公务员公共科目笔试考试大纲.doc",
               "url": "https://ks3-cn-beijing.ksyun.com/zgw/article/3000199569/content/20241112104322_882.doc",
-              "local": null
+              "local": "attachments/110000/2025年北京市各级机关考试录用公务员公共科目笔试考试大纲.doc"
             }
           ]
         },
@@ -157,7 +157,13 @@
           "positions": null,
           "source": "北京组工网（北京市公务员局）",
           "url": "https://www.bjdj.gov.cn/article/3000202639.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年北京市各级机关补充录用公务员招考简章.xls",
+              "url": "https://ks3-cn-beijing.ksyun.com/zgw/article/3000202639/content/20250506100149_747.xls",
+              "local": "attachments/110000/2025年北京市各级机关补充录用公务员招考简章.xls"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -168,7 +174,13 @@
           "positions": null,
           "source": "北京组工网（北京市公务员局）",
           "url": "https://www.bjdj.gov.cn/article/3000209573.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年北京市各级机关补充录用公务员招考简章.xls",
+              "url": "https://ks3-cn-beijing.ksyun.com/zgw/article/3000209573/content/20260507091714_250.xls",
+              "local": "attachments/110000/2026年北京市各级机关补充录用公务员招考简章.xls"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -189,6 +201,36 @@
               "name": "2026年北京市优培计划招聘应届优秀大学毕业生简章.xlsx",
               "url": "https://ks3-cn-beijing.ksyun.com/zgw/article/3000205110/content/20250912105922_825.xlsx",
               "local": "attachments/110000/2026年北京市优培计划招聘应届优秀大学毕业生简章.xlsx"
+            },
+            {
+              "name": "2026年北京相关学校及学科名单.doc",
+              "url": "https://ks3-cn-beijing.ksyun.com/zgw/article/3000205110/content/20250912105903_136.doc",
+              "local": "attachments/110000/2026年北京相关学校及学科名单.doc"
+            },
+            {
+              "name": "2026年北京市定向选调和“优培计划”招聘应届优秀大学毕业生报考指南.doc",
+              "url": "https://ks3-cn-beijing.ksyun.com/zgw/article/3000205110/content/20250912105931_315.doc",
+              "local": "attachments/110000/2026年北京市定向选调和“优培计划”招聘应届优秀大学毕业生报考指南.doc"
+            },
+            {
+              "name": "2026年北京市选调生推荐表.doc",
+              "url": "https://ks3-cn-beijing.ksyun.com/zgw/article/3000205110/content/20250912105941_433.doc",
+              "local": "attachments/110000/2026年北京市选调生推荐表.doc"
+            },
+            {
+              "name": "2026年北京市“优秀管理人才培养计划”人员推荐表.doc",
+              "url": "https://ks3-cn-beijing.ksyun.com/zgw/article/3000205110/content/20250912105950_527.doc",
+              "local": "attachments/110000/2026年北京市“优秀管理人才培养计划”人员推荐表.doc"
+            },
+            {
+              "name": "2026年北京市“优秀管理人才培养计划”人员推荐表—国（境）外院校考生填写.doc",
+              "url": "https://ks3-cn-beijing.ksyun.com/zgw/article/3000205110/content/20250912110000_192.doc",
+              "local": "attachments/110000/2026年北京市“优秀管理人才培养计划”人员推荐表—国（境）外院校考生填写.doc"
+            },
+            {
+              "name": "2026年北京个人信息表.doc",
+              "url": "https://ks3-cn-beijing.ksyun.com/zgw/article/3000205110/content/20250912110008_389.doc",
+              "local": "attachments/110000/2026年北京个人信息表.doc"
             }
           ],
           "subCategory": "定向选调"
@@ -212,6 +254,36 @@
               "name": "2025年北京市优培计划招聘应届优秀大学毕业生简章.xls",
               "url": "https://rsj.beijing.gov.cn/ywsite/bjpta/xwzx/zytz/202409/P020260513385007616085.xls",
               "local": "attachments/110000/2025年北京市优培计划招聘应届优秀大学毕业生简章.xls"
+            },
+            {
+              "name": "2025年相关学校及学科名单.doc",
+              "url": "https://rsj.beijing.gov.cn/ywsite/bjpta/xwzx/zytz/202409/P020240919344199173627.doc",
+              "local": "attachments/110000/2025年相关学校及学科名单.doc"
+            },
+            {
+              "name": "2025年北京市定向选调和“优培计划“招聘应届优秀大学毕业生报考指南.doc",
+              "url": "https://rsj.beijing.gov.cn/ywsite/bjpta/xwzx/zytz/202409/P020240919344199657905.doc",
+              "local": "attachments/110000/2025年北京市定向选调和“优培计划“招聘应届优秀大学毕业生报考指南.doc"
+            },
+            {
+              "name": "2025年北京市选调生推荐表.doc",
+              "url": "https://rsj.beijing.gov.cn/ywsite/bjpta/xwzx/zytz/202409/P020240919344199771297.doc",
+              "local": "attachments/110000/2025年北京市选调生推荐表.doc"
+            },
+            {
+              "name": "2025年北京市“优秀管理人才培养计划”人员推荐表.doc",
+              "url": "https://rsj.beijing.gov.cn/ywsite/bjpta/xwzx/zytz/202409/P020240919344199872213.doc",
+              "local": "attachments/110000/2025年北京市“优秀管理人才培养计划”人员推荐表.doc"
+            },
+            {
+              "name": "2025年北京市“优秀管理人才培养计划”人员推荐表（国外院校考生填写）.doc",
+              "url": "https://rsj.beijing.gov.cn/ywsite/bjpta/xwzx/zytz/202409/P020240919344199975920.wps",
+              "local": "attachments/110000/2025年北京市“优秀管理人才培养计划”人员推荐表（国外院校考生填写）.doc"
+            },
+            {
+              "name": "2025年个人信息表.doc",
+              "url": "https://rsj.beijing.gov.cn/ywsite/bjpta/xwzx/zytz/202409/P020240919344200066917.doc",
+              "local": "attachments/110000/2025年个人信息表.doc"
             }
           ],
           "subCategory": "定向选调"
@@ -237,7 +309,13 @@
           "positions": null,
           "source": "北京市人力资源和社会保障局（中共北京市委组织部）",
           "url": "https://rsj.beijing.gov.cn/xxgk/tzgg/202602/t20260226_4541768.html",
-          "attachments": [],
+          "attachments": [
+            {
+              "name": "2026年北京市定向选调应届优秀大学毕业生补录简章.xls",
+              "url": "https://rsj.beijing.gov.cn/xxgk/tzgg/202602/P020260226417818587872.xls",
+              "local": "attachments/110000/2026年北京市定向选调应届优秀大学毕业生补录简章.xls"
+            }
+          ],
           "subCategory": "定向选调"
         },
         {
@@ -254,6 +332,11 @@
               "name": "2025年北京市朝阳区下半年事业单位公开招聘岗位信息目录.xlsx",
               "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202509/P020250908341783520291.xlsx",
               "local": "attachments/110000/2025年北京市朝阳区下半年事业单位公开招聘岗位信息目录.xlsx"
+            },
+            {
+              "name": "2025年北京市朝阳区下半年事业单位公开招聘报考指南.docx",
+              "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202509/P020260430603336123582.docx",
+              "local": "attachments/110000/2025年北京市朝阳区下半年事业单位公开招聘报考指南.docx"
             }
           ]
         },
@@ -266,7 +349,18 @@
           "positions": null,
           "source": "北京市人力资源和社会保障局",
           "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202511/t20251112_4278811.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年中共北京市延庆区委党校公开招聘事业单位工作人员岗位信息表.xlsx",
+              "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202511/P020251112572816741629.xlsx",
+              "local": "attachments/110000/2025年中共北京市延庆区委党校公开招聘事业单位工作人员岗位信息表.xlsx"
+            },
+            {
+              "name": "2025年中共北京市延庆区委党校公开招聘事业单位工作人员报名表.docx",
+              "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202511/P020251112572816890339.docx",
+              "local": "attachments/110000/2025年中共北京市延庆区委党校公开招聘事业单位工作人员报名表.docx"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -277,7 +371,18 @@
           "positions": null,
           "source": "北京市人力资源和社会保障局",
           "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202608/t20260825_4835587.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年北京昌平区教委公开招聘教育人才职位资格条件表.xlsx",
+              "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202608/P020260825353194220394.xlsx",
+              "local": "attachments/110000/2026年北京昌平区教委公开招聘教育人才职位资格条件表.xlsx"
+            },
+            {
+              "name": "2026年北京昌平区教委所属事业单位公开招聘报名表.docx",
+              "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202608/P020260825353194519994.docx",
+              "local": "attachments/110000/2026年北京昌平区教委所属事业单位公开招聘报名表.docx"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -288,7 +393,13 @@
           "positions": null,
           "source": "北京市人力资源和社会保障局",
           "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202608/t20260817_4825274.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年北京门头沟区教委所属事业单位第三次公开招聘教师岗位及要求表.xlsx",
+              "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202608/P020260817371801018580.xlsx",
+              "local": "attachments/110000/2026年北京门头沟区教委所属事业单位第三次公开招聘教师岗位及要求表.xlsx"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -299,7 +410,18 @@
           "positions": null,
           "source": "北京市人力资源和社会保障局",
           "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202608/t20260819_4828611.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年北京联合大学高层次人才引进应聘报名表.docx",
+              "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202608/P020260819505484652647.docx",
+              "local": "attachments/110000/2026年北京联合大学高层次人才引进应聘报名表.docx"
+            },
+            {
+              "name": "2026年北京联合大学高层次人才（第二批）岗位需求表.xlsx",
+              "url": "https://rsj.beijing.gov.cn/xxgk/gkzp/202608/P020260819505484512242.xlsx",
+              "local": "attachments/110000/2026年北京联合大学高层次人才（第二批）岗位需求表.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -321,7 +443,18 @@
           "positions": null,
           "source": "北京经济技术开发区管理委员会",
           "url": "https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/202606/t20260630_4738597.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年1北京经济技术开发区亦城人才政策性住房申请表.xls",
+              "url": "https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/202606/W020260630337857075762.xls",
+              "local": "attachments/110000/2026年1北京经济技术开发区亦城人才政策性住房申请表.xls"
+            },
+            {
+              "name": "2026年2亦城人才信息登记表.xlsx",
+              "url": "https://kfqgw.beijing.gov.cn/zwgkkfq/2024zcwj/202606/W020260630337857210641.xlsx",
+              "local": "attachments/110000/2026年2亦城人才信息登记表.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -343,7 +476,13 @@
           "positions": null,
           "source": "北京市经济和信息化局",
           "url": "https://jxj.beijing.gov.cn/jxdt/tzgg/202503/t20250326_4045983.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年北京市经济和信息化局机关考试录用公务员拟录用人员名单.doc",
+              "url": "https://jxj.beijing.gov.cn/jxdt/tzgg/202503/P020250326702756532469.doc",
+              "local": "attachments/110000/2025年北京市经济和信息化局机关考试录用公务员拟录用人员名单.doc"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -365,7 +504,13 @@
           "positions": null,
           "source": "北京市怀柔区人民政府",
           "url": "https://www.bjhr.gov.cn/zwgk/gwyzk/202604/t20260401_4572504.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年北京市怀柔区定向选调应届优秀大学毕业生补录拟录用人员名单.pdf",
+              "url": "https://www.bjhr.gov.cn/zwgk/gwyzk/202604/P020260401608234580250.pdf",
+              "local": "attachments/110000/2026年北京市怀柔区定向选调应届优秀大学毕业生补录拟录用人员名单.pdf"
+            }
+          ]
         }
       ]
     }

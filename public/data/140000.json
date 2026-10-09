@@ -1,7 +1,7 @@
 {
   "adcode": 140000,
   "name": "山西省",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-02",
   "provincePortals": [
     {
       "category": "公务员",
@@ -82,7 +82,38 @@
           "positions": null,
           "source": "山西人事考试网",
           "url": "https://rst.shanxi.gov.cn/rsks/gwyks/2026gwyks/202601/t20260119_10042625.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年山西省考试录用公务员报考指南.docx",
+              "url": "https://rst.shanxi.gov.cn/rsks/gwyks/2026gwyks/202601/P020260119611362116037.docx",
+              "local": "attachments/140100/2026年山西省考试录用公务员报考指南.docx"
+            },
+            {
+              "name": "2026年山西省考试录用公务员报名网络技术和考务安排.doc",
+              "url": "https://rst.shanxi.gov.cn/rsks/gwyks/2026gwyks/202601/P020260119611362255332.doc",
+              "local": "attachments/140100/2026年山西省考试录用公务员报名网络技术和考务安排.doc"
+            },
+            {
+              "name": "2026年山西省考试录用公务员（参照管理）职位表.xls",
+              "url": "https://rst.shanxi.gov.cn/rsks/gwyks/2026gwyks/202601/P020260119611362331143.xls",
+              "local": "attachments/140100/2026年山西省考试录用公务员（参照管理）职位表.xls"
+            },
+            {
+              "name": "2026年山西省考试录用公务员公共科目笔试考试大纲.wps",
+              "url": "https://rst.shanxi.gov.cn/rsks/gwyks/2026gwyks/202601/P020260119611363018137.wps",
+              "local": "attachments/140100/2026年山西省考试录用公务员公共科目笔试考试大纲.wps"
+            },
+            {
+              "name": "2026年山西太原公安机关人民警察职位专业科目笔试考试大纲.docx",
+              "url": "https://rst.shanxi.gov.cn/rsks/gwyks/2026gwyks/202601/P020260119611363112308.docx",
+              "local": "attachments/140100/2026年山西太原公安机关人民警察职位专业科目笔试考试大纲.docx"
+            },
+            {
+              "name": "2026年山西省考试录用公务员咨询电话表.xls",
+              "url": "https://rst.shanxi.gov.cn/rsks/gwyks/2026gwyks/202601/P020260119611363174554.xls",
+              "local": "attachments/140100/2026年山西省考试录用公务员咨询电话表.xls"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -93,7 +124,18 @@
           "positions": null,
           "source": "山西人事考试网",
           "url": "https://rst.shanxi.gov.cn/rsks/gwyks/2026gwyks/202606/t20260609_10142970.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年山西省考试录用公务员（参照管理）补充录用职位表.xlsx",
+              "url": "https://rst.shanxi.gov.cn/rsks/gwyks/2026gwyks/202606/P020260610276748470810.xlsx",
+              "local": "attachments/140100/2026年山西省考试录用公务员（参照管理）补充录用职位表.xlsx"
+            },
+            {
+              "name": "2026年山西省考试录用公务员（参照管理）补充录用咨询电话表.xls",
+              "url": "https://rst.shanxi.gov.cn/rsks/gwyks/2026gwyks/202606/P020260609792098746882.xls",
+              "local": "attachments/140100/2026年山西省考试录用公务员（参照管理）补充录用咨询电话表.xls"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -105,7 +147,18 @@
           "positions": null,
           "source": "山西人事考试网",
           "url": "https://rst.shanxi.gov.cn/rsks/gwyks/2026xdsks/202601/t20260119_10042602.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年山西省选调优秀高校毕业生到基层工作职位表.docx",
+              "url": "https://rst.shanxi.gov.cn/rsks/gwyks/2026xdsks/202601/P020260119603712668564.docx",
+              "local": "attachments/140100/2026年山西省选调优秀高校毕业生到基层工作职位表.docx"
+            },
+            {
+              "name": "2026年山西省考试录用公务员公共科目笔试考试大纲_2.wps",
+              "url": "https://rst.shanxi.gov.cn/rsks/gwyks/2026xdsks/202601/P020260119603712834551.wps",
+              "local": "attachments/140100/2026年山西省考试录用公务员公共科目笔试考试大纲_2.wps"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -116,7 +169,33 @@
           "positions": null,
           "source": "山西省人力资源和社会保障厅",
           "url": "https://rst.shanxi.gov.cn/ztzl/zpxx/szsydwzpgg/202502/t20250214_9768358.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年山西太原个人未落实工作单位承诺书.doc",
+              "url": "https://rst.shanxi.gov.cn/ztzl/zpxx/szsydwzpgg/202502/P020250214337974202391.doc",
+              "local": "attachments/140100/2025年山西太原个人未落实工作单位承诺书.doc"
+            },
+            {
+              "name": "2025年山西太原服务基层项目人员审核表.xls",
+              "url": "https://rst.shanxi.gov.cn/ztzl/zpxx/szsydwzpgg/202502/P020250214337974297688.xls",
+              "local": "attachments/140100/2025年山西太原服务基层项目人员审核表.xls"
+            },
+            {
+              "name": "2025年山西太原咨询及监督电话一览表.xlsx",
+              "url": "https://rst.shanxi.gov.cn/ztzl/zpxx/szsydwzpgg/202502/P020250214337974349541.xlsx",
+              "local": "attachments/140100/2025年山西太原咨询及监督电话一览表.xlsx"
+            },
+            {
+              "name": "2025年山西太原事业单位公开招聘分类考试公共科目笔试考试大纲（2025版）.pdf",
+              "url": "https://rst.shanxi.gov.cn/ztzl/zpxx/szsydwzpgg/202502/P020250214337974072905.pdf",
+              "local": "attachments/140100/2025年山西太原事业单位公开招聘分类考试公共科目笔试考试大纲（2025版）.pdf"
+            },
+            {
+              "name": "2025年山西太原招聘岗位汇总表.xls",
+              "url": "https://rst.shanxi.gov.cn/ztzl/zpxx/szsydwzpgg/202502/P020250214758685875099.xls",
+              "local": "attachments/140100/2025年山西太原招聘岗位汇总表.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -127,7 +206,18 @@
           "positions": null,
           "source": "山西省人力资源和社会保障厅",
           "url": "https://rst.shanxi.gov.cn/ztzl/zpxx/szsydwzpgg/202509/t20250924_9964675.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年山西省事业单位公开招聘补充招聘岗位表.xls",
+              "url": "https://rst.shanxi.gov.cn/ztzl/zpxx/szsydwzpgg/202509/P020250924302540793764.xls",
+              "local": "attachments/140100/2025年山西省事业单位公开招聘补充招聘岗位表.xls"
+            },
+            {
+              "name": "2025年山西省事业单位公开招聘补充招聘咨询电话及监督电话一览表.xlsx",
+              "url": "https://rst.shanxi.gov.cn/ztzl/zpxx/szsydwzpgg/202509/P020250924302541602657.xlsx",
+              "local": "attachments/140100/2025年山西省事业单位公开招聘补充招聘咨询电话及监督电话一览表.xlsx"
+            }
+          ]
         },
         {
           "year": 2024,
@@ -149,7 +239,13 @@
           "positions": null,
           "source": "山西人事考试网",
           "url": "https://rst.shanxi.gov.cn/rsks/gwyks/2026xdsks/202606/t20260615_10146555.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年山西省选调优秀高校毕业生到基层工作太原市拟录用人员名单.xls",
+              "url": "https://rst.shanxi.gov.cn/rsks/gwyks/2026xdsks/202606/P020260615514013319047.xls",
+              "local": "attachments/140100/2026年山西省选调优秀高校毕业生到基层工作太原市拟录用人员名单.xls"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -228,7 +324,13 @@
           "positions": null,
           "source": "大同市人民政府",
           "url": "http://www.dt.gov.cn/dtszf/jggggkzp/202509/eeead845ff8c4756b86eff655d03f9d3.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年山西大同市事业单位公开招聘博士研究生拟聘用人员名单（第二批）.xlsx",
+              "url": "http://www.dt.gov.cn/dtszf/jggggkzp/202509/eeead845ff8c4756b86eff655d03f9d3/files/daaf51b7588a407582c560d4d9ba8632.xlsx",
+              "local": "attachments/140200/2025年山西大同市事业单位公开招聘博士研究生拟聘用人员名单（第二批）.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -280,7 +382,13 @@
           "positions": null,
           "source": "阳泉党建网",
           "url": "https://www.yqdj.gov.cn/tzgg/tggs_593862/202511/t20251111_2136155.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年山西附件：阳泉市急需紧缺人才引进岗位表.xls",
+              "url": "https://www.yqdj.gov.cn/tzgg/tggs_593862/202511/P020251111424883040497.xls",
+              "local": "attachments/140300/2025年山西附件：阳泉市急需紧缺人才引进岗位表.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -291,7 +399,23 @@
           "positions": null,
           "source": "阳泉党建网",
           "url": "https://www.yqdj.gov.cn/tzgg/tggs_593862/202509/t20250902_2108743.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年山西阳泉市“带编入企”急需紧缺人才引进岗位表.xls",
+              "url": "https://www.yqdj.gov.cn/tzgg/tggs_593862/202509/P020250902430343431067.xls",
+              "local": "attachments/140300/2025年山西阳泉市“带编入企”急需紧缺人才引进岗位表.xls"
+            },
+            {
+              "name": "2025年山西阳泉市“带编入企”急需紧缺人才引进报名表.doc",
+              "url": "https://www.yqdj.gov.cn/tzgg/tggs_593862/202509/P020250902430343828693.doc",
+              "local": "attachments/140300/2025年山西阳泉市“带编入企”急需紧缺人才引进报名表.doc"
+            },
+            {
+              "name": "2025年山西阳泉诚信承诺书.doc",
+              "url": "https://www.yqdj.gov.cn/tzgg/tggs_593862/202509/P020250902430344181693.doc",
+              "local": "attachments/140300/2025年山西阳泉诚信承诺书.doc"
+            }
+          ]
         }
       ]
     },
@@ -355,6 +479,16 @@
               "name": "2025年长治市中医医院公开招聘聘用制工作人员简章.xls",
               "url": "https://rsj.changzhi.gov.cn/zwxx/rsjtzgg/202506/P020250611560201474102.xls",
               "local": "attachments/140400/2025年长治市中医医院公开招聘聘用制工作人员简章.xls"
+            },
+            {
+              "name": "2025年山西长治市中医医院人才信息登记表.docx",
+              "url": "https://rsj.changzhi.gov.cn/zwxx/rsjtzgg/202506/P020250611560201552881.docx",
+              "local": "attachments/140400/2025年山西长治市中医医院人才信息登记表.docx"
+            },
+            {
+              "name": "2025年山西长治市中医医院公开招聘知情承诺书.doc",
+              "url": "https://rsj.changzhi.gov.cn/zwxx/rsjtzgg/202506/P020250611560201627386.doc",
+              "local": "attachments/140400/2025年山西长治市中医医院公开招聘知情承诺书.doc"
             }
           ]
         }
@@ -403,6 +537,21 @@
               "name": "2025年晋城市大学生乡村医生专项计划公开招聘岗位信息表.xlsx",
               "url": "http://rsj.jcgov.gov.cn/tzgg/202509/P020250922363143102359.xlsx",
               "local": "attachments/140500/2025年晋城市大学生乡村医生专项计划公开招聘岗位信息表.xlsx"
+            },
+            {
+              "name": "2025年山西晋城个人诚信承诺书.doc",
+              "url": "http://rsj.jcgov.gov.cn/tzgg/202509/P020250922363143227395.doc",
+              "local": "attachments/140500/2025年山西晋城个人诚信承诺书.doc"
+            },
+            {
+              "name": "2025年山西晋城大学生乡村医生专项计划公开招聘现场报名审核授权委托书.docx",
+              "url": "http://rsj.jcgov.gov.cn/tzgg/202509/P020250922363143315457.docx",
+              "local": "attachments/140500/2025年山西晋城大学生乡村医生专项计划公开招聘现场报名审核授权委托书.docx"
+            },
+            {
+              "name": "2025年山西晋城服务基层项目人员审核表.xls",
+              "url": "http://rsj.jcgov.gov.cn/tzgg/202509/P020250922363143469212.xls",
+              "local": "attachments/140500/2025年山西晋城服务基层项目人员审核表.xls"
             }
           ]
         },
@@ -415,7 +564,13 @@
           "positions": null,
           "source": "晋城市人力资源和社会保障局",
           "url": "http://rsj.jcgov.gov.cn/tzgg/202510/t20251022_2277022.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年山西晋城职业技术学院公开招聘工作人员岗位表.xls",
+              "url": "http://rsj.jcgov.gov.cn/tzgg/202510/P020251022618171931654.xls",
+              "local": "attachments/140500/2025年山西晋城职业技术学院公开招聘工作人员岗位表.xls"
+            }
+          ]
         }
       ]
     },
@@ -532,7 +687,13 @@
           "positions": null,
           "source": "晋中市人力资源和社会保障局",
           "url": "https://rsj.sxjz.gov.cn/ztzl/jzssydwgkzpxxzl/content_543039",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年山西附件：晋中市市直部分事业单位公开招聘工作人员拟聘用人员名单（第二批）.xlsx",
+              "url": "https://rsj.sxjz.gov.cn/upload/rsj/contentmanage/article/file/2025/07/25/%E9%99%84%E4%BB%B6%EF%BC%9A%E6%99%8B%E4%B8%AD%E5%B8%82%E5%B8%82%E7%9B%B4%E9%83%A8%E5%88%86%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D2025%E5%B9%B4%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8B%9F%E8%81%98%E7%94%A8%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%88%E4%BA%8C%EF%BC%89.xlsx",
+              "local": "attachments/140700/2025年山西附件：晋中市市直部分事业单位公开招聘工作人员拟聘用人员名单（第二批）.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -583,14 +744,14 @@
           "url": "https://www.ycrkb.com/detail/1451",
           "attachments": [
             {
-              "name": "2025年运城市属4所高校公开招聘工作人员博士岗位表.xls",
+              "name": "2025年山西运城市属4所高校公开招聘工作人员博士岗位表.xls",
               "url": "https://jyj.yuncheng.gov.cn/uploadfiles/202505/19/2025051922080113771830.xls",
-              "local": null
+              "local": "attachments/140800/2025年山西运城市属4所高校公开招聘工作人员博士岗位表.xls"
             },
             {
-              "name": "2025年运城市属4所高校公开招聘工作人员硕士岗位表.xls",
+              "name": "2025年山西运城市属4所高校公开招聘工作人员硕士岗位表.xls",
               "url": "https://jyj.yuncheng.gov.cn/uploadfiles/202505/19/2025051922081471773679.xls",
-              "local": null
+              "local": "attachments/140800/2025年山西运城市属4所高校公开招聘工作人员硕士岗位表.xls"
             }
           ]
         },
@@ -664,7 +825,18 @@
           "positions": null,
           "source": "忻州市人力资源和社会保障局",
           "url": "https://rsj.sxxz.gov.cn/zwgk/tzgg/202503/t20250320_4072008.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年山西忻州市直事业单位引进博士研究生岗位表.xlsx",
+              "url": "https://rsj.sxxz.gov.cn/zwgk/tzgg/202503/W020250320580031724281.xlsx",
+              "local": "attachments/140900/2025年山西忻州市直事业单位引进博士研究生岗位表.xlsx"
+            },
+            {
+              "name": "2025年山西忻州市直事业单位引进博士研究生报名登记表.doc",
+              "url": "https://rsj.sxxz.gov.cn/zwgk/tzgg/202503/W020250320580031726702.doc",
+              "local": "attachments/140900/2025年山西忻州市直事业单位引进博士研究生报名登记表.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -675,7 +847,13 @@
           "positions": null,
           "source": "忻州市人力资源和社会保障局",
           "url": "https://rsj.sxxz.gov.cn/rsks/gsxx/202508/t20250806_4110186.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年山西附件：忻州市事业单位公开招聘拟聘用工作人员公示名单.xlsx",
+              "url": "https://rsj.sxxz.gov.cn/rsks/gsxx/202508/W020250809289307318477.xlsx",
+              "local": "attachments/140900/2025年山西附件：忻州市事业单位公开招聘拟聘用工作人员公示名单.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -794,7 +972,18 @@
           "positions": null,
           "source": "山西省人力资源和社会保障厅",
           "url": "https://rst.shanxi.gov.cn/ztzl/zpxx/szsydwzpgg/202606/t20260603_10139007.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年山西吕梁学院公开招聘博士研究生岗位表.xlsx",
+              "url": "https://rst.shanxi.gov.cn/ztzl/zpxx/szsydwzpgg/202606/P020260603428963135054.xlsx",
+              "local": "attachments/141100/2026年山西吕梁学院公开招聘博士研究生岗位表.xlsx"
+            },
+            {
+              "name": "2026年山西吕梁学院公开招聘博士研究生报名登记表.doc",
+              "url": "https://rst.shanxi.gov.cn/ztzl/zpxx/szsydwzpgg/202606/P020260603428963261212.doc",
+              "local": "attachments/141100/2026年山西吕梁学院公开招聘博士研究生报名登记表.doc"
+            }
+          ]
         }
       ]
     }

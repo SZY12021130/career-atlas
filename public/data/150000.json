@@ -1,7 +1,7 @@
 {
   "adcode": 150000,
   "name": "内蒙古自治区",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-03",
   "provincePortals": [
     {
       "category": "公务员",
@@ -68,9 +68,9 @@
           "url": "http://www.hhpta.org.cn/kaoshidongtai/202571193514.asp",
           "attachments": [
             {
-              "name": "2025内蒙古呼和浩特市直属机关公开遴选公务员职位表.xls",
+              "name": "2025年内蒙古呼和浩特市直属机关公开遴选公务员职位表.xls",
               "url": "http://www.hhpta.org.cn/kaoshidongtai/2025%E5%B9%B4%E5%BA%A6%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E5%B8%82%E7%9B%B4%E5%B1%9E%E6%9C%BA%E5%85%B3%EF%BC%88%E5%8F%82%E5%85%AC%E5%8D%95%E4%BD%8D%EF%BC%89%E5%85%AC%E5%BC%80%E9%81%B4%E9%80%89%E5%85%AC%E5%8A%A1%E5%91%98%E8%81%8C%E4%BD%8D%E8%A1%A8.xls",
-              "local": "attachments/150100/2025内蒙古呼和浩特市直属机关公开遴选公务员职位表.xls"
+              "local": "attachments/150100/2025年内蒙古呼和浩特市直属机关公开遴选公务员职位表.xls"
             }
           ]
         },
@@ -105,7 +105,18 @@
           "positions": null,
           "source": "呼和浩特市人事考试信息网",
           "url": "http://www.hhpta.org.cn/shiyedanwei/2026518172700.asp",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年北京一零一中呼和浩特分校公开招聘岗位需求计划表.xlsx",
+              "url": "http://www.hhpta.org.cn/shiyedanwei/%E9%99%84%E4%BB%B61%EF%BC%9A%E5%8C%97%E4%BA%AC%E4%B8%80%E9%9B%B6%E4%B8%80%E4%B8%AD%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E5%88%86%E6%A0%A12026%E5%B9%B4%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B2%97%E4%BD%8D%E9%9C%80%E6%B1%82%E8%AE%A1%E5%88%92%E8%A1%A8.xlsx",
+              "local": "attachments/150100/2026年北京一零一中呼和浩特分校公开招聘岗位需求计划表.xlsx"
+            },
+            {
+              "name": "2026年机关或事业单位正式工作人员不处于试用期和最低服务期限证明.docx",
+              "url": "http://www.hhpta.org.cn/shiyedanwei/%E9%99%84%E4%BB%B62%EF%BC%9A%E6%9C%BA%E5%85%B3%E6%88%96%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%AD%A3%E5%BC%8F%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E4%B8%8D%E5%A4%84%E4%BA%8E%E8%AF%95%E7%94%A8%E6%9C%9F%E5%92%8C%E6%9C%80%E4%BD%8E%E6%9C%8D%E5%8A%A1%E6%9C%9F%E9%99%90%E8%AF%81%E6%98%8E.docx",
+              "local": "attachments/150100/2026年机关或事业单位正式工作人员不处于试用期和最低服务期限证明.docx"
+            }
+          ]
         }
       ]
     },
@@ -203,9 +214,24 @@
           "url": "http://jyj.wuhai.gov.cn/jyj/260491/260514/2231050/index.html",
           "attachments": [
             {
-              "name": "2025内蒙古乌海市教育系统第三批人才引进岗位表.xlsx",
+              "name": "2025年内蒙古乌海市教育系统第三批人才引进岗位表.xlsx",
               "url": "http://jyj.wuhai.gov.cn/jyj/260491/260514/2231050/%E9%99%84%E4%BB%B61%E2%80%942025%E5%B9%B4%E4%B9%8C%E6%B5%B7%E5%B8%82%E6%95%99%E8%82%B2%E7%B3%BB%E7%BB%9F%E7%AC%AC%E4%B8%89%E6%89%B9%E4%BA%BA%E6%89%8D%E5%BC%95%E8%BF%9B%EF%BC%88%E4%B9%8C%E6%B5%B7%E5%B8%82%E7%AC%AC%E5%8D%81%E4%B8%AD%E5%AD%A6%E4%B8%93%E5%9C%BA%EF%BC%89%E5%B2%97%E4%BD%8D%E8%A1%A8.xlsx",
-              "local": "attachments/150300/2025内蒙古乌海市教育系统第三批人才引进岗位表.xlsx"
+              "local": "attachments/150300/2025年内蒙古乌海市教育系统第三批人才引进岗位表.xlsx"
+            },
+            {
+              "name": "2025年内蒙古乌海市人才引进诚信承诺书.doc",
+              "url": "http://jyj.wuhai.gov.cn/jyj/260491/260514/2231050/%E9%99%84%E4%BB%B63%E2%80%94%E4%B9%8C%E6%B5%B7%E5%B8%82%E4%BA%BA%E6%89%8D%E5%BC%95%E8%BF%9B%E8%AF%9A%E4%BF%A1%E6%89%BF%E8%AF%BA%E4%B9%A6.doc",
+              "local": "attachments/150300/2025年内蒙古乌海市人才引进诚信承诺书.doc"
+            },
+            {
+              "name": "2025年内蒙古乌海市教育系统第三批人才引进（乌海市第十中学专场）报名审核登记表.doc",
+              "url": "http://jyj.wuhai.gov.cn/jyj/260491/260514/2231050/%E9%99%84%E4%BB%B62%E2%80%942025%E5%B9%B4%E4%B9%8C%E6%B5%B7%E5%B8%82%E6%95%99%E8%82%B2%E7%B3%BB%E7%BB%9F%E7%AC%AC%E4%B8%89%E6%89%B9%E4%BA%BA%E6%89%8D%E5%BC%95%E8%BF%9B%EF%BC%88%E4%B9%8C%E6%B5%B7%E5%B8%82%E7%AC%AC%E5%8D%81%E4%B8%AD%E5%AD%A6%E4%B8%93%E5%9C%BA%EF%BC%89%E6%8A%A5%E5%90%8D%E5%AE%A1%E6%A0%B8%E7%99%BB%E8%AE%B0%E8%A1%A8.doc",
+              "local": "attachments/150300/2025年内蒙古乌海市教育系统第三批人才引进（乌海市第十中学专场）报名审核登记表.doc"
+            },
+            {
+              "name": "2025年内蒙古乌海市教育系统第三批人才引进（乌海市第十中学专场）初步就业协议.doc",
+              "url": "http://jyj.wuhai.gov.cn/jyj/260491/260514/2231050/%E9%99%84%E4%BB%B64%E2%80%942025%E5%B9%B4%E4%B9%8C%E6%B5%B7%E5%B8%82%E6%95%99%E8%82%B2%E7%B3%BB%E7%BB%9F%E7%AC%AC%E4%B8%89%E6%89%B9%E4%BA%BA%E6%89%8D%E5%BC%95%E8%BF%9B%EF%BC%88%E4%B9%8C%E6%B5%B7%E5%B8%82%E7%AC%AC%E5%8D%81%E4%B8%AD%E5%AD%A6%E4%B8%93%E5%9C%BA%EF%BC%89%E5%88%9D%E6%AD%A5%E5%B0%B1%E4%B8%9A%E5%8D%8F%E8%AE%AE.doc",
+              "local": "attachments/150300/2025年内蒙古乌海市教育系统第三批人才引进（乌海市第十中学专场）初步就业协议.doc"
             }
           ]
         }
@@ -257,14 +283,24 @@
           "url": "http://rsj.chifeng.gov.cn/cfsrsjgggs/202506/t20250605_2599668.html",
           "attachments": [
             {
-              "name": "2025内蒙古赤峰市市本级事业单位绿色通道引进人才目录.xls",
+              "name": "2025年内蒙古赤峰市市本级事业单位绿色通道引进人才目录.xls",
               "url": "http://rsj.chifeng.gov.cn/cfsrsjgggs/202506/P020250605332575928308.xls",
-              "local": "attachments/150400/2025内蒙古赤峰市市本级事业单位绿色通道引进人才目录.xls"
+              "local": "attachments/150400/2025年内蒙古赤峰市市本级事业单位绿色通道引进人才目录.xls"
             },
             {
-              "name": "2025内蒙古赤峰市市本级事业单位绿色通道引进人才报名表.docx",
+              "name": "2025年内蒙古赤峰市市本级事业单位绿色通道引进人才报名表.docx",
               "url": "http://rsj.chifeng.gov.cn/cfsrsjgggs/202506/P020250605332575930108.docx",
-              "local": "attachments/150400/2025内蒙古赤峰市市本级事业单位绿色通道引进人才报名表.docx"
+              "local": "attachments/150400/2025年内蒙古赤峰市市本级事业单位绿色通道引进人才报名表.docx"
+            },
+            {
+              "name": "2025年内蒙古赤峰市市本级事业单位“绿色通道”引进人才目录.xls",
+              "url": "https://rsj.chifeng.gov.cn/cfsrsjgggs/202506/P020250605332575928308.xls",
+              "local": "attachments/150400/2025年内蒙古赤峰市市本级事业单位“绿色通道”引进人才目录.xls"
+            },
+            {
+              "name": "2025年内蒙古赤峰市市本级事业单位“绿色通道”引进人才报名表.docx",
+              "url": "https://rsj.chifeng.gov.cn/cfsrsjgggs/202506/P020250605332575930108.docx",
+              "local": "attachments/150400/2025年内蒙古赤峰市市本级事业单位“绿色通道”引进人才报名表.docx"
             }
           ]
         },
@@ -321,7 +357,28 @@
           "positions": null,
           "source": "通辽市人力资源和社会保障局",
           "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202601/t20260128_1030990.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年内蒙古通辽市公开遴选公务员职位表(请考生点击下载查看).xls",
+              "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202601/P020260128740293617256.xls",
+              "local": "attachments/150500/2026年内蒙古通辽市公开遴选公务员职位表(请考生点击下载查看).xls"
+            },
+            {
+              "name": "2026年内蒙古通辽P020260128606183053010.xls",
+              "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202601/P020260128606183053010.xls",
+              "local": "attachments/150500/2026年内蒙古通辽P020260128606183053010.xls"
+            },
+            {
+              "name": "2026年内蒙古通辽报考指南(请考生点击下载查看).doc",
+              "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202601/P020260128584376621404.doc",
+              "local": "attachments/150500/2026年内蒙古通辽报考指南(请考生点击下载查看).doc"
+            },
+            {
+              "name": "2026年内蒙古通辽填报说明(请考生点击下载查看).doc",
+              "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202601/P020260128584376639340.doc",
+              "local": "attachments/150500/2026年内蒙古通辽填报说明(请考生点击下载查看).doc"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -332,7 +389,13 @@
           "positions": null,
           "source": "通辽市人力资源和社会保障局",
           "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202605/t20260529_1050919.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年内蒙古附件：通辽市事业单位公开招聘工作人员岗位表.xlsx",
+              "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202605/P020260604355946044990.xlsx",
+              "local": "attachments/150500/2026年内蒙古附件：通辽市事业单位公开招聘工作人员岗位表.xlsx"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -343,7 +406,48 @@
           "positions": null,
           "source": "通辽市人力资源和社会保障局",
           "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202606/t20260601_1051032.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年内蒙古通辽市直事业单位第二批次人才引进公告（已更新）.zip",
+              "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202606/P020260601372653853897.zip",
+              "local": "attachments/150500/2026年内蒙古通辽市直事业单位第二批次人才引进公告（已更新）.zip"
+            },
+            {
+              "name": "2026年内蒙古通辽市科尔沁区事业单位第二批次人才引进公告.zip",
+              "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202606/P020260601372653953210.zip",
+              "local": "attachments/150500/2026年内蒙古通辽市科尔沁区事业单位第二批次人才引进公告.zip"
+            },
+            {
+              "name": "2026年内蒙古通辽市霍林郭勒市事业单位第二批次人才引进公告.zip",
+              "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202606/P020260601372653983220.zip",
+              "local": "attachments/150500/2026年内蒙古通辽市霍林郭勒市事业单位第二批次人才引进公告.zip"
+            },
+            {
+              "name": "2026年内蒙古通辽市科左中旗事业单位第二批次人才引进公告.zip",
+              "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202606/P020260601372654097801.zip",
+              "local": "attachments/150500/2026年内蒙古通辽市科左中旗事业单位第二批次人才引进公告.zip"
+            },
+            {
+              "name": "2026年内蒙古通辽市科左后旗事业单位第二批次人才引进公告.zip",
+              "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202606/P020260601372654122348.zip",
+              "local": "attachments/150500/2026年内蒙古通辽市科左后旗事业单位第二批次人才引进公告.zip"
+            },
+            {
+              "name": "2026年内蒙古通辽市库伦旗事业单位第二批次人才引进公告.zip",
+              "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202606/P020260601372654144428.zip",
+              "local": "attachments/150500/2026年内蒙古通辽市库伦旗事业单位第二批次人才引进公告.zip"
+            },
+            {
+              "name": "2026年内蒙古通辽市奈曼旗事业单位第二批次人才引进公告.zip",
+              "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202606/P020260601372654188087.zip",
+              "local": "attachments/150500/2026年内蒙古通辽市奈曼旗事业单位第二批次人才引进公告.zip"
+            },
+            {
+              "name": "2026年内蒙古通辽经济技术开发区事业单位第二批次人才引进公告.zip",
+              "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202606/P020260601372654285687.zip",
+              "local": "attachments/150500/2026年内蒙古通辽经济技术开发区事业单位第二批次人才引进公告.zip"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -356,14 +460,19 @@
           "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202505/t20250521_947633.html",
           "attachments": [
             {
-              "name": "2025内蒙古通辽市直事业单位公开选聘工作人员岗位表（党群部门）.xls",
+              "name": "2025年内蒙古通辽市直事业单位公开选聘工作人员岗位表（党群部门）.xls",
               "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202505/P020250521566221539528.xls",
-              "local": "attachments/150500/2025内蒙古通辽市直事业单位公开选聘工作人员岗位表（党群部门）.xls"
+              "local": "attachments/150500/2025年内蒙古通辽市直事业单位公开选聘工作人员岗位表（党群部门）.xls"
             },
             {
-              "name": "2025内蒙古通辽市直事业单位公开选聘工作人员岗位表（政府部门）.xls",
+              "name": "2025年内蒙古通辽市直事业单位公开选聘工作人员岗位表（政府部门）.xls",
               "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202505/P020250521566221531123.xls",
-              "local": "attachments/150500/2025内蒙古通辽市直事业单位公开选聘工作人员岗位表（政府部门）.xls"
+              "local": "attachments/150500/2025年内蒙古通辽市直事业单位公开选聘工作人员岗位表（政府部门）.xls"
+            },
+            {
+              "name": "2025年内蒙古通辽公开选聘报名填表说明.doc",
+              "url": "https://rsj.tongliao.gov.cn/rsks/tzgg_17874/202505/P020250521566221547274.doc",
+              "local": "attachments/150500/2025年内蒙古通辽公开选聘报名填表说明.doc"
             }
           ]
         }
@@ -412,9 +521,14 @@
           "url": "https://rsj.ordos.gov.cn/rskszx/ksxx/202511/t20251114_1578336.html",
           "attachments": [
             {
-              "name": "2026内蒙古鄂尔多斯市融媒体中心公开招聘工作人员岗位信息表.xlsx",
+              "name": "2026年内蒙古鄂尔多斯市融媒体中心公开招聘工作人员岗位信息表.xlsx",
               "url": "https://rsj.ordos.gov.cn/rskszx/ksxx/202511/P020260526705787459799.xlsx",
-              "local": "attachments/150600/2026内蒙古鄂尔多斯市融媒体中心公开招聘工作人员岗位信息表.xlsx"
+              "local": "attachments/150600/2026年内蒙古鄂尔多斯市融媒体中心公开招聘工作人员岗位信息表.xlsx"
+            },
+            {
+              "name": "2026年内蒙古《鄂尔多斯市融媒体中心公开招聘工作人员岗位信息表》.xlsx",
+              "url": "http://rsj.ordos.gov.cn/rskszx/ksxx/202511/P020260526705787459799.xlsx",
+              "local": "attachments/150600/2026年内蒙古《鄂尔多斯市融媒体中心公开招聘工作人员岗位信息表》.xlsx"
             }
           ]
         },
@@ -494,7 +608,18 @@
           "positions": null,
           "source": "呼伦贝尔市卫生健康委员会",
           "url": "http://wjw.hlbe.gov.cn/News/show/1385733.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年内蒙古呼伦贝尔1..xlsx",
+              "url": "https://www.hlbrrc.com.cn/UpFile/doc/20220104/20220104071916813.xlsx",
+              "local": "attachments/150700/2025年内蒙古呼伦贝尔1..xlsx"
+            },
+            {
+              "name": "2025年内蒙古呼伦贝尔市卫生健康委员会所属事业单位引进人才报名表.xls",
+              "url": "https://www.hlbrrc.com.cn/UpFile/doc/20220104/20220104071933891.xls",
+              "local": "attachments/150700/2025年内蒙古呼伦贝尔市卫生健康委员会所属事业单位引进人才报名表.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -565,7 +690,23 @@
           "positions": null,
           "source": "巴彦淖尔市人力资源和社会保障局",
           "url": "http://rsj.bynr.gov.cn/rsks/gkzpkl/202606/t20260615_291963.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年内蒙古巴彦淖尔杭锦后旗卫健系统公开招聘事业编制工作人员岗位需求表.xlsx",
+              "url": "http://rsj.bynr.gov.cn/rsks/gkzpkl/202606/P020260702420120537313.xlsx",
+              "local": "attachments/150800/2026年内蒙古巴彦淖尔杭锦后旗卫健系统公开招聘事业编制工作人员岗位需求表.xlsx"
+            },
+            {
+              "name": "2026年内蒙古巴彦淖尔报名登记表.xls",
+              "url": "http://rsj.bynr.gov.cn/rsks/gkzpkl/202606/P020260702420120640027.xls",
+              "local": "attachments/150800/2026年内蒙古巴彦淖尔报名登记表.xls"
+            },
+            {
+              "name": "2026年内蒙古巴彦淖尔诚信承诺书.docx",
+              "url": "http://rsj.bynr.gov.cn/rsks/gkzpkl/202606/P020260702420120756679.docx",
+              "local": "attachments/150800/2026年内蒙古巴彦淖尔诚信承诺书.docx"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -576,7 +717,23 @@
           "positions": null,
           "source": "巴彦淖尔市人力资源和社会保障局",
           "url": "http://rsj.bynr.gov.cn/rsks/gkzpkl/202604/t20260416_291890.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年内蒙古巴彦淖尔五原县卫健系统公开招聘岗位需求表.xls",
+              "url": "http://rsj.bynr.gov.cn/rsks/gkzpkl/202604/P020260702419565145149.xls",
+              "local": "attachments/150800/2026年内蒙古巴彦淖尔五原县卫健系统公开招聘岗位需求表.xls"
+            },
+            {
+              "name": "2026年内蒙古巴彦淖尔五原县卫健系统公开招聘报名表.xls",
+              "url": "http://rsj.bynr.gov.cn/rsks/gkzpkl/202604/P020260702419565264685.xls",
+              "local": "attachments/150800/2026年内蒙古巴彦淖尔五原县卫健系统公开招聘报名表.xls"
+            },
+            {
+              "name": "2026年内蒙古巴彦淖尔考生诚信考试承诺书.docx",
+              "url": "http://rsj.bynr.gov.cn/rsks/gkzpkl/202604/P020260702419565555290.docx",
+              "local": "attachments/150800/2026年内蒙古巴彦淖尔考生诚信考试承诺书.docx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -636,9 +793,29 @@
           "url": "https://www.wmpta.org.cn/article/890-25.html",
           "attachments": [
             {
-              "name": "2026内蒙古乌兰察布市直事业单位人才引进岗位需求表.xls",
+              "name": "2026年内蒙古乌兰察布市直事业单位人才引进岗位需求表.xls",
               "url": "http://www.wmpta.org.cn/upload/default/20260327/10d1c97006bfb1735b06d2c21fa0798c.xls",
-              "local": "attachments/150900/2026内蒙古乌兰察布市直事业单位人才引进岗位需求表.xls"
+              "local": "attachments/150900/2026年内蒙古乌兰察布市直事业单位人才引进岗位需求表.xls"
+            },
+            {
+              "name": "2026年2.《乌兰察布市市直事业单位人才引进报名登记表》.docx",
+              "url": "http://www.wmpta.org.cn/upload/default/20260327/8d35b1fb910402a19170b6f1aefc989b.docx",
+              "local": "attachments/150900/2026年2.《乌兰察布市市直事业单位人才引进报名登记表》.docx"
+            },
+            {
+              "name": "2026年3.《应届毕业生承诺书》.docx",
+              "url": "http://www.wmpta.org.cn/upload/default/20260327/6384cd5f5c933972fa94c6239d01f74b.docx",
+              "local": "attachments/150900/2026年3.《应届毕业生承诺书》.docx"
+            },
+            {
+              "name": "2026年4.《应届毕业生学历学位证明》.docx",
+              "url": "http://www.wmpta.org.cn/upload/default/20260327/3ea9fcd7d87d8b39ee2c81afe5c11d68.docx",
+              "local": "attachments/150900/2026年4.《应届毕业生学历学位证明》.docx"
+            },
+            {
+              "name": "2026年5.《单位同意报考证明》.doc",
+              "url": "http://www.wmpta.org.cn/upload/default/20260327/ff9ea5595e53ae31f81d6acfe51e3b2e.doc",
+              "local": "attachments/150900/2026年5.《单位同意报考证明》.doc"
             }
           ]
         },
@@ -651,7 +828,13 @@
           "positions": null,
           "source": "乌兰察布市人事考试中心",
           "url": "https://www.wmpta.org.cn/article/927-2.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年乌兰察布市卫生健康事业单位公开招聘专业技术人员岗位需求表-6.10.xlsx",
+              "url": "http://www.wmpta.org.cn/upload/default/20260610/7d0d14a08c591866239bc639930bac37.xlsx",
+              "local": "attachments/150900/2026年乌兰察布市卫生健康事业单位公开招聘专业技术人员岗位需求表-6.10.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -662,7 +845,13 @@
           "positions": null,
           "source": "乌兰察布市人事考试中心",
           "url": "https://www.wmpta.org.cn/article/742-2.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年《乌兰察布市卫生健康事业单位公开招聘专业技术人员岗位需求表》.xlsx",
+              "url": "http://www.wmpta.org.cn/upload/default/20250711/02030a338e2cf64a607c61a5c87bdd77.xlsx",
+              "local": "attachments/150900/2025年《乌兰察布市卫生健康事业单位公开招聘专业技术人员岗位需求表》.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -701,9 +890,9 @@
           "url": "http://www.xamks.com/html/8/Content2592.html",
           "attachments": [
             {
-              "name": "2026内蒙古兴安盟直属机关公开遴选公务员职位表.xlsx",
+              "name": "2026年内蒙古兴安盟直属机关公开遴选公务员职位表.xlsx",
               "url": "http://www.xamks.com/kindeditor/attached/file/20260731/20260731075454_6970.xlsx",
-              "local": "attachments/152200/2026内蒙古兴安盟直属机关公开遴选公务员职位表.xlsx"
+              "local": "attachments/152200/2026年内蒙古兴安盟直属机关公开遴选公务员职位表.xlsx"
             }
           ]
         },
@@ -716,7 +905,13 @@
           "positions": null,
           "source": "兴安盟人事考试网",
           "url": "http://www.xamks.com/html/8/Content2502.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年内蒙古兴安盟边境地区事业单位公开招聘岗位计划表.xlsx",
+              "url": "http://www.xamks.com/kindeditor/attached/file/20260416/20260416171708_0813.xlsx",
+              "local": "attachments/152200/2026年内蒙古兴安盟边境地区事业单位公开招聘岗位计划表.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -759,7 +954,18 @@
           "positions": null,
           "source": "锡林郭勒盟人力资源信息网",
           "url": "http://www.xmpta.org.cn/rlzyfwzx/tzgg/2026072319145686378/index.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年内蒙古.锡林郭勒盟直机关（参公单位）公开遴选公务员职位表.xls",
+              "url": "http://www.xmpta.org.cn/rlzyfwzx/tzgg/2026072319145686378/2026072319310926676.xls",
+              "local": "attachments/152500/2026年内蒙古.锡林郭勒盟直机关（参公单位）公开遴选公务员职位表.xls"
+            },
+            {
+              "name": "2026年内蒙古.锡林郭勒盟直属机关（参公单位）公开遴选公务员面向选调生职位推荐表.xls",
+              "url": "http://www.xmpta.org.cn/rlzyfwzx/tzgg/2026072319145686378/2026072319264120747.xls",
+              "local": "attachments/152500/2026年内蒙古.锡林郭勒盟直属机关（参公单位）公开遴选公务员面向选调生职位推荐表.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -770,7 +976,18 @@
           "positions": null,
           "source": "锡林郭勒盟人力资源信息网",
           "url": "http://www.xmpta.org.cn/rlzyfwzx/tzgg/2025091715411410307/index.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年内蒙古锡林郭勒盟xls.xls",
+              "url": "http://www.xmpta.org.cn/rlzyfwzx/tzgg/2025091715411410307/2025091715405795114.xls",
+              "local": "attachments/152500/2025年内蒙古锡林郭勒盟xls.xls"
+            },
+            {
+              "name": "2025年内蒙古锡林郭勒盟xls_2.xls",
+              "url": "http://www.xmpta.org.cn/rlzyfwzx/tzgg/2025091715411410307/2025091715410548485.xls",
+              "local": "attachments/152500/2025年内蒙古锡林郭勒盟xls_2.xls"
+            }
+          ]
         }
       ]
     },
@@ -815,7 +1032,28 @@
           "positions": null,
           "source": "阿拉善盟人力资源和社会保障局",
           "url": "http://rsj.als.gov.cn/art/2025/11/20/art_5778_514535.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年内蒙古阿拉善盟引才单位资格审查电子邮箱.xlsx",
+              "url": "http://rsj.als.gov.cn/module/download/downfile.jsp?classid=0&showname=%E9%99%84%E4%BB%B62%EF%BC%9A%E5%BC%95%E6%89%8D%E5%8D%95%E4%BD%8D%E8%B5%84%E6%A0%BC%E5%AE%A1%E6%9F%A5%E7%94%B5%E5%AD%90%E9%82%AE%E7%AE%B1.xlsx&filename=3b39cdeef40f47a6bcc2dfe88cf31c91.xlsx",
+              "local": "attachments/152900/2025年内蒙古阿拉善盟引才单位资格审查电子邮箱.xlsx"
+            },
+            {
+              "name": "2025年内蒙古阿拉善盟放弃资格审查声明.docx",
+              "url": "http://rsj.als.gov.cn/module/download/downfile.jsp?classid=0&showname=%E9%99%84%E4%BB%B64%EF%BC%9A%E6%94%BE%E5%BC%83%E8%B5%84%E6%A0%BC%E5%AE%A1%E6%9F%A5%E5%A3%B0%E6%98%8E.docx&filename=757360eb17324e01953f72f91002fb2f.docx",
+              "local": "attachments/152900/2025年内蒙古阿拉善盟放弃资格审查声明.docx"
+            },
+            {
+              "name": "2025年内蒙古阿拉善盟资格审查诚信承诺书.docx",
+              "url": "http://rsj.als.gov.cn/module/download/downfile.jsp?classid=0&showname=%E9%99%84%E4%BB%B63%EF%BC%9A%E8%B5%84%E6%A0%BC%E5%AE%A1%E6%9F%A5%E8%AF%9A%E4%BF%A1%E6%89%BF%E8%AF%BA%E4%B9%A6.docx&filename=a2f76f4c8a0b42d9a069a5b36e30855f.docx",
+              "local": "attachments/152900/2025年内蒙古阿拉善盟资格审查诚信承诺书.docx"
+            },
+            {
+              "name": "2025年内蒙古阿拉善盟课业成绩评估表.xls",
+              "url": "http://rsj.als.gov.cn/module/download/downfile.jsp?classid=0&showname=%E9%99%84%E4%BB%B65%EF%BC%9A%E8%AF%BE%E4%B8%9A%E6%88%90%E7%BB%A9%E8%AF%84%E4%BC%B0%E8%A1%A8.xls&filename=ffdc57166a224cba860acbf77c542af4.xls",
+              "local": "attachments/152900/2025年内蒙古阿拉善盟课业成绩评估表.xls"
+            }
+          ]
         },
         {
           "year": 2025,

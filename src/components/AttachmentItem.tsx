@@ -1,6 +1,7 @@
 ﻿import { Download, ExternalLink, FileSpreadsheet, FileText, File } from 'lucide-react'
 import type { Attachment } from '@/lib/data'
 import { attachmentUrl } from '@/lib/data'
+import HighlightKeywords from './HighlightKeywords'
 import { cn } from '@/lib/utils'
 
 const EXT_STYLE: Record<string, { color: string; icon: typeof FileText }> = {
@@ -31,7 +32,9 @@ export default function AttachmentItem({ attachment, cityAdcode, className }: { 
         <Icon className="w-4.5 h-4.5" style={{ color, width: 18, height: 18 }} />
       </span>
       <span className="flex-1 min-w-0">
-        <span className="block text-sm text-ink truncate" title={attachment.name}>{attachment.name}</span>
+        <span className="block text-sm text-ink truncate" title={attachment.name}>
+          <HighlightKeywords text={attachment.name} />
+        </span>
         <span className="block text-xs text-ink-faint mt-0.5 uppercase">{ext || 'file'}</span>
       </span>
       {local ? (

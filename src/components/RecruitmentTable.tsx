@@ -2,6 +2,7 @@
 import type { Recruitment } from '@/lib/data'
 import { assetUrl } from '@/lib/data'
 import TagBadge from './TagBadge'
+import HighlightKeywords from './HighlightKeywords'
 import { cn } from '@/lib/utils'
 
 export interface RecruitmentTableProps {
@@ -51,7 +52,7 @@ export default function RecruitmentTable({ recruitments, emptyText = '该类别�
                 <td className="px-5 py-3.5 text-ink-faint whitespace-nowrap tabular-nums">{r.date}</td>
                 <td className="px-5 py-3.5 max-w-[320px]">
                   <span className="block truncate text-ink" title={r.title}>
-                    {r.title}
+                    <HighlightKeywords text={r.title} variant="bold" />
                     {r.category === '选调生' && r.subCategory && (
                       <span className="ml-1.5 text-xs text-ochre">{r.subCategory}</span>
                     )}

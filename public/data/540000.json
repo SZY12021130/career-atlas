@@ -1,7 +1,7 @@
 {
   "adcode": 540000,
   "name": "西藏自治区",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-03",
   "provincePortals": [
     {
       "category": "公务员",
@@ -81,7 +81,28 @@
           "positions": null,
           "source": "西藏自治区人力资源和社会保障厅",
           "url": "http://hrss.xizang.gov.cn/xwzx/tzgg/202501/t20250113_456938.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年西藏自治区高校毕业生公开考录公务员计划和职位信息表.et",
+              "url": "http://hrss.xizang.gov.cn/xwzx/tzgg/202501/P020250113443986988307.et",
+              "local": "attachments/540100/2025年西藏自治区高校毕业生公开考录公务员计划和职位信息表.et"
+            },
+            {
+              "name": "2025年西藏自治区高校毕业生公开考录公务员报考指南.docx",
+              "url": "http://hrss.xizang.gov.cn/xwzx/tzgg/202501/P020250113443987726303.docx",
+              "local": "attachments/540100/2025年西藏自治区高校毕业生公开考录公务员报考指南.docx"
+            },
+            {
+              "name": "2025年西藏自治区高校毕业生公开考录公务员政审表.xls",
+              "url": "http://hrss.xizang.gov.cn/xwzx/tzgg/202501/P020250113443988415189.xls",
+              "local": "attachments/540100/2025年西藏自治区高校毕业生公开考录公务员政审表.xls"
+            },
+            {
+              "name": "2025年诚信报考承诺书.docx",
+              "url": "http://hrss.xizang.gov.cn/xwzx/tzgg/202501/P020250113443990751498.docx",
+              "local": "attachments/540100/2025年诚信报考承诺书.docx"
+            }
+          ]
         },
         {
           "year": 2024,
@@ -92,7 +113,23 @@
           "positions": null,
           "source": "西藏自治区人力资源和社会保障厅",
           "url": "http://hrss.xizang.gov.cn/xwzx/tzgg/202403/t20240329_409829.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2024年职位信息表.et",
+              "url": "http://hrss.xizang.gov.cn/xwzx/tzgg/202403/P020240329573559067545.et",
+              "local": "attachments/540100/2024年职位信息表.et"
+            },
+            {
+              "name": "2024年政审表.xls",
+              "url": "http://hrss.xizang.gov.cn/xwzx/tzgg/202403/P020240329573560037122.xls",
+              "local": "attachments/540100/2024年政审表.xls"
+            },
+            {
+              "name": "2024年诚信报考承诺书.docx",
+              "url": "http://hrss.xizang.gov.cn/xwzx/tzgg/202403/P020240329573560609217.docx",
+              "local": "attachments/540100/2024年诚信报考承诺书.docx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -436,6 +473,26 @@
               "name": "2025年山南市事业单位招聘岗位计划表.et",
               "url": "https://www.shannan.gov.cn/zwgk/zfxxgkml/202505/P020250528707934353078.et",
               "local": "attachments/540500/2025年山南市事业单位招聘岗位计划表.et"
+            },
+            {
+              "name": "2025年西藏自治区事业单位公开招聘高校毕业生政审表.xls",
+              "url": "https://www.shannan.gov.cn/zwgk/zfxxgkml/202505/P020250528707935787115.xls",
+              "local": "attachments/540500/2025年西藏自治区事业单位公开招聘高校毕业生政审表.xls"
+            },
+            {
+              "name": "2025年西藏山南诚信报考承诺书诚信报考承诺书.docx",
+              "url": "https://www.shannan.gov.cn/zwgk/zfxxgkml/202505/P020250528707936113058.docx",
+              "local": "attachments/540500/2025年西藏山南诚信报考承诺书诚信报考承诺书.docx"
+            },
+            {
+              "name": "2025年西藏山南报考指南.doc",
+              "url": "https://www.shannan.gov.cn/zwgk/zfxxgkml/202505/P020250528707936221570.doc",
+              "local": "attachments/540500/2025年西藏山南报考指南.doc"
+            },
+            {
+              "name": "2025年西藏山南2025版事业单位公开招聘分类考试公共科目笔试考试大纲.pdf",
+              "url": "https://www.shannan.gov.cn/zwgk/zfxxgkml/202505/P020250528707936387124.pdf",
+              "local": "attachments/540500/2025年西藏山南2025版事业单位公开招聘分类考试公共科目笔试考试大纲.pdf"
             }
           ]
         },
@@ -611,6 +668,21 @@
               "name": "2026年阿里地区事业单位招聘岗位计划表.xls",
               "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/202607/P020260707288675260592.xls",
               "local": "attachments/542500/2026年阿里地区事业单位招聘岗位计划表.xls"
+            },
+            {
+              "name": "2026年1.西藏自治区区直事业单位公开招聘高校毕业生岗位计划表.xlsx",
+              "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/202607/P020260707288672301126.xlsx",
+              "local": "attachments/542500/2026年1.西藏自治区区直事业单位公开招聘高校毕业生岗位计划表.xlsx"
+            },
+            {
+              "name": "2026年9.西藏自治区事业单位公开招聘高校毕业生政审表.xls",
+              "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/202607/P020260707296235216795.xls",
+              "local": "attachments/542500/2026年9.西藏自治区事业单位公开招聘高校毕业生政审表.xls"
+            },
+            {
+              "name": "2026年10.诚信报考承诺书.docx",
+              "url": "https://hrss.xizang.gov.cn/xwzx/tzgg/202607/P020260707296236754171.docx",
+              "local": "attachments/542500/2026年10.诚信报考承诺书.docx"
             }
           ]
         }

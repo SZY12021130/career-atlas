@@ -1,7 +1,7 @@
 {
   "adcode": 520000,
   "name": "贵州省",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-02",
   "provincePortals": [
     {
       "category": "公务员",
@@ -73,7 +73,43 @@
           "positions": null,
           "source": "贵州省公务员局（贵州党建云发布，铜仁市人民政府转载）",
           "url": "https://www.trs.gov.cn/xwzx/tzgg/zkxx/202601/t20260117_89308197.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年贵州省省、市、县、乡四级机关统一面向社会公开招录公务员职位表.xls",
+              "url": "https://www.trs.gov.cn/xwzx/tzgg/zkxx/202601/P020260119604063879548.xls",
+              "local": "attachments/520100/2026年贵州省省、市、县、乡四级机关统一面向社会公开招录公务员职位表.xls"
+            },
+            {
+              "name": "2026年贵州省省、市、县、乡四级机关统一面向社会公开招录人民警察职位表.xlsx",
+              "url": "https://www.trs.gov.cn/xwzx/tzgg/zkxx/202601/P020260117617491695338.xlsx",
+              "local": "attachments/520100/2026年贵州省省、市、县、乡四级机关统一面向社会公开招录人民警察职位表.xlsx"
+            },
+            {
+              "name": "2026年贵州省省、市、县、乡四级机关统一面向社会公开招录公务员报考指南.docx",
+              "url": "https://www.trs.gov.cn/xwzx/tzgg/zkxx/202601/P020260117617491149494.docx",
+              "local": "attachments/520100/2026年贵州省省、市、县、乡四级机关统一面向社会公开招录公务员报考指南.docx"
+            },
+            {
+              "name": "2026年贵州省省、市、县、乡四级机关统一面向社会公开招录公务员报名信息表.doc",
+              "url": "https://www.trs.gov.cn/xwzx/tzgg/zkxx/202601/P020260117617491762123.doc",
+              "local": "attachments/520100/2026年贵州省省、市、县、乡四级机关统一面向社会公开招录公务员报名信息表.doc"
+            },
+            {
+              "name": "2026年贵州省66个脱贫县名单.docx",
+              "url": "https://www.trs.gov.cn/xwzx/tzgg/zkxx/202601/P020260117617491825078.docx",
+              "local": "attachments/520100/2026年贵州省66个脱贫县名单.docx"
+            },
+            {
+              "name": "2026年贵州省公安机关人民警察职位专业科目笔试考试大纲.docx",
+              "url": "https://www.trs.gov.cn/xwzx/tzgg/zkxx/202601/P020260117617491882661.docx",
+              "local": "attachments/520100/2026年贵州省公安机关人民警察职位专业科目笔试考试大纲.docx"
+            },
+            {
+              "name": "2026年贵州省省、市、县、乡四级机关统一面向社会公开招录公务员信息发布网站及有关咨询电话.xls",
+              "url": "https://www.trs.gov.cn/xwzx/tzgg/zkxx/202601/P020260117617491930999.xls",
+              "local": "attachments/520100/2026年贵州省省、市、县、乡四级机关统一面向社会公开招录公务员信息发布网站及有关咨询电话.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -109,7 +145,13 @@
           "positions": null,
           "source": "中共贵州省委组织部（贵州大学转载）",
           "url": "https://www.gzu.edu.cn/2025/1013/c635a259179/page.htm",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年贵州省定向部分省属高校选调优秀毕业生报名推荐表.doc",
+              "url": "https://www.gzu.edu.cn/_upload/article/files/2d/1d/8c4cc30b4dd7ac8287ff64588384/b4aa476a-4c63-4648-bc04-73a151a8b7e3.doc",
+              "local": "attachments/520100/2026年贵州省定向部分省属高校选调优秀毕业生报名推荐表.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -121,7 +163,18 @@
           "positions": null,
           "source": "贵阳市人力资源和社会保障局",
           "url": "https://rsj.guiyang.gov.cn/rzxzx/xxgg/202505/t20250519_87895234.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年贵州贵阳贵安卫生健康系统公开招聘事业单位工作人员岗位一览表.xlsx",
+              "url": "https://rsj.guiyang.gov.cn/rzxzx/xxgg/202505/P020250519780229041613.xlsx",
+              "local": "attachments/520100/2025年贵州贵阳贵安卫生健康系统公开招聘事业单位工作人员岗位一览表.xlsx"
+            },
+            {
+              "name": "2025年贵州贵阳在职人员单位同意报考证明示例.docx",
+              "url": "https://rsj.guiyang.gov.cn/rzxzx/xxgg/202505/P020250519780229088752.docx",
+              "local": "attachments/520100/2025年贵州贵阳在职人员单位同意报考证明示例.docx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -133,7 +186,13 @@
           "positions": null,
           "source": "贵阳市人力资源和社会保障局",
           "url": "https://rsj.guiyang.gov.cn/rzxzx/xxgg/202504/t20250418_87543197.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年第十三届贵州人才博览会贵阳贵安事业单位岗位信息表.xlsx",
+              "url": "https://rsj.guiyang.gov.cn/rzxzx/xxgg/202504/P020250418734860474302.xlsx",
+              "local": "attachments/520100/2025年第十三届贵州人才博览会贵阳贵安事业单位岗位信息表.xlsx"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -157,7 +216,33 @@
           "positions": null,
           "source": "贵阳市人力资源和社会保障局（贵阳市人民政府转发）",
           "url": "https://guiyang.gov.cn/zwgk/zdlyxxgk2024/shsyjzdms/jycy/rszk/202502/t20250211_86875160.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年贵州贵阳贵安公开招聘事业单位工作人员岗位一览表.xlsx",
+              "url": "https://guiyang.gov.cn/zwgk/zdlyxxgk2024/shsyjzdms/jycy/rszk/202502/P020250221429309307926.xlsx",
+              "local": "attachments/520100/2025年贵州贵阳贵安公开招聘事业单位工作人员岗位一览表.xlsx"
+            },
+            {
+              "name": "2025年贵州1_贵阳贵安公开招聘事业单位工作人员简章.doc",
+              "url": "https://guiyang.gov.cn/zwgk/zdlyxxgk2024/shsyjzdms/jycy/rszk/202502/W020250210676548365289.doc",
+              "local": "attachments/520100/2025年贵州1_贵阳贵安公开招聘事业单位工作人员简章.doc"
+            },
+            {
+              "name": "2025年贵州贵阳3_在职人员单位同意报考证明示例.docx",
+              "url": "https://guiyang.gov.cn/zwgk/zdlyxxgk2024/shsyjzdms/jycy/rszk/202502/W020250210676550430537.docx",
+              "local": "attachments/520100/2025年贵州贵阳3_在职人员单位同意报考证明示例.docx"
+            },
+            {
+              "name": "2025年贵州贵阳4_报名信息表.doc",
+              "url": "https://guiyang.gov.cn/zwgk/zdlyxxgk2024/shsyjzdms/jycy/rszk/202502/W020250210676551456134.doc",
+              "local": "attachments/520100/2025年贵州贵阳4_报名信息表.doc"
+            },
+            {
+              "name": "2025年贵州贵阳5_专业目录.zip",
+              "url": "https://guiyang.gov.cn/zwgk/zdlyxxgk2024/shsyjzdms/jycy/rszk/202502/W020250210676555982243.zip",
+              "local": "attachments/520100/2025年贵州贵阳5_专业目录.zip"
+            }
+          ]
         }
       ]
     },
@@ -198,7 +283,13 @@
           "positions": null,
           "source": "六盘水市人力资源和社会保障局",
           "url": "http://hrss.gzlps.gov.cn/tzgg_42003/202502/t20250210_86747694.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年贵州附件：六盘水市直事业单位面向社会公开招聘事业单位工作人员岗位及要求一览表.xlsx",
+              "url": "http://hrss.gzlps.gov.cn/tzgg_42003/202502/P020250210601246005698.xlsx",
+              "local": "attachments/520200/2025年贵州附件：六盘水市直事业单位面向社会公开招聘事业单位工作人员岗位及要求一览表.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -309,7 +400,28 @@
           "positions": null,
           "source": "遵义市人力资源和社会保障局",
           "url": "http://rsj.zunyi.gov.cn/gzdt/tzgs/202504/t20250409_87496841.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年第十三届贵州人才博览会遵义市事业单位人才引进岗位信息表.xlsx",
+              "url": "http://rsj.zunyi.gov.cn/gzdt/tzgs/202504/P020250411368610996039.xlsx",
+              "local": "attachments/520300/2025年第十三届贵州人才博览会遵义市事业单位人才引进岗位信息表.xlsx"
+            },
+            {
+              "name": "2025年贵州遵义.人博会线上平台操作指南（个人端）.pdf",
+              "url": "http://rsj.zunyi.gov.cn/gzdt/tzgs/202504/P020250409632063177511.pdf",
+              "local": "attachments/520300/2025年贵州遵义.人博会线上平台操作指南（个人端）.pdf"
+            },
+            {
+              "name": "2025年第十三届贵州人才博览会遵义市事业单位引进人才汇总表.docx",
+              "url": "http://rsj.zunyi.gov.cn/gzdt/tzgs/202504/P020250409632063220814.docx",
+              "local": "attachments/520300/2025年第十三届贵州人才博览会遵义市事业单位引进人才汇总表.docx"
+            },
+            {
+              "name": "2025年第十三届贵州人才博览会事业单位引进人才评审表.doc",
+              "url": "http://rsj.zunyi.gov.cn/gzdt/tzgs/202504/P020250409632063244313.doc",
+              "local": "attachments/520300/2025年第十三届贵州人才博览会事业单位引进人才评审表.doc"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -371,7 +483,13 @@
           "positions": null,
           "source": "安顺市人力资源和社会保障局",
           "url": "https://rsj.anshun.gov.cn/newsite/xwzx/tzgg2/202506/t20250616_88147611.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年贵州附件：安顺市部分市直事业单位面向社会公开招聘工作人员面试成绩及总成绩（第一批）.xls",
+              "url": "https://rsj.anshun.gov.cn/newsite/xwzx/tzgg2/202506/P020250616642198292248.xls",
+              "local": "attachments/520400/2025年贵州附件：安顺市部分市直事业单位面向社会公开招聘工作人员面试成绩及总成绩（第一批）.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -383,7 +501,18 @@
           "positions": null,
           "source": "安顺市人民政府（安顺市教育局）",
           "url": "https://www.anshun.gov.cn/zfxxgk/fdzdgknr/rsxx/zkzp/202510/t20251017_88705518.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年贵州安顺市实验学校2026年公费师范生招聘报名表.doc",
+              "url": "https://www.anshun.gov.cn/zfxxgk/fdzdgknr/rsxx/zkzp/202510/P020251017541060105725.doc",
+              "local": "attachments/520400/2025年贵州安顺市实验学校2026年公费师范生招聘报名表.doc"
+            },
+            {
+              "name": "2025年贵州安顺市实验学校2026年公费师范生招聘诚信报考承诺书.doc",
+              "url": "https://www.anshun.gov.cn/zfxxgk/fdzdgknr/rsxx/zkzp/202510/P020251017541060144612.doc",
+              "local": "attachments/520400/2025年贵州安顺市实验学校2026年公费师范生招聘诚信报考承诺书.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -447,7 +576,33 @@
           "positions": null,
           "source": "毕节市人力资源和社会保障局",
           "url": "https://www.bijie.gov.cn/bm/bjsrsj/dt/gsgg/202502/t20250210_86874095.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年贵州毕节市市直事业单位面向社会公开招聘工作人员岗位表.xlsx",
+              "url": "https://www.bijie.gov.cn/bm/bjsrsj/dt/gsgg/202502/P020250210654496986092.xlsx",
+              "local": "attachments/520500/2025年贵州毕节市市直事业单位面向社会公开招聘工作人员岗位表.xlsx"
+            },
+            {
+              "name": "2025年贵州省全省事业单位公开招聘笔试报名信息表.doc",
+              "url": "https://www.bijie.gov.cn/bm/bjsrsj/dt/gsgg/202502/P020250210654497051181.doc",
+              "local": "attachments/520500/2025年贵州省全省事业单位公开招聘笔试报名信息表.doc"
+            },
+            {
+              "name": "2025年贵州毕节单位同意报考证明.doc",
+              "url": "https://www.bijie.gov.cn/bm/bjsrsj/dt/gsgg/202502/P020250210654497089424.doc",
+              "local": "attachments/520500/2025年贵州毕节单位同意报考证明.doc"
+            },
+            {
+              "name": "2025年贵州毕节诚信报考承诺书.doc",
+              "url": "https://www.bijie.gov.cn/bm/bjsrsj/dt/gsgg/202502/P020250210654497108811.doc",
+              "local": "attachments/520500/2025年贵州毕节诚信报考承诺书.doc"
+            },
+            {
+              "name": "2025年贵州毕节符合专业比对条件报考人员承诺书.wps",
+              "url": "https://www.bijie.gov.cn/bm/bjsrsj/dt/gsgg/202502/P020250210654497127877.wps",
+              "local": "attachments/520500/2025年贵州毕节符合专业比对条件报考人员承诺书.wps"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -542,14 +697,20 @@
           "positions": null,
           "source": "铜仁市卫生健康局",
           "url": "https://www.trs.gov.cn/xwzx/tzgg/zkxx/202509/t20250918_88631298.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年贵州铜仁市大学生乡村医生专项计划公开招聘工作人员岗位需求表.xls",
+              "url": "https://www.trs.gov.cn/xwzx/tzgg/zkxx/202509/P020250918635174307831.xls",
+              "local": "attachments/520600/2025年贵州铜仁市大学生乡村医生专项计划公开招聘工作人员岗位需求表.xls"
+            }
+          ]
         },
         {
           "year": 2026,
           "category": "公务员",
           "subCategory": null,
           "title": "贵州省2026年度四级联考（铜仁考区）考察公告（第三批）",
-          "date": null,
+          "date": "2026-07-16",
           "headcount": null,
           "positions": null,
           "source": "铜仁市委组织部（铜仁智慧党建云）",
@@ -566,7 +727,13 @@
           "positions": null,
           "source": "中共铜仁市万山区委人才工作领导小组办公室",
           "url": "http://www.trws.gov.cn/xwzx/tzgg/202504/t20250410_87502963.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年贵州铜仁市万山区事业单位公开引进高层次及急需紧缺人才岗位需求表.xls",
+              "url": "http://www.trws.gov.cn/xwzx/tzgg/202504/P020250410732495569811.xls",
+              "local": "attachments/520600/2025年贵州铜仁市万山区事业单位公开引进高层次及急需紧缺人才岗位需求表.xls"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -630,7 +797,13 @@
           "positions": null,
           "source": "黔西南州人民政府",
           "url": "http://www.qxn.gov.cn/zwgk/rsxx/sydwkl/202510/t20251010_88684082.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年贵州黔西南布依族苗族自治州黔西南州妇幼保健院公开招聘事业单位工作人员岗位表.xls",
+              "url": "https://www.qxn.gov.cn/zwgk/rsxx/sydwkl/202510/P020251010642686549127.xls",
+              "local": "attachments/522300/2025年贵州黔西南布依族苗族自治州黔西南州妇幼保健院公开招聘事业单位工作人员岗位表.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -731,7 +904,28 @@
           "positions": null,
           "source": "黔东南州人力资源和社会保障局",
           "url": "https://rsj.qdn.gov.cn/zwgk/zfxxgk/fdzdgknr/gsgg/202509/t20250919_88634175.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年贵州黔东南苗族侗族自治州2025年柔性引进人才公告及职位表.rar",
+              "url": "https://rsj.qdn.gov.cn/zwgk/zfxxgk/fdzdgknr/gsgg/202509/P020250923319347144964.rar",
+              "local": "attachments/522600/2026年贵州黔东南苗族侗族自治州2025年柔性引进人才公告及职位表.rar"
+            },
+            {
+              "name": "2026年贵州黔东南苗族侗族自治州黔东南州企业人才需求职位表.xls",
+              "url": "https://rsj.qdn.gov.cn/zwgk/zfxxgk/fdzdgknr/gsgg/202509/P020250919543685360250.xls",
+              "local": "attachments/522600/2026年贵州黔东南苗族侗族自治州黔东南州企业人才需求职位表.xls"
+            },
+            {
+              "name": "2026年贵州黔东南苗族侗族自治州黔东南州“银龄人才”需求职位表.xls",
+              "url": "https://rsj.qdn.gov.cn/zwgk/zfxxgk/fdzdgknr/gsgg/202509/P020250919543685330334.xls",
+              "local": "attachments/522600/2026年贵州黔东南苗族侗族自治州黔东南州“银龄人才”需求职位表.xls"
+            },
+            {
+              "name": "2026年贵州黔东南苗族侗族自治州黔东南州事业单位引进高层次和急需紧缺人才实施方案及职位表.rar",
+              "url": "https://rsj.qdn.gov.cn/zwgk/zfxxgk/fdzdgknr/gsgg/202509/P020250919555401339308.rar",
+              "local": "attachments/522600/2026年贵州黔东南苗族侗族自治州黔东南州事业单位引进高层次和急需紧缺人才实施方案及职位表.rar"
+            }
+          ]
         },
         {
           "year": 2026,

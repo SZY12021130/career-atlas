@@ -1,7 +1,7 @@
 {
   "adcode": 430000,
   "name": "湖南省",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-03",
   "provincePortals": [
     {
       "category": "公务员",
@@ -76,6 +76,31 @@
               "name": "2026年湖南省考试录用公务员职位表.xlsx",
               "url": "https://img.hxw.gov.cn/2026/01-13/c8bf0670-4ac0-4d1b-acc8-5c2c06849917.xlsx",
               "local": "attachments/430100/2026年湖南省考试录用公务员职位表.xlsx"
+            },
+            {
+              "name": "2026年湖南省考试录用公务员专业指导目录.zip",
+              "url": "https://img.hxw.gov.cn/2026/01-13/132e1d04-2c6c-4e22-ae81-1f05e8551f9a.xlsx",
+              "local": "attachments/430100/2026年湖南省考试录用公务员专业指导目录.zip"
+            },
+            {
+              "name": "2026年湖南省考试录用公务员报考指南.docx",
+              "url": "https://img.hxw.gov.cn/2026/01-13/36fdda0d-08b4-4762-97e7-fcb239d69d1a.docx",
+              "local": "attachments/430100/2026年湖南省考试录用公务员报考指南.docx"
+            },
+            {
+              "name": "2026年湖南省定向招录公务员报名推荐表.xlsx",
+              "url": "https://img.hxw.gov.cn/2026/01-13/861702cf-1392-4faa-bb72-927e8f4e2142.xlsx",
+              "local": "attachments/430100/2026年湖南省定向招录公务员报名推荐表.xlsx"
+            },
+            {
+              "name": "2026年湖南省考试录用公务员考试大纲.docx",
+              "url": "https://img.hxw.gov.cn/2026/01-13/a591e9c1-7f16-4530-b226-91c453a3cafe.docx",
+              "local": "attachments/430100/2026年湖南省考试录用公务员考试大纲.docx"
+            },
+            {
+              "name": "2026年湖南省考试录用公务员咨询电话和信息发布网址.xlsx",
+              "url": "https://img.hxw.gov.cn/2026/01-13/8cc0c660-b0ec-4a08-b345-f59e3787e0f5.xlsx",
+              "local": "attachments/430100/2026年湖南省考试录用公务员咨询电话和信息发布网址.xlsx"
             }
           ]
         },
@@ -99,7 +124,13 @@
           "positions": null,
           "source": "红星网（中共湖南省委组织部）",
           "url": "https://www.hxw.gov.cn/content/2026/04/07/14881753.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年湖南省选调生拟选调人选名单.xls",
+              "url": "https://img.hxw.gov.cn/2026/04-07/5a92d382-c7dc-42b9-a9f2-c436f7927947.xls",
+              "local": "attachments/430100/2026年湖南省选调生拟选调人选名单.xls"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -121,7 +152,43 @@
           "positions": null,
           "source": "长沙市人力资源和社会保障局",
           "url": "http://rsj.changsha.gov.cn/rszc/rsrc_131369/gkzk_131379/sydwzk_131381/202505/t20250520_11858730.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年长沙市直事业单位第一批公开招聘（高层次人才）岗位一览表.xlsx",
+              "url": "http://rsj.changsha.gov.cn/rszc/rsrc_131369/gkzk_131379/sydwzk_131381/202505/P020250520747083824168.xlsx",
+              "local": "attachments/430100/2025年长沙市直事业单位第一批公开招聘（高层次人才）岗位一览表.xlsx"
+            },
+            {
+              "name": "2025年长沙市直事业单位第一批公开选调岗位一览表.xlsx",
+              "url": "http://rsj.changsha.gov.cn/rszc/rsrc_131369/gkzk_131379/sydwzk_131381/202505/P020250520747084191732.xlsx",
+              "local": "attachments/430100/2025年长沙市直事业单位第一批公开选调岗位一览表.xlsx"
+            },
+            {
+              "name": "2025年长沙市直事业单位第一批公开招聘（选调）报考指南.doc",
+              "url": "http://rsj.changsha.gov.cn/rszc/rsrc_131369/gkzk_131379/sydwzk_131381/202505/P020250520747084970659.doc",
+              "local": "attachments/430100/2025年长沙市直事业单位第一批公开招聘（选调）报考指南.doc"
+            },
+            {
+              "name": "2025年长沙市直事业单位第一批公开招聘咨询及监督电话汇总表.xlsx",
+              "url": "http://rsj.changsha.gov.cn/rszc/rsrc_131369/gkzk_131379/sydwzk_131381/202505/P020250520747085419254.xlsx",
+              "local": "attachments/430100/2025年长沙市直事业单位第一批公开招聘咨询及监督电话汇总表.xlsx"
+            },
+            {
+              "name": "2025年长沙市直事业单位第一批公开招聘单位主管部门地址及官网网址汇总表.docx",
+              "url": "http://rsj.changsha.gov.cn/rszc/rsrc_131369/gkzk_131379/sydwzk_131381/202505/P020250520747085882678.docx",
+              "local": "attachments/430100/2025年长沙市直事业单位第一批公开招聘单位主管部门地址及官网网址汇总表.docx"
+            },
+            {
+              "name": "2025年事业单位公开招聘分类考试公共科目笔试考试大纲（版).pdf",
+              "url": "http://rsj.changsha.gov.cn/rszc/rsrc_131369/gkzk_131379/sydwzk_131381/202505/P020250520747086063793.pdf",
+              "local": "attachments/430100/2025年事业单位公开招聘分类考试公共科目笔试考试大纲（版).pdf"
+            },
+            {
+              "name": "2025年学科专业目录汇编.pdf",
+              "url": "http://rsj.changsha.gov.cn/rszc/rsrc_131369/gkzk_131379/sydwzk_131381/202505/P020250520747086682394.pdf",
+              "local": "attachments/430100/2025年学科专业目录汇编.pdf"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -132,7 +199,13 @@
           "positions": null,
           "source": "长沙市人力资源和社会保障局",
           "url": "http://rsj.changsha.gov.cn/rszc/rsrc_131369/gkzk_131379/sydwzk_131381/202506/t20250609_11879737.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年长沙市卫生健康高层次专业人才引进岗位表.xlsx",
+              "url": "http://rsj.changsha.gov.cn/rszc/rsrc_131369/gkzk_131379/sydwzk_131381/202506/P020250609564576543061.xlsx",
+              "local": "attachments/430100/2025年长沙市卫生健康高层次专业人才引进岗位表.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -172,7 +245,23 @@
           "positions": null,
           "source": "株洲市人力资源和社会保障局",
           "url": "http://rsj.zhuzhou.gov.cn//c935/20260601/i2502218.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年湖南株洲市市直事业单位公开招聘岗位、计划及要求一览表.xls",
+              "url": "http://img.zhuzhou.gov.cn/zzcms/DFS//file/2026/06/01/20260601215702956aqwpvv.xls",
+              "local": "attachments/430200/2026年湖南株洲市市直事业单位公开招聘岗位、计划及要求一览表.xls"
+            },
+            {
+              "name": "2026年湖南株洲市市直事业单位公开选调岗位、计划及要求一览表.xls",
+              "url": "http://img.zhuzhou.gov.cn/zzcms/DFS//file/2026/06/01/20260601202737423ipsctk.xls",
+              "local": "attachments/430200/2026年湖南株洲市市直事业单位公开选调岗位、计划及要求一览表.xls"
+            },
+            {
+              "name": "2026年湖南省考试录用公务员专业指导目录.xlsx",
+              "url": "http://img.zhuzhou.gov.cn/zzcms/DFS//file/2026/06/01/20260601174446741bknfli.xlsx",
+              "local": "attachments/430200/2026年湖南省考试录用公务员专业指导目录.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -183,7 +272,23 @@
           "positions": null,
           "source": "株洲市人民政府门户网站",
           "url": "http://www.zhuzhou.gov.cn/c15172/20251025/i2438924.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年湖南株洲市事业单位公开招聘高层次人才岗位、计划数及要求一览表.xlsx",
+              "url": "http://img.zhuzhou.gov.cn/zzcms/DFS//file/2025/10/25/20251025170228481rid5kg.xlsx",
+              "local": "attachments/430200/2025年湖南株洲市事业单位公开招聘高层次人才岗位、计划数及要求一览表.xlsx"
+            },
+            {
+              "name": "2025年湖南省事业单位公开招聘人员报名表.docx",
+              "url": "http://img.zhuzhou.gov.cn/zzcms/DFS//file/2025/04/14/20250414141734262d52ahe.docx",
+              "local": "attachments/430200/2025年湖南省事业单位公开招聘人员报名表.docx"
+            },
+            {
+              "name": "2025年湖南省考试录用公务员专业指导目录.xlsx",
+              "url": "http://img.zhuzhou.gov.cn/zzcms/DFS//file/2025/10/25/20251025170252117ydlsgy.xlsx",
+              "local": "attachments/430200/2025年湖南省考试录用公务员专业指导目录.xlsx"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -194,7 +299,13 @@
           "positions": null,
           "source": "株洲组工网",
           "url": "https://www.zznews.gov.cn/c/2026/0612/488459.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年湖南附件：2025年度株洲市考试录用公务员第四批拟录用人员名单.xls",
+              "url": "https://www.zznews.gov.cn/upload/resources/file/2026/06/12/1775546.xls",
+              "local": "attachments/430200/2026年湖南附件：2025年度株洲市考试录用公务员第四批拟录用人员名单.xls"
+            }
+          ]
         }
       ]
     },
@@ -230,7 +341,18 @@
           "positions": null,
           "source": "湘潭市公安局（湘潭市公务员局发布）",
           "url": "http://xtga.xiangtan.gov.cn/15367/15410/15401/content_1389232.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年湖南湘潭市考试录用公务员拟录用人员名单.pdf",
+              "url": "http://xtrs.xiangtan.gov.cn/uploadfiles/202506/2025061716071677611.pdf",
+              "local": "attachments/430300/2025年湖南湘潭市考试录用公务员拟录用人员名单.pdf"
+            },
+            {
+              "name": "2025年湖南湘潭市考试录用公务员拟录用人员名单_2.pdf",
+              "url": "http://xtga.xiangtan.gov.cn/uploadfiles/202508/2025082808291017385.pdf",
+              "local": "attachments/430300/2025年湖南湘潭市考试录用公务员拟录用人员名单_2.pdf"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -241,7 +363,23 @@
           "positions": null,
           "source": "湘潭市人力资源和社会保障局",
           "url": "http://xtrs.xiangtan.gov.cn/25937/content_1387856.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年湖南湘潭市市直事业单位公开招聘工作人员计划与岗位表.xlsx",
+              "url": "http://xtrs.xiangtan.gov.cn/uploadfiles/202508/2025082010122679282.xlsx",
+              "local": "attachments/430300/2025年湖南湘潭市市直事业单位公开招聘工作人员计划与岗位表.xlsx"
+            },
+            {
+              "name": "2025年湖南湘潭市市直事业单位公开选调工作人员计划与岗位表.xlsx",
+              "url": "http://xtrs.xiangtan.gov.cn/uploadfiles/202508/2025082010123458052.xlsx",
+              "local": "attachments/430300/2025年湖南湘潭市市直事业单位公开选调工作人员计划与岗位表.xlsx"
+            },
+            {
+              "name": "2025年湖南省考试录用公务员专业指导目录.xlsx",
+              "url": "http://xtrs.xiangtan.gov.cn/uploadfiles/202508/2025082010124337684.xlsx",
+              "local": "attachments/430300/2025年湖南省考试录用公务员专业指导目录.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -295,7 +433,18 @@
           "positions": null,
           "source": "衡阳智慧党建网",
           "url": "http://www.hyzhdj.gov.cn/gateway/1080869988/45725914.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年湖南.衡阳市考试录用公务员拟录用人员名单.xlsx",
+              "url": "http://www.hyzhdj.gov.cn/group1/M00/02/4D/rB8CAmhP07SAKdXYAAFkdXbt57843.xlsx",
+              "local": "attachments/430400/2025年湖南.衡阳市考试录用公务员拟录用人员名单.xlsx"
+            },
+            {
+              "name": "2025年湖南.衡阳市考试录用公务员补录拟录用人员名单.xlsx",
+              "url": "http://www.hyzhdj.gov.cn/group1/M00/02/4D/rB8CAmhP076AB1qnAAA9ttFiL0k42.xlsx",
+              "local": "attachments/430400/2025年湖南.衡阳市考试录用公务员补录拟录用人员名单.xlsx"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -360,7 +509,13 @@
           "positions": null,
           "source": "邵阳党建网",
           "url": "https://www.sysdj.gov.cn/sysdj/gggs/29544.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年邵阳市考试录用公务员拟录用人员公示（第一批）.xls",
+              "url": "https://www.sysdj.gov.cn/uploads/20250610/73cf0ba01693ad86a25a5c9f8136df40.xls",
+              "local": "attachments/430500/2025年邵阳市考试录用公务员拟录用人员公示（第一批）.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -371,7 +526,33 @@
           "positions": null,
           "source": "邵阳党建网",
           "url": "https://www.sysdj.gov.cn/sysdj/zkgg/29547.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年邵阳市市直事业单位公开招聘人员岗位表.xlsx",
+              "url": "https://www.sysdj.gov.cn/uploads/20250611/0d3664ed0ff4ce27bfba4758e0405547.xlsx",
+              "local": "attachments/430500/2025年邵阳市市直事业单位公开招聘人员岗位表.xlsx"
+            },
+            {
+              "name": "2025年邵阳市事业单位公开招聘人员报名表.docx",
+              "url": "https://www.sysdj.gov.cn/uploads/20250611/833dc078a6f63802d8cc626e759a35a4.docx",
+              "local": "attachments/430500/2025年邵阳市事业单位公开招聘人员报名表.docx"
+            },
+            {
+              "name": "2025年工作经历证明模板.doc",
+              "url": "https://www.sysdj.gov.cn/uploads/20250611/04765773051ac54a9fd3121eaea0095d.doc",
+              "local": "attachments/430500/2025年工作经历证明模板.doc"
+            },
+            {
+              "name": "2025年驻邵部队现役军人随军家属资格确认表.docx",
+              "url": "https://www.sysdj.gov.cn/uploads/20250611/a5eb5d4f2e6e630f5bede8f4667d82d4.docx",
+              "local": "attachments/430500/2025年驻邵部队现役军人随军家属资格确认表.docx"
+            },
+            {
+              "name": "2025年湖南省考试录用公务员专业指导目录.xlsx",
+              "url": "https://www.sysdj.gov.cn/uploads/20250611/bd7b63ff568a353ec16269e1bb2d8852.xlsx",
+              "local": "attachments/430500/2025年湖南省考试录用公务员专业指导目录.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -411,7 +592,18 @@
           "positions": null,
           "source": "岳阳红星网",
           "url": "http://www.yydj.gov.cn/11253/11256/21745/content_2383992.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年湖南岳阳市考试录用公务员拟录用人员名单（第一批公示）.xlsx",
+              "url": "http://www.yydj.gov.cn/uploadfiles/202606/2026061608585536949.xlsx",
+              "local": "attachments/430600/2026年湖南岳阳市考试录用公务员拟录用人员名单（第一批公示）.xlsx"
+            },
+            {
+              "name": "2026年湖南岳阳xlsx.xlsx",
+              "url": "http://www.yydj.gov.cn/uploadfiles/202606/2026061520232018831.xlsx",
+              "local": "attachments/430600/2026年湖南岳阳xlsx.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -427,6 +619,11 @@
               "name": "2025年岳阳市市直事业单位集中公开招聘工作人员岗位表.xlsx",
               "url": "https://rsj.yueyang.gov.cn/uploadfiles/202506/2025061318130913205.xlsx",
               "local": "attachments/430600/2025年岳阳市市直事业单位集中公开招聘工作人员岗位表.xlsx"
+            },
+            {
+              "name": "2025年湖南省考试录用公务员专业指导目录.xlsx",
+              "url": "https://rsj.yueyang.gov.cn/uploadfiles/202506/2025061318140166287.xlsx",
+              "local": "attachments/430600/2025年湖南省考试录用公务员专业指导目录.xlsx"
             }
           ]
         }
@@ -468,7 +665,13 @@
           "positions": null,
           "source": "常德市人民政府门户网站",
           "url": "https://www.changde.gov.cn/zwgk/public/6616759/3109565751.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年常德市考试录用公务员第一批拟录用人员名单（696人）.xlsx",
+              "url": "https://www.changde.gov.cn/group1/M00/04/82/ClADFGhUwCWAX9ZqAAEb-y6Z2oc82.xlsx",
+              "local": "attachments/430700/2025年常德市考试录用公务员第一批拟录用人员名单（696人）.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -484,6 +687,11 @@
               "name": "2025年常德市市直部分事业单位集中公开招聘工作人员岗位条件及计划表.xlsx",
               "url": "https://mohrss.changde.gov.cn/upload/mohrss/application/2025/09/01/%EF%BC%88%E9%99%84%E4%BB%B61%EF%BC%89%E5%B8%B8%E5%BE%B7%E5%B8%822025%E5%B9%B4%E5%B8%82%E7%9B%B4%E9%83%A8%E5%88%86%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E9%9B%86%E4%B8%AD%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%B2%97%E4%BD%8D%E6%9D%A1%E4%BB%B6%E5%8F%8A%E8%AE%A1%E5%88%92%E8%A1%A8.xlsx?t=1756687766543",
               "local": "attachments/430700/2025年常德市市直部分事业单位集中公开招聘工作人员岗位条件及计划表.xlsx"
+            },
+            {
+              "name": "2025年《湖南省考试录用公务员专业指导目录》.xlsx",
+              "url": "https://mohrss.changde.gov.cn/upload/mohrss/application/2025/09/01/%EF%BC%88%E9%99%84%E4%BB%B62%EF%BC%89%E3%80%8A%E6%B9%96%E5%8D%97%E7%9C%812025%E5%B9%B4%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E4%B8%93%E4%B8%9A%E6%8C%87%E5%AF%BC%E7%9B%AE%E5%BD%95%E3%80%8B.xlsx?t=1756687802313",
+              "local": "attachments/430700/2025年《湖南省考试录用公务员专业指导目录》.xlsx"
             }
           ]
         },
@@ -496,7 +704,13 @@
           "positions": null,
           "source": "常德市人力资源和社会保障局",
           "url": "https://mohrss.changde.gov.cn/slzq/gggs1__zhdt/gggs/content_78177207",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年湖南附件：常德市市直部分事业单位集中公开招聘拟聘用人员名单（19人）.xlsx",
+              "url": "https://mohrss.changde.gov.cn/upload/mohrss/application/2025/10/22/%E9%99%84%E4%BB%B6%EF%BC%9A%E5%B8%B8%E5%BE%B7%E5%B8%822025%E5%B9%B4%E5%B8%82%E7%9B%B4%E9%83%A8%E5%88%86%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E9%9B%86%E4%B8%AD%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E6%8B%9F%E8%81%98%E7%94%A8%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%8819%E4%BA%BA%EF%BC%89.xlsx?t=1761099530321",
+              "local": "attachments/430700/2025年湖南附件：常德市市直部分事业单位集中公开招聘拟聘用人员名单（19人）.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -542,7 +756,28 @@
           "positions": null,
           "source": "张家界红星网",
           "url": "http://redstar.zjj.gov.cn/c1348/20250710/i1087734.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年湖南1-1：张家界市市直事业单位公开引进人才职位计划表（高层次人才岗位）.docx",
+              "url": "https://redstar.zjj.gov.cn/DFS/file/2025/07/10/20250710183704381d8bwf8.docx",
+              "local": "attachments/430800/2025年湖南1-1：张家界市市直事业单位公开引进人才职位计划表（高层次人才岗位）.docx"
+            },
+            {
+              "name": "2025年湖南1-2：张家界市市直事业单位公开引进人才职位计划表（硕士研究生岗位）.docx",
+              "url": "https://redstar.zjj.gov.cn/DFS/file/2025/07/10/20250710183704206z7mqm2.docx",
+              "local": "attachments/430800/2025年湖南1-2：张家界市市直事业单位公开引进人才职位计划表（硕士研究生岗位）.docx"
+            },
+            {
+              "name": "2025年湖南1-3：张家界市公开引进急需紧缺人才报名表.docx",
+              "url": "https://redstar.zjj.gov.cn/DFS/file/2025/07/10/20250710183703991pr915i.docx",
+              "local": "attachments/430800/2025年湖南1-3：张家界市公开引进急需紧缺人才报名表.docx"
+            },
+            {
+              "name": "2025年1-4：湖南省考试录用公务员专业指导目录.xlsx",
+              "url": "https://redstar.zjj.gov.cn/DFS/file/2025/07/10/20250710175722048ssx7v6.xlsx",
+              "local": "attachments/430800/2025年1-4：湖南省考试录用公务员专业指导目录.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -590,7 +825,13 @@
           "positions": null,
           "source": "益阳党建网",
           "url": "http://www.yyzzgz.gov.cn/7120/12554/content_2103126.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年益阳市考试录用公务员第四批拟录用人员名单.xlsx",
+              "url": "http://www.yyzzgz.gov.cn/uploadfiles/202510/2025101709443866191.xlsx",
+              "local": "attachments/430900/2025年益阳市考试录用公务员第四批拟录用人员名单.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -606,6 +847,16 @@
               "name": "2025年益阳市市直事业单位公开招聘工作人员岗位计划及要求一览表.xls",
               "url": "https://www.yiyang.gov.cn/rsj/uploadfiles/202507/2025070714571168809.xls",
               "local": "attachments/430900/2025年益阳市市直事业单位公开招聘工作人员岗位计划及要求一览表.xls"
+            },
+            {
+              "name": "2025年湖南省考试录用公务员专业指导目录.xlsx",
+              "url": "https://www.yiyang.gov.cn/rsj/uploadfiles/202507/2025070714572376275.xlsx",
+              "local": "attachments/430900/2025年湖南省考试录用公务员专业指导目录.xlsx"
+            },
+            {
+              "name": "2025年湖南益阳工作经历证明.doc",
+              "url": "https://www.yiyang.gov.cn/rsj/uploadfiles/202507/2025070714573474651.doc",
+              "local": "attachments/430900/2025年湖南益阳工作经历证明.doc"
             }
           ]
         },
@@ -660,7 +911,13 @@
           "positions": null,
           "source": "郴州党建网",
           "url": "http://www.czdjw.org.cn/content/2025/06/16/14761174.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年湖南附件.郴州市考试录用公务员拟录用人员名单.xls",
+              "url": "https://img.hxw.gov.cn/2025/06-16/6e2df4e1-aa7b-4843-9ec4-2911e6bd6c20.%E9%83%B4%E5%B7%9E%E5%B8%822025%E5%B9%B4%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E6%8B%9F%E5%BD%95%E7%94%A8%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95.xls",
+              "local": "attachments/431000/2025年湖南附件.郴州市考试录用公务员拟录用人员名单.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -671,7 +928,33 @@
           "positions": null,
           "source": "郴州市人力资源和社会保障局",
           "url": "http://czrsj.czs.gov.cn/18281/18295/content_3913700.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年湖南郴州市市直事业单位公开招聘工作人员计划岗位信息表.xls",
+              "url": "http://czrsj.czs.gov.cn/uploadfiles/202507/2025071717215567978.xls",
+              "local": "attachments/431000/2025年湖南郴州市市直事业单位公开招聘工作人员计划岗位信息表.xls"
+            },
+            {
+              "name": "2025年湖南郴州市市直事业单位公开招聘工作人员报名表.docx",
+              "url": "http://czrsj.czs.gov.cn/uploadfiles/202507/2025071717220595980.docx",
+              "local": "attachments/431000/2025年湖南郴州市市直事业单位公开招聘工作人员报名表.docx"
+            },
+            {
+              "name": "2025年湖南郴州同意报考证明.docx",
+              "url": "http://czrsj.czs.gov.cn/uploadfiles/202507/2025071717221217820.docx",
+              "local": "attachments/431000/2025年湖南郴州同意报考证明.docx"
+            },
+            {
+              "name": "2025年湖南省考试录用公务员专业指导目录.xlsx",
+              "url": "http://czrsj.czs.gov.cn/uploadfiles/202507/2025071717222087728.xlsx",
+              "local": "attachments/431000/2025年湖南省考试录用公务员专业指导目录.xlsx"
+            },
+            {
+              "name": "2025年湖南郴州人事考试个人端操作手册.pdf",
+              "url": "http://czrsj.czs.gov.cn/uploadfiles/202507/2025071717223772955.pdf",
+              "local": "attachments/431000/2025年湖南郴州人事考试个人端操作手册.pdf"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -682,7 +965,23 @@
           "positions": null,
           "source": "郴州党建网",
           "url": "http://www.czdjw.org.cn/content/2025/03/31/14721836.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年湖南郴州市属事业单位公开招聘引进高层次和急需紧缺人才计划岗位信息表.xlsx",
+              "url": "https://img.hxw.gov.cn/2025/04-09/c3397800-0889-4596-bf24-ef29acf5280a.xlsx",
+              "local": "attachments/431000/2025年湖南郴州市属事业单位公开招聘引进高层次和急需紧缺人才计划岗位信息表.xlsx"
+            },
+            {
+              "name": "2025年湖南郴州市属事业单位公开招聘引进高层次和急需紧缺人才报名登记表.docx",
+              "url": "https://img.hxw.gov.cn/2025/03-31/8a60a4f0-636c-467b-bc27-9532682c9f9b.docx",
+              "local": "attachments/431000/2025年湖南郴州市属事业单位公开招聘引进高层次和急需紧缺人才报名登记表.docx"
+            },
+            {
+              "name": "2025年湖南郴州学籍情况证明.docx",
+              "url": "https://img.hxw.gov.cn/2025/03-31/72710659-7637-492a-bcb3-b46dd86e20a1.%E5%AD%A6%E7%B1%8D%E6%83%85%E5%86%B5%E8%AF%81%E6%98%8E.docx",
+              "local": "attachments/431000/2025年湖南郴州学籍情况证明.docx"
+            }
+          ]
         }
       ]
     },
@@ -740,6 +1039,11 @@
               "name": "2026年永州市市直企事业单位急需紧缺专业人才需求目录.xlsx",
               "url": "https://www.yzcity.gov.cn/cnyz/gsgg/202601/abb9e9a2869244559838d29251e90af5/files/3ce213c42d1841d8991ddffcb8d63e90.xlsx",
               "local": "attachments/431100/2026年永州市市直企事业单位急需紧缺专业人才需求目录.xlsx"
+            },
+            {
+              "name": "2026年湖南永州市市直企事业单位引进急需紧缺专业人才报名登记表.docx",
+              "url": "https://www.yzcity.gov.cn/cnyz/gsgg/202601/abb9e9a2869244559838d29251e90af5/files/1953cb2a4d39415b98455b6005f40960.docx",
+              "local": "attachments/431100/2026年湖南永州市市直企事业单位引进急需紧缺专业人才报名登记表.docx"
             }
           ]
         },
@@ -752,7 +1056,33 @@
           "positions": null,
           "source": "永州市零陵区人民政府",
           "url": "http://www.cnll.gov.cn/llqrsj/sydwzlu/202509/80aaf18981c54ac0ade6d7854016ed48.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年湖南永州市零陵区事业单位公开招聘工作人员职位表.xls",
+              "url": "http://www.cnll.gov.cn/llqrsj/sydwzlu/202509/80aaf18981c54ac0ade6d7854016ed48/files/fe37c5e1d3784a46a474d1ce3229cbcc.xls",
+              "local": "attachments/431100/2025年湖南永州市零陵区事业单位公开招聘工作人员职位表.xls"
+            },
+            {
+              "name": "2025年湖南永州市零陵区事业单位公开招聘人员报名表.docx",
+              "url": "http://www.cnll.gov.cn/llqrsj/sydwzlu/202509/80aaf18981c54ac0ade6d7854016ed48/files/e432194d57a748da8730555ae950d691.docx",
+              "local": "attachments/431100/2025年湖南永州市零陵区事业单位公开招聘人员报名表.docx"
+            },
+            {
+              "name": "2025年湖南省考试录用公务员专业指导目录.xlsx",
+              "url": "http://www.cnll.gov.cn/llqrsj/sydwzlu/202509/80aaf18981c54ac0ade6d7854016ed48/files/7506c568ee544f60a855dbc79221e46c.xlsx",
+              "local": "attachments/431100/2025年湖南省考试录用公务员专业指导目录.xlsx"
+            },
+            {
+              "name": "2025年湖南永州同意报考证明.docx",
+              "url": "http://www.cnll.gov.cn/llqrsj/sydwzlu/202509/80aaf18981c54ac0ade6d7854016ed48/files/5cf07dac47a042ecacb31ee846a60533.docx",
+              "local": "attachments/431100/2025年湖南永州同意报考证明.docx"
+            },
+            {
+              "name": "2025年湖南永州笔试成绩复查申请表.xlsx",
+              "url": "http://www.cnll.gov.cn/llqrsj/sydwzlu/202509/80aaf18981c54ac0ade6d7854016ed48/files/58d7df461fc7454bb4926dfddfd9ccf0.xlsx",
+              "local": "attachments/431100/2025年湖南永州笔试成绩复查申请表.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -864,7 +1194,38 @@
           "positions": null,
           "source": "娄底市人力资源和社会保障局",
           "url": "https://rsj.hnloudi.gov.cn/ldbzj/07/202606/bc62c455dd6a40e3ac23df591614f26d.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年湖南娄底市市直事业单位集中公开招聘工作人员岗位表.docx",
+              "url": "https://rsj.hnloudi.gov.cn/ldbzj/07/202606/bc62c455dd6a40e3ac23df591614f26d/files/6b194b7f8525435c836f01b1f92a39cc.docx",
+              "local": "attachments/431300/2026年湖南娄底市市直事业单位集中公开招聘工作人员岗位表.docx"
+            },
+            {
+              "name": "2026年湖南娄底市市直事业单位集中公开选调工作人员岗位表.xlsx",
+              "url": "https://rsj.hnloudi.gov.cn/ldbzj/07/202606/bc62c455dd6a40e3ac23df591614f26d/files/6fd4cab28b594670aa6be24e538bfbe7.xlsx",
+              "local": "attachments/431300/2026年湖南娄底市市直事业单位集中公开选调工作人员岗位表.xlsx"
+            },
+            {
+              "name": "2026年湖南省考试录用公务员专业指导目录.xlsx",
+              "url": "https://rsj.hnloudi.gov.cn/ldbzj/07/202606/bc62c455dd6a40e3ac23df591614f26d/files/f4901c0db7574cbc9b1a34f0c8b4c238.xlsx",
+              "local": "attachments/431300/2026年湖南省考试录用公务员专业指导目录.xlsx"
+            },
+            {
+              "name": "2026年湖南娄底同意报考证明.doc",
+              "url": "https://rsj.hnloudi.gov.cn/ldbzj/07/202606/bc62c455dd6a40e3ac23df591614f26d/files/474e8461bbfc45f9bbd06cbc7e7c5738.doc",
+              "local": "attachments/431300/2026年湖南娄底同意报考证明.doc"
+            },
+            {
+              "name": "2026年湖南娄底《事业单位公开招聘分类考试公共科目笔试考试大纲》（版）.pdf",
+              "url": "https://rsj.hnloudi.gov.cn/ldbzj/07/202606/bc62c455dd6a40e3ac23df591614f26d/files/d90b57048c0141898efd25a6917b8564.pdf",
+              "local": "attachments/431300/2026年湖南娄底《事业单位公开招聘分类考试公共科目笔试考试大纲》（版）.pdf"
+            },
+            {
+              "name": "2026年湖南娄底诚信考试承诺书.docx",
+              "url": "https://rsj.hnloudi.gov.cn/ldbzj/07/202606/bc62c455dd6a40e3ac23df591614f26d/files/dc3c4491acba47ada75dff4e39a9029b.docx",
+              "local": "attachments/431300/2026年湖南娄底诚信考试承诺书.docx"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -875,7 +1236,43 @@
           "positions": null,
           "source": "娄底市人力资源和社会保障局",
           "url": "https://rsj.hnloudi.gov.cn/ldbzj/07/202604/269c532de45249d0a86eb497a09c460a.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年湖南娄底市教育局直属事业单位高层次和急需紧缺人才招聘需求目录表（人才招聘）.doc",
+              "url": "https://rsj.hnloudi.gov.cn/ldbzj/07/202604/269c532de45249d0a86eb497a09c460a/files/cf87c841661c4ea09b6d257f4bc40d79.doc",
+              "local": "attachments/431300/2026年湖南娄底市教育局直属事业单位高层次和急需紧缺人才招聘需求目录表（人才招聘）.doc"
+            },
+            {
+              "name": "2026年湖南娄底市教育局直属事业单位高层次和急需紧缺人才招聘报名登记表（人才招聘）.doc",
+              "url": "https://rsj.hnloudi.gov.cn/ldbzj/07/202604/269c532de45249d0a86eb497a09c460a/files/abd78a1f4d314177ab2f48b37f153a00.doc",
+              "local": "attachments/431300/2026年湖南娄底市教育局直属事业单位高层次和急需紧缺人才招聘报名登记表（人才招聘）.doc"
+            },
+            {
+              "name": "2026年湖南娄底诚信考试承诺书（人才招聘）.doc",
+              "url": "https://rsj.hnloudi.gov.cn/ldbzj/07/202604/269c532de45249d0a86eb497a09c460a/files/efe03e18a06f41d9a69231bd1e638a49.doc",
+              "local": "attachments/431300/2026年湖南娄底诚信考试承诺书（人才招聘）.doc"
+            },
+            {
+              "name": "2026年湖南娄底同意报考证明（人才招聘）.doc",
+              "url": "https://rsj.hnloudi.gov.cn/ldbzj/07/202604/269c532de45249d0a86eb497a09c460a/files/9064ea300e774339accbea05d865cddd.doc",
+              "local": "attachments/431300/2026年湖南娄底同意报考证明（人才招聘）.doc"
+            },
+            {
+              "name": "2026年湖南娄底工作经历证明（人才招聘）.doc",
+              "url": "https://rsj.hnloudi.gov.cn/ldbzj/07/202604/269c532de45249d0a86eb497a09c460a/files/919e4b84204d4679b8a0a09dd8a8c48c.doc",
+              "local": "attachments/431300/2026年湖南娄底工作经历证明（人才招聘）.doc"
+            },
+            {
+              "name": "2026年湖南娄底党员身份证明（人才招聘）.doc",
+              "url": "https://rsj.hnloudi.gov.cn/ldbzj/07/202604/269c532de45249d0a86eb497a09c460a/files/5706372540f14499afaf708e77f1d578.doc",
+              "local": "attachments/431300/2026年湖南娄底党员身份证明（人才招聘）.doc"
+            },
+            {
+              "name": "2026年湖南娄底公务员招考专业目录（人才招聘）.xlsx",
+              "url": "https://rsj.hnloudi.gov.cn/ldbzj/07/202604/269c532de45249d0a86eb497a09c460a/files/3c6cb501831a4202a49151dc45e1d1bd.xlsx",
+              "local": "attachments/431300/2026年湖南娄底公务员招考专业目录（人才招聘）.xlsx"
+            }
+          ]
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "adcode": 510000,
   "name": "四川省",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-03",
   "provincePortals": [
     {
       "category": "公务员",
@@ -169,7 +169,18 @@
           "positions": null,
           "source": "自贡人事考试网",
           "url": "http://www.zgrsks.com.cn/newsDetail/15849.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年四川自贡附件下载.xlsx",
+              "url": "https://static.e21cn.com/tools/file.ashx?id=178619bb0651fa35179331748e730796.xlsx",
+              "local": "attachments/510300/2025年四川自贡附件下载.xlsx"
+            },
+            {
+              "name": "2025年四川自贡附件下载.docx",
+              "url": "https://static.e21cn.com/tools/file.ashx?id=ba7a60cb7a27c2d5b0d0aea47ba9b214.docx",
+              "local": "attachments/510300/2025年四川自贡附件下载.docx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -205,7 +216,13 @@
           "positions": null,
           "source": "自贡人事考试网",
           "url": "http://www.zgrsks.com.cn/newsDetail/16398.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年四川自贡附件下载.xlsx",
+              "url": "https://static.e21cn.com/tools/file.ashx?id=8dc61a41d915d095e7923d179416f66f.xlsx",
+              "local": "attachments/510300/2026年四川自贡附件下载.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -396,7 +413,18 @@
           "positions": null,
           "source": "德阳人事考试网",
           "url": "https://www.dykszx.cn/index.php?id=2761",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年德阳市人力资源和社会保障局关于下半年德阳市事业单位公开考试招聘工作人员的公告（点击查看）.pdf",
+              "url": "https://www.dykszx.cn/upload/file/202509/bc6acce96755afd92c2256e5e50750f4.pdf",
+              "local": "attachments/510600/2025年德阳市人力资源和社会保障局关于下半年德阳市事业单位公开考试招聘工作人员的公告（点击查看）.pdf"
+            },
+            {
+              "name": "2025年附件3.docx",
+              "url": "https://www.dykszx.cn/upload/file/202509/43a1bbca8cd0177747f6fdceac818e7b.docx",
+              "local": "attachments/510600/2025年附件3.docx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -408,7 +436,13 @@
           "positions": null,
           "source": "德阳人事考试网",
           "url": "https://www.dykszx.cn/index.php?id=2744",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年关于德阳市公开考试录用公务员（参照管理工作人员）补充录用拟录用人员的公示（点击查看）.pdf",
+              "url": "https://www.dykszx.cn/upload/file/202509/5a929a5bc8356a787d84d49e8d9cc98d.pdf",
+              "local": "attachments/510600/2025年关于德阳市公开考试录用公务员（参照管理工作人员）补充录用拟录用人员的公示（点击查看）.pdf"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -420,7 +454,23 @@
           "positions": null,
           "source": "德阳人事考试网",
           "url": "https://www.dykszx.cn/index.php?id=2793",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年中共德阳市委组织部德阳市人力资源和社会保障局关于四川省德阳市“心有所蜀来德正好”校园招聘活动事业单位招聘工作人员的公告（点击查看）.pdf",
+              "url": "https://www.dykszx.cn/upload/file/202510/c6f517605bb9df22ab04226fd3ee3aee.pdf",
+              "local": "attachments/510600/2025年中共德阳市委组织部德阳市人力资源和社会保障局关于四川省德阳市“心有所蜀来德正好”校园招聘活动事业单位招聘工作人员的公告（点击查看）.pdf"
+            },
+            {
+              "name": "2025年1四川省德阳市“心有所蜀来德正好”校园招聘活动事业单位招聘岗位表（西安交通大学专场）.pdf",
+              "url": "https://www.dykszx.cn/upload/file/202510/d6383444e7f66ce823ca7a9d441dddf7.pdf",
+              "local": "attachments/510600/2025年1四川省德阳市“心有所蜀来德正好”校园招聘活动事业单位招聘岗位表（西安交通大学专场）.pdf"
+            },
+            {
+              "name": "2025年2四川省德阳市“心有所蜀来德正好”校园招聘活动事业单位招聘报名信息表.doc",
+              "url": "https://www.dykszx.cn/upload/file/202510/a235bfe35fa1fdc3b7bf36844baa3efa.doc",
+              "local": "attachments/510600/2025年2四川省德阳市“心有所蜀来德正好”校园招聘活动事业单位招聘报名信息表.doc"
+            }
+          ]
         }
       ]
     },
@@ -461,7 +511,28 @@
           "positions": null,
           "source": "绵阳人事考试网",
           "url": "http://www.myrsks.com.cn/newsDetail/12676.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年《绵阳市事业单位招聘工作人员岗位条件一览表（综合类）》.xlsx",
+              "url": "http://static.e21cn.com/tools/file.ashx?id=f56ed2f696006b7a6786c3fd8f85d860.xlsx",
+              "local": "attachments/510700/2025年《绵阳市事业单位招聘工作人员岗位条件一览表（综合类）》.xlsx"
+            },
+            {
+              "name": "2025年《绵阳市事业单位招聘工作人员岗位条件一览表（卫生类）》.xlsx",
+              "url": "http://static.e21cn.com/tools/file.ashx?id=c9746c7344b0e13730d44857e99396de.xlsx",
+              "local": "attachments/510700/2025年《绵阳市事业单位招聘工作人员岗位条件一览表（卫生类）》.xlsx"
+            },
+            {
+              "name": "2025年.报考须知.doc",
+              "url": "http://static.e21cn.com/tools/file.ashx?id=ea16111d08ea6f7761d545ca26b74cbb.doc",
+              "local": "attachments/510700/2025年.报考须知.doc"
+            },
+            {
+              "name": "2025年.基层服务项目人员加分证明.doc",
+              "url": "http://static.e21cn.com/tools/file.ashx?id=87a646fc435cb2c44f3b2c366a7f5d63.doc",
+              "local": "attachments/510700/2025年.基层服务项目人员加分证明.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -473,7 +544,23 @@
           "positions": null,
           "source": "绵阳人事考试网",
           "url": "http://www.myrsks.com.cn/newsDetail/12141.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年绵阳市事业单位公开选调工作人员岗位和条件一览表.xlsx",
+              "url": "http://static.e21cn.com/tools/file.ashx?id=4ce9b9d24f558bc143e0c5ee4972478a.xlsx",
+              "local": "attachments/510700/2025年绵阳市事业单位公开选调工作人员岗位和条件一览表.xlsx"
+            },
+            {
+              "name": "2025年绵阳市事业单位公开选调工作人员报名信息样表及填报说明.docx",
+              "url": "http://static.e21cn.com/tools/file.ashx?id=1ec661f54bcf01e8af0869d6c8aa1ce8.docx",
+              "local": "attachments/510700/2025年绵阳市事业单位公开选调工作人员报名信息样表及填报说明.docx"
+            },
+            {
+              "name": "2025年报考须知.docx",
+              "url": "http://static.e21cn.com/tools/file.ashx?id=1723224d0c7f1eac8d67e469b3634f5f.docx",
+              "local": "attachments/510700/2025年报考须知.docx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -553,7 +640,33 @@
           "positions": null,
           "source": "广元市人力资源和社会保障局",
           "url": "https://srsj.cngy.gov.cn/New/Detail/3fe154ea89c44835b903fafd44226e4c.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年四川下半年广元市事业单位公开考试招聘单位基本情况表.doc",
+              "url": "https://srsj.cngy.gov.cn/Files/UploadFile/SiteFile/20160720104022026/2025/09/26/6b34abb9dd584c298cdafc974cbbc3b5.doc",
+              "local": "attachments/510800/2025年四川下半年广元市事业单位公开考试招聘单位基本情况表.doc"
+            },
+            {
+              "name": "2025年四川下半年广元市事业单位公开考试招聘工作人员岗位和条件要求一览表.xlsx",
+              "url": "https://srsj.cngy.gov.cn/Files/UploadFile/SiteFile/20160720104022026/2025/09/26/368907cb2b31407882697db8e1783b55.xlsx",
+              "local": "attachments/510800/2025年四川下半年广元市事业单位公开考试招聘工作人员岗位和条件要求一览表.xlsx"
+            },
+            {
+              "name": "2025年四川下半年广元市公开考试招聘中小学教师岗位和条件要求一览表.xlsx",
+              "url": "https://srsj.cngy.gov.cn/Files/UploadFile/SiteFile/20160720104022026/2025/09/26/ec5bba66d51046719c01ae623b8f47a8.xlsx",
+              "local": "attachments/510800/2025年四川下半年广元市公开考试招聘中小学教师岗位和条件要求一览表.xlsx"
+            },
+            {
+              "name": "2025年四川广元报考须知.doc",
+              "url": "https://srsj.cngy.gov.cn/Files/UploadFile/SiteFile/20160720104022026/2025/09/26/5216b9cd32e84967ad49aa10e9114061.doc",
+              "local": "attachments/510800/2025年四川广元报考须知.doc"
+            },
+            {
+              "name": "2025年四川广元政策性加分申请表.doc",
+              "url": "https://srsj.cngy.gov.cn/Files/UploadFile/SiteFile/20160720104022026/2025/09/26/8d84701349ce4cd4a20db8b5ddece9ab.doc",
+              "local": "attachments/510800/2025年四川广元政策性加分申请表.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -626,7 +739,18 @@
           "positions": null,
           "source": "遂宁市人力资源和社会保障局",
           "url": "https://rsj.suining.gov.cn/xinwen/show/778d97b2aee6b6a3cd10d907477e4459.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2024年1：四川省遂宁市“遂州英才”考核招聘事业单位高层次和急需紧缺人才岗位及条件要求一览表.xls",
+              "url": "https://rsj.suining.gov.cn/UploadFiles/2024/12/19/9d790d40-dde7-406b-a409-9e56b28c6ccb.xls",
+              "local": "attachments/510900/2024年1：四川省遂宁市“遂州英才”考核招聘事业单位高层次和急需紧缺人才岗位及条件要求一览表.xls"
+            },
+            {
+              "name": "2024年2：申请减免报名费用须知.doc",
+              "url": "https://rsj.suining.gov.cn/UploadFiles/2024/12/19/c4aa7de5-9d0d-4ea1-b9b3-557a64fe9822.doc",
+              "local": "attachments/510900/2024年2：申请减免报名费用须知.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -687,7 +811,28 @@
           "positions": null,
           "source": "内江人事考试网",
           "url": "http://www.njpta.org.cn/newsDetail/14706.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年四川内江附件下载.xlsx",
+              "url": "https://www.njpta.org.cn/tools/file.ashx?id=057827c1e81929e47360cb62f2f6a4a3.xlsx",
+              "local": "attachments/511000/2025年四川内江附件下载.xlsx"
+            },
+            {
+              "name": "2025年四川内江附件下载.xls",
+              "url": "https://www.njpta.org.cn/tools/file.ashx?id=e21d80bba0053f5ac8ed4fde7890a6fa.xls",
+              "local": "attachments/511000/2025年四川内江附件下载.xls"
+            },
+            {
+              "name": "2025年四川内江附件下载_2.xlsx",
+              "url": "https://www.njpta.org.cn/tools/file.ashx?id=3858072f9720d5c580449ddf02948d8b.xlsx",
+              "local": "attachments/511000/2025年四川内江附件下载_2.xlsx"
+            },
+            {
+              "name": "2025年四川内江附件下载_3.xlsx",
+              "url": "https://www.njpta.org.cn/tools/file.ashx?id=8abaa1baf64454058870949300b88cdd.xlsx",
+              "local": "attachments/511000/2025年四川内江附件下载_3.xlsx"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -699,7 +844,13 @@
           "positions": null,
           "source": "内江人事考试网",
           "url": "http://www.njpta.org.cn/newsDetail/15183.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年四川内江附件下载.xlsx",
+              "url": "https://www.njpta.org.cn/tools/file.ashx?id=cae9095e9d36e63795141d6d3bdef006.xlsx",
+              "local": "attachments/511000/2026年四川内江附件下载.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -754,7 +905,13 @@
           "positions": null,
           "source": "乐山人事考试网",
           "url": "http://www.lspta.com.cn/newsDetail/7058.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年附件下载.xlsx",
+              "url": "http://static.e21cn.com/tools/file.ashx?id=79ca5bf7041bbda825f6259d5b00010d.xlsx",
+              "local": "attachments/511100/2026年附件下载.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -766,7 +923,13 @@
           "positions": null,
           "source": "乐山人事考试网",
           "url": "http://www.lspta.com.cn/newsDetail/6763.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年附件下载.xlsx",
+              "url": "http://static.e21cn.com/tools/file.ashx?id=856c2858fe7ca74f757fd44570b24001.xlsx",
+              "local": "attachments/511100/2025年附件下载.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -807,7 +970,28 @@
           "positions": null,
           "source": "南充人事考试中心",
           "url": "http://ncpta.e21cn.com/newsDetail/10171.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年附件下载.xlsx",
+              "url": "http://static.e21cn.com/tools/file.ashx?id=c7cfc96b282a6e8f28917185f4b5bf1d.xlsx",
+              "local": "attachments/511300/2025年附件下载.xlsx"
+            },
+            {
+              "name": "2025年附件下载_2.xlsx",
+              "url": "http://static.e21cn.com/tools/file.ashx?id=b9a7877d861892430d6899d685209de0.xlsx",
+              "local": "attachments/511300/2025年附件下载_2.xlsx"
+            },
+            {
+              "name": "2025年附件下载_3.xlsx",
+              "url": "http://static.e21cn.com/tools/file.ashx?id=5454315736c9b9e8367498ba6248fe87.xlsx",
+              "local": "attachments/511300/2025年附件下载_3.xlsx"
+            },
+            {
+              "name": "2025年附件下载_4.doc",
+              "url": "http://static.e21cn.com/tools/file.ashx?id=987ca34ad899e5a0678f3fa0a1bdb47a.doc",
+              "local": "attachments/511300/2025年附件下载_4.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -1007,7 +1191,18 @@
           "positions": null,
           "source": "广安市人民政府",
           "url": "https://www.guang-an.gov.cn/zfxxgk/c112411/pc/content/content_1897838482750517248.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年四川广安市上半年公开考试招聘事业单位工作人员岗位和条件要求一览表.xlsx",
+              "url": "https://www.guang-an.gov.cn/zfxxgk/c112411/1897838482750517248/FnjdnRW2.xlsx",
+              "local": "attachments/511600/2025年四川广安市上半年公开考试招聘事业单位工作人员岗位和条件要求一览表.xlsx"
+            },
+            {
+              "name": "2025年四川广安报考须知.doc",
+              "url": "https://www.guang-an.gov.cn/zfxxgk/c112411/1897838482750517248/oZRQ6miz.doc",
+              "local": "attachments/511600/2025年四川广安报考须知.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -1070,7 +1265,23 @@
           "positions": null,
           "source": "达州人事考试网",
           "url": "https://www.dzrsks.com.cn/newsDetail/8964.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年附件下载.xls",
+              "url": "http://www.dzrsks.com.cn/tools/file.ashx?id=7f072e25c48b2fd9af10addd24d35c84.xls",
+              "local": "attachments/511700/2025年附件下载.xls"
+            },
+            {
+              "name": "2025年附件下载_2.docx",
+              "url": "http://www.dzrsks.com.cn/tools/file.ashx?id=d32b917f427161faa3567b7ead6c0047.docx",
+              "local": "attachments/511700/2025年附件下载_2.docx"
+            },
+            {
+              "name": "2025年附件下载_3.docx",
+              "url": "http://www.dzrsks.com.cn/tools/file.ashx?id=da3cf04a107fa7088cc21480ef240054.docx",
+              "local": "attachments/511700/2025年附件下载_3.docx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -1151,7 +1362,23 @@
           "positions": null,
           "source": "雅安人事考试网",
           "url": "https://www.yarsks.com.cn/newsDetail/12146.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年附件下载.xls",
+              "url": "https://www.yarsks.com.cn/tools/file.ashx?id=ca3cda6428e8d5c108b7487ef6094813.xls",
+              "local": "attachments/511800/2025年附件下载.xls"
+            },
+            {
+              "name": "2025年附件下载.报考须知.doc",
+              "url": "https://www.yarsks.com.cn/tools/file.ashx?id=1c35452548bf957700227982e05324dc.doc",
+              "local": "attachments/511800/2025年附件下载.报考须知.doc"
+            },
+            {
+              "name": "2025年附件下载.基层服务项目人员加分证明.doc",
+              "url": "https://www.yarsks.com.cn/tools/file.ashx?id=f890713b4553ca0c6da79eb555f519ed.doc",
+              "local": "attachments/511800/2025年附件下载.基层服务项目人员加分证明.doc"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -1175,7 +1402,13 @@
           "positions": null,
           "source": "雅安人事考试网",
           "url": "https://www.yarsks.com.cn/newsDetail/12515.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年附件下载附件：雅安市公开考试录用公务员拟录用名单（二）.xls",
+              "url": "https://www.yarsks.com.cn/tools/file.ashx?id=37125690f8de976e7ac06529f245d347.xls",
+              "local": "attachments/511800/2026年附件下载附件：雅安市公开考试录用公务员拟录用名单（二）.xls"
+            }
+          ]
         }
       ]
     },
@@ -1340,7 +1573,18 @@
           "positions": null,
           "source": "阿坝州人民政府",
           "url": "https://abazhou.gov.cn/abazhou/c101965/202509/f452511482574ffeb266a117f673b7e4.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年阿坝州上半年公开考试招聘事业单位工作人员（第二批）拟聘用人员名单.xls",
+              "url": "https://abazhou.gov.cn/abazhou/c101965/202509/f452511482574ffeb266a117f673b7e4/files/e311737217aa4c268e9a9b61a0bfd388.xls",
+              "local": "attachments/513200/2025年阿坝州上半年公开考试招聘事业单位工作人员（第二批）拟聘用人员名单.xls"
+            },
+            {
+              "name": "2025年36ca54cf59d5497eac21ee1e54ac750a.xls",
+              "url": "https://abazhou.gov.cn/abazhou/c101965/202509/f452511482574ffeb266a117f673b7e4/files/36ca54cf59d5497eac21ee1e54ac750a.xls",
+              "local": "attachments/513200/2025年36ca54cf59d5497eac21ee1e54ac750a.xls"
+            }
+          ]
         }
       ]
     },
@@ -1480,7 +1724,13 @@
           "positions": null,
           "source": "凉山州人力资源和社会保障局",
           "url": "https://rsj.lsz.gov.cn/lszrsks/rsksxwzx/202511/t20251112_2905650.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年四川凉山彝族自治州凉山州2026年度公开考试录用公务员（参照管理工作人员）职位调整情况表.xlsx",
+              "url": "https://rsj.lsz.gov.cn/lszrsks/rsksxwzx/202511/P020251112391451790789.xlsx",
+              "local": "attachments/513400/2025年四川凉山彝族自治州凉山州2026年度公开考试录用公务员（参照管理工作人员）职位调整情况表.xlsx"
+            }
+          ]
         }
       ]
     }

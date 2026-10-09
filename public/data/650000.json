@@ -1,7 +1,7 @@
 {
   "adcode": 650000,
   "name": "新疆维吾尔自治区",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-03",
   "note": "骨架数据：省级官方入口与代表性公告已人工核验；市级明细持续采集中",
   "provincePortals": [
     {
@@ -52,7 +52,33 @@
           "positions": null,
           "source": "新疆维吾尔自治区人力资源和社会保障厅",
           "url": "https://rst.xinjiang.gov.cn/xjrst/c112487/202602/4e88e7fdf39f4faca7451ca207215388.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年新疆维吾尔自治区面向社会公开考试录用公务员职位表.xls",
+              "url": "https://rst.xinjiang.gov.cn/xjrst/c112487/202602/4e88e7fdf39f4faca7451ca207215388/files/%E9%99%84%E4%BB%B61%EF%BC%9A%E6%96%B0%E7%96%86%E7%BB%B4%E5%90%BE%E5%B0%94%E8%87%AA%E6%B2%BB%E5%8C%BA2026%E5%B9%B4%E5%BA%A6%E9%9D%A2%E5%90%91%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%BC%80%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E8%81%8C%E4%BD%8D%E8%A1%A8(1).xlsx",
+              "local": "attachments/650100/2026年新疆维吾尔自治区面向社会公开考试录用公务员职位表.xls"
+            },
+            {
+              "name": "2026年国家教育行政部门最新版高等教育学科专业目录网址链接.docx",
+              "url": "https://rst.xinjiang.gov.cn/xjrst/c112487/202602/4e88e7fdf39f4faca7451ca207215388/files/%E9%99%84%E4%BB%B62%EF%BC%9A%E5%9B%BD%E5%AE%B6%E6%95%99%E8%82%B2%E8%A1%8C%E6%94%BF%E9%83%A8%E9%97%A8%E6%9C%80%E6%96%B0%E7%89%88%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E5%AD%A6%E7%A7%91%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95%E7%BD%91%E5%9D%80%E9%93%BE%E6%8E%A5.docx",
+              "local": "attachments/650100/2026年国家教育行政部门最新版高等教育学科专业目录网址链接.docx"
+            },
+            {
+              "name": "2026年新疆维吾尔自治区面向社会公开考试录用公务员政策解读.doc",
+              "url": "https://rst.xinjiang.gov.cn/xjrst/c112487/202602/4e88e7fdf39f4faca7451ca207215388/files/%E9%99%84%E4%BB%B63%EF%BC%9A%E6%96%B0%E7%96%86%E7%BB%B4%E5%90%BE%E5%B0%94%E8%87%AA%E6%B2%BB%E5%8C%BA2026%E5%B9%B4%E5%BA%A6%E9%9D%A2%E5%90%91%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%BC%80%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E6%94%BF%E7%AD%96%E8%A7%A3%E8%AF%BB.docx",
+              "local": "attachments/650100/2026年新疆维吾尔自治区面向社会公开考试录用公务员政策解读.doc"
+            },
+            {
+              "name": "2026年新疆维吾尔自治区面向社会公开考试录用公务员公共科目笔试考试大纲.docx",
+              "url": "https://rst.xinjiang.gov.cn/xjrst/c112487/202602/4e88e7fdf39f4faca7451ca207215388/files/%E9%99%84%E4%BB%B64%EF%BC%9A%E6%96%B0%E7%96%86%E7%BB%B4%E5%90%BE%E5%B0%94%E8%87%AA%E6%B2%BB%E5%8C%BA2026%E5%B9%B4%E5%BA%A6%E9%9D%A2%E5%90%91%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%BC%80%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E5%85%AC%E5%85%B1%E7%A7%91%E7%9B%AE%E7%AC%94%E8%AF%95%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B2.docx",
+              "local": "attachments/650100/2026年新疆维吾尔自治区面向社会公开考试录用公务员公共科目笔试考试大纲.docx"
+            },
+            {
+              "name": "2026年新疆维吾尔自治区公安机关招录人民警察职位专业科目笔试考试大纲.doc",
+              "url": "https://rst.xinjiang.gov.cn/xjrst/c112487/202602/4e88e7fdf39f4faca7451ca207215388/files/%E9%99%84%E4%BB%B65%EF%BC%9A%E6%96%B0%E7%96%86%E7%BB%B4%E5%90%BE%E5%B0%94%E8%87%AA%E6%B2%BB%E5%8C%BA2026%E5%B9%B4%E5%BA%A6%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E6%8B%9B%E5%BD%95%E4%BA%BA%E6%B0%91%E8%AD%A6%E5%AF%9F%E8%81%8C%E4%BD%8D%E4%B8%93%E4%B8%9A%E7%A7%91%E7%9B%AE%E7%AC%94%E8%AF%95%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B2.docx",
+              "local": "attachments/650100/2026年新疆维吾尔自治区公安机关招录人民警察职位专业科目笔试考试大纲.doc"
+            }
+          ]
         },
         {
           "year": 2024,
@@ -63,7 +89,43 @@
           "positions": null,
           "source": "新疆维吾尔自治区人民政府网",
           "url": "https://www.xinjiang.gov.cn/xinjiang/zfxxgwygl/202402/de355274013a4fdebd38753d90400a0b.shtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2024年新疆维吾尔自治区面向社会公开考试录用公务员职位表.xls",
+              "url": "https://www.xinjiang.gov.cn/xinjiang/zfxxgwygl/202402/de355274013a4fdebd38753d90400a0b/files/%E9%99%84%E4%BB%B61_%E6%96%B0%E7%96%86%E7%BB%B4%E5%90%BE%E5%B0%94%E8%87%AA%E6%B2%BB%E5%8C%BA2024%E5%B9%B4%E5%BA%A6%E9%9D%A2%E5%90%91%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%BC%80%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E8%81%8C%E4%BD%8D%E8%A1%A8.xls",
+              "local": "attachments/650100/2024年新疆维吾尔自治区面向社会公开考试录用公务员职位表.xls"
+            },
+            {
+              "name": "2024年新疆乌鲁木齐国家教育行政部门最新版高等教育学科专业目录网址链接.wps",
+              "url": "https://www.xinjiang.gov.cn/xinjiang/zfxxgwygl/202402/de355274013a4fdebd38753d90400a0b/files/%E9%99%84%E4%BB%B62_%E5%9B%BD%E5%AE%B6%E6%95%99%E8%82%B2%E8%A1%8C%E6%94%BF%E9%83%A8%E9%97%A8%E6%9C%80%E6%96%B0%E7%89%88%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E5%AD%A6%E7%A7%91%E4%B8%93%E4%B8%9A%E7%9B%AE%E5%BD%95%E7%BD%91%E5%9D%80%E9%93%BE%E6%8E%A5.wps",
+              "local": "attachments/650100/2024年新疆乌鲁木齐国家教育行政部门最新版高等教育学科专业目录网址链接.wps"
+            },
+            {
+              "name": "2024年新疆维吾尔自治区面向社会公开考试录用公务员政策解读.wps",
+              "url": "https://www.xinjiang.gov.cn/xinjiang/zfxxgwygl/202402/de355274013a4fdebd38753d90400a0b/files/%E9%99%84%E4%BB%B63_%E6%96%B0%E7%96%86%E7%BB%B4%E5%90%BE%E5%B0%94%E8%87%AA%E6%B2%BB%E5%8C%BA2024%E5%B9%B4%E5%BA%A6%E9%9D%A2%E5%90%91%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%BC%80%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E6%94%BF%E7%AD%96%E8%A7%A3%E8%AF%BB.wps",
+              "local": "attachments/650100/2024年新疆维吾尔自治区面向社会公开考试录用公务员政策解读.wps"
+            },
+            {
+              "name": "2024年新疆维吾尔自治区面向社会公开考试录用公务员公共科目笔试考试大纲.wps",
+              "url": "https://www.xinjiang.gov.cn/xinjiang/zfxxgwygl/202402/de355274013a4fdebd38753d90400a0b/files/%E9%99%84%E4%BB%B64_%E6%96%B0%E7%96%86%E7%BB%B4%E5%90%BE%E5%B0%94%E8%87%AA%E6%B2%BB%E5%8C%BA2024%E5%B9%B4%E5%BA%A6%E9%9D%A2%E5%90%91%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%BC%80%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E5%85%AC%E5%85%B1%E7%A7%91%E7%9B%AE%E7%AC%94%E8%AF%95%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B2.wps",
+              "local": "attachments/650100/2024年新疆维吾尔自治区面向社会公开考试录用公务员公共科目笔试考试大纲.wps"
+            },
+            {
+              "name": "2024年新疆维吾尔自治区公安机关招录人民警察职位专业科目笔试考试大纲.wps",
+              "url": "https://www.xinjiang.gov.cn/xinjiang/zfxxgwygl/202402/de355274013a4fdebd38753d90400a0b/files/%E9%99%84%E4%BB%B65_%E6%96%B0%E7%96%86%E7%BB%B4%E5%90%BE%E5%B0%94%E8%87%AA%E6%B2%BB%E5%8C%BA2024%E5%B9%B4%E5%BA%A6%E5%85%AC%E5%AE%89%E6%9C%BA%E5%85%B3%E6%8B%9B%E5%BD%95%E4%BA%BA%E6%B0%91%E8%AD%A6%E5%AF%9F%E8%81%8C%E4%BD%8D%E4%B8%93%E4%B8%9A%E7%A7%91%E7%9B%AE%E7%AC%94%E8%AF%95%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B2.wps",
+              "local": "attachments/650100/2024年新疆维吾尔自治区公安机关招录人民警察职位专业科目笔试考试大纲.wps"
+            },
+            {
+              "name": "2024年新疆维吾尔自治区面向社会公开考试录用公务员考察表.wps",
+              "url": "https://www.xinjiang.gov.cn/xinjiang/zfxxgwygl/202402/de355274013a4fdebd38753d90400a0b/files/%E9%99%84%E4%BB%B66_%E6%96%B0%E7%96%86%E7%BB%B4%E5%90%BE%E5%B0%94%E8%87%AA%E6%B2%BB%E5%8C%BA2024%E5%B9%B4%E5%BA%A6%E9%9D%A2%E5%90%91%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%BC%80%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E5%AF%9F%E8%A1%A8.wps",
+              "local": "attachments/650100/2024年新疆维吾尔自治区面向社会公开考试录用公务员考察表.wps"
+            },
+            {
+              "name": "2024年新疆乌鲁木齐自治区选调生报名推荐表.wps",
+              "url": "https://www.xinjiang.gov.cn/xinjiang/zfxxgwygl/202402/de355274013a4fdebd38753d90400a0b/files/%E9%99%84%E4%BB%B67_2024%E5%B9%B4%E8%87%AA%E6%B2%BB%E5%8C%BA%E9%80%89%E8%B0%83%E7%94%9F%E6%8A%A5%E5%90%8D%E6%8E%A8%E8%8D%90%E8%A1%A8.wps",
+              "local": "attachments/650100/2024年新疆乌鲁木齐自治区选调生报名推荐表.wps"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -74,6 +136,66 @@
           "positions": null,
           "source": "新疆人事考试中心网",
           "url": "https://www.xjrsks.com.cn",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "2026年克拉玛依市第二批企事业单位高层次、急需紧缺人才引进公告",
+          "date": "2026-09-30",
+          "headcount": null,
+          "positions": null,
+          "source": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "https://rst.xinjiang.gov.cn/xjrst/c112746/202609/7edfd45dee4f405cb14a7ba4a8b8a8c9.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "新疆工业职业技术大学2026年下半年事业编制人才引进公告",
+          "date": "2026-09-30",
+          "headcount": null,
+          "positions": null,
+          "source": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "https://rst.xinjiang.gov.cn/xjrst/c112746/202609/6206c43775ac47e09d71a6c88ce857e1.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "新疆第二医学院2026年第二批次高层次人才引进公告",
+          "date": "2026-09-29",
+          "headcount": null,
+          "positions": null,
+          "source": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "https://rst.xinjiang.gov.cn/xjrst/c112746/202609/8708e580edc945d09dd115f5e95c57ff.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "人才引进",
+          "subCategory": null,
+          "title": "新疆建设职业技术学院2026年面向社会公开引进高层次人才公告",
+          "date": "2026-09-23",
+          "headcount": null,
+          "positions": null,
+          "source": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "https://rst.xinjiang.gov.cn/xjrst/c112746/202609/0fa35973b5ed4a129144b2613cd05e80.shtml",
+          "attachments": []
+        },
+        {
+          "year": 2025,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "2025年自治区高校毕业生“三支一扶”计划招募公告",
+          "date": "2025-07-03",
+          "headcount": null,
+          "positions": null,
+          "source": "新疆维吾尔自治区人力资源和社会保障厅",
+          "url": "https://rst.xinjiang.gov.cn/xjrst/c112722/202507/945e6214f26443a2bd1f354582439ee3.shtml",
           "attachments": []
         }
       ]

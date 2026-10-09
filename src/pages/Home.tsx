@@ -21,6 +21,7 @@ import EChart from '@/components/EChart'
 import SearchBar from '@/components/SearchBar'
 import StatCard from '@/components/StatCard'
 import TagBadge from '@/components/TagBadge'
+import HighlightKeywords from '@/components/HighlightKeywords'
 import { clearRecentCities, getRecentCities } from '@/lib/recent'
 import type { RecentCity } from '@/lib/recent'
 import {
@@ -427,24 +428,28 @@ function MapSection({ index, provinces }: MapSectionProps) {
 const COLUMNS = [
   {
     key: '公务员',
+    guideKey: 'gwy',
     icon: Landmark,
     color: '#F0635A',
     desc: '招录公告 · 职位表 · 录用公示——省考/国考市级岗位一站直达',
   },
   {
     key: '选调生',
+    guideKey: 'xuandiao',
     icon: GraduationCap,
     color: '#F5A94B',
     desc: '定向选调 · 普通选调分栏统计，报考条件与高校范围一览',
   },
   {
     key: '事业单位',
+    guideKey: 'shiye',
     icon: Building2,
     color: '#3ED598',
     desc: '事业编招聘公告、岗位分布与录用结果持续收录',
   },
   {
     key: '人才引进',
+    guideKey: 'rencai',
     icon: FileText,
     color: '#C084FC',
     desc: '高层次人才引进政策、补贴待遇与博士岗位汇总',
@@ -452,15 +457,26 @@ const COLUMNS = [
 ]
 
 function ColumnsSection() {
+  const navigate = useNavigate()
   return (
     <section className="py-20 md:py-28 bg-paper-deep/40">
       <div className="max-w-[1680px] mx-auto px-6 lg:px-10">
-        <div className="mb-14">
-          <h2 className="font-serif font-bold text-[2.5rem] md:text-[3.25rem] text-ink flex items-center gap-3">
-            <span className="w-2 h-10 bg-cinnabar rounded-full inline-block" />
-            四大专栏 · 每个城市一份完整答卷
-          </h2>
-          <p className="mt-5 text-lg md:text-xl text-ink-soft">专栏数据以城市为粒度组织，请先选择城市。</p>
+        <div className="mb-14 flex items-end justify-between gap-6 flex-wrap">
+          <div>
+            <h2 className="font-serif font-bold text-[2.5rem] md:text-[3.25rem] text-ink flex items-center gap-3">
+              <span className="w-2 h-10 bg-cinnabar rounded-full inline-block" />
+              四大专栏 · 每个城市一份完整答卷
+            </h2>
+            <p className="mt-5 text-lg md:text-xl text-ink-soft">先看懂通道规则，再按城市查具体公告与附件。</p>
+          </div>
+          <button
+            type="button"
+            onClick={() => document.getElementById('map')?.scrollIntoView({ behavior: 'smooth' })}
+            className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-line bg-surface text-sm text-ink-soft hover:text-cinnabar hover:border-cinnabar transition-colors duration-200"
+          >
+            选择城市
+            <span aria-hidden>→</span>
+          </button>
         </div>
 
         <motion.div
@@ -471,15 +487,23 @@ function ColumnsSection() {
           className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-7"
         >
           {COLUMNS.map((col) => (
-            <motion.button
+            <motion.div
               key={col.key}
-              type="button"
-              onClick={() => document.getElementById('map')?.scrollIntoView({ behavior: 'smooth' })}
+              role="link"
+              tabIndex={0}
+              aria-label={`查看${col.key}通道介绍`}
+              onClick={() => navigate('/guide', { state: { channel: col.guideKey } })}
+              onKeyDown={(e) => {
+                if (e.key === 'Enter' || e.key === ' ') {
+                  e.preventDefault()
+                  navigate('/guide', { state: { channel: col.guideKey } })
+                }
+              }}
               variants={{ hidden: { opacity: 0, y: 32 }, show: { opacity: 1, y: 0, transition: { duration: 0.5, ease: 'easeOut' } } }}
               whileHover={{ y: -6 }}
               whileTap={{ scale: 0.97 }}
               transition={{ duration: 0.2 }}
-              className="group bg-surface rounded-3xl border border-line p-8 md:p-10 shadow-[0_1px_0_rgba(0,0,0,.25)] hover:shadow-[0_12px_32px_-12px_rgba(0,0,0,.45)] transition-shadow duration-200 flex flex-col min-h-[280px]"
+              className="group bg-surface rounded-3xl border border-line p-8 md:p-10 shadow-[0_1px_0_rgba(0,0,0,.25)] hover:shadow-[0_12px_32px_-12px_rgba(0,0,0,.45)] transition-shadow duration-200 flex flex-col min-h-[280px] cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-cinnabar"
             >
               <span
                 className="w-16 h-16 rounded-2xl flex items-center justify-center mb-7"
@@ -487,13 +511,15 @@ function ColumnsSection() {
               >
                 <col.icon className="w-8 h-8" style={{ color: col.color }} />
               </span>
-              <h3 className="font-serif font-black text-2xl md:text-3xl text-ink mb-3 tracking-wide">{col.key}</h3>
+              <h3 className="font-serif font-black text-2xl md:text-3xl mb-3 tracking-wide" style={{ color: col.color }}>
+                {col.key}
+              </h3>
               <p className="text-base md:text-[17px] text-ink-soft leading-8 flex-1">{col.desc}</p>
               <span className="mt-7 inline-flex items-center gap-2 text-base font-medium transition-colors duration-200" style={{ color: col.color }}>
-                进入任意城市查看
+                通道介绍 · 报考条件 · 考试流程
                 <span className="inline-block transition-transform duration-200 group-hover:translate-x-1">→</span>
               </span>
-            </motion.button>
+            </motion.div>
           ))}
         </motion.div>
       </div>
@@ -686,7 +712,7 @@ function LatestSection({ provinces }: { provinces: (ProvinceData | null)[] }) {
                   className="flex-1 min-w-0 text-sm text-ink truncate hover:text-cinnabar transition-colors"
                   title={it.title}
                 >
-                  {it.title}
+                  <HighlightKeywords text={it.title} />
                 </a>
                 <Link
                   to={`/city/${it.cityAdcode}`}

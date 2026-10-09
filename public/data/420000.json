@@ -1,7 +1,7 @@
 {
   "adcode": 420000,
   "name": "湖北省",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-03",
   "provincePortals": [
     {
       "category": "公务员",
@@ -116,7 +116,29 @@
           "positions": null,
           "source": "湖北省委组织部（湖北人事考试网）",
           "url": "https://rst.hubei.gov.cn/hbrsksw/zlplks/jglyks/hbsxtsks/zkgg/202511/t20251112_5810864.shtml",
-          "subCategory": "定向选调"
+          "subCategory": "定向选调",
+          "attachments": [
+            {
+              "name": "2026年.相关高校名单.docx",
+              "url": "https://rst.hubei.gov.cn/hbrsksw/zlplks/jglyks/hbsxtsks/zkgg/202511/P020251112347678141954.docx",
+              "local": "attachments/420100/2026年.相关高校名单.docx"
+            },
+            {
+              "name": "2026年湖北省定向选调生报名推荐表.docx",
+              "url": "https://rst.hubei.gov.cn/hbrsksw/zlplks/jglyks/hbsxtsks/zkgg/202511/P020251112347679122423.docx",
+              "local": "attachments/420100/2026年湖北省定向选调生报名推荐表.docx"
+            },
+            {
+              "name": "2026年湖北省定向选调生报考须知.docx",
+              "url": "https://rst.hubei.gov.cn/hbrsksw/zlplks/jglyks/hbsxtsks/zkgg/202511/P020251112347679628745.docx",
+              "local": "attachments/420100/2026年湖北省定向选调生报考须知.docx"
+            },
+            {
+              "name": "2026年湖北省定向选调生招录职位计划表.xlsx",
+              "url": "https://rst.hubei.gov.cn/hbrsksw/zlplks/jglyks/hbsxtsks/zkgg/202511/P020251112398039152432.xlsx",
+              "local": "attachments/420100/2026年湖北省定向选调生招录职位计划表.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -132,6 +154,21 @@
               "name": "湖北省省直事业单位2025年统一公开招聘岗位表.xlsx",
               "url": "https://rst.hubei.gov.cn/bmdt/ztzl/ywzl/hbsszsydwgkzp/zpgg/202502/t20250214_5541042.shtml",
               "local": "attachments/420100/2025年湖北省省直事业单位统一公开招聘岗位表.xlsx"
+            },
+            {
+              "name": "2025年湖北省省直事业单位统一公开招聘工作人员岗位表.xlsx",
+              "url": "https://rst.hubei.gov.cn/bmdt/ztzl/ywzl/hbsszsydwgkzp/zpgg/202502/P020251217344025747854.xlsx",
+              "local": "attachments/420100/2025年湖北省省直事业单位统一公开招聘工作人员岗位表.xlsx"
+            },
+            {
+              "name": "2025年湖北省省直事业单位统一公开招聘单位联系咨询方式一览表.xlsx",
+              "url": "https://rst.hubei.gov.cn/bmdt/ztzl/ywzl/hbsszsydwgkzp/zpgg/202502/P020260911362013567673.xlsx",
+              "local": "attachments/420100/2025年湖北省省直事业单位统一公开招聘单位联系咨询方式一览表.xlsx"
+            },
+            {
+              "name": "2025年湖北省省直事业单位统一公开招聘工作人员报考指南.doc",
+              "url": "https://rst.hubei.gov.cn/bmdt/ztzl/ywzl/hbsszsydwgkzp/zpgg/202502/P020250214018189962665.doc",
+              "local": "attachments/420100/2025年湖北省省直事业单位统一公开招聘工作人员报考指南.doc"
             }
           ]
         },
@@ -163,7 +200,14 @@
           "headcount": null,
           "positions": null,
           "source": "武汉市公务员局",
-          "url": "https://www.wuhan.gov.cn/zwgk/xxgk/rsxx/gwyzl/202506/t20250612_2594637.shtml"
+          "url": "https://www.wuhan.gov.cn/zwgk/xxgk/rsxx/gwyzl/202506/t20250612_2594637.shtml",
+          "attachments": [
+            {
+              "name": "2025年湖北武汉市考试录用公务员拟录用人员公示名单（第二批）.pdf",
+              "url": "https://www.wuhan.gov.cn/zwgk/xxgk/rsxx/gwyzl/202506/P020250612533790058106.pdf",
+              "local": "attachments/420100/2025年湖北武汉市考试录用公务员拟录用人员公示名单（第二批）.pdf"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -235,6 +279,21 @@
               "name": "黄石市市直事业单位2025年统一公开招聘岗位表.xlsx",
               "url": "https://rsj.huangshi.gov.cn/xxgk/fdzdgknr/gggs/202502/t20250214_1193720.html",
               "local": "attachments/420200/2025年黄石市市直事业单位统一公开招聘岗位表.xlsx"
+            },
+            {
+              "name": "2025年湖北黄石市事业单位统一公开招聘工作人员岗位表.xlsx",
+              "url": "https://rsj.huangshi.gov.cn/xxgk/fdzdgknr/gggs/202502/P020250214463691625666.xlsx",
+              "local": "attachments/420200/2025年湖北黄石市事业单位统一公开招聘工作人员岗位表.xlsx"
+            },
+            {
+              "name": "2025年湖北黄石市事业单位统一公开招聘单位联系咨询方式一览表.xlsx",
+              "url": "https://rsj.huangshi.gov.cn/xxgk/fdzdgknr/gggs/202502/P020250214623650406583.xlsx",
+              "local": "attachments/420200/2025年湖北黄石市事业单位统一公开招聘单位联系咨询方式一览表.xlsx"
+            },
+            {
+              "name": "2025年湖北黄石市事业单位统一公开招聘工作人员报考指南.doc",
+              "url": "https://rsj.huangshi.gov.cn/xxgk/fdzdgknr/gggs/202502/P020250214463691640220.doc",
+              "local": "attachments/420200/2025年湖北黄石市事业单位统一公开招聘工作人员报考指南.doc"
             }
           ]
         },
@@ -246,7 +305,14 @@
           "headcount": null,
           "positions": null,
           "source": "黄石市人力资源和社会保障局",
-          "url": "https://rsj.huangshi.gov.cn/rsksy/ksxx/202509/t20250910_1260035.html"
+          "url": "https://rsj.huangshi.gov.cn/rsksy/ksxx/202509/t20250910_1260035.html",
+          "attachments": [
+            {
+              "name": "2025年湖北附件：黄石市事业单位统一公开招聘拟聘用人员公示名单（五）.xlsx",
+              "url": "https://rsj.huangshi.gov.cn/rsksy/ksxx/202509/P020250910600263118208.xlsx",
+              "local": "attachments/420200/2025年湖北附件：黄石市事业单位统一公开招聘拟聘用人员公示名单（五）.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -300,6 +366,26 @@
               "name": "十堰市市直事业单位2025年统一公开招聘岗位表.xls",
               "url": "http://rsj.shiyan.gov.cn/srlzyhshbzj/zc/qtzdgkwj/gzdt/202502/t20250214_4698109.shtml",
               "local": "attachments/420300/2025年十堰市市直事业单位统一公开招聘岗位表.xls"
+            },
+            {
+              "name": "2025年1.十堰市市直事业单位统一公开招聘工作人员岗位和条件一览表.xls",
+              "url": "http://rsj.shiyan.gov.cn/srlzyhshbzj/zc/qtzdgkwj/gzdt/202502/P020250215753057644298.xls",
+              "local": "attachments/420300/2025年1.十堰市市直事业单位统一公开招聘工作人员岗位和条件一览表.xls"
+            },
+            {
+              "name": "2025年2.十堰市市直事业单位统一公开招聘专业参考目录.docx",
+              "url": "http://rsj.shiyan.gov.cn/srlzyhshbzj/zc/qtzdgkwj/gzdt/202502/P020250215753058345870.docx",
+              "local": "attachments/420300/2025年2.十堰市市直事业单位统一公开招聘专业参考目录.docx"
+            },
+            {
+              "name": "2025年3.十堰市市直事业单位统一公开招聘工作人员考生诚信承诺书.docx",
+              "url": "http://rsj.shiyan.gov.cn/srlzyhshbzj/zc/qtzdgkwj/gzdt/202502/P020250215753058536213.docx",
+              "local": "attachments/420300/2025年3.十堰市市直事业单位统一公开招聘工作人员考生诚信承诺书.docx"
+            },
+            {
+              "name": "2025年4.十堰市市直事业单位统一公开招聘工作人员报考指南.doc",
+              "url": "http://rsj.shiyan.gov.cn/srlzyhshbzj/zc/qtzdgkwj/gzdt/202502/P020250215753059183489.doc",
+              "local": "attachments/420300/2025年4.十堰市市直事业单位统一公开招聘工作人员报考指南.doc"
             }
           ]
         },
@@ -311,7 +397,14 @@
           "headcount": null,
           "positions": null,
           "source": "十堰市委组织部（武当党建网）",
-          "url": "http://www.sywddj.gov.cn/tzgg/202505/t20250526_4744147.shtml"
+          "url": "http://www.sywddj.gov.cn/tzgg/202505/t20250526_4744147.shtml",
+          "attachments": [
+            {
+              "name": "2025年湖北十堰市考试录用公务员拟录用人员公示名单（第一批）.xls",
+              "url": "http://www.sywddj.gov.cn/tzgg/202505/P020250526642441210996.xls",
+              "local": "attachments/420300/2025年湖北十堰市考试录用公务员拟录用人员公示名单（第一批）.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -371,6 +464,21 @@
               "name": "宜昌市事业单位2025年统一公开招聘岗位表.xlsx",
               "url": "http://rsj.yichang.gov.cn/content-63350-982015-1.html",
               "local": "attachments/420500/2025年宜昌市事业单位统一公开招聘岗位表.xlsx"
+            },
+            {
+              "name": "2025年湖北宜昌市事业单位统一公开招聘工作人员岗位表.xlsx",
+              "url": "https://img.yichang.gov.cn/upload2022/2025/0215/20250215042642242.xlsx",
+              "local": "attachments/420500/2025年湖北宜昌市事业单位统一公开招聘工作人员岗位表.xlsx"
+            },
+            {
+              "name": "2025年湖北宜昌市事业单位统一公开招聘单位联系咨询方式一览表.xlsx",
+              "url": "https://img.yichang.gov.cn/upload2022/2025/0214/20250214044343307.xlsx",
+              "local": "attachments/420500/2025年湖北宜昌市事业单位统一公开招聘单位联系咨询方式一览表.xlsx"
+            },
+            {
+              "name": "2025年湖北宜昌市事业单位统一公开招聘工作人员报考指南.docx",
+              "url": "https://img.yichang.gov.cn/upload2022/2025/0214/20250214044357367.docx",
+              "local": "attachments/420500/2025年湖北宜昌市事业单位统一公开招聘工作人员报考指南.docx"
             }
           ]
         },
@@ -392,7 +500,29 @@
           "headcount": 189,
           "positions": null,
           "source": "宜昌市人力资源和社会保障局",
-          "url": "http://rsj.yichang.gov.cn/content-63350-982173-1.html"
+          "url": "http://rsj.yichang.gov.cn/content-63350-982173-1.html",
+          "attachments": [
+            {
+              "name": "2025年湖北宜昌市&ldquo;招才兴业&rdquo;事业单位人才引进招聘综合岗位表&middot;三峡大学站.xlsx",
+              "url": "https://img.yichang.gov.cn/upload2022/2025/0320/20250320111005961.xlsx",
+              "local": "attachments/420500/2025年湖北宜昌市&ldquo;招才兴业&rdquo;事业单位人才引进招聘综合岗位表&middot;三峡大学站.xlsx"
+            },
+            {
+              "name": "2025年湖北宜昌市&ldquo;招才兴业&rdquo;事业单位人才引进招聘教育岗位表&middot;三峡大学站.xlsx",
+              "url": "https://img.yichang.gov.cn/upload2022/2025/0320/20250320111017267.xlsx",
+              "local": "attachments/420500/2025年湖北宜昌市&ldquo;招才兴业&rdquo;事业单位人才引进招聘教育岗位表&middot;三峡大学站.xlsx"
+            },
+            {
+              "name": "2025年湖北宜昌市&ldquo;招才兴业&rdquo;事业单位人才引进招聘卫生岗位表&middot;三峡大学站.xlsx",
+              "url": "https://img.yichang.gov.cn/upload2022/2025/0320/20250320111030361.xlsx",
+              "local": "attachments/420500/2025年湖北宜昌市&ldquo;招才兴业&rdquo;事业单位人才引进招聘卫生岗位表&middot;三峡大学站.xlsx"
+            },
+            {
+              "name": "2025年湖北宜昌市&ldquo;招才兴业&rdquo;事业单位人才引进招聘三峡大学站（教育卫生岗位）报名表.docx",
+              "url": "https://img.yichang.gov.cn/upload2022/2025/0320/20250320111041949.docx",
+              "local": "attachments/420500/2025年湖北宜昌市&ldquo;招才兴业&rdquo;事业单位人才引进招聘三峡大学站（教育卫生岗位）报名表.docx"
+            }
+          ]
         }
       ]
     },
@@ -431,7 +561,24 @@
           "headcount": 182,
           "positions": null,
           "source": "襄阳市人力资源和社会保障局",
-          "url": "http://rsj.xiangyang.gov.cn/xwzx/zlzp/202502/t20250214_3761700.shtml"
+          "url": "http://rsj.xiangyang.gov.cn/xwzx/zlzp/202502/t20250214_3761700.shtml",
+          "attachments": [
+            {
+              "name": "2025年1.襄阳市市直事业单位统一公开招聘工作人员岗位表.xlsx",
+              "url": "http://rsj.xiangyang.gov.cn/xwzx/zlzp/202502/P020250218368191640347.xlsx",
+              "local": "attachments/420600/2025年1.襄阳市市直事业单位统一公开招聘工作人员岗位表.xlsx"
+            },
+            {
+              "name": "2025年2.襄阳市市直事业单位统一公开招聘单位联系咨询方式一览表.xlsx",
+              "url": "http://rsj.xiangyang.gov.cn/xwzx/zlzp/202502/P020250214348651084245.xlsx",
+              "local": "attachments/420600/2025年2.襄阳市市直事业单位统一公开招聘单位联系咨询方式一览表.xlsx"
+            },
+            {
+              "name": "2025年3.襄阳市市直事业单位统一公开招聘工作人员报考指南.doc",
+              "url": "http://rsj.xiangyang.gov.cn/xwzx/zlzp/202502/P020250214348651100400.doc",
+              "local": "attachments/420600/2025年3.襄阳市市直事业单位统一公开招聘工作人员报考指南.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -441,7 +588,14 @@
           "headcount": null,
           "positions": null,
           "source": "襄阳市委组织部（襄阳党建网）",
-          "url": "http://www.xydjw.gov.cn/gwygz/zl/202506/t20250630_3833544.shtml"
+          "url": "http://www.xydjw.gov.cn/gwygz/zl/202506/t20250630_3833544.shtml",
+          "attachments": [
+            {
+              "name": "2025年湖北襄阳市考试录用公务员拟录用人员公示名单（第四批）.xlsx",
+              "url": "http://www.xydjw.gov.cn/gwygz/zl/202506/P020250630416690368123.xlsx",
+              "local": "attachments/420600/2025年湖北襄阳市考试录用公务员拟录用人员公示名单（第四批）.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -461,7 +615,14 @@
           "headcount": 50,
           "positions": null,
           "source": "襄阳市党建和人才工作领导小组办公室（襄阳党建网）",
-          "url": "http://www.xydjw.gov.cn/djzx/gsgg/202506/t20250614_3826250.shtml"
+          "url": "http://www.xydjw.gov.cn/djzx/gsgg/202506/t20250614_3826250.shtml",
+          "attachments": [
+            {
+              "name": "2025年湖北襄阳市专项引进紧缺人才岗位目录.xlsx",
+              "url": "http://www.xydjw.gov.cn/djzx/gsgg/202506/P020250614014737220493.xlsx",
+              "local": "attachments/420600/2025年湖北襄阳市专项引进紧缺人才岗位目录.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -500,6 +661,26 @@
               "name": "鄂州市事业单位2025年统一公开招聘岗位表.xlsx",
               "url": "https://jgswzx.ezhou.gov.cn/zfxxgk/fdzdgknr/qtzdgknr/rsxx/202502/t20250218_689509.html",
               "local": "attachments/420700/2025年鄂州市事业单位统一公开招聘岗位表.xlsx"
+            },
+            {
+              "name": "2025年湖北鄂州市事业单位统一公开招聘工作人员岗位表.xlsx",
+              "url": "https://jgswzx.ezhou.gov.cn/zfxxgk/fdzdgknr/qtzdgknr/rsxx/202502/P020250218352630936704.xlsx",
+              "local": "attachments/420700/2025年湖北鄂州市事业单位统一公开招聘工作人员岗位表.xlsx"
+            },
+            {
+              "name": "2025年湖北鄂州市事业单位统一公开招聘单位联系咨询方式一览表.xlsx",
+              "url": "https://jgswzx.ezhou.gov.cn/zfxxgk/fdzdgknr/qtzdgknr/rsxx/202502/P020250218352631120690.xlsx",
+              "local": "attachments/420700/2025年湖北鄂州市事业单位统一公开招聘单位联系咨询方式一览表.xlsx"
+            },
+            {
+              "name": "2025年湖北鄂州市事业单位统一公开招聘工作人员报考指南.doc",
+              "url": "https://jgswzx.ezhou.gov.cn/zfxxgk/fdzdgknr/qtzdgknr/rsxx/202502/P020250218352631312006.doc",
+              "local": "attachments/420700/2025年湖北鄂州市事业单位统一公开招聘工作人员报考指南.doc"
+            },
+            {
+              "name": "2025年湖北鄂州市事业单位统一公开招聘工作人员考生诚信承诺书.docx",
+              "url": "https://jgswzx.ezhou.gov.cn/zfxxgk/fdzdgknr/qtzdgknr/rsxx/202502/P020250218352631496424.docx",
+              "local": "attachments/420700/2025年湖北鄂州市事业单位统一公开招聘工作人员考生诚信承诺书.docx"
             }
           ]
         },
@@ -511,7 +692,14 @@
           "headcount": null,
           "positions": null,
           "source": "鄂州市人力资源和社会保障局",
-          "url": "http://rsj.ezhou.gov.cn/tzgg/202505/t20250530_706236.html"
+          "url": "http://rsj.ezhou.gov.cn/tzgg/202505/t20250530_706236.html",
+          "attachments": [
+            {
+              "name": "2025年湖北鄂州市考试录用公务员拟录用人员公示名单（第二批）.xlsx",
+              "url": "https://rsj.ezhou.gov.cn/tzgg/202505/P020250530310149731672.xlsx",
+              "local": "attachments/420700/2025年湖北鄂州市考试录用公务员拟录用人员公示名单（第二批）.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -681,7 +869,14 @@
           "headcount": null,
           "positions": null,
           "source": "荆州市委组织部（荆州党建网）",
-          "url": "http://www.jzdjw.gov.cn/tzgg/gwyks/202506/t20250612_1016904.shtml"
+          "url": "http://www.jzdjw.gov.cn/tzgg/gwyks/202506/t20250612_1016904.shtml",
+          "attachments": [
+            {
+              "name": "2025年湖北荆州市考试录用公务员拟录用人员公示名单（第三批）.xlsx",
+              "url": "http://www.jzdjw.gov.cn/tzgg/gwyks/202506/P020250612382482644718.xlsx",
+              "local": "attachments/421000/2025年湖北荆州市考试录用公务员拟录用人员公示名单（第三批）.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -721,7 +916,29 @@
           "headcount": null,
           "positions": null,
           "source": "黄冈市人力资源和社会保障局",
-          "url": "http://rsj.hg.gov.cn/ztzl/sydwzpzl/gkzp/1268990.html"
+          "url": "http://rsj.hg.gov.cn/ztzl/sydwzpzl/gkzp/1268990.html",
+          "attachments": [
+            {
+              "name": "2025年黄冈市市直事业单位统一公开招聘工作人员岗位表.xls",
+              "url": "https://rsj.hg.gov.cn/group2/M00/14/4C/rBQOoGeurKuAA0obAAEaABuBPjo657.xls",
+              "local": "attachments/421100/2025年黄冈市市直事业单位统一公开招聘工作人员岗位表.xls"
+            },
+            {
+              "name": "2025年黄冈市市直事业单位统一公开招聘联系方式一览表.xlsx",
+              "url": "https://rsj.hg.gov.cn/group2/M00/14/78/rBQOoGe8NqCAVqcsAAA5LA_JYSI82.xlsx",
+              "local": "attachments/421100/2025年黄冈市市直事业单位统一公开招聘联系方式一览表.xlsx"
+            },
+            {
+              "name": "2025年黄冈市市直事业单位统一公开招聘工作人员报考指南.doc",
+              "url": "https://rsj.hg.gov.cn/group2/M00/14/4D/rBQOoGeuvS-AL2ILAAESAMe5v3c581.doc",
+              "local": "attachments/421100/2025年黄冈市市直事业单位统一公开招聘工作人员报考指南.doc"
+            },
+            {
+              "name": "2025年教育部专业目录.zip",
+              "url": "https://rsj.hg.gov.cn/group2/M00/14/4D/rBQOoGeutbWAUk27AOephLXJErY452.zip",
+              "local": "attachments/421100/2025年教育部专业目录.zip"
+            }
+          ]
         },
         {
           "year": 2024,
@@ -731,7 +948,29 @@
           "headcount": null,
           "positions": null,
           "source": "黄冈市人力资源和社会保障局",
-          "url": "http://rsj.hg.gov.cn/content/article/1205215"
+          "url": "http://rsj.hg.gov.cn/content/article/1205215",
+          "attachments": [
+            {
+              "name": "2024年黄冈市市直事业单位统一公开招聘工作人员岗位表.xls",
+              "url": "https://rsj.hg.gov.cn/group2/M00/0D/AB/rBQOoGZFdn-ASfixAADyAPaXqys376.xls",
+              "local": "attachments/421100/2024年黄冈市市直事业单位统一公开招聘工作人员岗位表.xls"
+            },
+            {
+              "name": "2024年黄冈市市直事业单位统一公开招聘单位联系咨询方式一览表.xls",
+              "url": "https://rsj.hg.gov.cn/group2/M00/0B/E7/rBQOoGXTB-aAcJJ1AACCAAbLWLA182.xls",
+              "local": "attachments/421100/2024年黄冈市市直事业单位统一公开招聘单位联系咨询方式一览表.xls"
+            },
+            {
+              "name": "2024年黄冈市市直事业单位统一公开招聘工作人员报考指南.doc",
+              "url": "https://rsj.hg.gov.cn/group2/M00/0B/E7/rBQOoGXTCuiAF9lzAAC6AJUBqqA061.doc",
+              "local": "attachments/421100/2024年黄冈市市直事业单位统一公开招聘工作人员报考指南.doc"
+            },
+            {
+              "name": "2024年黄冈市市直事业单位统一公开招聘工作人员考试加分事项说明.doc",
+              "url": "https://rsj.hg.gov.cn/group2/M00/0B/E1/rBQOoGXR6-mADtJRAAD0AAKdj14161.doc",
+              "local": "attachments/421100/2024年黄冈市市直事业单位统一公开招聘工作人员考试加分事项说明.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -741,7 +980,14 @@
           "headcount": null,
           "positions": null,
           "source": "黄冈市委组织部（黄冈市人事考试院）",
-          "url": "http://www.hgrsks.gov.cn/gsgg/2025-05-23/973.html"
+          "url": "http://www.hgrsks.gov.cn/gsgg/2025-05-23/973.html",
+          "attachments": [
+            {
+              "name": "2025年湖北黄冈市考试录用公务员拟录用人员名单（第一批）.xlsx",
+              "url": "http://www.hgrsks.gov.cn/d/file/p/2025/05-24/f634d5b420910cff9b11084d56e82026.xlsx",
+              "local": "attachments/421100/2025年湖北黄冈市考试录用公务员拟录用人员名单（第一批）.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -783,6 +1029,21 @@
               "name": "咸宁市市直事业单位2025年统一公开招聘岗位表.xlsx",
               "url": "http://rsj.xianning.gov.cn/xxgk/fdzdgknr/zkly/202503/t20250303_3924497.shtml",
               "local": "attachments/421200/2025年咸宁市市直事业单位统一公开招聘岗位表.xlsx"
+            },
+            {
+              "name": "2025年湖北咸宁市市直事业单位统一公开招聘工作人员岗位表.xlsx",
+              "url": "http://rsj.xianning.gov.cn/xxgk/fdzdgknr/zkly/202503/P020250303411809661867.xlsx",
+              "local": "attachments/421200/2025年湖北咸宁市市直事业单位统一公开招聘工作人员岗位表.xlsx"
+            },
+            {
+              "name": "2025年湖北咸宁市市直事业单位统一公开招聘单位联系咨询方式一览表.xlsx",
+              "url": "http://rsj.xianning.gov.cn/xxgk/fdzdgknr/zkly/202503/P020250303411819832513.xlsx",
+              "local": "attachments/421200/2025年湖北咸宁市市直事业单位统一公开招聘单位联系咨询方式一览表.xlsx"
+            },
+            {
+              "name": "2025年湖北咸宁市市直事业单位统一公开招聘工作人员报考指南.docx",
+              "url": "http://rsj.xianning.gov.cn/xxgk/fdzdgknr/zkly/202503/P020250303411821586718.docx",
+              "local": "attachments/421200/2025年湖北咸宁市市直事业单位统一公开招聘工作人员报考指南.docx"
             }
           ]
         },
@@ -794,7 +1055,14 @@
           "headcount": null,
           "positions": null,
           "source": "咸宁市委组织部（咸宁组工网）",
-          "url": "http://www.xnzg.gov.cn/zgdt/tzgg/202507/t20250717_4027151.shtml"
+          "url": "http://www.xnzg.gov.cn/zgdt/tzgg/202507/t20250717_4027151.shtml",
+          "attachments": [
+            {
+              "name": "2025年湖北咸宁市考试录用公务员拟录用人员公示名单（第三批）.xls",
+              "url": "http://www.xnzg.gov.cn/zgdt/tzgg/202507/P020250717647120748705.xls",
+              "local": "attachments/421200/2025年湖北咸宁市考试录用公务员拟录用人员公示名单（第三批）.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -804,7 +1072,14 @@
           "headcount": 50,
           "positions": null,
           "source": "咸宁市人力资源和社会保障局",
-          "url": "http://rsj.xianning.gov.cn/xwzx/tzgg/202507/t20250707_4020117.shtml"
+          "url": "http://rsj.xianning.gov.cn/xwzx/tzgg/202507/t20250707_4020117.shtml",
+          "attachments": [
+            {
+              "name": "2025年湖北附件：咸宁市市直事业单位统一公开招聘拟聘用人员公示（第一批）.xlsx",
+              "url": "http://rsj.xianning.gov.cn/xwzx/tzgg/202507/P020250707322717025522.xlsx",
+              "local": "attachments/421200/2025年湖北附件：咸宁市市直事业单位统一公开招聘拟聘用人员公示（第一批）.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -843,6 +1118,11 @@
               "name": "随州市事业单位2025年统一公开招聘岗位表.xlsx",
               "url": "http://www.suizhou.gov.cn/zwgk/xxgk/gwyzp_5793/sydwzl/202510/t20251014_1371557.shtml",
               "local": "attachments/421300/2025年随州市事业单位统一公开招聘岗位表.xlsx"
+            },
+            {
+              "name": "2025年湖北随州市事业单位下半年统一公开招聘工作人员岗位表.xlsx",
+              "url": "http://www.suizhou.gov.cn/zwgk/xxgk/gwyzp_5793/sydwzl/202510/P020251014600908689509.xlsx",
+              "local": "attachments/421300/2025年湖北随州市事业单位下半年统一公开招聘工作人员岗位表.xlsx"
             }
           ]
         },
@@ -854,7 +1134,24 @@
           "headcount": null,
           "positions": null,
           "source": "随州市委组织部（随州组织网）",
-          "url": "https://www.szzzw.gov.cn/show-130-13550-1.html"
+          "url": "https://www.szzzw.gov.cn/show-130-13550-1.html",
+          "attachments": [
+            {
+              "name": "2025年湖北随州xlsx.xlsx",
+              "url": "https://www.szzzw.gov.cn/uploadfile/2025/0606/20250606061031985.xlsx",
+              "local": "attachments/421300/2025年湖北随州xlsx.xlsx"
+            },
+            {
+              "name": "2025年湖北随州xlsx_2.xlsx",
+              "url": "https://www.szzzw.gov.cn/uploadfile/2025/0606/20250606061531301.xlsx",
+              "local": "attachments/421300/2025年湖北随州xlsx_2.xlsx"
+            },
+            {
+              "name": "2025年湖北随州xlsx_3.xlsx",
+              "url": "https://www.szzzw.gov.cn/uploadfile/2025/0606/20250606061739516.xlsx",
+              "local": "attachments/421300/2025年湖北随州xlsx_3.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -892,7 +1189,14 @@
           "headcount": 574,
           "positions": null,
           "source": "恩施州人力资源和社会保障局",
-          "url": "http://rsj.enshi.gov.cn/xxgk/fdzdgk/zkly/xsydwzkgg/202502/t20250214_1667745.shtml"
+          "url": "http://rsj.enshi.gov.cn/xxgk/fdzdgk/zkly/xsydwzkgg/202502/t20250214_1667745.shtml",
+          "attachments": [
+            {
+              "name": "2025年湖北恩施土家族苗族自治州.恩施州事业单位统一公开招聘工作人员岗位计划表.xls",
+              "url": "http://rsj.enshi.gov.cn/xxgk/fdzdgk/zkly/xsydwzkgg/202502/P020260910624258731449.xls",
+              "local": "attachments/422800/2025年湖北恩施土家族苗族自治州.恩施州事业单位统一公开招聘工作人员岗位计划表.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -912,7 +1216,19 @@
           "headcount": 222,
           "positions": null,
           "source": "恩施州人力资源和社会保障局",
-          "url": "http://rsj.enshi.gov.cn/xxgk/fdzdgk/zkly/xsydwzkgg/202503/t20250317_1679428.shtml"
+          "url": "http://rsj.enshi.gov.cn/xxgk/fdzdgk/zkly/xsydwzkgg/202503/t20250317_1679428.shtml",
+          "attachments": [
+            {
+              "name": "2025年恩施州事业单位专项公开招聘工作人员岗位计划表.xlsx",
+              "url": "http://rsj.enshi.gov.cn/xxgk/fdzdgk/zkly/xsydwzkgg/202503/P020250811356586392734.xlsx",
+              "local": "attachments/422800/2025年恩施州事业单位专项公开招聘工作人员岗位计划表.xlsx"
+            },
+            {
+              "name": "2025年诚信承诺书.doc",
+              "url": "http://rsj.enshi.gov.cn/xxgk/fdzdgk/zkly/xsydwzkgg/202503/P020250811356586673962.doc",
+              "local": "attachments/422800/2025年诚信承诺书.doc"
+            }
+          ]
         }
       ]
     },
@@ -952,6 +1268,21 @@
               "name": "仙桃市事业单位2025年统一公开招聘岗位表.xlsx",
               "url": "https://www.xiantao.gov.cn/zfxxgk/xxgkml/rsxx/sydwzl/202502/t20250214_5541857.shtml",
               "local": "attachments/429004/2025年仙桃市事业单位统一公开招聘岗位表.xlsx"
+            },
+            {
+              "name": "2025年仙桃市事业单位统一公开招聘工作人员岗位表.xlsx",
+              "url": "https://www.xiantao.gov.cn/zfxxgk/xxgkml/rsxx/sydwzl/202502/P020250214539175989513.xlsx",
+              "local": "attachments/429004/2025年仙桃市事业单位统一公开招聘工作人员岗位表.xlsx"
+            },
+            {
+              "name": "2025年仙桃市事业单位统一公开招聘单位联系咨询方式一览表.xlsx",
+              "url": "https://www.xiantao.gov.cn/zfxxgk/xxgkml/rsxx/sydwzl/202502/P020250214539176455207.xlsx",
+              "local": "attachments/429004/2025年仙桃市事业单位统一公开招聘单位联系咨询方式一览表.xlsx"
+            },
+            {
+              "name": "2025年仙桃市事业单位统一公开招聘工作人员报考指南.doc",
+              "url": "https://www.xiantao.gov.cn/zfxxgk/xxgkml/rsxx/sydwzl/202502/P020250214539176959779.doc",
+              "local": "attachments/429004/2025年仙桃市事业单位统一公开招聘工作人员报考指南.doc"
             }
           ]
         },
@@ -963,7 +1294,14 @@
           "headcount": null,
           "positions": null,
           "source": "仙桃市委组织部",
-          "url": "http://www.xiantao.gov.cn/zfxxgk/xxgkml/rsxx/gwyzl/202506/t20250619_5699099.shtml"
+          "url": "http://www.xiantao.gov.cn/zfxxgk/xxgkml/rsxx/gwyzl/202506/t20250619_5699099.shtml",
+          "attachments": [
+            {
+              "name": "2025年仙桃市考试录用公务员拟录用人员公示名单（第二批）.xls",
+              "url": "https://www.xiantao.gov.cn/zfxxgk/xxgkml/rsxx/gwyzl/202506/P020260804345487591862.xls",
+              "local": "attachments/429004/2025年仙桃市考试录用公务员拟录用人员公示名单（第二批）.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -1013,6 +1351,21 @@
               "name": "潜江市事业单位2025年统一公开招聘岗位表.xls",
               "url": "https://www.hbqj.gov.cn/xxgk/zc/qtwj/gsgg/202502/t20250214_5541614.html",
               "local": "attachments/429005/2025年潜江市事业单位统一公开招聘岗位表.xls"
+            },
+            {
+              "name": "2025年潜江市事业单位统一公开招聘岗位表.xls",
+              "url": "https://www.hbqj.gov.cn/xxgk/zc/qtwj/gsgg/202502/P020250214450311947151.xls",
+              "local": "attachments/429005/2025年潜江市事业单位统一公开招聘岗位表.xls"
+            },
+            {
+              "name": "2025年潜江市事业单位统一公开招聘联系表.xls",
+              "url": "https://www.hbqj.gov.cn/xxgk/zc/qtwj/gsgg/202502/P020250214428735936693.xls",
+              "local": "attachments/429005/2025年潜江市事业单位统一公开招聘联系表.xls"
+            },
+            {
+              "name": "2025年潜江市事业单位统一公开招聘工作人员报考指南.doc",
+              "url": "https://www.hbqj.gov.cn/xxgk/zc/qtwj/gsgg/202502/P020250214428736599580.doc",
+              "local": "attachments/429005/2025年潜江市事业单位统一公开招聘工作人员报考指南.doc"
             }
           ]
         },
@@ -1024,7 +1377,14 @@
           "headcount": null,
           "positions": null,
           "source": "潜江市委组织部",
-          "url": "https://www.hbqj.gov.cn/xxgk/zc/qtwj/gsgg/202505/t20250523_5661047.html"
+          "url": "https://www.hbqj.gov.cn/xxgk/zc/qtwj/gsgg/202505/t20250523_5661047.html",
+          "attachments": [
+            {
+              "name": "2025年潜江市考试录用公务员拟录用人员名单.xlsx",
+              "url": "https://www.hbqj.gov.cn/xxgk/zc/qtwj/gsgg/202505/P020250523759120013450.xlsx",
+              "local": "attachments/429005/2025年潜江市考试录用公务员拟录用人员名单.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -1063,7 +1423,14 @@
           "headcount": 153,
           "positions": null,
           "source": "天门市委组织部（天门党建网）",
-          "url": "http://www.hbtmdj.gov.cn/tongzhigonggao/8727/"
+          "url": "http://www.hbtmdj.gov.cn/tongzhigonggao/8727/",
+          "attachments": [
+            {
+              "name": "2025年湖北天门市考试录用公务员拟录用人员公示名单.xls",
+              "url": "http://www.hbtmdj.gov.cn/uploadfile/20250524/20250524110305975.xls",
+              "local": "attachments/429006/2025年湖北天门市考试录用公务员拟录用人员公示名单.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -1079,6 +1446,11 @@
               "name": "天门市事业单位2025年统一公开招聘拟聘人员名单.xlsx",
               "url": "http://www.tianmen.gov.cn/zwgk/bmhxzxxgkml/bm/srlzyhshbzj/zfxxgk/fdzdgknr/zkly/202508/t20250818_5748630.shtml",
               "local": "attachments/429006/2025年天门市事业单位统一公开招聘拟聘人员名单.xlsx"
+            },
+            {
+              "name": "2025年天门市事业单位统一公开招聘工作人员拟聘人员名单.xlsx",
+              "url": "http://www.tianmen.gov.cn/zwgk/bmhxzxxgkml/bm/srlzyhshbzj/zfxxgk/fdzdgknr/zkly/202508/P020250818357440114126.xlsx",
+              "local": "attachments/429006/2025年天门市事业单位统一公开招聘工作人员拟聘人员名单.xlsx"
             }
           ]
         }
@@ -1119,7 +1491,14 @@
           "headcount": null,
           "positions": null,
           "source": "神农架林区党委组织部",
-          "url": "http://www.snj.gov.cn/zwgk/zc/zfbwj/gsgg/202505/t20250519_5655188.html"
+          "url": "http://www.snj.gov.cn/zwgk/zc/zfbwj/gsgg/202505/t20250519_5655188.html",
+          "attachments": [
+            {
+              "name": "2025年附件神农架林区考试录用公务员拟录用人员公示名单.xlsx",
+              "url": "http://www.snj.gov.cn/zwgk/zc/zfbwj/gsgg/202505/P020250519560586595853.xlsx",
+              "local": "attachments/429021/2025年附件神农架林区考试录用公务员拟录用人员公示名单.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -1135,6 +1514,11 @@
               "name": "神农架林区事业单位2025年统一公开招聘拟聘用人员名单.xlsx",
               "url": "http://rsj.snj.gov.cn/gsgg/202508/t20250801_5736335.shtml",
               "local": "attachments/429021/2025年神农架林区事业单位统一公开招聘拟聘用人员名单.xlsx"
+            },
+            {
+              "name": "2025年神农架林区事业单位统一公开招聘拟聘用人员名单(1).xlsx",
+              "url": "http://rsj.snj.gov.cn/gsgg/202508/P020250801391692857314.xlsx",
+              "local": "attachments/429021/2025年神农架林区事业单位统一公开招聘拟聘用人员名单(1).xlsx"
             }
           ]
         }

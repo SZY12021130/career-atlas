@@ -1,7 +1,7 @@
 {
   "adcode": 440000,
   "name": "广东省",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-02",
   "province": "广东省",
   "provincePortals": [
     {
@@ -83,7 +83,8 @@
           "positions": 12377,
           "source": "中共广东省委组织部、广东省人力资源和社会保障厅（广东组织工作网）",
           "url": "https://www.gdzz.gov.cn/tzgg/content/post_22222.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "公务员",
@@ -93,7 +94,8 @@
           "positions": null,
           "source": "中共广东省委组织部、广东省人力资源和社会保障厅（广州市人民政府门户网站发布）",
           "url": "https://www.gz.gov.cn/zwfw/zxfw/jyfw/content/post_10497463.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2026
         },
         {
           "category": "选调生",
@@ -109,7 +111,8 @@
               "url": "https://www.gdzz.gov.cn/public/2026%E5%B9%B4%E5%BA%A6%E9%80%89%E8%B0%83%E7%94%9F%E5%85%AC%E5%91%8A%E9%99%84%E4%BB%B6.zip",
               "local": "attachments/440100/2025年广东省2026年度选调优秀大学毕业生公告附件.zip"
             }
-          ]
+          ],
+          "year": 2026
         },
         {
           "category": "事业单位",
@@ -124,8 +127,34 @@
               "name": "2026年广州市人社局系统事业单位第一次公开招聘事业编制人员岗位需求表",
               "url": "https://rsj.gz.gov.cn/attachment/8/8027/8027278/10829332.xls",
               "local": "attachments/440100/2026年广州市人力资源和社会保障局系统事业单位第一次公开招聘事业编制人员岗位需求表.xls"
+            },
+            {
+              "name": "2026年广东省考试录用公务员专业参考目录.xls",
+              "url": "https://rsj.gz.gov.cn/attachment/8/8026/8026871/10829332.xls",
+              "local": "attachments/440100/2026年广东省考试录用公务员专业参考目录.xls"
+            },
+            {
+              "name": "广东广州报名指南.docx",
+              "url": "https://rsj.gz.gov.cn/attachment/8/8028/8028498/10829332.docx",
+              "local": "attachments/440100/广东广州报名指南.docx"
+            },
+            {
+              "name": "广东省事业单位公开招聘专业参考目录（技工院校）.docx",
+              "url": "https://rsj.gz.gov.cn/attachment/8/8026/8026872/10829332.docx",
+              "local": "attachments/440100/广东省事业单位公开招聘专业参考目录（技工院校）.docx"
+            },
+            {
+              "name": "2026年广东广州市人力资源和社会保障局系统事业单位第一次公开招聘事业编制人员招聘单位联系方式.xls",
+              "url": "https://rsj.gz.gov.cn/attachment/8/8026/8026874/10829332.xls",
+              "local": "attachments/440100/2026年广东广州市人力资源和社会保障局系统事业单位第一次公开招聘事业编制人员招聘单位联系方式.xls"
+            },
+            {
+              "name": "广东广州市事业单位招聘系统考生报考端常见问答.docx",
+              "url": "https://rsj.gz.gov.cn/attachment/8/8026/8026875/10829332.docx",
+              "local": "attachments/440100/广东广州市事业单位招聘系统考生报考端常见问答.docx"
             }
-          ]
+          ],
+          "year": 2026
         },
         {
           "category": "人才引进",
@@ -135,7 +164,24 @@
           "positions": null,
           "source": "广州市人力资源和社会保障局",
           "url": "https://rsj.gz.gov.cn/ywzt/rszdgg/sydwgkzp/sydwzpgg/content/post_10555286.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东广州市人力资源和社会保障局系统事业单位第一次引进高层次人才岗位需求表.xls",
+              "url": "https://rsj.gz.gov.cn/attachment/7/7932/7932472/10555286.xls",
+              "local": "attachments/440100/2025年广东广州市人力资源和社会保障局系统事业单位第一次引进高层次人才岗位需求表.xls"
+            },
+            {
+              "name": "2025年广东省考试录用公务员专业参考目录.pdf",
+              "url": "https://rsj.gz.gov.cn/attachment/7/7932/7932473/10555286.pdf",
+              "local": "attachments/440100/2025年广东省考试录用公务员专业参考目录.pdf"
+            },
+            {
+              "name": "2025年广东广州市人力资源和社会保障局系统事业单位第一次引进高层次人才联系方式.xls",
+              "url": "https://rsj.gz.gov.cn/attachment/7/7932/7932474/10555286.xls",
+              "local": "attachments/440100/2025年广东广州市人力资源和社会保障局系统事业单位第一次引进高层次人才联系方式.xls"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -145,7 +191,8 @@
           "positions": null,
           "source": "中共广州市海珠区委组织部",
           "url": "https://www.haizhu.gov.cn/hzdt/tzgg/zpxx/content/post_10809017.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -155,7 +202,8 @@
           "positions": null,
           "source": "广州市应急管理局",
           "url": "https://yjglj.gz.gov.cn/gkmlpt/content/10/10331/post_10331884.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         }
       ]
     },
@@ -195,7 +243,8 @@
           "positions": null,
           "source": "韶关市浈江区犁市镇人民政府",
           "url": "https://www.sgzj.gov.cn/zw/rszk/content/post_2734825.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -205,7 +254,8 @@
           "positions": null,
           "source": "韶关市人力资源和社会保障局",
           "url": "https://rsj.sg.gov.cn/ywzt/rsrc/sydw/content/post_2795716.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -215,7 +265,8 @@
           "positions": null,
           "source": "韶关市卫生健康局",
           "url": "https://rsj.sg.gov.cn/ywzt/rsrc/sydw/content/post_2797008.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -225,7 +276,8 @@
           "positions": null,
           "source": "韶关市教育局",
           "url": "https://rsj.sg.gov.cn/ywzt/rsrc/sydw/content/post_2796673.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -235,7 +287,8 @@
           "positions": null,
           "source": "韶关市人力资源和社会保障局",
           "url": "https://rsj.sg.gov.cn/ywzt/rsrc/sydw/content/post_2834981.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         }
       ]
     },
@@ -274,7 +327,8 @@
           "positions": null,
           "source": "中共深圳市委组织部",
           "url": "http://www.zzb.sz.gov.cn/notice/announcement/content/post_1649287.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2026
         },
         {
           "category": "选调生",
@@ -284,7 +338,8 @@
           "positions": null,
           "source": "中共深圳市委组织部（深圳先锋网）",
           "url": "http://www.zzb.sz.gov.cn/notice/announcement/content/post_1633576.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2026
         },
         {
           "category": "事业单位",
@@ -294,7 +349,8 @@
           "positions": null,
           "source": "深圳市商务局",
           "url": "http://commerce.sz.gov.cn/gkmlpt/content/12/12198/post_12198268.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -304,7 +360,8 @@
           "positions": null,
           "source": "深圳市人力资源和社会保障局",
           "url": "https://hrss.sz.gov.cn/xxgk/qt/tzgg/content/post_12259538.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -314,7 +371,8 @@
           "positions": null,
           "source": "中共深圳市坪山区委组织部",
           "url": "https://www.szpsq.gov.cn/psrlzyj/gkmlpt/content/12/12221/post_12221966.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -324,7 +382,8 @@
           "positions": null,
           "source": "深圳市退役军人事务局",
           "url": "https://tyjr.sz.gov.cn/gkmlpt/content/12/12221/post_12221981.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         }
       ]
     },
@@ -357,7 +416,14 @@
           "positions": null,
           "source": "珠海市人力资源和社会保障局",
           "url": "https://zhrsj.zhuhai.gov.cn/zw/tzgg/gzzk/content/post_3807249.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东附件：珠海市人力资源和社会保障局考试录用公务员拟录用人员名单（第一批）.xlsx",
+              "url": "https://zhrsj.zhuhai.gov.cn/attachment/0/407/407196/3807249.xlsx",
+              "local": "attachments/440400/2025年广东附件：珠海市人力资源和社会保障局考试录用公务员拟录用人员名单（第一批）.xlsx"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "公务员",
@@ -367,7 +433,8 @@
           "positions": null,
           "source": "珠海市公安局",
           "url": "https://ga.zhuhai.gov.cn/zwgk/gsgg/content/post_3807750.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -377,7 +444,29 @@
           "positions": null,
           "source": "中共珠海市委组织部",
           "url": "https://www.zhuhai.gov.cn/xw/gsgg/content/post_3848585.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年广东珠海市公开选聘干部队伍储备人才职位表.xls",
+              "url": "https://www.zhuhai.gov.cn/attachment/0/418/418279/3848585.xls",
+              "local": "attachments/440400/2026年广东珠海市公开选聘干部队伍储备人才职位表.xls"
+            },
+            {
+              "name": "2026年广东珠海市公开选聘干部队伍储备人才报名登记表.doc",
+              "url": "https://www.zhuhai.gov.cn/attachment/0/418/418278/3848585.doc",
+              "local": "attachments/440400/2026年广东珠海市公开选聘干部队伍储备人才报名登记表.doc"
+            },
+            {
+              "name": "广东珠海诚信报考承诺书.docx",
+              "url": "https://www.zhuhai.gov.cn/attachment/0/418/418670/3848585.docx",
+              "local": "attachments/440400/广东珠海诚信报考承诺书.docx"
+            },
+            {
+              "name": "广东珠海专业参考目录.xls",
+              "url": "https://www.zhuhai.gov.cn/attachment/0/418/418765/3848585.xls",
+              "local": "attachments/440400/广东珠海专业参考目录.xls"
+            }
+          ],
+          "year": 2026
         },
         {
           "category": "录用公示",
@@ -387,7 +476,8 @@
           "positions": null,
           "source": "中共珠海市委组织部",
           "url": "https://zhrsj.zhuhai.gov.cn/zw/tzgg/shgs/content/post_3914376.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2026
         }
       ]
     },
@@ -424,7 +514,8 @@
           "positions": null,
           "source": "汕头市市场监督管理局",
           "url": "https://www.shantou.gov.cn/stssjgj/gkmlpt/content/2/2446/post_2446314.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "公务员",
@@ -434,7 +525,14 @@
           "positions": null,
           "source": "汕头市人力资源和社会保障局",
           "url": "https://www.shantou.gov.cn/cnst/zwgk/jcxxgk/rsxx/zkly/content/post_2444516.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东汕头市人力资源和社会保障局考试录用公务员拟录用人员公示名单.doc",
+              "url": "https://www.shantou.gov.cn/attachment/0/135/135266/2444516.doc",
+              "local": "attachments/440500/2025年广东汕头市人力资源和社会保障局考试录用公务员拟录用人员公示名单.doc"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -444,7 +542,14 @@
           "positions": null,
           "source": "汕头市教育局",
           "url": "https://www.shantou.gov.cn/edu/ymys/tzgg/content/post_2486748.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "广东汕头附件下载.rar",
+              "url": "https://www.shantou.gov.cn/attachment/0/143/143607/2486748.rar",
+              "local": "attachments/440500/广东汕头附件下载.rar"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -454,7 +559,24 @@
           "positions": null,
           "source": "汕头市教育局、汕头市金山中学",
           "url": "https://www.shantou.gov.cn/stsrlsbj/gkmlpt/content/2/2435/post_2435230.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东汕头市教育局直属汕头市金山中学公开招聘教师岗位表.pdf",
+              "url": "https://www.shantou.gov.cn/stsrlsbj/attachment/0/132/132938/2435230.pdf",
+              "local": "attachments/440500/2025年广东汕头市教育局直属汕头市金山中学公开招聘教师岗位表.pdf"
+            },
+            {
+              "name": "广东省事业单位公开招聘人员报名表.doc",
+              "url": "https://www.shantou.gov.cn/stsrlsbj/attachment/0/132/132930/2435230.doc",
+              "local": "attachments/440500/广东省事业单位公开招聘人员报名表.doc"
+            },
+            {
+              "name": "2025年广东省考试录用公务员专业参考目录.xls",
+              "url": "https://www.shantou.gov.cn/stsrlsbj/attachment/0/132/132931/2435230.xls",
+              "local": "attachments/440500/2025年广东省考试录用公务员专业参考目录.xls"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -464,7 +586,8 @@
           "positions": null,
           "source": "汕头市南澳县云澳镇人民政府",
           "url": "https://www.nanao.gov.cn/stynya/gkmlpt/content/2/2443/post_2443798.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         }
       ]
     },
@@ -499,7 +622,8 @@
           "positions": null,
           "source": "佛山市卫生健康局",
           "url": "https://wjj.foshan.gov.cn/zwgk/rsxx/content/post_6607602.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "公务员",
@@ -509,7 +633,14 @@
           "positions": null,
           "source": "佛山市公安局",
           "url": "http://fsga.foshan.gov.cn/gkmlpt/content/6/6674/post_6674936.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东省佛山市公安局考试录用公务员拟录用名单（第三批）.xls",
+              "url": "http://fsga.foshan.gov.cn/attachment/0/557/557770/6674936.xls",
+              "local": "attachments/440600/2025年广东省佛山市公安局考试录用公务员拟录用名单（第三批）.xls"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -519,7 +650,8 @@
           "positions": null,
           "source": "佛山市人力资源和社会保障局",
           "url": "http://hrss.foshan.gov.cn/zwgk/jgsydwzl/content/post_6902330.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -529,7 +661,8 @@
           "positions": null,
           "source": "佛山市三水区教育局",
           "url": "https://www.ss.gov.cn/zwgk/rsxx/ryzl/content/post_6933573.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         }
       ]
     },
@@ -566,7 +699,8 @@
           "positions": null,
           "source": "江门市农业农村局",
           "url": "https://www.jiangmen.gov.cn/jmnyj/gkmlpt/content/3/3315/post_3315174.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "公务员",
@@ -576,7 +710,8 @@
           "positions": null,
           "source": "江门市公安局",
           "url": "https://www.jiangmen.gov.cn/jmgaj/gkmlpt/content/3/3321/post_3321963.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -586,7 +721,8 @@
           "positions": null,
           "source": "恩平市教育局",
           "url": "https://www.enping.gov.cn/jmepsrsj/gkmlpt/content/3/3301/post_3301125.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -596,7 +732,8 @@
           "positions": null,
           "source": "江门市卫生健康局",
           "url": "http://www.jiangmen.gov.cn/bmpd/jmsrlzyhshbzj/zwgk/gggs/content/post_3411289.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         }
       ]
     },
@@ -635,7 +772,8 @@
           "positions": null,
           "source": "中共广东省委组织部、广东省人力资源和社会保障厅（湛江市坡头区财政局转发）",
           "url": "https://www.ptq.gov.cn/zjptczj/gkmlpt/content/2/2119/post_2119600.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2026
         },
         {
           "category": "公务员",
@@ -645,7 +783,8 @@
           "positions": null,
           "source": "湛江市审计局",
           "url": "https://www.zhanjiang.gov.cn/sjj/gkmlpt/content/2/2054/post_2054366.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "公务员",
@@ -655,7 +794,14 @@
           "positions": null,
           "source": "湛江市财政局",
           "url": "https://www.zjsczj.zhanjiang.gov.cn/gkmlpt/content/2/2055/post_2055442.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东湛江市财政局考试录用公务员拟录用人员公示名单.xlsx",
+              "url": "http://zjsczj.zhanjiang.gov.cn/attachment/0/254/254261/2055442.xlsx",
+              "local": "attachments/440800/2025年广东湛江市财政局考试录用公务员拟录用人员公示名单.xlsx"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -665,7 +811,24 @@
           "positions": null,
           "source": "湛江市教育局",
           "url": "https://www.zhanjiang.gov.cn/zhjedu/gkmlpt/content/2/2048/post_2048493.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年《广东省事业单位集中公开招聘高校毕业生湛江市市直公办学校面试地点》.docx",
+              "url": "https://www.zhanjiang.gov.cn/zhjedu/attachment/0/253/253309/2048493.docx",
+              "local": "attachments/440800/2025年《广东省事业单位集中公开招聘高校毕业生湛江市市直公办学校面试地点》.docx"
+            },
+            {
+              "name": "2025年《广东省事业单位集中公开招聘高校毕业生湛江市市直公办学校入围面试人员名单》.xlsx",
+              "url": "https://www.zhanjiang.gov.cn/zhjedu/attachment/0/253/253308/2048493.xlsx",
+              "local": "attachments/440800/2025年《广东省事业单位集中公开招聘高校毕业生湛江市市直公办学校入围面试人员名单》.xlsx"
+            },
+            {
+              "name": "广东湛江《面试考生须知》.docx",
+              "url": "https://www.zhanjiang.gov.cn/zhjedu/attachment/0/253/253307/2048493.docx",
+              "local": "attachments/440800/广东湛江《面试考生须知》.docx"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -675,7 +838,34 @@
           "positions": null,
           "source": "湛江市人力资源和社会保障局",
           "url": "https://www.zhanjiang.gov.cn/zwgk/rsxx/gkzl/content/post_2125139.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东湛江市事业单位公开招聘高层次人才岗位表.xls",
+              "url": "https://www.zhanjiang.gov.cn/attachment/0/267/267609/2125139.xls",
+              "local": "attachments/440800/2025年广东湛江市事业单位公开招聘高层次人才岗位表.xls"
+            },
+            {
+              "name": "2025年广东湛江市事业单位公开招聘高层次人才报名邮箱、联系电话.xls",
+              "url": "https://www.zhanjiang.gov.cn/attachment/0/267/267610/2125139.xls",
+              "local": "attachments/440800/2025年广东湛江市事业单位公开招聘高层次人才报名邮箱、联系电话.xls"
+            },
+            {
+              "name": "广东湛江报考指南.docx",
+              "url": "https://www.zhanjiang.gov.cn/attachment/0/267/267611/2125139.docx",
+              "local": "attachments/440800/广东湛江报考指南.docx"
+            },
+            {
+              "name": "广东省事业单位公开招聘人员报名表.doc",
+              "url": "https://www.zhanjiang.gov.cn/attachment/0/267/267612/2125139.doc",
+              "local": "attachments/440800/广东省事业单位公开招聘人员报名表.doc"
+            },
+            {
+              "name": "2025年广东省考试录用公务员专业参考目录.xls",
+              "url": "https://www.zhanjiang.gov.cn/attachment/0/267/267613/2125139.xls",
+              "local": "attachments/440800/2025年广东省考试录用公务员专业参考目录.xls"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "选调生",
@@ -685,7 +875,8 @@
           "positions": null,
           "source": "湛江市审计局",
           "url": "https://www.zhanjiang.gov.cn/sjj/gkmlpt/content/2/2026/post_2026390.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         }
       ]
     },
@@ -720,7 +911,8 @@
           "positions": null,
           "source": "茂名市农业农村局",
           "url": "http://mmny.maoming.gov.cn/gkmlpt/content/1/1487/post_1487140.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "公务员",
@@ -730,7 +922,14 @@
           "positions": null,
           "source": "茂名市科学技术局",
           "url": "http://kjj.maoming.gov.cn/gkmlpt/content/1/1487/post_1487062.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "广东茂名doc.doc",
+              "url": "http://kjj.maoming.gov.cn/attachment/0/179/179742/1487062.doc",
+              "local": "attachments/440900/广东茂名doc.doc"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -740,7 +939,24 @@
           "positions": null,
           "source": "茂名市人力资源和社会保障局",
           "url": "http://mmrs.maoming.gov.cn/gkmlpt/content/1/1473/post_1473905.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东省事业单位集中公开招聘高校毕业生茂名市招聘岗位入围资格复审人员名单.xlsx",
+              "url": "http://mmrs.maoming.gov.cn/attachment/0/176/176928/1473905.xlsx",
+              "local": "attachments/440900/2025年广东省事业单位集中公开招聘高校毕业生茂名市招聘岗位入围资格复审人员名单.xlsx"
+            },
+            {
+              "name": "广东茂名应聘人员诚信承诺书.doc",
+              "url": "http://mmrs.maoming.gov.cn/attachment/0/176/176872/1473905.doc",
+              "local": "attachments/440900/广东茂名应聘人员诚信承诺书.doc"
+            },
+            {
+              "name": "2025年广东省事业单位集中公开招聘高校毕业生茂名市招聘岗位资格复审单位联系电话地址等一览表.xlsx",
+              "url": "http://mmrs.maoming.gov.cn/attachment/0/176/176874/1473905.xlsx",
+              "local": "attachments/440900/2025年广东省事业单位集中公开招聘高校毕业生茂名市招聘岗位资格复审单位联系电话地址等一览表.xlsx"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -750,7 +966,8 @@
           "positions": null,
           "source": "茂名市电白区人力资源和社会保障局",
           "url": "http://www.dianbai.gov.cn/mmdbrlzyj/gkmlpt/content/1/1407/post_1407618.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         }
       ]
     },
@@ -788,7 +1005,8 @@
           "positions": null,
           "source": "中共肇庆市高要区委组织部",
           "url": "https://www.gaoyao.gov.cn/xwzx/rsxx/gwyzk/content/post_3125637.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -798,7 +1016,8 @@
           "positions": null,
           "source": "肇庆市人力资源和社会保障局",
           "url": "https://www.zhaoqing.gov.cn/zqrsj/gkmlpt/content/3/3146/post_3146606.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -808,7 +1027,14 @@
           "positions": null,
           "source": "肇庆市人力资源和社会保障局",
           "url": "https://www.zhaoqing.gov.cn/zqrsj/gkmlpt/content/3/3166/post_3166891.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东下半年肇庆市高层次人才培养发展中心公开招聘岗位表.xls",
+              "url": "https://www.zhaoqing.gov.cn/zqrsj/attachment/0/281/281899/3166891.xls",
+              "local": "attachments/441200/2025年广东下半年肇庆市高层次人才培养发展中心公开招聘岗位表.xls"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -818,7 +1044,8 @@
           "positions": null,
           "source": "肇庆市政务服务和数据管理局",
           "url": "https://www.zhaoqing.gov.cn/xxgk/zwzx/gggs/content/post_3161777.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         }
       ]
     },
@@ -853,7 +1080,19 @@
           "positions": null,
           "source": "惠州市卫生健康局",
           "url": "https://www.huizhou.gov.cn/zwgk/rsxx/sydwzp/content/post_5650702.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东附件：1.“百万英才汇南粤”——惠州市市直医疗单位公开招聘高层次和急需紧缺人才岗位表.pdf",
+              "url": "http://www.huizhou.gov.cn/attachment/0/326/326316/5650702.pdf",
+              "local": "attachments/441300/2025年广东附件：1.“百万英才汇南粤”——惠州市市直医疗单位公开招聘高层次和急需紧缺人才岗位表.pdf"
+            },
+            {
+              "name": "广东省事业单位公开招聘人员报名表.docx",
+              "url": "http://www.huizhou.gov.cn/attachment/0/326/326317/5650702.docx",
+              "local": "attachments/441300/广东省事业单位公开招聘人员报名表.docx"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -863,7 +1102,14 @@
           "positions": null,
           "source": "惠州市惠阳区人力资源和社会保障局",
           "url": "https://www.huiyang.gov.cn/hzhyrsj/gkmlpt/content/5/5650/mpost_5650815.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东惠州百万英才汇南粤——惠阳区事业单位公开招聘急需紧缺人才岗位表.xlsx",
+              "url": "http://www.huiyang.gov.cn/hzhyrsj/attachment/0/326/326487/5650815.xlsx",
+              "local": "attachments/441300/2025年广东惠州百万英才汇南粤——惠阳区事业单位公开招聘急需紧缺人才岗位表.xlsx"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "公务员",
@@ -873,7 +1119,14 @@
           "positions": null,
           "source": "中共惠州市惠城区委组织部",
           "url": "http://www.hcq.gov.cn/zwgk/tzgg/content/post_5670668.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东附件：惠州市惠城区考试录用公务员拟录用任员公示名单.xls",
+              "url": "http://www.hcq.gov.cn/attachment/0/330/330194/5670668.xls",
+              "local": "attachments/441300/2025年广东附件：惠州市惠城区考试录用公务员拟录用任员公示名单.xls"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -883,7 +1136,19 @@
           "positions": null,
           "source": "惠州市教育局",
           "url": "http://jyj.huizhou.gov.cn/gkmlpt/content/5/5677/post_5677316.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东省事业单位集中公开招聘高层次和急需紧缺人才（第三轮滚动招聘）惠州卫生职业技术学院直接业务考核考生须知.docx",
+              "url": "http://jyj.huizhou.gov.cn/attachment/0/330/330326/5677316.docx",
+              "local": "attachments/441300/2025年广东省事业单位集中公开招聘高层次和急需紧缺人才（第三轮滚动招聘）惠州卫生职业技术学院直接业务考核考生须知.docx"
+            },
+            {
+              "name": "2025年广东省事业单位集中公开招聘高层次和急需紧缺人才（第三轮滚动招聘）惠州市教育局下属事业单位直接业务考核人员名单.pdf",
+              "url": "http://jyj.huizhou.gov.cn/attachment/0/330/330325/5677316.pdf",
+              "local": "attachments/441300/2025年广东省事业单位集中公开招聘高层次和急需紧缺人才（第三轮滚动招聘）惠州市教育局下属事业单位直接业务考核人员名单.pdf"
+            }
+          ],
+          "year": 2025
         }
       ]
     },
@@ -921,7 +1186,8 @@
           "positions": null,
           "source": "中共梅州市委组织部、梅州市人力资源和社会保障局",
           "url": "https://www.meizhou.gov.cn/hrssgk/gkmlpt/content/2/2779/post_2779525.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "公务员",
@@ -931,7 +1197,8 @@
           "positions": null,
           "source": "梅州市发展和改革局",
           "url": "https://www.meizhou.gov.cn/zwgk/zfjg/sfzhggj/gggs/content/post_2783200.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "公务员",
@@ -941,7 +1208,14 @@
           "positions": null,
           "source": "大埔县光德镇人民政府",
           "url": "https://www.dabu.gov.cn/mzdpgdzzf/gkmlpt/content/2/2780/post_2780224.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东省考试录用公务员大埔县光德镇人民政府拟录用人员名单.xlsx",
+              "url": "https://www.dabu.gov.cn/mzdpgdzzf/attachment/0/215/215332/2780224.xlsx",
+              "local": "attachments/441400/2025年广东省考试录用公务员大埔县光德镇人民政府拟录用人员名单.xlsx"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -951,7 +1225,8 @@
           "positions": null,
           "source": "梅州市梅江区人力资源和社会保障局",
           "url": "https://www.meijiang.gov.cn/mjmjrlzyj/gkmlpt/content/2/2749/post_2749524.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         }
       ]
     },
@@ -985,7 +1260,19 @@
           "positions": null,
           "source": "汕尾市人力资源和社会保障局",
           "url": "https://www.shanwei.gov.cn/swrsj/ztzl/rsks/sydwzp/content/post_1145915.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东省汕尾市公开招聘事业单位工作人员岗位表.xls",
+              "url": "http://www.shanwei.gov.cn/attachment/0/70/70756/1145915.xls",
+              "local": "attachments/441500/2025年广东省汕尾市公开招聘事业单位工作人员岗位表.xls"
+            },
+            {
+              "name": "2025年广东省考试录用公务员专业参考目录.xls",
+              "url": "http://www.shanwei.gov.cn/attachment/0/70/70757/1145915.xls",
+              "local": "attachments/441500/2025年广东省考试录用公务员专业参考目录.xls"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "公务员",
@@ -995,7 +1282,14 @@
           "positions": null,
           "source": "中共汕尾市城区委组织部",
           "url": "https://www.swchengqu.gov.cn/gkmlpt/content/1/1155/post_1155200.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东省考试录用公务员汕尾市城区拟录用人员名单（第一批）.xlsx",
+              "url": "http://www.swchengqu.gov.cn/attachment/0/72/72120/1155200.xlsx",
+              "local": "attachments/441500/2025年广东省考试录用公务员汕尾市城区拟录用人员名单（第一批）.xlsx"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "公务员",
@@ -1005,7 +1299,14 @@
           "positions": null,
           "source": "汕尾市人力资源和社会保障局",
           "url": "https://www.shanwei.gov.cn/swsrsj/gkmlpt/content/1/1234/post_1234225.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年广东省考试录用公务员汕尾市人力资源和社会保障局拟录用人员名单.xlsx",
+              "url": "http://www.shanwei.gov.cn/swsrsj/attachment/0/83/83262/1234225.xlsx",
+              "local": "attachments/441500/2026年广东省考试录用公务员汕尾市人力资源和社会保障局拟录用人员名单.xlsx"
+            }
+          ],
+          "year": 2026
         },
         {
           "category": "事业单位",
@@ -1015,7 +1316,8 @@
           "positions": null,
           "source": "汕尾市城区教育局",
           "url": "http://www.swchengqu.gov.cn/swcqjyj/gkmlpt/content/1/1158/post_1158510.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         }
       ]
     },
@@ -1051,7 +1353,14 @@
           "positions": null,
           "source": "河源市人力资源和社会保障局",
           "url": "http://www.heyuan.gov.cn/bmjy/hysrlzyhshbzj/gggs/content/post_705499.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年广东河源市事业单位公开招聘岗位表.xlsx",
+              "url": "http://www.heyuan.gov.cn/attachment/0/117/117560/705499.xlsx",
+              "local": "attachments/441600/2026年广东河源市事业单位公开招聘岗位表.xlsx"
+            }
+          ],
+          "year": 2026
         },
         {
           "category": "公务员",
@@ -1061,7 +1370,14 @@
           "positions": null,
           "source": "河源市司法局",
           "url": "http://www.heyuan.gov.cn/hyssfj/gkmlpt/content/0/658/post_658696.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东河源拟录用人员名单.xls",
+              "url": "http://www.heyuan.gov.cn/hyssfj/attachment/0/100/100693/658696.xls",
+              "local": "attachments/441600/2025年广东河源拟录用人员名单.xls"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "公务员",
@@ -1071,7 +1387,14 @@
           "positions": null,
           "source": "中共河源市纪律检查委员会、河源市监察委员会",
           "url": "http://www.heyuan.gov.cn/zwgk/ztzl/gwyzkxx/content/post_657174.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东河源市纪委监委考试录用公务员拟录用人员名单.xlsx",
+              "url": "http://www.heyuan.gov.cn/attachment/0/100/100062/657174.xlsx",
+              "local": "attachments/441600/2025年广东河源市纪委监委考试录用公务员拟录用人员名单.xlsx"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -1081,7 +1404,8 @@
           "positions": null,
           "source": "河源市人力资源和社会保障局",
           "url": "http://www.heyuan.gov.cn/bmjy/hysrlzyhshbzj/gggs/content/post_672706.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -1091,7 +1415,8 @@
           "positions": null,
           "source": "东源县教育局",
           "url": "http://www.gddongyuan.gov.cn/dyzw/zfgs/content/post_672351.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         }
       ]
     },
@@ -1125,7 +1450,14 @@
           "positions": null,
           "source": "阳江市人力资源和社会保障局",
           "url": "http://www.yangjiang.gov.cn/yjrsj/gkmlpt/content/0/865/post_865049.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东阳江市社会保险基金管理局海陵分局考试录用公务员拟录用人员名单.xlsx",
+              "url": "http://www.yangjiang.gov.cn/yjrsj/attachment/0/72/72820/865049.xlsx",
+              "local": "attachments/441700/2025年广东阳江市社会保险基金管理局海陵分局考试录用公务员拟录用人员名单.xlsx"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -1135,7 +1467,14 @@
           "positions": null,
           "source": "阳江市教育局",
           "url": "http://www.yangjiang.gov.cn/yjjyj/gkmlpt/content/0/867/mpost_867560.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "广东阳江公开招聘岗位表.xlsx",
+              "url": "http://www.yangjiang.gov.cn/yjjyj/attachment/0/73/73272/867560.xlsx",
+              "local": "attachments/441700/广东阳江公开招聘岗位表.xlsx"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -1145,7 +1484,8 @@
           "positions": null,
           "source": "阳江市人力资源和社会保障局",
           "url": "http://www.yangjiang.gov.cn/zwgk/ywdt/gggs/content/post_909168.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -1155,7 +1495,14 @@
           "positions": null,
           "source": "阳江市卫生健康局",
           "url": "http://www.yangjiang.gov.cn/yjwsj/gkmlpt/content/0/841/post_841396.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "广东阳江市市直卫生健康单位公开引进高层次（急需紧缺）人才岗位表.wps",
+              "url": "http://www.yangjiang.gov.cn/yjwsj/attachment/0/68/68171/841396.wps",
+              "local": "attachments/441700/广东阳江市市直卫生健康单位公开引进高层次（急需紧缺）人才岗位表.wps"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -1165,7 +1512,8 @@
           "positions": null,
           "source": "阳江市阳东区人力资源和社会保障局",
           "url": "http://www.yangdong.gov.cn/yjydrsj/gkmlpt/content/0/975/post_975559.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         }
       ]
     },
@@ -1203,7 +1551,8 @@
           "positions": null,
           "source": "清远市卫生健康局",
           "url": "http://www.gdqy.gov.cn/qywsj/gkmlpt/content/2/2022/post_2022771.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "公务员",
@@ -1213,7 +1562,8 @@
           "positions": null,
           "source": "中共连山壮族瑶族自治县委组织部",
           "url": "http://www.gdls.gov.cn/gkmlpt/content/2/2020/post_2020147.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -1223,7 +1573,8 @@
           "positions": null,
           "source": "清远市人力资源和社会保障局",
           "url": "http://www.gdqy.gov.cn/xxgk/zzjg/zfjg/srlzyhshbz/zhzx/tzgg/content/post_2006701.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -1233,7 +1584,14 @@
           "positions": null,
           "source": "清远市清城区人力资源和社会保障局",
           "url": "http://www.qingcheng.gov.cn/qyqcrsj/gkmlpt/content/2/2071/post_2071704.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东清远市清城区下半年公开招聘事业单位工作人员岗位表.xlsx",
+              "url": "http://www.qingcheng.gov.cn/qyqcrsj/attachment/0/190/190095/2071704.xlsx",
+              "local": "attachments/441800/2025年广东清远市清城区下半年公开招聘事业单位工作人员岗位表.xlsx"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -1243,7 +1601,8 @@
           "positions": null,
           "source": "清远市人才储备中心",
           "url": "https://www.gdqy.gov.cn/qyrlzybzj/gkmlpt/content/2/2067/post_2067312.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         }
       ]
     },
@@ -1272,7 +1631,8 @@
           "positions": null,
           "source": "东莞市教育局",
           "url": "http://edu.dg.gov.cn/gkmlpt/content/4/4393/post_4393128.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "公务员",
@@ -1282,7 +1642,8 @@
           "positions": null,
           "source": "东莞市东城街道办事处",
           "url": "http://www.dg.gov.cn/dgdcjd/gkmlpt/content/4/4396/post_4396109.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -1292,7 +1653,8 @@
           "positions": null,
           "source": "东莞市卫生健康局",
           "url": "http://dghb.dg.gov.cn/gkmlpt/content/4/4365/post_4365601.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -1302,7 +1664,14 @@
           "positions": null,
           "source": "东莞市卫生健康局",
           "url": "http://dghb.dg.gov.cn/gkmlpt/content/4/4442/post_4442442.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东东莞市公立医院集中公开招聘高层次和急需紧缺人才岗位表.xlsx",
+              "url": "http://dghb.dg.gov.cn/attachment/0/363/363357/4442442.xlsx",
+              "local": "attachments/441900/2025年广东东莞市公立医院集中公开招聘高层次和急需紧缺人才岗位表.xlsx"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -1312,7 +1681,8 @@
           "positions": null,
           "source": "东莞市卫生健康局",
           "url": "http://dghb.dg.gov.cn/gkmlpt/content/4/4566/post_4566172.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         }
       ]
     },
@@ -1341,7 +1711,24 @@
           "positions": null,
           "source": "中共广东省委组织部（中山市人力资源和社会保障局转发）",
           "url": "http://hrss.zs.gov.cn/tzgg/gggs/content/post_2570932.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年广东中山市选调优秀大学毕业生职位表.xlsx",
+              "url": "http://hrss.zs.gov.cn/attachment/0/554/554285/2570932.xlsx",
+              "local": "attachments/442000/2026年广东中山市选调优秀大学毕业生职位表.xlsx"
+            },
+            {
+              "name": "2026年广东中山市各选调单位咨询电话.xlsx",
+              "url": "http://hrss.zs.gov.cn/attachment/0/554/554286/2570932.xlsx",
+              "local": "attachments/442000/2026年广东中山市各选调单位咨询电话.xlsx"
+            },
+            {
+              "name": "2026年广东中山选调生公告6.zip",
+              "url": "http://hrss.zs.gov.cn/attachment/0/554/554295/2570932.zip",
+              "local": "attachments/442000/2026年广东中山选调生公告6.zip"
+            }
+          ],
+          "year": 2026
         },
         {
           "category": "公务员",
@@ -1351,7 +1738,8 @@
           "positions": null,
           "source": "中山市人力资源和社会保障局",
           "url": "http://hrss.zs.gov.cn/tzgg/gggs/content/post_2522023.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "公务员",
@@ -1361,7 +1749,8 @@
           "positions": null,
           "source": "中山市司法局",
           "url": "https://www.zs.gov.cn/zssfj/gkmlpt/content/2/2523/post_2523715.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -1371,7 +1760,14 @@
           "positions": null,
           "source": "中山市卫生健康局",
           "url": "http://hrss.zs.gov.cn/tzgg/gggs/content/post_2559802.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东中山市卫生健康局所属事业单位公开招聘事业单位人员岗位表.pdf",
+              "url": "http://hrss.zs.gov.cn/attachment/0/550/550993/2559802.pdf",
+              "local": "attachments/442000/2025年广东中山市卫生健康局所属事业单位公开招聘事业单位人员岗位表.pdf"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -1381,7 +1777,14 @@
           "positions": null,
           "source": "中山市科学技术协会",
           "url": "http://hrss.zs.gov.cn/tp/gab/gsgg/content/post_2569122.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东中山市科学技术协会所属事业单位公开招聘事业单位人员岗位表.pdf",
+              "url": "http://hrss.zs.gov.cn/attachment/0/553/553891/2569122.pdf",
+              "local": "attachments/442000/2025年广东中山市科学技术协会所属事业单位公开招聘事业单位人员岗位表.pdf"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -1391,7 +1794,8 @@
           "positions": null,
           "source": "中山市科学技术局",
           "url": "http://kj.zs.gov.cn/gkmlpt/content/2/2563/post_2563550.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         }
       ]
     },
@@ -1424,7 +1828,8 @@
           "positions": null,
           "source": "潮州市卫生健康局",
           "url": "https://www.chaozhou.gov.cn/czwjj/gkmlpt/content/3/3950/post_3950548.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "公务员",
@@ -1434,7 +1839,8 @@
           "positions": null,
           "source": "中共潮州市潮安区委组织部",
           "url": "https://www.chaoan.gov.cn/zwgk/gsgg/content/post_3950068.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -1444,7 +1850,8 @@
           "positions": null,
           "source": "潮州市教育局",
           "url": "https://www.chaozhou.gov.cn/czjyj/gkmlpt/content/3/3946/post_3946485.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -1454,7 +1861,8 @@
           "positions": null,
           "source": "潮州市档案馆",
           "url": "https://www.chaozhou.gov.cn/zwgk/szfgz/srlzy/tzgg/content/post_4001846.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2026
         }
       ]
     },
@@ -1489,7 +1897,8 @@
           "positions": null,
           "source": "揭阳市人力资源和社会保障局",
           "url": "http://www.jieyang.gov.cn/rsj/ksxx/content/post_996687.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2026
         },
         {
           "category": "公务员",
@@ -1499,7 +1908,14 @@
           "positions": null,
           "source": "揭阳市农业农村局",
           "url": "http://www.jieyang.gov.cn/jynyj/gkmlpt/content/0/948/post_948620.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东附件-揭阳市农业农村局拟录用公务员对象名单.xls",
+              "url": "http://www.jieyang.gov.cn/jynyj/attachment/0/151/151533/948620.xls",
+              "local": "attachments/445200/2025年广东附件-揭阳市农业农村局拟录用公务员对象名单.xls"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -1509,7 +1925,8 @@
           "positions": null,
           "source": "揭阳市人力资源和社会保障局",
           "url": "http://www.jieyang.gov.cn/rsj/ksxx/content/post_950539.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "人才引进",
@@ -1519,7 +1936,14 @@
           "positions": null,
           "source": "揭阳市人力资源和社会保障局、揭阳市卫生健康局",
           "url": "http://www.jieyang.gov.cn/jyrsj/gkmlpt/content/0/990/post_990230.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "广东揭阳市2025年下半年和2026年上半年引进基层医疗卫生急需紧缺人才招聘岗位计划表.xls",
+              "url": "http://www.jieyang.gov.cn/jyrsj/attachment/0/161/161428/990230.xls",
+              "local": "attachments/445200/广东揭阳市2025年下半年和2026年上半年引进基层医疗卫生急需紧缺人才招聘岗位计划表.xls"
+            }
+          ],
+          "year": 2025
         }
       ]
     },
@@ -1554,7 +1978,14 @@
           "positions": null,
           "source": "云浮市公安局",
           "url": "https://www.yunfu.gov.cn/yfgaj/gkmlpt/content/1/1933/post_1933274.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年广东附件：云浮市考试录用公务员公安机关职位拟录人员第二批名单.xlsx",
+              "url": "https://www.yunfu.gov.cn/yfgaj/attachment/0/112/112612/1933274.xlsx",
+              "local": "attachments/445300/2025年广东附件：云浮市考试录用公务员公安机关职位拟录人员第二批名单.xlsx"
+            }
+          ],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -1564,7 +1995,8 @@
           "positions": null,
           "source": "云浮市卫生健康局",
           "url": "https://www.yunfu.gov.cn/yfwsj/gkmlpt/content/1/1934/post_1934440.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "事业单位",
@@ -1574,7 +2006,8 @@
           "positions": null,
           "source": "云浮市教育局",
           "url": "https://www.yunfu.gov.cn/jyj/tzgg/content/post_1947894.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         },
         {
           "category": "录用公示",
@@ -1584,7 +2017,8 @@
           "positions": null,
           "source": "云浮市卫生健康局",
           "url": "https://www.yunfu.gov.cn/yfwsj/gkmlpt/content/1/1943/post_1943204.html",
-          "attachments": []
+          "attachments": [],
+          "year": 2025
         }
       ]
     }

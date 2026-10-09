@@ -4,3 +4,5 @@ dist
 .vite
 fix-width.ps1
 *.log
+# 采集管线的断点续传状态与运行报告（不入库）
+scripts/.state/

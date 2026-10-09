@@ -1,7 +1,7 @@
 {
   "adcode": 210000,
   "name": "辽宁省",
-  "updatedAt": "2026-02-27",
+  "updatedAt": "2026-10-02",
   "provincePortals": [
     {
       "category": "公务员",
@@ -93,7 +93,13 @@
           "positions": null,
           "source": "沈阳市考试院",
           "url": "https://www.sysksy.cn/ksdt/ksdt/202506/t20250627_4869605.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年度辽宁省考试录用公务员沈阳考区拟录用人员名单（第一批）.xls",
+              "url": "https://www.sysksy.cn/ksdt/ksdt/202506/P020250627581956523239.xls",
+              "local": "attachments/210100/2025年度辽宁省考试录用公务员沈阳考区拟录用人员名单（第一批）.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -167,7 +173,28 @@
           "positions": null,
           "source": "大连市人力资源和社会保障局",
           "url": "https://rsj.dl.gov.cn/art/2025/8/5/art_4341_2455301.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年辽宁省事业单位集中面向社会公开招聘报考大连市事业单位拟聘人员名单（综合类）.xlsx",
+              "url": "https://rsj.dl.gov.cn/module/download/downfile.jsp?classid=0&showname=%E9%99%84%E4%BB%B61%EF%BC%9A2025%E5%B9%B4%E8%BE%BD%E5%AE%81%E7%9C%81%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E9%9B%86%E4%B8%AD%E9%9D%A2%E5%90%91%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E6%8A%A5%E8%80%83%E5%A4%A7%E8%BF%9E%E5%B8%82%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%8B%9F%E8%81%98%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%88%E7%BB%BC%E5%90%88%E7%B1%BB%EF%BC%89.xlsx&filename=45ebd1e368b84eab89960e5d594ebed5.xlsx",
+              "local": "attachments/210200/2025年辽宁省事业单位集中面向社会公开招聘报考大连市事业单位拟聘人员名单（综合类）.xlsx"
+            },
+            {
+              "name": "2025年辽宁省事业单位集中面向社会公开招聘报考大连市事业单位拟聘人员名单（教育类）.xlsx",
+              "url": "https://rsj.dl.gov.cn/module/download/downfile.jsp?classid=0&showname=%E9%99%84%E4%BB%B62%EF%BC%9A2025%E5%B9%B4%E8%BE%BD%E5%AE%81%E7%9C%81%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E9%9B%86%E4%B8%AD%E9%9D%A2%E5%90%91%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E6%8A%A5%E8%80%83%E5%A4%A7%E8%BF%9E%E5%B8%82%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%8B%9F%E8%81%98%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%88%E6%95%99%E8%82%B2%E7%B1%BB%EF%BC%89.xlsx&filename=fc92c8743eff4c39acfd43e3f3fd36b0.xlsx",
+              "local": "attachments/210200/2025年辽宁省事业单位集中面向社会公开招聘报考大连市事业单位拟聘人员名单（教育类）.xlsx"
+            },
+            {
+              "name": "2025年辽宁省事业单位集中面向社会公开招聘报考大连市事业单位拟聘人员名单（医疗卫生类）.xlsx",
+              "url": "https://rsj.dl.gov.cn/module/download/downfile.jsp?classid=0&showname=%E9%99%84%E4%BB%B63%EF%BC%9A2025%E5%B9%B4%E8%BE%BD%E5%AE%81%E7%9C%81%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E9%9B%86%E4%B8%AD%E9%9D%A2%E5%90%91%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E6%8A%A5%E8%80%83%E5%A4%A7%E8%BF%9E%E5%B8%82%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%8B%9F%E8%81%98%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%88%E5%8C%BB%E7%96%97%E5%8D%AB%E7%94%9F%E7%B1%BB%EF%BC%89.xlsx&filename=563d2b83895f4b44bbb984e4a03597ed.xlsx",
+              "local": "attachments/210200/2025年辽宁省事业单位集中面向社会公开招聘报考大连市事业单位拟聘人员名单（医疗卫生类）.xlsx"
+            },
+            {
+              "name": "2025年辽宁省事业单位集中面向社会公开招聘报考大连市事业单位拟聘人员名单（表演类）.xls",
+              "url": "https://rsj.dl.gov.cn/module/download/downfile.jsp?classid=0&showname=%E9%99%84%E4%BB%B64%EF%BC%9A2025%E5%B9%B4%E8%BE%BD%E5%AE%81%E7%9C%81%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E9%9B%86%E4%B8%AD%E9%9D%A2%E5%90%91%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E6%8A%A5%E8%80%83%E5%A4%A7%E8%BF%9E%E5%B8%82%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%8B%9F%E8%81%98%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%88%E8%A1%A8%E6%BC%94%E7%B1%BB%EF%BC%89.xls&filename=57aebceb204e473389e1aa0bef317d48.xls",
+              "local": "attachments/210200/2025年辽宁省事业单位集中面向社会公开招聘报考大连市事业单位拟聘人员名单（表演类）.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -178,7 +205,13 @@
           "positions": null,
           "source": "大连市人力资源和社会保障局",
           "url": "https://rsj.dl.gov.cn/art/2025/8/25/art_4341_2458674.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年辽宁省事业单位集中面向社会公开招聘报考大连市事业单位拟聘人员名单（第二批）.xlsx",
+              "url": "https://rsj.dl.gov.cn/module/download/downfile.jsp?classid=0&showname=%E9%99%84%E4%BB%B6%EF%BC%9A2025%E5%B9%B4%E8%BE%BD%E5%AE%81%E7%9C%81%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E9%9B%86%E4%B8%AD%E9%9D%A2%E5%90%91%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E6%8A%A5%E8%80%83%E5%A4%A7%E8%BF%9E%E5%B8%82%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%8B%9F%E8%81%98%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%88%E7%AC%AC%E4%BA%8C%E6%89%B9%EF%BC%89.xlsx&filename=f0a27083a82d4656b11e9a388e31d0e9.xlsx",
+              "local": "attachments/210200/2025年辽宁省事业单位集中面向社会公开招聘报考大连市事业单位拟聘人员名单（第二批）.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -211,23 +244,35 @@
           "year": 2025,
           "category": "录用公示",
           "title": "2025年度辽宁省考试录用公务员鞍山考区拟录用人员公告（第一批）",
-          "date": null,
+          "date": "2025-06-27",
           "headcount": null,
           "positions": null,
           "source": "中共鞍山市委组织部（鞍山市人力资源和社会保障局）",
           "url": "http://rsj.anshan.gov.cn/html/RSJ/202506/0175101343619873.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年度辽宁省考试录用公务员鞍山市拟录用人选名单（第一批）.xls",
+              "url": "http://files.anshan.gov.cn/files/ueditor/RSJ/jsp/upload/file/20250627/1751015168215034087.xls",
+              "local": "attachments/210300/2025年度辽宁省考试录用公务员鞍山市拟录用人选名单（第一批）.xls"
+            }
+          ]
         },
         {
           "year": 2025,
           "category": "录用公示",
           "title": "2025年度辽宁省考试录用公务员鞍山考区拟录用人员公告（第二批）",
-          "date": null,
+          "date": "2025-07-11",
           "headcount": null,
           "positions": null,
           "source": "中共鞍山市委组织部（鞍山市人力资源和社会保障局）",
           "url": "http://rsj.anshan.gov.cn/html/RSJ/202507/0175222400410640.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年辽宁省考试录用公务员鞍山市拟录用人选名单（第二批）.xls",
+              "url": "http://files.anshan.gov.cn/files/ueditor/RSJ/jsp/upload/file/20250711/1752225466861065851.xls",
+              "local": "attachments/210300/2025年辽宁省考试录用公务员鞍山市拟录用人选名单（第二批）.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -238,7 +283,13 @@
           "positions": null,
           "source": "鞍山市人力资源和社会保障局",
           "url": "http://rsj.anshan.gov.cn/html/RSJ/202508/0175575773845176.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年辽宁省事业单位集中面向社会公开招聘鞍山市市直事业单位拟聘用人员公示信息表（二）.xlsx",
+              "url": "http://files.anshan.gov.cn/files/ueditor/RSJ/jsp/upload/file/20250821/1755761534040088193.xlsx",
+              "local": "attachments/210300/2025年辽宁省事业单位集中面向社会公开招聘鞍山市市直事业单位拟聘用人员公示信息表（二）.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -293,7 +344,43 @@
           "positions": null,
           "source": "抚顺市人力资源和社会保障局",
           "url": "http://fsrs.fushun.gov.cn/ztzl/008005/20250520/3d6a869c-0d20-4251-9f9b-5ccdd39fe83a.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年辽宁抚顺单位同意报考证明（模板）.doc",
+              "url": "https://rsj.benxi.gov.cn/Upload/rsj/ContentManage/Article/File/2023/06/09/%E9%99%84%E4%BB%B62.%E5%8D%95%E4%BD%8D%E5%90%8C%E6%84%8F%E6%8A%A5%E8%80%83%E8%AF%81%E6%98%8E(1).doc",
+              "local": "attachments/210400/2025年辽宁抚顺单位同意报考证明（模板）.doc"
+            },
+            {
+              "name": "2025年辽宁抚顺工作经历证明.doc",
+              "url": "https://rsj.benxi.gov.cn/Upload/rsj/ContentManage/Article/File/2023/06/09/%E9%99%84%E4%BB%B65.%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%8E%86%E8%AF%81%E6%98%8E(1).doc",
+              "local": "attachments/210400/2025年辽宁抚顺工作经历证明.doc"
+            },
+            {
+              "name": "2025年辽宁省事业单位集中面向社会公开招聘抚顺市事业单位拟进入面试（资格复审）人员名单.xls",
+              "url": "https://fsrs.fushun.gov.cn/rsj/3d6a869c-0d20-4251-9f9b-5ccdd39fe83a/2c7ebd03-f8be-4cda-922e-2e8a33731cce/%E9%99%84%E4%BB%B61%EF%BC%9A2025%E5%B9%B4%E8%BE%BD%E5%AE%81%E7%9C%81%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E9%9B%86%E4%B8%AD%E9%9D%A2%E5%90%91%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E6%8A%9A%E9%A1%BA%E5%B8%82%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E6%8B%9F%E8%BF%9B%E5%85%A5%E9%9D%A2%E8%AF%95%EF%BC%88%E8%B5%84%E6%A0%BC%E5%A4%8D%E5%AE%A1%EF%BC%89%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95.xls",
+              "local": "attachments/210400/2025年辽宁省事业单位集中面向社会公开招聘抚顺市事业单位拟进入面试（资格复审）人员名单.xls"
+            },
+            {
+              "name": "2025年辽宁抚顺中共党员证明.doc",
+              "url": "https://rsj.benxi.gov.cn/Upload/rsj/ContentManage/Article/File/2023/06/09/%E9%99%84%E4%BB%B63.%E4%B8%AD%E5%85%B1%E5%85%9A%E5%91%98%E8%AF%81%E6%98%8E(1).doc",
+              "local": "attachments/210400/2025年辽宁抚顺中共党员证明.doc"
+            },
+            {
+              "name": "2025年辽宁抚顺.单位同意报考证明(模板).doc",
+              "url": "https://fsrs.fushun.gov.cn/rsj/3d6a869c-0d20-4251-9f9b-5ccdd39fe83a/d0420fa6-735d-4a16-a0f7-fa85f3d790c6/%E9%99%84%E4%BB%B62.%E5%8D%95%E4%BD%8D%E5%90%8C%E6%84%8F%E6%8A%A5%E8%80%83%E8%AF%81%E6%98%8E(%E6%A8%A1%E6%9D%BF).doc",
+              "local": "attachments/210400/2025年辽宁抚顺.单位同意报考证明(模板).doc"
+            },
+            {
+              "name": "2025年辽宁抚顺.中共党员证明（模板）.doc",
+              "url": "https://fsrs.fushun.gov.cn/rsj/3d6a869c-0d20-4251-9f9b-5ccdd39fe83a/60c18387-22b7-4cf2-ba70-159d1eb10670/%E9%99%84%E4%BB%B63.%E4%B8%AD%E5%85%B1%E5%85%9A%E5%91%98%E8%AF%81%E6%98%8E%EF%BC%88%E6%A8%A1%E6%9D%BF%EF%BC%89.doc",
+              "local": "attachments/210400/2025年辽宁抚顺.中共党员证明（模板）.doc"
+            },
+            {
+              "name": "2025年辽宁抚顺.工作经历证明（模板）(1).doc",
+              "url": "https://fsrs.fushun.gov.cn/rsj/3d6a869c-0d20-4251-9f9b-5ccdd39fe83a/9fca675d-654b-465e-a81e-df76ae2a13fa/%E9%99%84%E4%BB%B64.%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%8E%86%E8%AF%81%E6%98%8E%EF%BC%88%E6%A8%A1%E6%9D%BF%EF%BC%89(1).doc",
+              "local": "attachments/210400/2025年辽宁抚顺.工作经历证明（模板）(1).doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -304,7 +391,18 @@
           "positions": null,
           "source": "抚顺市市场监督管理局（抚顺市人力资源和社会保障局）",
           "url": "https://fsrs.fushun.gov.cn/tzgg/20251223/c629b559-15db-4ea0-9d71-f8e937d6f5be.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年辽宁抚顺市检验检测认证中心面向社会公开招聘高层次和急需紧缺人才计划信息表.xls",
+              "url": "https://fsrs.fushun.gov.cn/rsj/c629b559-15db-4ea0-9d71-f8e937d6f5be/f913024e-f414-448b-8ee9-b487f3b1dc2f/%E9%99%84%E4%BB%B61%EF%BC%9A2025%E5%B9%B4%E6%8A%9A%E9%A1%BA%E5%B8%82%E6%A3%80%E9%AA%8C%E6%A3%80%E6%B5%8B%E8%AE%A4%E8%AF%81%E4%B8%AD%E5%BF%83%E9%9D%A2%E5%90%91%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E9%AB%98%E5%B1%82%E6%AC%A1%E5%92%8C%E6%80%A5%E9%9C%80%E7%B4%A7%E7%BC%BA%E4%BA%BA%E6%89%8D%E8%AE%A1%E5%88%92%E4%BF%A1%E6%81%AF%E8%A1%A8.xls",
+              "local": "attachments/210400/2025年辽宁抚顺市检验检测认证中心面向社会公开招聘高层次和急需紧缺人才计划信息表.xls"
+            },
+            {
+              "name": "2025年辽宁抚顺市检验检测认证中心面向社会公开招聘高层次和急需紧缺人才报名登记表.doc",
+              "url": "https://fsrs.fushun.gov.cn/rsj/c629b559-15db-4ea0-9d71-f8e937d6f5be/7868d054-3f25-424f-970a-db5a3154308d/%E9%99%84%E4%BB%B62%EF%BC%9A2025%E5%B9%B4%E6%8A%9A%E9%A1%BA%E5%B8%82%E6%A3%80%E9%AA%8C%E6%A3%80%E6%B5%8B%E8%AE%A4%E8%AF%81%E4%B8%AD%E5%BF%83%E9%9D%A2%E5%90%91%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E9%AB%98%E5%B1%82%E6%AC%A1%E5%92%8C%E6%80%A5%E9%9C%80%E7%B4%A7%E7%BC%BA%E4%BA%BA%E6%89%8D%E6%8A%A5%E5%90%8D%E7%99%BB%E8%AE%B0%E8%A1%A8.doc",
+              "local": "attachments/210400/2025年辽宁抚顺市检验检测认证中心面向社会公开招聘高层次和急需紧缺人才报名登记表.doc"
+            }
+          ]
         }
       ]
     },
@@ -352,7 +450,13 @@
           "positions": null,
           "source": "本溪市人力资源和社会保障局",
           "url": "http://rsj.benxi.gov.cn/xwzx/gsgg/content_649067",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年附件.辽宁省（本溪市）事业单位集中面向社会公开招聘暨“名校优生”校园招聘拟聘用人员名单（第一批）(1).xls",
+              "url": "https://rsj.benxi.gov.cn/Upload/rsj/ContentManage/Article/File/2025/08/07/%E9%99%84%E4%BB%B6.2025%E5%B9%B4%E8%BE%BD%E5%AE%81%E7%9C%81%EF%BC%88%E6%9C%AC%E6%BA%AA%E5%B8%82%EF%BC%89%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E9%9B%86%E4%B8%AD%E9%9D%A2%E5%90%91%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E6%9A%A8%E2%80%9C%E5%90%8D%E6%A0%A1%E4%BC%98%E7%94%9F%E2%80%9D%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%E6%8B%9F%E8%81%98%E7%94%A8%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%88%E7%AC%AC%E4%B8%80%E6%89%B9%EF%BC%89(1).xls",
+              "local": "attachments/210500/2025年附件.辽宁省（本溪市）事业单位集中面向社会公开招聘暨“名校优生”校园招聘拟聘用人员名单（第一批）(1).xls"
+            }
+          ]
         }
       ]
     },
@@ -406,7 +510,38 @@
           "positions": null,
           "source": "丹东市人力资源和社会保障局",
           "url": "https://rsj.dandong.gov.cn/html/DDRSJ/202504/0174427553525725.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "辽宁丹东2023 年和 2024 年普通高校毕业生未就业证明.doc",
+              "url": "https://files.dandong.gov.cn/files/ueditor/DDRSJ/jsp/upload/file/20250410/1744279579231095298.doc",
+              "local": "attachments/210600/辽宁丹东2023 年和 2024 年普通高校毕业生未就业证明.doc"
+            },
+            {
+              "name": "2025年辽宁丹东市考试录用公务员面试前资格审查人员名单.xls",
+              "url": "https://files.dandong.gov.cn/files/ueditor/DDRSJ/jsp/upload/file/20250410/1744281732309080851.xls",
+              "local": "attachments/210600/2025年辽宁丹东市考试录用公务员面试前资格审查人员名单.xls"
+            },
+            {
+              "name": "2025年辽宁丹东单位同意报考证明.doc",
+              "url": "https://files.dandong.gov.cn/files/ueditor/DDRSJ/jsp/upload/file/20250410/1744279579246056461.doc",
+              "local": "attachments/210600/2025年辽宁丹东单位同意报考证明.doc"
+            },
+            {
+              "name": "2025年辽宁丹东参军退伍证明.doc",
+              "url": "https://files.dandong.gov.cn/files/ueditor/DDRSJ/jsp/upload/file/20250410/1744279579289036312.doc",
+              "local": "attachments/210600/2025年辽宁丹东参军退伍证明.doc"
+            },
+            {
+              "name": "2025年辽宁丹东高考生源地证明.doc",
+              "url": "https://files.dandong.gov.cn/files/ueditor/DDRSJ/jsp/upload/file/20250410/1744279579306086789.doc",
+              "local": "attachments/210600/2025年辽宁丹东高考生源地证明.doc"
+            },
+            {
+              "name": "2025年辽宁丹东普通高校应届毕业生证明.doc",
+              "url": "https://files.dandong.gov.cn/files/ueditor/DDRSJ/jsp/upload/file/20250410/1744279579308043256.doc",
+              "local": "attachments/210600/2025年辽宁丹东普通高校应届毕业生证明.doc"
+            }
+          ]
         }
       ]
     },
@@ -439,7 +574,7 @@
           "year": 2025,
           "category": "录用公示",
           "title": "2025年度辽宁省考试录用公务员锦州考区拟录用人选公示",
-          "date": null,
+          "date": "2025-06-20",
           "headcount": null,
           "positions": null,
           "source": "中共锦州市委组织部（锦州市人民政府网）",
@@ -553,7 +688,7 @@
           "year": 2025,
           "category": "录用公示",
           "title": "关于2025年度辽宁省考试录用公务员阜新考区拟录用人员的公告",
-          "date": null,
+          "date": "2026-09-14",
           "headcount": null,
           "positions": null,
           "source": "中共阜新市委组织部（阜新市人力资源和社会保障局）",
@@ -681,7 +816,28 @@
           "positions": null,
           "source": "盘锦市人力资源和社会保障局",
           "url": "https://rsj.panjin.gov.cn/2025_10/10_15/content-538090.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年辽宁盘锦职业技术学院.xls",
+              "url": "https://panjin.gov.cn:803/uploads/govsrsj/13277/20251010/0ddd7ce092df5e8a6211e10063ce203a.xls",
+              "local": "attachments/211100/2025年辽宁盘锦职业技术学院.xls"
+            },
+            {
+              "name": "2025年辽宁盘锦职业技术学院.docx",
+              "url": "https://panjin.gov.cn:803/uploads/govsrsj/13277/20251010/53adff4f0d236976729a58c1c9793648.docx",
+              "local": "attachments/211100/2025年辽宁盘锦职业技术学院.docx"
+            },
+            {
+              "name": "2025年辽宁盘锦职业技术学院.xlsx",
+              "url": "https://panjin.gov.cn:803/uploads/govsrsj/13277/20251010/6185ae28c2e1b41c70b1c963aa1543c8.xlsx",
+              "local": "attachments/211100/2025年辽宁盘锦职业技术学院.xlsx"
+            },
+            {
+              "name": "2025年辽宁盘锦报名承诺书.pdf",
+              "url": "https://panjin.gov.cn:803/uploads/govsrsj/13277/20251010/ee4e304203e9a660f219823cd53bf7d7.pdf",
+              "local": "attachments/211100/2025年辽宁盘锦报名承诺书.pdf"
+            }
+          ]
         }
       ]
     },
@@ -719,7 +875,13 @@
           "positions": null,
           "source": "中共铁岭市委组织部（铁岭市人民政府网）",
           "url": "http://www.tieling.gov.cn/tieling/rszk/2025070814592564469/index.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年度辽宁省考试录用公务员铁岭考区拟录用人选名单（第四批）.xls",
+              "url": "https://www.tieling.gov.cn/tieling/rszk/2025070814592564469/2025070814562259401.xls",
+              "local": "attachments/211200/2025年度辽宁省考试录用公务员铁岭考区拟录用人选名单（第四批）.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -730,7 +892,13 @@
           "positions": null,
           "source": "铁岭市农业农村局、铁岭市人力资源和社会保障局",
           "url": "http://www.tieling.gov.cn/tieling/rszk/2026010810265396114/index.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年辽宁铁岭市公开招聘动物检疫员岗位计划信息表.xlsx",
+              "url": "https://www.tieling.gov.cn/tieling/rszk/2026010810265396114/2026010810251521708.xlsx",
+              "local": "attachments/211200/2025年辽宁铁岭市公开招聘动物检疫员岗位计划信息表.xlsx"
+            }
+          ]
         }
       ]
     },
@@ -822,7 +990,13 @@
           "positions": null,
           "source": "中共葫芦岛市委组织部（葫芦岛市人力资源和社会保障局）",
           "url": "http://rsj.hld.gov.cn/ywdt/tzgg/202506/t20250627_1210841.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年辽宁葫芦岛市各级机关（含公检法系统）及参照公务员法管理单位考试录用公务员人选公示名单（一）.xls",
+              "url": "http://rsj.hld.gov.cn/ywdt/tzgg/202506/P020250627599115915393.xls",
+              "local": "attachments/211400/2025年辽宁葫芦岛市各级机关（含公检法系统）及参照公务员法管理单位考试录用公务员人选公示名单（一）.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -833,7 +1007,18 @@
           "positions": null,
           "source": "葫芦岛市人力资源和社会保障局",
           "url": "http://rsj.hld.gov.cn/ywdt/tzgg/202506/t20250620_1210321.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年辽宁葫芦岛进入面试人员名单（教师类D类）.xls",
+              "url": "http://rsj.hld.gov.cn/ywdt/tzgg/202506/P020250620391107638153.xls",
+              "local": "attachments/211400/2025年辽宁葫芦岛进入面试人员名单（教师类D类）.xls"
+            },
+            {
+              "name": "2025年辽宁葫芦岛进入面试人员名单（ABC类）.xls",
+              "url": "http://rsj.hld.gov.cn/ywdt/tzgg/202506/P020250620391107800135.xls",
+              "local": "attachments/211400/2025年辽宁葫芦岛进入面试人员名单（ABC类）.xls"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -844,7 +1029,13 @@
           "positions": null,
           "source": "中共葫芦岛市委组织部、葫芦岛市人力资源和社会保障局",
           "url": "http://rsj.hld.gov.cn/ywdt/tzgg/202512/t20251224_1225020.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年辽宁葫芦岛引进人才公告-岗位信息表.pdf",
+              "url": "http://rsj.hld.gov.cn/ywdt/tzgg/202512/P020251224607216988575.pdf",
+              "local": "attachments/211400/2025年辽宁葫芦岛引进人才公告-岗位信息表.pdf"
+            }
+          ]
         }
       ]
     }

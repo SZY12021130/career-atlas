@@ -1,7 +1,7 @@
 {
   "adcode": 610000,
   "name": "陕西省",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-02",
   "note": "骨架数据：省级官方入口与代表性公告已人工核验；市级明细持续采集中",
   "provincePortals": [
     {
@@ -62,7 +62,13 @@
           "positions": null,
           "source": "陕西党建网",
           "url": "https://www.sx-dj.gov.cn/ywsd/szxw/1882733602797834242.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年陕西西安自主就业退役士兵加分申请表.doc",
+              "url": "https://www.sx-dj.gov.cn/upload/sxdj/2025/01/24/202501241813481991.doc",
+              "local": "attachments/610100/2025年陕西西安自主就业退役士兵加分申请表.doc"
+            }
+          ]
         },
         {
           "year": 2024,
@@ -73,7 +79,13 @@
           "positions": null,
           "source": "陕西党建网",
           "url": "https://www.sx-dj.gov.cn/ywsd/szxw/1831163500025999362.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2024年陕西西安报名推荐表（点击下载）.xls",
+              "url": "https://www.sx-dj.gov.cn/upload/sxdj/2024/09/04/202409041052245188.xls",
+              "local": "attachments/610100/2024年陕西西安报名推荐表（点击下载）.xls"
+            }
+          ]
         }
       ]
     },

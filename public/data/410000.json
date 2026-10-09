@@ -1,7 +1,7 @@
 {
   "adcode": 410000,
   "name": "河南省",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-03",
   "provincePortals": [
     {
       "category": "公务员",
@@ -65,7 +65,38 @@
           "positions": null,
           "source": "河南人事考试网",
           "url": "http://www.hnrsks.com/sitesources/hnsrskszx/page_pc/hnstykslygwyzl/dnzkgg/article197f077a15884b4dbfa18ee21e68319f.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年河南省统一考试录用公务员职位表.xlsx",
+              "url": "http://www.hnrsks.com/sitesources/hnsrskszx/upload/202601/20260104161140859.xlsx",
+              "local": "attachments/410100/2026年河南省统一考试录用公务员职位表.xlsx"
+            },
+            {
+              "name": "2026年河南省统一考试录用公务员工作专用网站及政策咨询电话.wps",
+              "url": "http://www.hnrsks.com/sitesources/hnsrskszx/upload/202601/20260104161140946.wps",
+              "local": "attachments/410100/2026年河南省统一考试录用公务员工作专用网站及政策咨询电话.wps"
+            },
+            {
+              "name": "2026年河南省统一考试录用公务员报考指南.wps",
+              "url": "http://www.hnrsks.com/sitesources/hnsrskszx/upload/202601/20260104161140993.wps",
+              "local": "attachments/410100/2026年河南省统一考试录用公务员报考指南.wps"
+            },
+            {
+              "name": "2026年河南郑州职业教育专业目录（ 2021 年版）.pdf",
+              "url": "http://www.hnrsks.com/sitesources/hnsrskszx/upload/202601/20260104161141080.pdf",
+              "local": "attachments/410100/2026年河南郑州职业教育专业目录（ 2021 年版）.pdf"
+            },
+            {
+              "name": "2026年河南郑州普通高等学校本科专业目录（ 2023 年版）.pdf",
+              "url": "http://www.hnrsks.com/sitesources/hnsrskszx/upload/202601/20260104161141873.pdf",
+              "local": "attachments/410100/2026年河南郑州普通高等学校本科专业目录（ 2023 年版）.pdf"
+            },
+            {
+              "name": "2026年河南郑州研究生教育学科专业目录（ 2022 年版）.pdf",
+              "url": "http://www.hnrsks.com/sitesources/hnsrskszx/upload/202601/20260104161142075.pdf",
+              "local": "attachments/410100/2026年河南郑州研究生教育学科专业目录（ 2022 年版）.pdf"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -82,6 +113,16 @@
               "name": "2026年郑州市公务员职位面试人员名单.xlsx",
               "url": "https://public.zhengzhou.gov.cn/attachment/%E9%99%84%E4%BB%B61.%E6%B2%B3%E5%8D%97%E7%9C%812026%E5%B9%B4%E5%BA%A6%E7%BB%9F%E4%B8%80%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E9%83%91%E5%B7%9E%E5%B8%82%E8%81%8C%E4%BD%8D%E9%9D%A2%E8%AF%95%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95.xlsx",
               "local": "attachments/410100/2026年郑州市公务员职位面试人员名单.xlsx"
+            },
+            {
+              "name": "2026年河南省统一考试录用公务员郑州市职位面试人员名单.xlsx",
+              "url": "https://public.zhengzhou.gov.cn/attachment/%E9%99%84%E4%BB%B61.%E6%B2%B3%E5%8D%97%E7%9C%812026%E5%B9%B4%E5%BA%A6%E7%BB%9F%E4%B8%80%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E9%83%91%E5%B7%9E%E5%B8%82%E8%81%8C%E4%BD%8D%E9%9D%A2%E8%AF%95%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95.xlsx?1panRonIVLNvcwLAfvx7EEataS3SInHIzlJKQM8FVCccOhcE-sKcHwCmIRzeWLHGt8sr-ie2KSFO9vst5_iOaqq8fAVluamE",
+              "local": "attachments/410100/2026年河南省统一考试录用公务员郑州市职位面试人员名单.xlsx"
+            },
+            {
+              "name": "2026年河南郑州.面试考生须知及诚信考录承诺书.doc",
+              "url": "https://public.zhengzhou.gov.cn/attachment/%E9%99%84%E4%BB%B62.%E9%9D%A2%E8%AF%95%E8%80%83%E7%94%9F%E9%A1%BB%E7%9F%A5%E5%8F%8A%E8%AF%9A%E4%BF%A1%E8%80%83%E5%BD%95%E6%89%BF%E8%AF%BA%E4%B9%A6.doc?_iCmbCD07jHJzFk4B1ID5E8QoVAh-3IF6Hc_tJpOPuVW9XRXoxpRFOz6TR8E1lHQzN5m-jOrtOcmtHspUWmv9v8YMKMuB7U=",
+              "local": "attachments/410100/2026年河南郑州.面试考生须知及诚信考录承诺书.doc"
             }
           ]
         },
@@ -95,7 +136,18 @@
           "positions": null,
           "source": "郑州市人民政府",
           "url": "https://public.zhengzhou.gov.cn/D1703X/10012135.jhtml",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年河南省郑州市事业单位公开招聘联考市直系统岗位信息表.et",
+              "url": "https://public.zhengzhou.gov.cn/attachment/2026%E5%B9%B4%E6%B2%B3%E5%8D%97%E7%9C%81%E9%83%91%E5%B7%9E%E5%B8%82%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E8%81%94%E8%80%83%E5%B8%82%E7%9B%B4%E7%B3%BB%E7%BB%9F%E5%B2%97%E4%BD%8D%E4%BF%A1%E6%81%AF%E8%A1%A8.et?LkZI28OMtu2kE-1fzx71Nt33nwr8T3arIWJwDeRu4UTnLSp95LSDukZOYgd-msWwHhcX_PB7OpcK1nNE9kOqoKYRr03-eQ==",
+              "local": "attachments/410100/2026年河南省郑州市事业单位公开招聘联考市直系统岗位信息表.et"
+            },
+            {
+              "name": "2026年河南省郑州市事业单位公开招聘联考工作专用网站及咨询、监督电话.doc",
+              "url": "https://public.zhengzhou.gov.cn/attachment/2026%E5%B9%B4%E6%B2%B3%E5%8D%97%E7%9C%81%E9%83%91%E5%B7%9E%E5%B8%82%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E8%81%94%E8%80%83%E5%B7%A5%E4%BD%9C%E4%B8%93%E7%94%A8%E7%BD%91%E7%AB%99%E5%8F%8A%E5%92%A8%E8%AF%A2%E3%80%81%E7%9B%91%E7%9D%A3%E7%94%B5%E8%AF%9D.doc?74mDaiiM2wGML6TU4r2pZ6sY0OX8cNxN-u9YRq_ZGINnZdn6wutvVgHfu9xMxj6QqoBdjLYnxS8C3ZLGV9NYwFnmg_3O4SM=",
+              "local": "attachments/410100/2026年河南省郑州市事业单位公开招聘联考工作专用网站及咨询、监督电话.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -155,12 +207,803 @@
           "category": "公务员",
           "subCategory": null,
           "title": "河南省2026年度统一考试录用公务员开封市职位面试公告",
-          "date": null,
+          "date": "2026-04-20",
           "headcount": null,
           "positions": null,
           "source": "开封市人力资源和社会保障局",
           "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/pc/content/content_2046072829064556544.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年lxvIKsKu.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2099413739246383104/lxvIKsKu.xlsx",
+              "local": "attachments/410200/2026年lxvIKsKu.xlsx"
+            },
+            {
+              "name": "2026年lxvIKsKu.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260914/lxvIKsKu.xlsx",
+              "local": "attachments/410200/2026年lxvIKsKu.xlsx"
+            },
+            {
+              "name": "2026年5ZrIiBCd.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2092867890129186816/5ZrIiBCd.xlsx",
+              "local": "attachments/410200/2026年5ZrIiBCd.xlsx"
+            },
+            {
+              "name": "2026年5ZrIiBCd.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260827/5ZrIiBCd.xlsx",
+              "local": "attachments/410200/2026年5ZrIiBCd.xlsx"
+            },
+            {
+              "name": "2026年RDlOzaKX.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2086667500220100608/RDlOzaKX.xlsx",
+              "local": "attachments/410200/2026年RDlOzaKX.xlsx"
+            },
+            {
+              "name": "2026年RDlOzaKX.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260810/RDlOzaKX.xlsx",
+              "local": "attachments/410200/2026年RDlOzaKX.xlsx"
+            },
+            {
+              "name": "2026年lyeXwCYn.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2083851619047878656/lyeXwCYn.xlsx",
+              "local": "attachments/410200/2026年lyeXwCYn.xlsx"
+            },
+            {
+              "name": "2026年lyeXwCYn.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260802/lyeXwCYn.xlsx",
+              "local": "attachments/410200/2026年lyeXwCYn.xlsx"
+            },
+            {
+              "name": "2026年vuiv2E1k.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2081397138121076736/vuiv2E1k.xlsx",
+              "local": "attachments/410200/2026年vuiv2E1k.xlsx"
+            },
+            {
+              "name": "2026年vuiv2E1k.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260726/vuiv2E1k.xlsx",
+              "local": "attachments/410200/2026年vuiv2E1k.xlsx"
+            },
+            {
+              "name": "2026年yolul3EQ.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2081291839108329472/yolul3EQ.xlsx",
+              "local": "attachments/410200/2026年yolul3EQ.xlsx"
+            },
+            {
+              "name": "2026年yolul3EQ.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260726/yolul3EQ.xlsx",
+              "local": "attachments/410200/2026年yolul3EQ.xlsx"
+            },
+            {
+              "name": "2026年xAkuVfj8.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2080966478671687680/xAkuVfj8.xlsx",
+              "local": "attachments/410200/2026年xAkuVfj8.xlsx"
+            },
+            {
+              "name": "2026年xAkuVfj8.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260725/xAkuVfj8.xlsx",
+              "local": "attachments/410200/2026年xAkuVfj8.xlsx"
+            },
+            {
+              "name": "2026年U4WCxnhq.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2080966478671687680/U4WCxnhq.docx",
+              "local": "attachments/410200/2026年U4WCxnhq.docx"
+            },
+            {
+              "name": "2026年U4WCxnhq.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260725/U4WCxnhq.docx",
+              "local": "attachments/410200/2026年U4WCxnhq.docx"
+            },
+            {
+              "name": "2026年VaiPlqcz.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2080583152362369024/VaiPlqcz.xlsx",
+              "local": "attachments/410200/2026年VaiPlqcz.xlsx"
+            },
+            {
+              "name": "2026年VaiPlqcz.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260724/VaiPlqcz.xlsx",
+              "local": "attachments/410200/2026年VaiPlqcz.xlsx"
+            },
+            {
+              "name": "2026年gALOkRf5.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2080583152362369024/gALOkRf5.xlsx",
+              "local": "attachments/410200/2026年gALOkRf5.xlsx"
+            },
+            {
+              "name": "2026年gALOkRf5.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260724/gALOkRf5.xlsx",
+              "local": "attachments/410200/2026年gALOkRf5.xlsx"
+            },
+            {
+              "name": "2026年Oo9Oekab.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2080583152362369024/Oo9Oekab.docx",
+              "local": "attachments/410200/2026年Oo9Oekab.docx"
+            },
+            {
+              "name": "2026年Oo9Oekab.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260724/Oo9Oekab.docx",
+              "local": "attachments/410200/2026年Oo9Oekab.docx"
+            },
+            {
+              "name": "2026年HmvuspUU.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2080583152362369024/HmvuspUU.docx",
+              "local": "attachments/410200/2026年HmvuspUU.docx"
+            },
+            {
+              "name": "2026年HmvuspUU.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260724/HmvuspUU.docx",
+              "local": "attachments/410200/2026年HmvuspUU.docx"
+            },
+            {
+              "name": "2026年CdFafLiQ.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2080583152362369024/CdFafLiQ.docx",
+              "local": "attachments/410200/2026年CdFafLiQ.docx"
+            },
+            {
+              "name": "2026年CdFafLiQ.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260724/CdFafLiQ.docx",
+              "local": "attachments/410200/2026年CdFafLiQ.docx"
+            },
+            {
+              "name": "2026年CRLDq1fq.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2078791483442900992/CRLDq1fq.xlsx",
+              "local": "attachments/410200/2026年CRLDq1fq.xlsx"
+            },
+            {
+              "name": "2026年CRLDq1fq.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260719/CRLDq1fq.xlsx",
+              "local": "attachments/410200/2026年CRLDq1fq.xlsx"
+            },
+            {
+              "name": "2026年qvQZVM1B.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2078791483442900992/qvQZVM1B.xlsx",
+              "local": "attachments/410200/2026年qvQZVM1B.xlsx"
+            },
+            {
+              "name": "2026年qvQZVM1B.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260720/qvQZVM1B.xlsx",
+              "local": "attachments/410200/2026年qvQZVM1B.xlsx"
+            },
+            {
+              "name": "2026年SKXzYBZ9.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2078457865411538944/SKXzYBZ9.xlsx",
+              "local": "attachments/410200/2026年SKXzYBZ9.xlsx"
+            },
+            {
+              "name": "2026年SKXzYBZ9.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260718/SKXzYBZ9.xlsx",
+              "local": "attachments/410200/2026年SKXzYBZ9.xlsx"
+            },
+            {
+              "name": "2026年q1ut19AK.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2078457865411538944/q1ut19AK.xlsx",
+              "local": "attachments/410200/2026年q1ut19AK.xlsx"
+            },
+            {
+              "name": "2026年q1ut19AK.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260718/q1ut19AK.xlsx",
+              "local": "attachments/410200/2026年q1ut19AK.xlsx"
+            },
+            {
+              "name": "2026年V0nHpSS8.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2077586966852448256/V0nHpSS8.xlsx",
+              "local": "attachments/410200/2026年V0nHpSS8.xlsx"
+            },
+            {
+              "name": "2026年V0nHpSS8.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260716/V0nHpSS8.xlsx",
+              "local": "attachments/410200/2026年V0nHpSS8.xlsx"
+            },
+            {
+              "name": "2026年vEfjPHtD.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2077586966852448256/vEfjPHtD.xlsx",
+              "local": "attachments/410200/2026年vEfjPHtD.xlsx"
+            },
+            {
+              "name": "2026年vEfjPHtD.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260716/vEfjPHtD.xlsx",
+              "local": "attachments/410200/2026年vEfjPHtD.xlsx"
+            },
+            {
+              "name": "2026年fFYCDczw.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2077586966852448256/fFYCDczw.doc",
+              "local": "attachments/410200/2026年fFYCDczw.doc"
+            },
+            {
+              "name": "2026年fFYCDczw.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260716/fFYCDczw.doc",
+              "local": "attachments/410200/2026年fFYCDczw.doc"
+            },
+            {
+              "name": "2026年LwWtSinw.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2076832860919607296/LwWtSinw.xlsx",
+              "local": "attachments/410200/2026年LwWtSinw.xlsx"
+            },
+            {
+              "name": "2026年LwWtSinw.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260714/LwWtSinw.xlsx",
+              "local": "attachments/410200/2026年LwWtSinw.xlsx"
+            },
+            {
+              "name": "2026年tPxf84hV.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2076832860919607296/tPxf84hV.xlsx",
+              "local": "attachments/410200/2026年tPxf84hV.xlsx"
+            },
+            {
+              "name": "2026年tPxf84hV.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260714/tPxf84hV.xlsx",
+              "local": "attachments/410200/2026年tPxf84hV.xlsx"
+            },
+            {
+              "name": "2026年8GNSix2M.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2076469511119745024/8GNSix2M.xlsx",
+              "local": "attachments/410200/2026年8GNSix2M.xlsx"
+            },
+            {
+              "name": "2026年8GNSix2M.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260713/8GNSix2M.xlsx",
+              "local": "attachments/410200/2026年8GNSix2M.xlsx"
+            },
+            {
+              "name": "2026年YN6seuVN.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2076469511119745024/YN6seuVN.xlsx",
+              "local": "attachments/410200/2026年YN6seuVN.xlsx"
+            },
+            {
+              "name": "2026年YN6seuVN.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260713/YN6seuVN.xlsx",
+              "local": "attachments/410200/2026年YN6seuVN.xlsx"
+            },
+            {
+              "name": "2026年UXQM2Tzi.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2075532127570014208/UXQM2Tzi.xlsx",
+              "local": "attachments/410200/2026年UXQM2Tzi.xlsx"
+            },
+            {
+              "name": "2026年UXQM2Tzi.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260710/UXQM2Tzi.xlsx",
+              "local": "attachments/410200/2026年UXQM2Tzi.xlsx"
+            },
+            {
+              "name": "2026年naDnUYhJ.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2075532127570014208/naDnUYhJ.xlsx",
+              "local": "attachments/410200/2026年naDnUYhJ.xlsx"
+            },
+            {
+              "name": "2026年naDnUYhJ.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260710/naDnUYhJ.xlsx",
+              "local": "attachments/410200/2026年naDnUYhJ.xlsx"
+            },
+            {
+              "name": "2026年crRTZzOJ.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2075532127570014208/crRTZzOJ.docx",
+              "local": "attachments/410200/2026年crRTZzOJ.docx"
+            },
+            {
+              "name": "2026年crRTZzOJ.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260710/crRTZzOJ.docx",
+              "local": "attachments/410200/2026年crRTZzOJ.docx"
+            },
+            {
+              "name": "2026年8EHNN6fk.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2075532127570014208/8EHNN6fk.docx",
+              "local": "attachments/410200/2026年8EHNN6fk.docx"
+            },
+            {
+              "name": "2026年8EHNN6fk.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260710/8EHNN6fk.docx",
+              "local": "attachments/410200/2026年8EHNN6fk.docx"
+            },
+            {
+              "name": "2026年wYs7ZvNM.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2075532127570014208/wYs7ZvNM.docx",
+              "local": "attachments/410200/2026年wYs7ZvNM.docx"
+            },
+            {
+              "name": "2026年wYs7ZvNM.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260710/wYs7ZvNM.docx",
+              "local": "attachments/410200/2026年wYs7ZvNM.docx"
+            },
+            {
+              "name": "2026年SztK7dSq.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2075031809610526720/SztK7dSq.xls",
+              "local": "attachments/410200/2026年SztK7dSq.xls"
+            },
+            {
+              "name": "2026年SztK7dSq.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260709/SztK7dSq.xls",
+              "local": "attachments/410200/2026年SztK7dSq.xls"
+            },
+            {
+              "name": "2026年GkWBIRst.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2074788067817336832/GkWBIRst.xls",
+              "local": "attachments/410200/2026年GkWBIRst.xls"
+            },
+            {
+              "name": "2026年GkWBIRst.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260708/GkWBIRst.xls",
+              "local": "attachments/410200/2026年GkWBIRst.xls"
+            },
+            {
+              "name": "2026年wHcdpDVD.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2072627193778319360/wHcdpDVD.xlsx",
+              "local": "attachments/410200/2026年wHcdpDVD.xlsx"
+            },
+            {
+              "name": "2026年wHcdpDVD.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260702/wHcdpDVD.xlsx",
+              "local": "attachments/410200/2026年wHcdpDVD.xlsx"
+            },
+            {
+              "name": "2026年2oXLY5So.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2072627193778319360/2oXLY5So.xlsx",
+              "local": "attachments/410200/2026年2oXLY5So.xlsx"
+            },
+            {
+              "name": "2026年2oXLY5So.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260702/2oXLY5So.xlsx",
+              "local": "attachments/410200/2026年2oXLY5So.xlsx"
+            },
+            {
+              "name": "2026年nF7eSyZf.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2072627193778319360/nF7eSyZf.docx",
+              "local": "attachments/410200/2026年nF7eSyZf.docx"
+            },
+            {
+              "name": "2026年nF7eSyZf.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260702/nF7eSyZf.docx",
+              "local": "attachments/410200/2026年nF7eSyZf.docx"
+            },
+            {
+              "name": "2026年dWpi0ehA.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2072627193778319360/dWpi0ehA.docx",
+              "local": "attachments/410200/2026年dWpi0ehA.docx"
+            },
+            {
+              "name": "2026年dWpi0ehA.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260702/dWpi0ehA.docx",
+              "local": "attachments/410200/2026年dWpi0ehA.docx"
+            },
+            {
+              "name": "2026年2lbUxL8P.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2072627193778319360/2lbUxL8P.docx",
+              "local": "attachments/410200/2026年2lbUxL8P.docx"
+            },
+            {
+              "name": "2026年2lbUxL8P.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260702/2lbUxL8P.docx",
+              "local": "attachments/410200/2026年2lbUxL8P.docx"
+            },
+            {
+              "name": "2026年Vp18ljjw.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2072627193778319360/Vp18ljjw.xlsx",
+              "local": "attachments/410200/2026年Vp18ljjw.xlsx"
+            },
+            {
+              "name": "2026年Vp18ljjw.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260702/Vp18ljjw.xlsx",
+              "local": "attachments/410200/2026年Vp18ljjw.xlsx"
+            },
+            {
+              "name": "2026年8z821VuF.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2065379451700031488/8z821VuF.xlsx",
+              "local": "attachments/410200/2026年8z821VuF.xlsx"
+            },
+            {
+              "name": "2026年8z821VuF.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260612/8z821VuF.xlsx",
+              "local": "attachments/410200/2026年8z821VuF.xlsx"
+            },
+            {
+              "name": "2026年rb90j9nR.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2062477971984789504/rb90j9nR.xlsx",
+              "local": "attachments/410200/2026年rb90j9nR.xlsx"
+            },
+            {
+              "name": "2026年rb90j9nR.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260604/rb90j9nR.xlsx",
+              "local": "attachments/410200/2026年rb90j9nR.xlsx"
+            },
+            {
+              "name": "2026年eqKsdb95.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2057393981682659328/eqKsdb95.xls",
+              "local": "attachments/410200/2026年eqKsdb95.xls"
+            },
+            {
+              "name": "2026年eqKsdb95.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260521/eqKsdb95.xls",
+              "local": "attachments/410200/2026年eqKsdb95.xls"
+            },
+            {
+              "name": "2026年3OqAoQJD.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2055114285385297920/3OqAoQJD.xls",
+              "local": "attachments/410200/2026年3OqAoQJD.xls"
+            },
+            {
+              "name": "2026年3OqAoQJD.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260515/3OqAoQJD.xls",
+              "local": "attachments/410200/2026年3OqAoQJD.xls"
+            },
+            {
+              "name": "2026年yCeWzwvR.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2055113972699934720/yCeWzwvR.xls",
+              "local": "attachments/410200/2026年yCeWzwvR.xls"
+            },
+            {
+              "name": "2026年yCeWzwvR.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260515/yCeWzwvR.xls",
+              "local": "attachments/410200/2026年yCeWzwvR.xls"
+            },
+            {
+              "name": "2026年BCf6zIH3.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2052299450058584064/BCf6zIH3.xls",
+              "local": "attachments/410200/2026年BCf6zIH3.xls"
+            },
+            {
+              "name": "2026年BCf6zIH3.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260507/BCf6zIH3.xls",
+              "local": "attachments/410200/2026年BCf6zIH3.xls"
+            },
+            {
+              "name": "2026年5KrIFSlu.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2052299450058584064/5KrIFSlu.doc",
+              "local": "attachments/410200/2026年5KrIFSlu.doc"
+            },
+            {
+              "name": "2026年5KrIFSlu.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260507/5KrIFSlu.doc",
+              "local": "attachments/410200/2026年5KrIFSlu.doc"
+            },
+            {
+              "name": "2026年AEaxiPBu.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2052233519341023232/AEaxiPBu.xlsx",
+              "local": "attachments/410200/2026年AEaxiPBu.xlsx"
+            },
+            {
+              "name": "2026年AEaxiPBu.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260507/AEaxiPBu.xlsx",
+              "local": "attachments/410200/2026年AEaxiPBu.xlsx"
+            },
+            {
+              "name": "2026年RTX3xIGh.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2052233519341023232/RTX3xIGh.xlsx",
+              "local": "attachments/410200/2026年RTX3xIGh.xlsx"
+            },
+            {
+              "name": "2026年RTX3xIGh.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260507/RTX3xIGh.xlsx",
+              "local": "attachments/410200/2026年RTX3xIGh.xlsx"
+            },
+            {
+              "name": "2026年BlMc4jxZ.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2049695155702247424/BlMc4jxZ.xls",
+              "local": "attachments/410200/2026年BlMc4jxZ.xls"
+            },
+            {
+              "name": "2026年BlMc4jxZ.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260430/BlMc4jxZ.xls",
+              "local": "attachments/410200/2026年BlMc4jxZ.xls"
+            },
+            {
+              "name": "2026年C2HAfjlW.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2049695155702247424/C2HAfjlW.doc",
+              "local": "attachments/410200/2026年C2HAfjlW.doc"
+            },
+            {
+              "name": "2026年C2HAfjlW.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20250430/C2HAfjlW.doc",
+              "local": "attachments/410200/2026年C2HAfjlW.doc"
+            },
+            {
+              "name": "2026年zguJekiu.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2049695155702247424/zguJekiu.xls",
+              "local": "attachments/410200/2026年zguJekiu.xls"
+            },
+            {
+              "name": "2026年zguJekiu.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20250430/zguJekiu.xls",
+              "local": "attachments/410200/2026年zguJekiu.xls"
+            },
+            {
+              "name": "2026年CNjoeslv.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2049045045691592704/CNjoeslv.xls",
+              "local": "attachments/410200/2026年CNjoeslv.xls"
+            },
+            {
+              "name": "2026年CNjoeslv.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260428/CNjoeslv.xls",
+              "local": "attachments/410200/2026年CNjoeslv.xls"
+            },
+            {
+              "name": "2026年jzk7QdS1.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2049044777780424704/jzk7QdS1.xls",
+              "local": "attachments/410200/2026年jzk7QdS1.xls"
+            },
+            {
+              "name": "2026年jzk7QdS1.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260428/jzk7QdS1.xls",
+              "local": "attachments/410200/2026年jzk7QdS1.xls"
+            },
+            {
+              "name": "2026年bgnqdv96.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2046777339575578624/bgnqdv96.xlsx",
+              "local": "attachments/410200/2026年bgnqdv96.xlsx"
+            },
+            {
+              "name": "2026年bgnqdv96.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260422/bgnqdv96.xlsx",
+              "local": "attachments/410200/2026年bgnqdv96.xlsx"
+            },
+            {
+              "name": "2026年J4Xlmu6W.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2046074743688835072/J4Xlmu6W.xls",
+              "local": "attachments/410200/2026年J4Xlmu6W.xls"
+            },
+            {
+              "name": "2026年J4Xlmu6W.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260420/J4Xlmu6W.xls",
+              "local": "attachments/410200/2026年J4Xlmu6W.xls"
+            },
+            {
+              "name": "2026年xnADR7WU.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2046074743688835072/xnADR7WU.doc",
+              "local": "attachments/410200/2026年xnADR7WU.doc"
+            },
+            {
+              "name": "2026年xnADR7WU.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260420/xnADR7WU.doc",
+              "local": "attachments/410200/2026年xnADR7WU.doc"
+            },
+            {
+              "name": "2026年nShIf3eu.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2046072829064556544/nShIf3eu.xls",
+              "local": "attachments/410200/2026年nShIf3eu.xls"
+            },
+            {
+              "name": "2026年nShIf3eu.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260420/nShIf3eu.xls",
+              "local": "attachments/410200/2026年nShIf3eu.xls"
+            },
+            {
+              "name": "2026年XJfXtNEI.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2046072829064556544/XJfXtNEI.xls",
+              "local": "attachments/410200/2026年XJfXtNEI.xls"
+            },
+            {
+              "name": "2026年XJfXtNEI.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260420/XJfXtNEI.xls",
+              "local": "attachments/410200/2026年XJfXtNEI.xls"
+            },
+            {
+              "name": "2026年BC2iykpH.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2046072829064556544/BC2iykpH.xls",
+              "local": "attachments/410200/2026年BC2iykpH.xls"
+            },
+            {
+              "name": "2026年BC2iykpH.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260420/BC2iykpH.xls",
+              "local": "attachments/410200/2026年BC2iykpH.xls"
+            },
+            {
+              "name": "2026年dujblRdx.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2046072829064556544/dujblRdx.doc",
+              "local": "attachments/410200/2026年dujblRdx.doc"
+            },
+            {
+              "name": "2026年dujblRdx.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260420/dujblRdx.doc",
+              "local": "attachments/410200/2026年dujblRdx.doc"
+            },
+            {
+              "name": "2026年4HavRT1y.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2045107372379648000/4HavRT1y.xlsx",
+              "local": "attachments/410200/2026年4HavRT1y.xlsx"
+            },
+            {
+              "name": "2026年4HavRT1y.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260417/4HavRT1y.xlsx",
+              "local": "attachments/410200/2026年4HavRT1y.xlsx"
+            },
+            {
+              "name": "2026年L90c4CPm.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2044251298424467456/L90c4CPm.xls",
+              "local": "attachments/410200/2026年L90c4CPm.xls"
+            },
+            {
+              "name": "2026年L90c4CPm.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260415/L90c4CPm.xls",
+              "local": "attachments/410200/2026年L90c4CPm.xls"
+            },
+            {
+              "name": "2026年bu20vHfU.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2043649377871376384/bu20vHfU.xlsx",
+              "local": "attachments/410200/2026年bu20vHfU.xlsx"
+            },
+            {
+              "name": "2026年bu20vHfU.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260413/bu20vHfU.xlsx",
+              "local": "attachments/410200/2026年bu20vHfU.xlsx"
+            },
+            {
+              "name": "2026年1Yq23enT.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2043649377871376384/1Yq23enT.docx",
+              "local": "attachments/410200/2026年1Yq23enT.docx"
+            },
+            {
+              "name": "2026年1Yq23enT.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260413/1Yq23enT.docx",
+              "local": "attachments/410200/2026年1Yq23enT.docx"
+            },
+            {
+              "name": "2026年U1ISsrHy.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2043607174700642304/U1ISsrHy.xls",
+              "local": "attachments/410200/2026年U1ISsrHy.xls"
+            },
+            {
+              "name": "2026年U1ISsrHy.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260413/U1ISsrHy.xls",
+              "local": "attachments/410200/2026年U1ISsrHy.xls"
+            },
+            {
+              "name": "2026年2AkWOE0O.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/2AkWOE0O.xls",
+              "local": "attachments/410200/2026年2AkWOE0O.xls"
+            },
+            {
+              "name": "2026年2AkWOE0O.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/2AkWOE0O.xls",
+              "local": "attachments/410200/2026年2AkWOE0O.xls"
+            },
+            {
+              "name": "2026年IUDIYk1J.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/IUDIYk1J.doc",
+              "local": "attachments/410200/2026年IUDIYk1J.doc"
+            },
+            {
+              "name": "2026年IUDIYk1J.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/IUDIYk1J.doc",
+              "local": "attachments/410200/2026年IUDIYk1J.doc"
+            },
+            {
+              "name": "2026年0bng5Zrz.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/0bng5Zrz.doc",
+              "local": "attachments/410200/2026年0bng5Zrz.doc"
+            },
+            {
+              "name": "2026年0bng5Zrz.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/0bng5Zrz.doc",
+              "local": "attachments/410200/2026年0bng5Zrz.doc"
+            },
+            {
+              "name": "2026年eIiavtFw.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/eIiavtFw.doc",
+              "local": "attachments/410200/2026年eIiavtFw.doc"
+            },
+            {
+              "name": "2026年eIiavtFw.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/eIiavtFw.doc",
+              "local": "attachments/410200/2026年eIiavtFw.doc"
+            },
+            {
+              "name": "2026年DnBH0E0i.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/DnBH0E0i.doc",
+              "local": "attachments/410200/2026年DnBH0E0i.doc"
+            },
+            {
+              "name": "2026年DnBH0E0i.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/DnBH0E0i.doc",
+              "local": "attachments/410200/2026年DnBH0E0i.doc"
+            },
+            {
+              "name": "2026年RjETyIbK.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/RjETyIbK.docx",
+              "local": "attachments/410200/2026年RjETyIbK.docx"
+            },
+            {
+              "name": "2026年RjETyIbK.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/RjETyIbK.docx",
+              "local": "attachments/410200/2026年RjETyIbK.docx"
+            },
+            {
+              "name": "2026年Z6oeaYlf.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/Z6oeaYlf.xls",
+              "local": "attachments/410200/2026年Z6oeaYlf.xls"
+            },
+            {
+              "name": "2026年Z6oeaYlf.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/Z6oeaYlf.xls",
+              "local": "attachments/410200/2026年Z6oeaYlf.xls"
+            },
+            {
+              "name": "2026年LPyFNNi2.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/LPyFNNi2.xlsx",
+              "local": "attachments/410200/2026年LPyFNNi2.xlsx"
+            },
+            {
+              "name": "2026年LPyFNNi2.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/LPyFNNi2.xlsx",
+              "local": "attachments/410200/2026年LPyFNNi2.xlsx"
+            },
+            {
+              "name": "2026年XJvUKSxB.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042063279374249984/XJvUKSxB.XLS",
+              "local": "attachments/410200/2026年XJvUKSxB.xls"
+            },
+            {
+              "name": "2026年XJvUKSxB.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260409/XJvUKSxB.XLS",
+              "local": "attachments/410200/2026年XJvUKSxB.xls"
+            },
+            {
+              "name": "2026年L3fOip0u.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042063279374249984/L3fOip0u.doc",
+              "local": "attachments/410200/2026年L3fOip0u.doc"
+            },
+            {
+              "name": "2026年L3fOip0u.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260104/L3fOip0u.doc",
+              "local": "attachments/410200/2026年L3fOip0u.doc"
+            },
+            {
+              "name": "2026年wyELahRw.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042063279374249984/wyELahRw.doc",
+              "local": "attachments/410200/2026年wyELahRw.doc"
+            },
+            {
+              "name": "2026年wyELahRw.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260409/wyELahRw.doc",
+              "local": "attachments/410200/2026年wyELahRw.doc"
+            },
+            {
+              "name": "2026年Ni42yqwm.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042063279374249984/Ni42yqwm.doc",
+              "local": "attachments/410200/2026年Ni42yqwm.doc"
+            },
+            {
+              "name": "2026年Ni42yqwm.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20241014/Ni42yqwm.doc",
+              "local": "attachments/410200/2026年Ni42yqwm.doc"
+            },
+            {
+              "name": "2026年2kC47ezp.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042063279374249984/2kC47ezp.doc",
+              "local": "attachments/410200/2026年2kC47ezp.doc"
+            },
+            {
+              "name": "2026年2kC47ezp.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260810/2kC47ezp.doc",
+              "local": "attachments/410200/2026年2kC47ezp.doc"
+            },
+            {
+              "name": "2026年FjpHAfyy.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042063279374249984/FjpHAfyy.docx",
+              "local": "attachments/410200/2026年FjpHAfyy.docx"
+            },
+            {
+              "name": "2026年FjpHAfyy.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20250409/FjpHAfyy.docx",
+              "local": "attachments/410200/2026年FjpHAfyy.docx"
+            },
+            {
+              "name": "2026年JRwb5LA9.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042063279374249984/JRwb5LA9.docx",
+              "local": "attachments/410200/2026年JRwb5LA9.docx"
+            },
+            {
+              "name": "2026年JRwb5LA9.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260409/JRwb5LA9.docx",
+              "local": "attachments/410200/2026年JRwb5LA9.docx"
+            },
+            {
+              "name": "2026年3fJaoR6l.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042063279374249984/3fJaoR6l.docx",
+              "local": "attachments/410200/2026年3fJaoR6l.docx"
+            },
+            {
+              "name": "2026年3fJaoR6l.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260409/3fJaoR6l.docx",
+              "local": "attachments/410200/2026年3fJaoR6l.docx"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -172,7 +1015,768 @@
           "positions": null,
           "source": "开封市人力资源和社会保障局",
           "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/pc/content/content_2046777339575578624.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年lxvIKsKu.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260914/lxvIKsKu.xlsx",
+              "local": "attachments/410200/2026年lxvIKsKu.xlsx"
+            },
+            {
+              "name": "2026年5ZrIiBCd.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260827/5ZrIiBCd.xlsx",
+              "local": "attachments/410200/2026年5ZrIiBCd.xlsx"
+            },
+            {
+              "name": "2026年RDlOzaKX.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260810/RDlOzaKX.xlsx",
+              "local": "attachments/410200/2026年RDlOzaKX.xlsx"
+            },
+            {
+              "name": "2026年lyeXwCYn.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2083851619047878656/lyeXwCYn.xlsx",
+              "local": "attachments/410200/2026年lyeXwCYn.xlsx"
+            },
+            {
+              "name": "2026年lyeXwCYn.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260802/lyeXwCYn.xlsx",
+              "local": "attachments/410200/2026年lyeXwCYn.xlsx"
+            },
+            {
+              "name": "2026年vuiv2E1k.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2081397138121076736/vuiv2E1k.xlsx",
+              "local": "attachments/410200/2026年vuiv2E1k.xlsx"
+            },
+            {
+              "name": "2026年vuiv2E1k.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260726/vuiv2E1k.xlsx",
+              "local": "attachments/410200/2026年vuiv2E1k.xlsx"
+            },
+            {
+              "name": "2026年yolul3EQ.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2081291839108329472/yolul3EQ.xlsx",
+              "local": "attachments/410200/2026年yolul3EQ.xlsx"
+            },
+            {
+              "name": "2026年yolul3EQ.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260726/yolul3EQ.xlsx",
+              "local": "attachments/410200/2026年yolul3EQ.xlsx"
+            },
+            {
+              "name": "2026年xAkuVfj8.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2080966478671687680/xAkuVfj8.xlsx",
+              "local": "attachments/410200/2026年xAkuVfj8.xlsx"
+            },
+            {
+              "name": "2026年xAkuVfj8.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260725/xAkuVfj8.xlsx",
+              "local": "attachments/410200/2026年xAkuVfj8.xlsx"
+            },
+            {
+              "name": "2026年U4WCxnhq.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2080966478671687680/U4WCxnhq.docx",
+              "local": "attachments/410200/2026年U4WCxnhq.docx"
+            },
+            {
+              "name": "2026年U4WCxnhq.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260725/U4WCxnhq.docx",
+              "local": "attachments/410200/2026年U4WCxnhq.docx"
+            },
+            {
+              "name": "2026年VaiPlqcz.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2080583152362369024/VaiPlqcz.xlsx",
+              "local": "attachments/410200/2026年VaiPlqcz.xlsx"
+            },
+            {
+              "name": "2026年VaiPlqcz.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260724/VaiPlqcz.xlsx",
+              "local": "attachments/410200/2026年VaiPlqcz.xlsx"
+            },
+            {
+              "name": "2026年gALOkRf5.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2080583152362369024/gALOkRf5.xlsx",
+              "local": "attachments/410200/2026年gALOkRf5.xlsx"
+            },
+            {
+              "name": "2026年gALOkRf5.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260724/gALOkRf5.xlsx",
+              "local": "attachments/410200/2026年gALOkRf5.xlsx"
+            },
+            {
+              "name": "2026年Oo9Oekab.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2080583152362369024/Oo9Oekab.docx",
+              "local": "attachments/410200/2026年Oo9Oekab.docx"
+            },
+            {
+              "name": "2026年Oo9Oekab.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260724/Oo9Oekab.docx",
+              "local": "attachments/410200/2026年Oo9Oekab.docx"
+            },
+            {
+              "name": "2026年HmvuspUU.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2080583152362369024/HmvuspUU.docx",
+              "local": "attachments/410200/2026年HmvuspUU.docx"
+            },
+            {
+              "name": "2026年HmvuspUU.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260724/HmvuspUU.docx",
+              "local": "attachments/410200/2026年HmvuspUU.docx"
+            },
+            {
+              "name": "2026年CdFafLiQ.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2080583152362369024/CdFafLiQ.docx",
+              "local": "attachments/410200/2026年CdFafLiQ.docx"
+            },
+            {
+              "name": "2026年CdFafLiQ.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260724/CdFafLiQ.docx",
+              "local": "attachments/410200/2026年CdFafLiQ.docx"
+            },
+            {
+              "name": "2026年CRLDq1fq.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2078791483442900992/CRLDq1fq.xlsx",
+              "local": "attachments/410200/2026年CRLDq1fq.xlsx"
+            },
+            {
+              "name": "2026年CRLDq1fq.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260719/CRLDq1fq.xlsx",
+              "local": "attachments/410200/2026年CRLDq1fq.xlsx"
+            },
+            {
+              "name": "2026年qvQZVM1B.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2078791483442900992/qvQZVM1B.xlsx",
+              "local": "attachments/410200/2026年qvQZVM1B.xlsx"
+            },
+            {
+              "name": "2026年qvQZVM1B.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260720/qvQZVM1B.xlsx",
+              "local": "attachments/410200/2026年qvQZVM1B.xlsx"
+            },
+            {
+              "name": "2026年SKXzYBZ9.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2078457865411538944/SKXzYBZ9.xlsx",
+              "local": "attachments/410200/2026年SKXzYBZ9.xlsx"
+            },
+            {
+              "name": "2026年SKXzYBZ9.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260718/SKXzYBZ9.xlsx",
+              "local": "attachments/410200/2026年SKXzYBZ9.xlsx"
+            },
+            {
+              "name": "2026年q1ut19AK.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2078457865411538944/q1ut19AK.xlsx",
+              "local": "attachments/410200/2026年q1ut19AK.xlsx"
+            },
+            {
+              "name": "2026年q1ut19AK.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260718/q1ut19AK.xlsx",
+              "local": "attachments/410200/2026年q1ut19AK.xlsx"
+            },
+            {
+              "name": "2026年V0nHpSS8.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2077586966852448256/V0nHpSS8.xlsx",
+              "local": "attachments/410200/2026年V0nHpSS8.xlsx"
+            },
+            {
+              "name": "2026年V0nHpSS8.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260716/V0nHpSS8.xlsx",
+              "local": "attachments/410200/2026年V0nHpSS8.xlsx"
+            },
+            {
+              "name": "2026年vEfjPHtD.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2077586966852448256/vEfjPHtD.xlsx",
+              "local": "attachments/410200/2026年vEfjPHtD.xlsx"
+            },
+            {
+              "name": "2026年vEfjPHtD.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260716/vEfjPHtD.xlsx",
+              "local": "attachments/410200/2026年vEfjPHtD.xlsx"
+            },
+            {
+              "name": "2026年fFYCDczw.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2077586966852448256/fFYCDczw.doc",
+              "local": "attachments/410200/2026年fFYCDczw.doc"
+            },
+            {
+              "name": "2026年fFYCDczw.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260716/fFYCDczw.doc",
+              "local": "attachments/410200/2026年fFYCDczw.doc"
+            },
+            {
+              "name": "2026年LwWtSinw.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2076832860919607296/LwWtSinw.xlsx",
+              "local": "attachments/410200/2026年LwWtSinw.xlsx"
+            },
+            {
+              "name": "2026年LwWtSinw.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260714/LwWtSinw.xlsx",
+              "local": "attachments/410200/2026年LwWtSinw.xlsx"
+            },
+            {
+              "name": "2026年tPxf84hV.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2076832860919607296/tPxf84hV.xlsx",
+              "local": "attachments/410200/2026年tPxf84hV.xlsx"
+            },
+            {
+              "name": "2026年tPxf84hV.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260714/tPxf84hV.xlsx",
+              "local": "attachments/410200/2026年tPxf84hV.xlsx"
+            },
+            {
+              "name": "2026年8GNSix2M.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2076469511119745024/8GNSix2M.xlsx",
+              "local": "attachments/410200/2026年8GNSix2M.xlsx"
+            },
+            {
+              "name": "2026年8GNSix2M.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260713/8GNSix2M.xlsx",
+              "local": "attachments/410200/2026年8GNSix2M.xlsx"
+            },
+            {
+              "name": "2026年YN6seuVN.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2076469511119745024/YN6seuVN.xlsx",
+              "local": "attachments/410200/2026年YN6seuVN.xlsx"
+            },
+            {
+              "name": "2026年YN6seuVN.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260713/YN6seuVN.xlsx",
+              "local": "attachments/410200/2026年YN6seuVN.xlsx"
+            },
+            {
+              "name": "2026年UXQM2Tzi.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2075532127570014208/UXQM2Tzi.xlsx",
+              "local": "attachments/410200/2026年UXQM2Tzi.xlsx"
+            },
+            {
+              "name": "2026年UXQM2Tzi.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260710/UXQM2Tzi.xlsx",
+              "local": "attachments/410200/2026年UXQM2Tzi.xlsx"
+            },
+            {
+              "name": "2026年naDnUYhJ.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2075532127570014208/naDnUYhJ.xlsx",
+              "local": "attachments/410200/2026年naDnUYhJ.xlsx"
+            },
+            {
+              "name": "2026年naDnUYhJ.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260710/naDnUYhJ.xlsx",
+              "local": "attachments/410200/2026年naDnUYhJ.xlsx"
+            },
+            {
+              "name": "2026年crRTZzOJ.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2075532127570014208/crRTZzOJ.docx",
+              "local": "attachments/410200/2026年crRTZzOJ.docx"
+            },
+            {
+              "name": "2026年crRTZzOJ.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260710/crRTZzOJ.docx",
+              "local": "attachments/410200/2026年crRTZzOJ.docx"
+            },
+            {
+              "name": "2026年8EHNN6fk.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2075532127570014208/8EHNN6fk.docx",
+              "local": "attachments/410200/2026年8EHNN6fk.docx"
+            },
+            {
+              "name": "2026年8EHNN6fk.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260710/8EHNN6fk.docx",
+              "local": "attachments/410200/2026年8EHNN6fk.docx"
+            },
+            {
+              "name": "2026年wYs7ZvNM.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2075532127570014208/wYs7ZvNM.docx",
+              "local": "attachments/410200/2026年wYs7ZvNM.docx"
+            },
+            {
+              "name": "2026年wYs7ZvNM.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260710/wYs7ZvNM.docx",
+              "local": "attachments/410200/2026年wYs7ZvNM.docx"
+            },
+            {
+              "name": "2026年SztK7dSq.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2075031809610526720/SztK7dSq.xls",
+              "local": "attachments/410200/2026年SztK7dSq.xls"
+            },
+            {
+              "name": "2026年SztK7dSq.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260709/SztK7dSq.xls",
+              "local": "attachments/410200/2026年SztK7dSq.xls"
+            },
+            {
+              "name": "2026年GkWBIRst.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2074788067817336832/GkWBIRst.xls",
+              "local": "attachments/410200/2026年GkWBIRst.xls"
+            },
+            {
+              "name": "2026年GkWBIRst.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260708/GkWBIRst.xls",
+              "local": "attachments/410200/2026年GkWBIRst.xls"
+            },
+            {
+              "name": "2026年wHcdpDVD.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2072627193778319360/wHcdpDVD.xlsx",
+              "local": "attachments/410200/2026年wHcdpDVD.xlsx"
+            },
+            {
+              "name": "2026年wHcdpDVD.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260702/wHcdpDVD.xlsx",
+              "local": "attachments/410200/2026年wHcdpDVD.xlsx"
+            },
+            {
+              "name": "2026年2oXLY5So.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2072627193778319360/2oXLY5So.xlsx",
+              "local": "attachments/410200/2026年2oXLY5So.xlsx"
+            },
+            {
+              "name": "2026年2oXLY5So.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260702/2oXLY5So.xlsx",
+              "local": "attachments/410200/2026年2oXLY5So.xlsx"
+            },
+            {
+              "name": "2026年nF7eSyZf.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2072627193778319360/nF7eSyZf.docx",
+              "local": "attachments/410200/2026年nF7eSyZf.docx"
+            },
+            {
+              "name": "2026年nF7eSyZf.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260702/nF7eSyZf.docx",
+              "local": "attachments/410200/2026年nF7eSyZf.docx"
+            },
+            {
+              "name": "2026年dWpi0ehA.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2072627193778319360/dWpi0ehA.docx",
+              "local": "attachments/410200/2026年dWpi0ehA.docx"
+            },
+            {
+              "name": "2026年dWpi0ehA.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260702/dWpi0ehA.docx",
+              "local": "attachments/410200/2026年dWpi0ehA.docx"
+            },
+            {
+              "name": "2026年2lbUxL8P.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2072627193778319360/2lbUxL8P.docx",
+              "local": "attachments/410200/2026年2lbUxL8P.docx"
+            },
+            {
+              "name": "2026年2lbUxL8P.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260702/2lbUxL8P.docx",
+              "local": "attachments/410200/2026年2lbUxL8P.docx"
+            },
+            {
+              "name": "2026年Vp18ljjw.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2072627193778319360/Vp18ljjw.xlsx",
+              "local": "attachments/410200/2026年Vp18ljjw.xlsx"
+            },
+            {
+              "name": "2026年Vp18ljjw.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260702/Vp18ljjw.xlsx",
+              "local": "attachments/410200/2026年Vp18ljjw.xlsx"
+            },
+            {
+              "name": "2026年8z821VuF.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2065379451700031488/8z821VuF.xlsx",
+              "local": "attachments/410200/2026年8z821VuF.xlsx"
+            },
+            {
+              "name": "2026年8z821VuF.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260612/8z821VuF.xlsx",
+              "local": "attachments/410200/2026年8z821VuF.xlsx"
+            },
+            {
+              "name": "2026年rb90j9nR.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2062477971984789504/rb90j9nR.xlsx",
+              "local": "attachments/410200/2026年rb90j9nR.xlsx"
+            },
+            {
+              "name": "2026年rb90j9nR.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260604/rb90j9nR.xlsx",
+              "local": "attachments/410200/2026年rb90j9nR.xlsx"
+            },
+            {
+              "name": "2026年eqKsdb95.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2057393981682659328/eqKsdb95.xls",
+              "local": "attachments/410200/2026年eqKsdb95.xls"
+            },
+            {
+              "name": "2026年eqKsdb95.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260521/eqKsdb95.xls",
+              "local": "attachments/410200/2026年eqKsdb95.xls"
+            },
+            {
+              "name": "2026年3OqAoQJD.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2055114285385297920/3OqAoQJD.xls",
+              "local": "attachments/410200/2026年3OqAoQJD.xls"
+            },
+            {
+              "name": "2026年3OqAoQJD.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260515/3OqAoQJD.xls",
+              "local": "attachments/410200/2026年3OqAoQJD.xls"
+            },
+            {
+              "name": "2026年yCeWzwvR.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2055113972699934720/yCeWzwvR.xls",
+              "local": "attachments/410200/2026年yCeWzwvR.xls"
+            },
+            {
+              "name": "2026年yCeWzwvR.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260515/yCeWzwvR.xls",
+              "local": "attachments/410200/2026年yCeWzwvR.xls"
+            },
+            {
+              "name": "2026年BCf6zIH3.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2052299450058584064/BCf6zIH3.xls",
+              "local": "attachments/410200/2026年BCf6zIH3.xls"
+            },
+            {
+              "name": "2026年BCf6zIH3.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260507/BCf6zIH3.xls",
+              "local": "attachments/410200/2026年BCf6zIH3.xls"
+            },
+            {
+              "name": "2026年5KrIFSlu.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2052299450058584064/5KrIFSlu.doc",
+              "local": "attachments/410200/2026年5KrIFSlu.doc"
+            },
+            {
+              "name": "2026年5KrIFSlu.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260507/5KrIFSlu.doc",
+              "local": "attachments/410200/2026年5KrIFSlu.doc"
+            },
+            {
+              "name": "2026年AEaxiPBu.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2052233519341023232/AEaxiPBu.xlsx",
+              "local": "attachments/410200/2026年AEaxiPBu.xlsx"
+            },
+            {
+              "name": "2026年AEaxiPBu.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260507/AEaxiPBu.xlsx",
+              "local": "attachments/410200/2026年AEaxiPBu.xlsx"
+            },
+            {
+              "name": "2026年RTX3xIGh.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2052233519341023232/RTX3xIGh.xlsx",
+              "local": "attachments/410200/2026年RTX3xIGh.xlsx"
+            },
+            {
+              "name": "2026年RTX3xIGh.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260507/RTX3xIGh.xlsx",
+              "local": "attachments/410200/2026年RTX3xIGh.xlsx"
+            },
+            {
+              "name": "2026年BlMc4jxZ.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2049695155702247424/BlMc4jxZ.xls",
+              "local": "attachments/410200/2026年BlMc4jxZ.xls"
+            },
+            {
+              "name": "2026年BlMc4jxZ.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260430/BlMc4jxZ.xls",
+              "local": "attachments/410200/2026年BlMc4jxZ.xls"
+            },
+            {
+              "name": "2026年C2HAfjlW.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2049695155702247424/C2HAfjlW.doc",
+              "local": "attachments/410200/2026年C2HAfjlW.doc"
+            },
+            {
+              "name": "2026年C2HAfjlW.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20250430/C2HAfjlW.doc",
+              "local": "attachments/410200/2026年C2HAfjlW.doc"
+            },
+            {
+              "name": "2026年zguJekiu.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2049695155702247424/zguJekiu.xls",
+              "local": "attachments/410200/2026年zguJekiu.xls"
+            },
+            {
+              "name": "2026年zguJekiu.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20250430/zguJekiu.xls",
+              "local": "attachments/410200/2026年zguJekiu.xls"
+            },
+            {
+              "name": "2026年CNjoeslv.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2049045045691592704/CNjoeslv.xls",
+              "local": "attachments/410200/2026年CNjoeslv.xls"
+            },
+            {
+              "name": "2026年CNjoeslv.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260428/CNjoeslv.xls",
+              "local": "attachments/410200/2026年CNjoeslv.xls"
+            },
+            {
+              "name": "2026年jzk7QdS1.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2049044777780424704/jzk7QdS1.xls",
+              "local": "attachments/410200/2026年jzk7QdS1.xls"
+            },
+            {
+              "name": "2026年jzk7QdS1.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260428/jzk7QdS1.xls",
+              "local": "attachments/410200/2026年jzk7QdS1.xls"
+            },
+            {
+              "name": "2026年bgnqdv96.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2046777339575578624/bgnqdv96.xlsx",
+              "local": "attachments/410200/2026年bgnqdv96.xlsx"
+            },
+            {
+              "name": "2026年bgnqdv96.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260422/bgnqdv96.xlsx",
+              "local": "attachments/410200/2026年bgnqdv96.xlsx"
+            },
+            {
+              "name": "2026年J4Xlmu6W.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2046074743688835072/J4Xlmu6W.xls",
+              "local": "attachments/410200/2026年J4Xlmu6W.xls"
+            },
+            {
+              "name": "2026年J4Xlmu6W.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260420/J4Xlmu6W.xls",
+              "local": "attachments/410200/2026年J4Xlmu6W.xls"
+            },
+            {
+              "name": "2026年xnADR7WU.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2046074743688835072/xnADR7WU.doc",
+              "local": "attachments/410200/2026年xnADR7WU.doc"
+            },
+            {
+              "name": "2026年xnADR7WU.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260420/xnADR7WU.doc",
+              "local": "attachments/410200/2026年xnADR7WU.doc"
+            },
+            {
+              "name": "2026年nShIf3eu.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2046072829064556544/nShIf3eu.xls",
+              "local": "attachments/410200/2026年nShIf3eu.xls"
+            },
+            {
+              "name": "2026年nShIf3eu.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260420/nShIf3eu.xls",
+              "local": "attachments/410200/2026年nShIf3eu.xls"
+            },
+            {
+              "name": "2026年XJfXtNEI.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2046072829064556544/XJfXtNEI.xls",
+              "local": "attachments/410200/2026年XJfXtNEI.xls"
+            },
+            {
+              "name": "2026年XJfXtNEI.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260420/XJfXtNEI.xls",
+              "local": "attachments/410200/2026年XJfXtNEI.xls"
+            },
+            {
+              "name": "2026年BC2iykpH.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2046072829064556544/BC2iykpH.xls",
+              "local": "attachments/410200/2026年BC2iykpH.xls"
+            },
+            {
+              "name": "2026年BC2iykpH.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260420/BC2iykpH.xls",
+              "local": "attachments/410200/2026年BC2iykpH.xls"
+            },
+            {
+              "name": "2026年dujblRdx.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2046072829064556544/dujblRdx.doc",
+              "local": "attachments/410200/2026年dujblRdx.doc"
+            },
+            {
+              "name": "2026年dujblRdx.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260420/dujblRdx.doc",
+              "local": "attachments/410200/2026年dujblRdx.doc"
+            },
+            {
+              "name": "2026年4HavRT1y.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2045107372379648000/4HavRT1y.xlsx",
+              "local": "attachments/410200/2026年4HavRT1y.xlsx"
+            },
+            {
+              "name": "2026年4HavRT1y.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260417/4HavRT1y.xlsx",
+              "local": "attachments/410200/2026年4HavRT1y.xlsx"
+            },
+            {
+              "name": "2026年L90c4CPm.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2044251298424467456/L90c4CPm.xls",
+              "local": "attachments/410200/2026年L90c4CPm.xls"
+            },
+            {
+              "name": "2026年L90c4CPm.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260415/L90c4CPm.xls",
+              "local": "attachments/410200/2026年L90c4CPm.xls"
+            },
+            {
+              "name": "2026年bu20vHfU.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2043649377871376384/bu20vHfU.xlsx",
+              "local": "attachments/410200/2026年bu20vHfU.xlsx"
+            },
+            {
+              "name": "2026年bu20vHfU.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260413/bu20vHfU.xlsx",
+              "local": "attachments/410200/2026年bu20vHfU.xlsx"
+            },
+            {
+              "name": "2026年1Yq23enT.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2043649377871376384/1Yq23enT.docx",
+              "local": "attachments/410200/2026年1Yq23enT.docx"
+            },
+            {
+              "name": "2026年1Yq23enT.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260413/1Yq23enT.docx",
+              "local": "attachments/410200/2026年1Yq23enT.docx"
+            },
+            {
+              "name": "2026年U1ISsrHy.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2043607174700642304/U1ISsrHy.xls",
+              "local": "attachments/410200/2026年U1ISsrHy.xls"
+            },
+            {
+              "name": "2026年U1ISsrHy.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260413/U1ISsrHy.xls",
+              "local": "attachments/410200/2026年U1ISsrHy.xls"
+            },
+            {
+              "name": "2026年2AkWOE0O.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/2AkWOE0O.xls",
+              "local": "attachments/410200/2026年2AkWOE0O.xls"
+            },
+            {
+              "name": "2026年2AkWOE0O.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/2AkWOE0O.xls",
+              "local": "attachments/410200/2026年2AkWOE0O.xls"
+            },
+            {
+              "name": "2026年IUDIYk1J.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/IUDIYk1J.doc",
+              "local": "attachments/410200/2026年IUDIYk1J.doc"
+            },
+            {
+              "name": "2026年IUDIYk1J.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/IUDIYk1J.doc",
+              "local": "attachments/410200/2026年IUDIYk1J.doc"
+            },
+            {
+              "name": "2026年0bng5Zrz.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/0bng5Zrz.doc",
+              "local": "attachments/410200/2026年0bng5Zrz.doc"
+            },
+            {
+              "name": "2026年0bng5Zrz.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/0bng5Zrz.doc",
+              "local": "attachments/410200/2026年0bng5Zrz.doc"
+            },
+            {
+              "name": "2026年eIiavtFw.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/eIiavtFw.doc",
+              "local": "attachments/410200/2026年eIiavtFw.doc"
+            },
+            {
+              "name": "2026年eIiavtFw.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/eIiavtFw.doc",
+              "local": "attachments/410200/2026年eIiavtFw.doc"
+            },
+            {
+              "name": "2026年DnBH0E0i.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/DnBH0E0i.doc",
+              "local": "attachments/410200/2026年DnBH0E0i.doc"
+            },
+            {
+              "name": "2026年DnBH0E0i.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/DnBH0E0i.doc",
+              "local": "attachments/410200/2026年DnBH0E0i.doc"
+            },
+            {
+              "name": "2026年RjETyIbK.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/RjETyIbK.docx",
+              "local": "attachments/410200/2026年RjETyIbK.docx"
+            },
+            {
+              "name": "2026年RjETyIbK.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/RjETyIbK.docx",
+              "local": "attachments/410200/2026年RjETyIbK.docx"
+            },
+            {
+              "name": "2026年Z6oeaYlf.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/Z6oeaYlf.xls",
+              "local": "attachments/410200/2026年Z6oeaYlf.xls"
+            },
+            {
+              "name": "2026年Z6oeaYlf.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/Z6oeaYlf.xls",
+              "local": "attachments/410200/2026年Z6oeaYlf.xls"
+            },
+            {
+              "name": "2026年LPyFNNi2.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/LPyFNNi2.xlsx",
+              "local": "attachments/410200/2026年LPyFNNi2.xlsx"
+            },
+            {
+              "name": "2026年LPyFNNi2.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/LPyFNNi2.xlsx",
+              "local": "attachments/410200/2026年LPyFNNi2.xlsx"
+            },
+            {
+              "name": "2026年XJvUKSxB.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042063279374249984/XJvUKSxB.XLS",
+              "local": "attachments/410200/2026年XJvUKSxB.xls"
+            },
+            {
+              "name": "2026年XJvUKSxB.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260409/XJvUKSxB.XLS",
+              "local": "attachments/410200/2026年XJvUKSxB.xls"
+            },
+            {
+              "name": "2026年L3fOip0u.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042063279374249984/L3fOip0u.doc",
+              "local": "attachments/410200/2026年L3fOip0u.doc"
+            },
+            {
+              "name": "2026年L3fOip0u.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260104/L3fOip0u.doc",
+              "local": "attachments/410200/2026年L3fOip0u.doc"
+            },
+            {
+              "name": "2026年wyELahRw.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042063279374249984/wyELahRw.doc",
+              "local": "attachments/410200/2026年wyELahRw.doc"
+            },
+            {
+              "name": "2026年wyELahRw.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260409/wyELahRw.doc",
+              "local": "attachments/410200/2026年wyELahRw.doc"
+            },
+            {
+              "name": "2026年Ni42yqwm.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042063279374249984/Ni42yqwm.doc",
+              "local": "attachments/410200/2026年Ni42yqwm.doc"
+            },
+            {
+              "name": "2026年Ni42yqwm.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20241014/Ni42yqwm.doc",
+              "local": "attachments/410200/2026年Ni42yqwm.doc"
+            },
+            {
+              "name": "2026年2kC47ezp.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042063279374249984/2kC47ezp.doc",
+              "local": "attachments/410200/2026年2kC47ezp.doc"
+            },
+            {
+              "name": "2026年2kC47ezp.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260810/2kC47ezp.doc",
+              "local": "attachments/410200/2026年2kC47ezp.doc"
+            },
+            {
+              "name": "2026年FjpHAfyy.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042063279374249984/FjpHAfyy.docx",
+              "local": "attachments/410200/2026年FjpHAfyy.docx"
+            },
+            {
+              "name": "2026年FjpHAfyy.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20250409/FjpHAfyy.docx",
+              "local": "attachments/410200/2026年FjpHAfyy.docx"
+            },
+            {
+              "name": "2026年JRwb5LA9.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042063279374249984/JRwb5LA9.docx",
+              "local": "attachments/410200/2026年JRwb5LA9.docx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -184,7 +1788,738 @@
           "positions": null,
           "source": "开封市人力资源和社会保障局",
           "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/pc/content/content_2001936306271547392.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年lxvIKsKu.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260914/lxvIKsKu.xlsx",
+              "local": "attachments/410200/2025年lxvIKsKu.xlsx"
+            },
+            {
+              "name": "2025年5ZrIiBCd.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260827/5ZrIiBCd.xlsx",
+              "local": "attachments/410200/2025年5ZrIiBCd.xlsx"
+            },
+            {
+              "name": "2025年RDlOzaKX.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260810/RDlOzaKX.xlsx",
+              "local": "attachments/410200/2025年RDlOzaKX.xlsx"
+            },
+            {
+              "name": "2025年lyeXwCYn.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260802/lyeXwCYn.xlsx",
+              "local": "attachments/410200/2025年lyeXwCYn.xlsx"
+            },
+            {
+              "name": "2025年vuiv2E1k.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260726/vuiv2E1k.xlsx",
+              "local": "attachments/410200/2025年vuiv2E1k.xlsx"
+            },
+            {
+              "name": "2025年yolul3EQ.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260726/yolul3EQ.xlsx",
+              "local": "attachments/410200/2025年yolul3EQ.xlsx"
+            },
+            {
+              "name": "2025年xAkuVfj8.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2080966478671687680/xAkuVfj8.xlsx",
+              "local": "attachments/410200/2025年xAkuVfj8.xlsx"
+            },
+            {
+              "name": "2025年xAkuVfj8.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260725/xAkuVfj8.xlsx",
+              "local": "attachments/410200/2025年xAkuVfj8.xlsx"
+            },
+            {
+              "name": "2025年U4WCxnhq.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2080966478671687680/U4WCxnhq.docx",
+              "local": "attachments/410200/2025年U4WCxnhq.docx"
+            },
+            {
+              "name": "2025年U4WCxnhq.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260725/U4WCxnhq.docx",
+              "local": "attachments/410200/2025年U4WCxnhq.docx"
+            },
+            {
+              "name": "2025年VaiPlqcz.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2080583152362369024/VaiPlqcz.xlsx",
+              "local": "attachments/410200/2025年VaiPlqcz.xlsx"
+            },
+            {
+              "name": "2025年VaiPlqcz.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260724/VaiPlqcz.xlsx",
+              "local": "attachments/410200/2025年VaiPlqcz.xlsx"
+            },
+            {
+              "name": "2025年gALOkRf5.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2080583152362369024/gALOkRf5.xlsx",
+              "local": "attachments/410200/2025年gALOkRf5.xlsx"
+            },
+            {
+              "name": "2025年gALOkRf5.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260724/gALOkRf5.xlsx",
+              "local": "attachments/410200/2025年gALOkRf5.xlsx"
+            },
+            {
+              "name": "2025年Oo9Oekab.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2080583152362369024/Oo9Oekab.docx",
+              "local": "attachments/410200/2025年Oo9Oekab.docx"
+            },
+            {
+              "name": "2025年Oo9Oekab.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260724/Oo9Oekab.docx",
+              "local": "attachments/410200/2025年Oo9Oekab.docx"
+            },
+            {
+              "name": "2025年HmvuspUU.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2080583152362369024/HmvuspUU.docx",
+              "local": "attachments/410200/2025年HmvuspUU.docx"
+            },
+            {
+              "name": "2025年HmvuspUU.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260724/HmvuspUU.docx",
+              "local": "attachments/410200/2025年HmvuspUU.docx"
+            },
+            {
+              "name": "2025年CdFafLiQ.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2080583152362369024/CdFafLiQ.docx",
+              "local": "attachments/410200/2025年CdFafLiQ.docx"
+            },
+            {
+              "name": "2025年CdFafLiQ.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260724/CdFafLiQ.docx",
+              "local": "attachments/410200/2025年CdFafLiQ.docx"
+            },
+            {
+              "name": "2025年CRLDq1fq.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2078791483442900992/CRLDq1fq.xlsx",
+              "local": "attachments/410200/2025年CRLDq1fq.xlsx"
+            },
+            {
+              "name": "2025年CRLDq1fq.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260719/CRLDq1fq.xlsx",
+              "local": "attachments/410200/2025年CRLDq1fq.xlsx"
+            },
+            {
+              "name": "2025年qvQZVM1B.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2078791483442900992/qvQZVM1B.xlsx",
+              "local": "attachments/410200/2025年qvQZVM1B.xlsx"
+            },
+            {
+              "name": "2025年qvQZVM1B.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260720/qvQZVM1B.xlsx",
+              "local": "attachments/410200/2025年qvQZVM1B.xlsx"
+            },
+            {
+              "name": "2025年SKXzYBZ9.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2078457865411538944/SKXzYBZ9.xlsx",
+              "local": "attachments/410200/2025年SKXzYBZ9.xlsx"
+            },
+            {
+              "name": "2025年SKXzYBZ9.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260718/SKXzYBZ9.xlsx",
+              "local": "attachments/410200/2025年SKXzYBZ9.xlsx"
+            },
+            {
+              "name": "2025年q1ut19AK.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2078457865411538944/q1ut19AK.xlsx",
+              "local": "attachments/410200/2025年q1ut19AK.xlsx"
+            },
+            {
+              "name": "2025年q1ut19AK.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260718/q1ut19AK.xlsx",
+              "local": "attachments/410200/2025年q1ut19AK.xlsx"
+            },
+            {
+              "name": "2025年V0nHpSS8.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2077586966852448256/V0nHpSS8.xlsx",
+              "local": "attachments/410200/2025年V0nHpSS8.xlsx"
+            },
+            {
+              "name": "2025年V0nHpSS8.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260716/V0nHpSS8.xlsx",
+              "local": "attachments/410200/2025年V0nHpSS8.xlsx"
+            },
+            {
+              "name": "2025年vEfjPHtD.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2077586966852448256/vEfjPHtD.xlsx",
+              "local": "attachments/410200/2025年vEfjPHtD.xlsx"
+            },
+            {
+              "name": "2025年vEfjPHtD.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260716/vEfjPHtD.xlsx",
+              "local": "attachments/410200/2025年vEfjPHtD.xlsx"
+            },
+            {
+              "name": "2025年fFYCDczw.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2077586966852448256/fFYCDczw.doc",
+              "local": "attachments/410200/2025年fFYCDczw.doc"
+            },
+            {
+              "name": "2025年fFYCDczw.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260716/fFYCDczw.doc",
+              "local": "attachments/410200/2025年fFYCDczw.doc"
+            },
+            {
+              "name": "2025年LwWtSinw.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2076832860919607296/LwWtSinw.xlsx",
+              "local": "attachments/410200/2025年LwWtSinw.xlsx"
+            },
+            {
+              "name": "2025年LwWtSinw.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260714/LwWtSinw.xlsx",
+              "local": "attachments/410200/2025年LwWtSinw.xlsx"
+            },
+            {
+              "name": "2025年tPxf84hV.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2076832860919607296/tPxf84hV.xlsx",
+              "local": "attachments/410200/2025年tPxf84hV.xlsx"
+            },
+            {
+              "name": "2025年tPxf84hV.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260714/tPxf84hV.xlsx",
+              "local": "attachments/410200/2025年tPxf84hV.xlsx"
+            },
+            {
+              "name": "2025年8GNSix2M.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2076469511119745024/8GNSix2M.xlsx",
+              "local": "attachments/410200/2025年8GNSix2M.xlsx"
+            },
+            {
+              "name": "2025年8GNSix2M.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260713/8GNSix2M.xlsx",
+              "local": "attachments/410200/2025年8GNSix2M.xlsx"
+            },
+            {
+              "name": "2025年YN6seuVN.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2076469511119745024/YN6seuVN.xlsx",
+              "local": "attachments/410200/2025年YN6seuVN.xlsx"
+            },
+            {
+              "name": "2025年YN6seuVN.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260713/YN6seuVN.xlsx",
+              "local": "attachments/410200/2025年YN6seuVN.xlsx"
+            },
+            {
+              "name": "2025年UXQM2Tzi.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2075532127570014208/UXQM2Tzi.xlsx",
+              "local": "attachments/410200/2025年UXQM2Tzi.xlsx"
+            },
+            {
+              "name": "2025年UXQM2Tzi.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260710/UXQM2Tzi.xlsx",
+              "local": "attachments/410200/2025年UXQM2Tzi.xlsx"
+            },
+            {
+              "name": "2025年naDnUYhJ.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2075532127570014208/naDnUYhJ.xlsx",
+              "local": "attachments/410200/2025年naDnUYhJ.xlsx"
+            },
+            {
+              "name": "2025年naDnUYhJ.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260710/naDnUYhJ.xlsx",
+              "local": "attachments/410200/2025年naDnUYhJ.xlsx"
+            },
+            {
+              "name": "2025年crRTZzOJ.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2075532127570014208/crRTZzOJ.docx",
+              "local": "attachments/410200/2025年crRTZzOJ.docx"
+            },
+            {
+              "name": "2025年crRTZzOJ.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260710/crRTZzOJ.docx",
+              "local": "attachments/410200/2025年crRTZzOJ.docx"
+            },
+            {
+              "name": "2025年8EHNN6fk.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2075532127570014208/8EHNN6fk.docx",
+              "local": "attachments/410200/2025年8EHNN6fk.docx"
+            },
+            {
+              "name": "2025年8EHNN6fk.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260710/8EHNN6fk.docx",
+              "local": "attachments/410200/2025年8EHNN6fk.docx"
+            },
+            {
+              "name": "2025年wYs7ZvNM.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2075532127570014208/wYs7ZvNM.docx",
+              "local": "attachments/410200/2025年wYs7ZvNM.docx"
+            },
+            {
+              "name": "2025年wYs7ZvNM.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260710/wYs7ZvNM.docx",
+              "local": "attachments/410200/2025年wYs7ZvNM.docx"
+            },
+            {
+              "name": "2025年SztK7dSq.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2075031809610526720/SztK7dSq.xls",
+              "local": "attachments/410200/2025年SztK7dSq.xls"
+            },
+            {
+              "name": "2025年SztK7dSq.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260709/SztK7dSq.xls",
+              "local": "attachments/410200/2025年SztK7dSq.xls"
+            },
+            {
+              "name": "2025年GkWBIRst.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2074788067817336832/GkWBIRst.xls",
+              "local": "attachments/410200/2025年GkWBIRst.xls"
+            },
+            {
+              "name": "2025年GkWBIRst.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260708/GkWBIRst.xls",
+              "local": "attachments/410200/2025年GkWBIRst.xls"
+            },
+            {
+              "name": "2025年wHcdpDVD.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2072627193778319360/wHcdpDVD.xlsx",
+              "local": "attachments/410200/2025年wHcdpDVD.xlsx"
+            },
+            {
+              "name": "2025年wHcdpDVD.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260702/wHcdpDVD.xlsx",
+              "local": "attachments/410200/2025年wHcdpDVD.xlsx"
+            },
+            {
+              "name": "2025年2oXLY5So.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2072627193778319360/2oXLY5So.xlsx",
+              "local": "attachments/410200/2025年2oXLY5So.xlsx"
+            },
+            {
+              "name": "2025年2oXLY5So.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260702/2oXLY5So.xlsx",
+              "local": "attachments/410200/2025年2oXLY5So.xlsx"
+            },
+            {
+              "name": "2025年nF7eSyZf.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2072627193778319360/nF7eSyZf.docx",
+              "local": "attachments/410200/2025年nF7eSyZf.docx"
+            },
+            {
+              "name": "2025年nF7eSyZf.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260702/nF7eSyZf.docx",
+              "local": "attachments/410200/2025年nF7eSyZf.docx"
+            },
+            {
+              "name": "2025年dWpi0ehA.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2072627193778319360/dWpi0ehA.docx",
+              "local": "attachments/410200/2025年dWpi0ehA.docx"
+            },
+            {
+              "name": "2025年dWpi0ehA.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260702/dWpi0ehA.docx",
+              "local": "attachments/410200/2025年dWpi0ehA.docx"
+            },
+            {
+              "name": "2025年2lbUxL8P.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2072627193778319360/2lbUxL8P.docx",
+              "local": "attachments/410200/2025年2lbUxL8P.docx"
+            },
+            {
+              "name": "2025年2lbUxL8P.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260702/2lbUxL8P.docx",
+              "local": "attachments/410200/2025年2lbUxL8P.docx"
+            },
+            {
+              "name": "2025年Vp18ljjw.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2072627193778319360/Vp18ljjw.xlsx",
+              "local": "attachments/410200/2025年Vp18ljjw.xlsx"
+            },
+            {
+              "name": "2025年Vp18ljjw.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260702/Vp18ljjw.xlsx",
+              "local": "attachments/410200/2025年Vp18ljjw.xlsx"
+            },
+            {
+              "name": "2025年8z821VuF.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2065379451700031488/8z821VuF.xlsx",
+              "local": "attachments/410200/2025年8z821VuF.xlsx"
+            },
+            {
+              "name": "2025年8z821VuF.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260612/8z821VuF.xlsx",
+              "local": "attachments/410200/2025年8z821VuF.xlsx"
+            },
+            {
+              "name": "2025年rb90j9nR.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2062477971984789504/rb90j9nR.xlsx",
+              "local": "attachments/410200/2025年rb90j9nR.xlsx"
+            },
+            {
+              "name": "2025年rb90j9nR.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260604/rb90j9nR.xlsx",
+              "local": "attachments/410200/2025年rb90j9nR.xlsx"
+            },
+            {
+              "name": "2025年eqKsdb95.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2057393981682659328/eqKsdb95.xls",
+              "local": "attachments/410200/2025年eqKsdb95.xls"
+            },
+            {
+              "name": "2025年eqKsdb95.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260521/eqKsdb95.xls",
+              "local": "attachments/410200/2025年eqKsdb95.xls"
+            },
+            {
+              "name": "2025年3OqAoQJD.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2055114285385297920/3OqAoQJD.xls",
+              "local": "attachments/410200/2025年3OqAoQJD.xls"
+            },
+            {
+              "name": "2025年3OqAoQJD.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260515/3OqAoQJD.xls",
+              "local": "attachments/410200/2025年3OqAoQJD.xls"
+            },
+            {
+              "name": "2025年yCeWzwvR.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2055113972699934720/yCeWzwvR.xls",
+              "local": "attachments/410200/2025年yCeWzwvR.xls"
+            },
+            {
+              "name": "2025年yCeWzwvR.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260515/yCeWzwvR.xls",
+              "local": "attachments/410200/2025年yCeWzwvR.xls"
+            },
+            {
+              "name": "2025年BCf6zIH3.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2052299450058584064/BCf6zIH3.xls",
+              "local": "attachments/410200/2025年BCf6zIH3.xls"
+            },
+            {
+              "name": "2025年BCf6zIH3.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260507/BCf6zIH3.xls",
+              "local": "attachments/410200/2025年BCf6zIH3.xls"
+            },
+            {
+              "name": "2025年5KrIFSlu.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2052299450058584064/5KrIFSlu.doc",
+              "local": "attachments/410200/2025年5KrIFSlu.doc"
+            },
+            {
+              "name": "2025年5KrIFSlu.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260507/5KrIFSlu.doc",
+              "local": "attachments/410200/2025年5KrIFSlu.doc"
+            },
+            {
+              "name": "2025年AEaxiPBu.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2052233519341023232/AEaxiPBu.xlsx",
+              "local": "attachments/410200/2025年AEaxiPBu.xlsx"
+            },
+            {
+              "name": "2025年AEaxiPBu.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260507/AEaxiPBu.xlsx",
+              "local": "attachments/410200/2025年AEaxiPBu.xlsx"
+            },
+            {
+              "name": "2025年RTX3xIGh.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2052233519341023232/RTX3xIGh.xlsx",
+              "local": "attachments/410200/2025年RTX3xIGh.xlsx"
+            },
+            {
+              "name": "2025年RTX3xIGh.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260507/RTX3xIGh.xlsx",
+              "local": "attachments/410200/2025年RTX3xIGh.xlsx"
+            },
+            {
+              "name": "2025年BlMc4jxZ.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2049695155702247424/BlMc4jxZ.xls",
+              "local": "attachments/410200/2025年BlMc4jxZ.xls"
+            },
+            {
+              "name": "2025年BlMc4jxZ.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260430/BlMc4jxZ.xls",
+              "local": "attachments/410200/2025年BlMc4jxZ.xls"
+            },
+            {
+              "name": "2025年C2HAfjlW.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2049695155702247424/C2HAfjlW.doc",
+              "local": "attachments/410200/2025年C2HAfjlW.doc"
+            },
+            {
+              "name": "2025年C2HAfjlW.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20250430/C2HAfjlW.doc",
+              "local": "attachments/410200/2025年C2HAfjlW.doc"
+            },
+            {
+              "name": "2025年zguJekiu.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2049695155702247424/zguJekiu.xls",
+              "local": "attachments/410200/2025年zguJekiu.xls"
+            },
+            {
+              "name": "2025年zguJekiu.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20250430/zguJekiu.xls",
+              "local": "attachments/410200/2025年zguJekiu.xls"
+            },
+            {
+              "name": "2025年CNjoeslv.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2049045045691592704/CNjoeslv.xls",
+              "local": "attachments/410200/2025年CNjoeslv.xls"
+            },
+            {
+              "name": "2025年CNjoeslv.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260428/CNjoeslv.xls",
+              "local": "attachments/410200/2025年CNjoeslv.xls"
+            },
+            {
+              "name": "2025年jzk7QdS1.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2049044777780424704/jzk7QdS1.xls",
+              "local": "attachments/410200/2025年jzk7QdS1.xls"
+            },
+            {
+              "name": "2025年jzk7QdS1.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260428/jzk7QdS1.xls",
+              "local": "attachments/410200/2025年jzk7QdS1.xls"
+            },
+            {
+              "name": "2025年bgnqdv96.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2046777339575578624/bgnqdv96.xlsx",
+              "local": "attachments/410200/2025年bgnqdv96.xlsx"
+            },
+            {
+              "name": "2025年bgnqdv96.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260422/bgnqdv96.xlsx",
+              "local": "attachments/410200/2025年bgnqdv96.xlsx"
+            },
+            {
+              "name": "2025年J4Xlmu6W.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2046074743688835072/J4Xlmu6W.xls",
+              "local": "attachments/410200/2025年J4Xlmu6W.xls"
+            },
+            {
+              "name": "2025年J4Xlmu6W.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260420/J4Xlmu6W.xls",
+              "local": "attachments/410200/2025年J4Xlmu6W.xls"
+            },
+            {
+              "name": "2025年xnADR7WU.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2046074743688835072/xnADR7WU.doc",
+              "local": "attachments/410200/2025年xnADR7WU.doc"
+            },
+            {
+              "name": "2025年xnADR7WU.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260420/xnADR7WU.doc",
+              "local": "attachments/410200/2025年xnADR7WU.doc"
+            },
+            {
+              "name": "2025年nShIf3eu.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2046072829064556544/nShIf3eu.xls",
+              "local": "attachments/410200/2025年nShIf3eu.xls"
+            },
+            {
+              "name": "2025年nShIf3eu.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260420/nShIf3eu.xls",
+              "local": "attachments/410200/2025年nShIf3eu.xls"
+            },
+            {
+              "name": "2025年XJfXtNEI.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2046072829064556544/XJfXtNEI.xls",
+              "local": "attachments/410200/2025年XJfXtNEI.xls"
+            },
+            {
+              "name": "2025年XJfXtNEI.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260420/XJfXtNEI.xls",
+              "local": "attachments/410200/2025年XJfXtNEI.xls"
+            },
+            {
+              "name": "2025年BC2iykpH.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2046072829064556544/BC2iykpH.xls",
+              "local": "attachments/410200/2025年BC2iykpH.xls"
+            },
+            {
+              "name": "2025年BC2iykpH.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260420/BC2iykpH.xls",
+              "local": "attachments/410200/2025年BC2iykpH.xls"
+            },
+            {
+              "name": "2025年dujblRdx.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2046072829064556544/dujblRdx.doc",
+              "local": "attachments/410200/2025年dujblRdx.doc"
+            },
+            {
+              "name": "2025年dujblRdx.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260420/dujblRdx.doc",
+              "local": "attachments/410200/2025年dujblRdx.doc"
+            },
+            {
+              "name": "2025年4HavRT1y.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2045107372379648000/4HavRT1y.xlsx",
+              "local": "attachments/410200/2025年4HavRT1y.xlsx"
+            },
+            {
+              "name": "2025年4HavRT1y.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260417/4HavRT1y.xlsx",
+              "local": "attachments/410200/2025年4HavRT1y.xlsx"
+            },
+            {
+              "name": "2025年L90c4CPm.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2044251298424467456/L90c4CPm.xls",
+              "local": "attachments/410200/2025年L90c4CPm.xls"
+            },
+            {
+              "name": "2025年L90c4CPm.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260415/L90c4CPm.xls",
+              "local": "attachments/410200/2025年L90c4CPm.xls"
+            },
+            {
+              "name": "2025年bu20vHfU.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2043649377871376384/bu20vHfU.xlsx",
+              "local": "attachments/410200/2025年bu20vHfU.xlsx"
+            },
+            {
+              "name": "2025年bu20vHfU.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260413/bu20vHfU.xlsx",
+              "local": "attachments/410200/2025年bu20vHfU.xlsx"
+            },
+            {
+              "name": "2025年1Yq23enT.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2043649377871376384/1Yq23enT.docx",
+              "local": "attachments/410200/2025年1Yq23enT.docx"
+            },
+            {
+              "name": "2025年1Yq23enT.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260413/1Yq23enT.docx",
+              "local": "attachments/410200/2025年1Yq23enT.docx"
+            },
+            {
+              "name": "2025年U1ISsrHy.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2043607174700642304/U1ISsrHy.xls",
+              "local": "attachments/410200/2025年U1ISsrHy.xls"
+            },
+            {
+              "name": "2025年U1ISsrHy.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260413/U1ISsrHy.xls",
+              "local": "attachments/410200/2025年U1ISsrHy.xls"
+            },
+            {
+              "name": "2025年2AkWOE0O.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/2AkWOE0O.xls",
+              "local": "attachments/410200/2025年2AkWOE0O.xls"
+            },
+            {
+              "name": "2025年2AkWOE0O.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/2AkWOE0O.xls",
+              "local": "attachments/410200/2025年2AkWOE0O.xls"
+            },
+            {
+              "name": "2025年IUDIYk1J.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/IUDIYk1J.doc",
+              "local": "attachments/410200/2025年IUDIYk1J.doc"
+            },
+            {
+              "name": "2025年IUDIYk1J.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/IUDIYk1J.doc",
+              "local": "attachments/410200/2025年IUDIYk1J.doc"
+            },
+            {
+              "name": "2025年0bng5Zrz.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/0bng5Zrz.doc",
+              "local": "attachments/410200/2025年0bng5Zrz.doc"
+            },
+            {
+              "name": "2025年0bng5Zrz.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/0bng5Zrz.doc",
+              "local": "attachments/410200/2025年0bng5Zrz.doc"
+            },
+            {
+              "name": "2025年eIiavtFw.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/eIiavtFw.doc",
+              "local": "attachments/410200/2025年eIiavtFw.doc"
+            },
+            {
+              "name": "2025年eIiavtFw.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/eIiavtFw.doc",
+              "local": "attachments/410200/2025年eIiavtFw.doc"
+            },
+            {
+              "name": "2025年DnBH0E0i.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/DnBH0E0i.doc",
+              "local": "attachments/410200/2025年DnBH0E0i.doc"
+            },
+            {
+              "name": "2025年DnBH0E0i.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/DnBH0E0i.doc",
+              "local": "attachments/410200/2025年DnBH0E0i.doc"
+            },
+            {
+              "name": "2025年RjETyIbK.docx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/RjETyIbK.docx",
+              "local": "attachments/410200/2025年RjETyIbK.docx"
+            },
+            {
+              "name": "2025年RjETyIbK.docx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/RjETyIbK.docx",
+              "local": "attachments/410200/2025年RjETyIbK.docx"
+            },
+            {
+              "name": "2025年Z6oeaYlf.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/Z6oeaYlf.xls",
+              "local": "attachments/410200/2025年Z6oeaYlf.xls"
+            },
+            {
+              "name": "2025年Z6oeaYlf.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/Z6oeaYlf.xls",
+              "local": "attachments/410200/2025年Z6oeaYlf.xls"
+            },
+            {
+              "name": "2025年LPyFNNi2.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042425967199694848/LPyFNNi2.xlsx",
+              "local": "attachments/410200/2025年LPyFNNi2.xlsx"
+            },
+            {
+              "name": "2025年LPyFNNi2.xlsx",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260410/LPyFNNi2.xlsx",
+              "local": "attachments/410200/2025年LPyFNNi2.xlsx"
+            },
+            {
+              "name": "2025年XJvUKSxB.xls",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042063279374249984/XJvUKSxB.XLS",
+              "local": "attachments/410200/2025年XJvUKSxB.xls"
+            },
+            {
+              "name": "2025年XJvUKSxB.xls",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260409/XJvUKSxB.XLS",
+              "local": "attachments/410200/2025年XJvUKSxB.xls"
+            },
+            {
+              "name": "2025年L3fOip0u.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042063279374249984/L3fOip0u.doc",
+              "local": "attachments/410200/2025年L3fOip0u.doc"
+            },
+            {
+              "name": "2025年L3fOip0u.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260104/L3fOip0u.doc",
+              "local": "attachments/410200/2025年L3fOip0u.doc"
+            },
+            {
+              "name": "2025年wyELahRw.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042063279374249984/wyELahRw.doc",
+              "local": "attachments/410200/2025年wyELahRw.doc"
+            },
+            {
+              "name": "2025年wyELahRw.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260409/wyELahRw.doc",
+              "local": "attachments/410200/2025年wyELahRw.doc"
+            },
+            {
+              "name": "2025年Ni42yqwm.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042063279374249984/Ni42yqwm.doc",
+              "local": "attachments/410200/2025年Ni42yqwm.doc"
+            },
+            {
+              "name": "2025年Ni42yqwm.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20241014/Ni42yqwm.doc",
+              "local": "attachments/410200/2025年Ni42yqwm.doc"
+            },
+            {
+              "name": "2025年2kC47ezp.doc",
+              "url": "http://rsj.kaifeng.gov.cn/kfsrlzyhshbzjwz/czlgg100/2042063279374249984/2kC47ezp.doc",
+              "local": "attachments/410200/2025年2kC47ezp.doc"
+            },
+            {
+              "name": "2025年2kC47ezp.doc",
+              "url": "http://rsj.kaifeng.gov.cn/doc/ucap/1735586219994349568/document/20260810/2kC47ezp.doc",
+              "local": "attachments/410200/2025年2kC47ezp.doc"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -272,7 +2607,18 @@
           "positions": null,
           "source": "洛阳市人力资源和社会保障局",
           "url": "http://rlzyhshbzj.ly.gov.cn/2026/05-19/1062364.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年洛阳市县区事业单位公开招聘联考工作专用网站及联系电话.xlsx",
+              "url": "https://oss.ly.gov.cn/upload-file/files/20260519/592fb9c64bfe4325ab7d2f1c7d63b2b1.xlsx",
+              "local": "attachments/410300/2026年洛阳市县区事业单位公开招聘联考工作专用网站及联系电话.xlsx"
+            },
+            {
+              "name": "2026年洛阳市县区事业单位公开招聘联考笔试考试大纲.docx",
+              "url": "https://oss.ly.gov.cn/upload-file/files/20260519/6434544aaa3d4d58a6b8d9faa49dd167.docx",
+              "local": "attachments/410300/2026年洛阳市县区事业单位公开招聘联考笔试考试大纲.docx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -343,6 +2689,21 @@
               "name": "2026年平顶山市公务员参加面试人员名单（4月25日）.xlsx",
               "url": "https://rsj.pds.gov.cn/upload/files/2026/4/1.%E6%B2%B3%E5%8D%97%E7%9C%812026%E5%B9%B4%E5%BA%A6%E7%BB%9F%E4%B8%80%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E5%B9%B3%E9%A1%B6%E5%B1%B1%E5%B8%82%E5%8F%82%E5%8A%A0%E9%9D%A2%E8%AF%95%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%884%E6%9C%8825%E6%97%A5%EF%BC%89.xlsx",
               "local": "attachments/410400/2026年平顶山市公务员参加面试人员名单（4月25日）.xlsx"
+            },
+            {
+              "name": "2026年河南省统一考试录用公务员平顶山市参加面试人员名单（4月26日）.xlsx",
+              "url": "https://rsj.pds.gov.cn/upload/files/2026/4/2.%E6%B2%B3%E5%8D%97%E7%9C%812026%E5%B9%B4%E5%BA%A6%E7%BB%9F%E4%B8%80%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E5%B9%B3%E9%A1%B6%E5%B1%B1%E5%B8%82%E5%8F%82%E5%8A%A0%E9%9D%A2%E8%AF%95%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%884%E6%9C%8826%E6%97%A5%EF%BC%89.xlsx",
+              "local": "attachments/410400/2026年河南省统一考试录用公务员平顶山市参加面试人员名单（4月26日）.xlsx"
+            },
+            {
+              "name": "2026年河南省统一考试录用公务员平顶山市参加面试人员名单（4月27日）.xlsx",
+              "url": "https://rsj.pds.gov.cn/upload/files/2026/4/3.%E6%B2%B3%E5%8D%97%E7%9C%812026%E5%B9%B4%E5%BA%A6%E7%BB%9F%E4%B8%80%E8%80%83%E8%AF%95%E5%BD%95%E7%94%A8%E5%85%AC%E5%8A%A1%E5%91%98%E5%B9%B3%E9%A1%B6%E5%B1%B1%E5%B8%82%E5%8F%82%E5%8A%A0%E9%9D%A2%E8%AF%95%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%884%E6%9C%8827%E6%97%A5%EF%BC%89.xlsx",
+              "local": "attachments/410400/2026年河南省统一考试录用公务员平顶山市参加面试人员名单（4月27日）.xlsx"
+            },
+            {
+              "name": "2026年河南平顶山市市直机关公开遴选公务员参加面试人员名单（4月26日）.xlsx",
+              "url": "https://rsj.pds.gov.cn/upload/files/2026/4/4.%E5%B9%B3%E9%A1%B6%E5%B1%B1%E5%B8%822026%E5%B9%B4%E5%BA%A6%E5%B8%82%E7%9B%B4%E6%9C%BA%E5%85%B3%E5%85%AC%E5%BC%80%E9%81%B4%E9%80%89%E5%85%AC%E5%8A%A1%E5%91%98%E5%8F%82%E5%8A%A0%E9%9D%A2%E8%AF%95%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95%EF%BC%884%E6%9C%8826%E6%97%A5%EF%BC%89.xlsx",
+              "local": "attachments/410400/2026年河南平顶山市市直机关公开遴选公务员参加面试人员名单（4月26日）.xlsx"
             }
           ]
         },
@@ -361,6 +2722,16 @@
               "name": "2026年平顶山市事业单位公开招聘联考岗位信息表.xlsx",
               "url": "https://rsj.pds.gov.cn/upload/files/2026/4/%E9%99%84%E4%BB%B61%EF%BC%9A2026%E5%B9%B4%E6%B2%B3%E5%8D%97%E7%9C%81%EF%BC%88%E5%B9%B3%E9%A1%B6%E5%B1%B1%E5%B8%82%EF%BC%89%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E8%81%94%E8%80%83%E5%B2%97%E4%BD%8D%E4%BF%A1%E6%81%AF%E8%A1%A8.xlsx",
               "local": "attachments/410400/2026年平顶山市事业单位公开招聘联考岗位信息表.xlsx"
+            },
+            {
+              "name": "2026年河南省（平顶山市）事业单位公开招聘联考咨询、监督电话.xlsx",
+              "url": "https://rsj.pds.gov.cn/upload/files/2026/4/%E9%99%84%E4%BB%B62%EF%BC%9A2026%E5%B9%B4%E6%B2%B3%E5%8D%97%E7%9C%81%EF%BC%88%E5%B9%B3%E9%A1%B6%E5%B1%B1%E5%B8%82%EF%BC%89%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E8%81%94%E8%80%83%E5%92%A8%E8%AF%A2%E3%80%81%E7%9B%91%E7%9D%A3%E7%94%B5%E8%AF%9D.xlsx",
+              "local": "attachments/410400/2026年河南省（平顶山市）事业单位公开招聘联考咨询、监督电话.xlsx"
+            },
+            {
+              "name": "2026年河南省事业单位公开招聘联考笔试大纲.docx",
+              "url": "https://rsj.pds.gov.cn/upload/files/2026/4/%E9%99%84%E4%BB%B63%EF%BC%9A2026%E5%B9%B4%E6%B2%B3%E5%8D%97%E7%9C%81%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E8%81%94%E8%80%83%E7%AC%94%E8%AF%95%E5%A4%A7%E7%BA%B2.docx",
+              "local": "attachments/410400/2026年河南省事业单位公开招聘联考笔试大纲.docx"
             }
           ]
         },
@@ -439,7 +2810,18 @@
           "positions": null,
           "source": "安阳市人力资源和社会保障局",
           "url": "http://rsj.anyang.gov.cn/2026/04-22/2507303.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年河南省（安阳市）事业单位公开招聘联考岗位表.xlsx",
+              "url": "http://file.anyang.gov.cn/4105000028/2026-04-22/177682400143647pJd4yv.xlsx",
+              "local": "attachments/410500/2026年河南省（安阳市）事业单位公开招聘联考岗位表.xlsx"
+            },
+            {
+              "name": "2026年河南省（安阳市）事业单位公开招聘联考单位工作专用网站及咨询、监督电话.xlsx",
+              "url": "http://file.anyang.gov.cn/4105000028/2026-04-22/1776824013321Whvkbf9q.xlsx",
+              "local": "attachments/410500/2026年河南省（安阳市）事业单位公开招聘联考单位工作专用网站及咨询、监督电话.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -597,6 +2979,31 @@
               "name": "2026年新乡市公务员面试确认人员名单.xlsx",
               "url": "https://hrss.xinxiang.gov.cn/group3/M00/00/8E/wKgVOGnXhEOANO6lAAJFSb96n3w96.xlsx",
               "local": "attachments/410700/2026年新乡市公务员面试确认人员名单.xlsx"
+            },
+            {
+              "name": "2026年信息采集表.doc",
+              "url": "https://hrss.xinxiang.gov.cn/group3/M00/00/8E/wKgVOGnXhFOAPsmDAACwAKWe9Qk788.doc",
+              "local": "attachments/410700/2026年信息采集表.doc"
+            },
+            {
+              "name": "2026年任职回避承诺书（模板）.doc",
+              "url": "https://hrss.xinxiang.gov.cn/group3/M00/00/8E/wKgVOGnXhFyAM7VSAAA3YUtwEHI274.doc",
+              "local": "attachments/410700/2026年任职回避承诺书（模板）.doc"
+            },
+            {
+              "name": "2026年同意报考证明（模板）doc.doc",
+              "url": "https://hrss.xinxiang.gov.cn/group3/M00/00/8E/wKgVOGnXhGOAPRP2AAA4ANB3eY0633.doc",
+              "local": "attachments/410700/2026年同意报考证明（模板）doc.doc"
+            },
+            {
+              "name": "2026年离职证明（模板）doc.doc",
+              "url": "https://hrss.xinxiang.gov.cn/group3/M00/00/8E/wKgVOGnXhGqAK9pOAAA0AB-jFBo362.doc",
+              "local": "attachments/410700/2026年离职证明（模板）doc.doc"
+            },
+            {
+              "name": "2026年政治面貌证明（模板）.doc",
+              "url": "https://hrss.xinxiang.gov.cn/group3/M00/00/8E/wKgVOGnXhHGALhmaAAA2AARkHFc958.doc",
+              "local": "attachments/410700/2026年政治面貌证明（模板）.doc"
             }
           ]
         },
@@ -706,7 +3113,53 @@
           "positions": null,
           "source": "焦作市人力资源和社会保障局",
           "url": "https://rsj.jiaozuo.gov.cn/2026/07-02/606905.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年河南省焦作市事业单位公开招聘联考面试资格确认人员名单（综合类岗位、技工院校教师岗位、教练员岗位）.pdf",
+              "url": "https://oss.jiaozuo.gov.cn/4108000016/upload-file/files/20260702/4ee3fba3736740979230af5a10586c20.pdf",
+              "local": "attachments/410800/2026年河南省焦作市事业单位公开招聘联考面试资格确认人员名单（综合类岗位、技工院校教师岗位、教练员岗位）.pdf"
+            },
+            {
+              "name": "2026年河南省焦作市事业单位公开招聘联考面试资格确认人员名单（教育类岗位）.pdf",
+              "url": "https://oss.jiaozuo.gov.cn/4108000016/upload-file/files/20260702/0d87fba212f841c7bfda9b9183fcfb49.pdf",
+              "local": "attachments/410800/2026年河南省焦作市事业单位公开招聘联考面试资格确认人员名单（教育类岗位）.pdf"
+            },
+            {
+              "name": "2026年河南省焦作市事业单位公开招聘联考面试资格确认人员名单(卫生类岗位).pdf",
+              "url": "https://oss.jiaozuo.gov.cn/4108000016/upload-file/files/20260702/db7e2c0aa3284512bbf5fdfddc027875.pdf",
+              "local": "attachments/410800/2026年河南省焦作市事业单位公开招聘联考面试资格确认人员名单(卫生类岗位).pdf"
+            },
+            {
+              "name": "2026年河南省焦作市事业单位公开招聘联考面试资格确认人员名单(焦作大学岗位).pdf",
+              "url": "https://oss.jiaozuo.gov.cn/4108000016/upload-file/files/20260702/b0530e843479472a8d03eab49a5a98d8.pdf",
+              "local": "attachments/410800/2026年河南省焦作市事业单位公开招聘联考面试资格确认人员名单(焦作大学岗位).pdf"
+            },
+            {
+              "name": "2026年河南省焦作市事业单位公开招聘联考面试资格确认人员名单(焦作师范高等专科学校).pdf",
+              "url": "https://oss.jiaozuo.gov.cn/4108000016/upload-file/files/20260702/49b5f63affb84c9e8f15dd5f2e08c798.pdf",
+              "local": "attachments/410800/2026年河南省焦作市事业单位公开招聘联考面试资格确认人员名单(焦作师范高等专科学校).pdf"
+            },
+            {
+              "name": "2026年河南焦作面试资格确认情况登记表.docx",
+              "url": "https://oss.jiaozuo.gov.cn/4108000016/upload-file/files/20260702/8e0c2aeb0a3144de9b18d25159d7a4ea.docx",
+              "local": "attachments/410800/2026年河南焦作面试资格确认情况登记表.docx"
+            },
+            {
+              "name": "2026年河南焦作报考推荐证明.docx",
+              "url": "https://oss.jiaozuo.gov.cn/4108000016/upload-file/files/20260702/f0252d9b94424b67b514be876689a9ff.docx",
+              "local": "attachments/410800/2026年河南焦作报考推荐证明.docx"
+            },
+            {
+              "name": "2026年河南焦作单位同意报考证明.doc",
+              "url": "https://oss.jiaozuo.gov.cn/4108000016/upload-file/files/20260702/98388f378aab4618aeaad7662bc77351.doc",
+              "local": "attachments/410800/2026年河南焦作单位同意报考证明.doc"
+            },
+            {
+              "name": "2026年河南焦作放弃面试资格声明.docx",
+              "url": "https://oss.jiaozuo.gov.cn/4108000016/upload-file/files/20260702/03d6ffe4adb2408682d76256c3a16840.docx",
+              "local": "attachments/410800/2026年河南焦作放弃面试资格声明.docx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -763,19 +3216,30 @@
           "category": "公务员",
           "subCategory": null,
           "title": "河南省2026年度统一考试录用公务员濮阳市职位面试公告",
-          "date": null,
+          "date": "2026-04-20",
           "headcount": null,
           "positions": null,
           "source": "濮阳党建网",
           "url": "https://www.pyzzb.gov.cn/show.asp?id=1588",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年濮阳市统一考试录用公务员参加面试人员名单.pdf",
+              "url": "https://www.pyzzb.gov.cn/upload/editor/file/20260420/2026042011480299299.pdf",
+              "local": "attachments/410900/2026年濮阳市统一考试录用公务员参加面试人员名单.pdf"
+            },
+            {
+              "name": "2026年面试人员须知.doc",
+              "url": "https://www.pyzzb.gov.cn/upload/editor/file/20260420/20260420112781798179.doc",
+              "local": "attachments/410900/2026年面试人员须知.doc"
+            }
+          ]
         },
         {
           "year": 2026,
           "category": "事业单位",
           "subCategory": null,
           "title": "2026年河南省（濮阳市）事业单位公开招聘联考工作的公告",
-          "date": null,
+          "date": "2026-04-22",
           "headcount": 272,
           "positions": null,
           "source": "濮阳市人力资源和社会保障局",
@@ -792,7 +3256,23 @@
           "positions": null,
           "source": "河南大学濮阳工学院",
           "url": "https://www.pygxy.cn/html/840/2025-02-17/content-3484.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年濮阳工学院筹建处（河南大学濮阳工学院）公开引进高层次人才岗位信息表.docx",
+              "url": "https://www.pygxy.cn/attachment/cms/item/2025_05/26_11/0bd04cb0d282e273.docx",
+              "local": "attachments/410900/2025年濮阳工学院筹建处（河南大学濮阳工学院）公开引进高层次人才岗位信息表.docx"
+            },
+            {
+              "name": "2025年濮阳工学院筹建处（河南大学濮阳工学院）公开引进高层次人才报名表.docx",
+              "url": "https://www.pygxy.cn/attachment/cms/item/2025_05/26_11/1b2f4ff0aa1cf091.docx",
+              "local": "attachments/410900/2025年濮阳工学院筹建处（河南大学濮阳工学院）公开引进高层次人才报名表.docx"
+            },
+            {
+              "name": "2025年河南濮阳学术成果统计简表.docx",
+              "url": "https://www.pygxy.cn/attachment/cms/item/2025_05/26_11/d65b4eab58189326.docx",
+              "local": "attachments/410900/2025年河南濮阳学术成果统计简表.docx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -854,7 +3334,43 @@
           "positions": null,
           "source": "许昌组工网",
           "url": "http://www.xczgfwkx.gov.cn/content/202604/09/c539719.htm",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年河南省统一考试录用公务员许昌职位进入面试人员名单.pdf",
+              "url": "http://www.xczgfwkx.gov.cn/attachment/202604/09/0e6fff96-f85d-4b45-aaa9-4a0779917af2.pdf",
+              "local": "attachments/411000/2026年河南省统一考试录用公务员许昌职位进入面试人员名单.pdf"
+            },
+            {
+              "name": "2026年河南许昌同意报考证明模板.doc",
+              "url": "http://www.xczgfwkx.gov.cn/attachment/202604/09/f02eb8ad-0555-4c1c-a1f6-e52805c7121c.doc",
+              "local": "attachments/411000/2026年河南许昌同意报考证明模板.doc"
+            },
+            {
+              "name": "2026年河南许昌面试确认系统考生操作流程.doc",
+              "url": "http://www.xczgfwkx.gov.cn/attachment/202604/09/b2b3735b-be8b-43f3-9194-bff14fa1bf3c.doc",
+              "local": "attachments/411000/2026年河南许昌面试确认系统考生操作流程.doc"
+            },
+            {
+              "name": "2026年河南许昌离职证明模板.doc",
+              "url": "http://www.xczgfwkx.gov.cn/attachment/202604/09/2ae68a36-4d6a-4fe4-a196-cb0d2889ca59.doc",
+              "local": "attachments/411000/2026年河南许昌离职证明模板.doc"
+            },
+            {
+              "name": "2026年河南许昌政治面貌证明模板.doc",
+              "url": "http://www.xczgfwkx.gov.cn/attachment/202604/09/0b79cd30-f4c9-48ac-91ce-6af1af39b7cd.doc",
+              "local": "attachments/411000/2026年河南许昌政治面貌证明模板.doc"
+            },
+            {
+              "name": "2026年河南许昌放弃声明模板.docx",
+              "url": "http://www.xczgfwkx.gov.cn/attachment/202604/09/05f33409-b821-4399-8817-44fd0d6b99da.docx",
+              "local": "attachments/411000/2026年河南许昌放弃声明模板.docx"
+            },
+            {
+              "name": "2026年河南许昌任职回避承诺书模板.doc",
+              "url": "http://www.xczgfwkx.gov.cn/attachment/202604/09/58c127f2-fe54-462f-9b4a-72420b37e821.doc",
+              "local": "attachments/411000/2026年河南许昌任职回避承诺书模板.doc"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -868,9 +3384,14 @@
           "url": "https://rsj.xuchang.gov.cn/zxdt/002002/20260422/64895041-82fb-49d7-b736-b6189b5655cf.html",
           "attachments": [
             {
-              "name": "2026年许昌市事业单位联考公告附件1.pdf",
+              "name": "2026年许昌市事业单位联考公告.pdf",
               "url": "https://rsj.xuchang.gov.cn/uploadfile/64895041-82fb-49d7-b736-b6189b5655cf/20260422100629583.pdf",
-              "local": "attachments/411000/2026年许昌市事业单位联考公告附件1.pdf"
+              "local": "attachments/411000/2026年许昌市事业单位联考公告.pdf"
+            },
+            {
+              "name": "2026年河南省事业单位公开招聘联考岗位信息表（许昌市县乡事业单位）.pdf",
+              "url": "https://rsj.xuchang.gov.cn/uploadfile/64895041-82fb-49d7-b736-b6189b5655cf/20260422100641176.pdf",
+              "local": "attachments/411000/2026年河南省事业单位公开招聘联考岗位信息表（许昌市县乡事业单位）.pdf"
             }
           ]
         },
@@ -933,19 +3454,41 @@
           "positions": null,
           "source": "漯河市公务员局",
           "url": "https://hrss.luohe.gov.cn/ksxx/content_1049050",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年1.4月25日面试分组名单.xlsx",
+              "url": "https://hrss.luohe.gov.cn/upload/hrss/contentmanage/article/file/2026/04/20/%E9%99%84%E4%BB%B6%EF%BC%9A1.2026%E5%B9%B44%E6%9C%8825%E6%97%A5%E9%9D%A2%E8%AF%95%E5%88%86%E7%BB%84%E5%90%8D%E5%8D%95.xlsx?t=1776672855456",
+              "local": "attachments/411100/2026年1.4月25日面试分组名单.xlsx"
+            },
+            {
+              "name": "2026年2.4月26日面试分组名单.xlsx",
+              "url": "https://hrss.luohe.gov.cn/upload/hrss/contentmanage/article/file/2026/04/20/2.2026%E5%B9%B44%E6%9C%8826%E6%97%A5%E9%9D%A2%E8%AF%95%E5%88%86%E7%BB%84%E5%90%8D%E5%8D%95.xlsx?t=1776672855456",
+              "local": "attachments/411100/2026年2.4月26日面试分组名单.xlsx"
+            },
+            {
+              "name": "2026年3.面试应试者须知.doc",
+              "url": "https://hrss.luohe.gov.cn/upload/hrss/contentmanage/article/file/2026/04/20/3.%E9%9D%A2%E8%AF%95%E5%BA%94%E8%AF%95%E8%80%85%E9%A1%BB%E7%9F%A5.doc?t=1776672855456",
+              "local": "attachments/411100/2026年3.面试应试者须知.doc"
+            }
+          ]
         },
         {
           "year": 2026,
           "category": "事业单位",
           "subCategory": null,
           "title": "2026年河南省（漯河市）事业单位公开招聘联考工作的公告",
-          "date": null,
+          "date": "2026-04-22",
           "headcount": 736,
           "positions": null,
           "source": "漯河市人力资源和社会保障局",
           "url": "https://hrss.luohe.gov.cn/ksxx/content_1050608",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年河南省事业单位公开招聘联考漯河市岗位信息表.xlsx",
+              "url": "https://hrss.luohe.gov.cn/upload/hrss/contentmanage/article/file/2026/04/22/2026%E5%B9%B4%E6%B2%B3%E5%8D%97%E7%9C%81%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E8%81%94%E8%80%83%E6%BC%AF%E6%B2%B3%E5%B8%82%E5%B2%97%E4%BD%8D%E4%BF%A1%E6%81%AF%E8%A1%A8.xlsx?t=1776825785374",
+              "local": "attachments/411100/2026年河南省事业单位公开招聘联考漯河市岗位信息表.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -957,7 +3500,18 @@
           "positions": null,
           "source": "漯河市人力资源和社会保障局",
           "url": "https://hrss.luohe.gov.cn/ksxx/content_1038309",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年漯河市城乡一体化示范区事业单位人才引进计划表.wps",
+              "url": "https://hrss.luohe.gov.cn/upload/hrss/contentmanage/article/file/2025/12/30/%E6%BC%AF%E6%B2%B3%E5%B8%82%E5%9F%8E%E4%B9%A1%E4%B8%80%E4%BD%93%E5%8C%96%E7%A4%BA%E8%8C%83%E5%8C%BA%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D2025%E5%B9%B4%E4%BA%BA%E6%89%8D%E5%BC%95%E8%BF%9B%E8%AE%A1%E5%88%92%E8%A1%A8.wps?t=1767079077991",
+              "local": "attachments/411100/2025年漯河市城乡一体化示范区事业单位人才引进计划表.wps"
+            },
+            {
+              "name": "2025年漯河市城乡一体化示范区事业单位人才引进报名表.wps",
+              "url": "https://hrss.luohe.gov.cn/upload/hrss/contentmanage/article/file/2025/12/30/%E6%BC%AF%E6%B2%B3%E5%B8%82%E5%9F%8E%E4%B9%A1%E4%B8%80%E4%BD%93%E5%8C%96%E7%A4%BA%E8%8C%83%E5%8C%BA%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D2025%E5%B9%B4%E4%BA%BA%E6%89%8D%E5%BC%95%E8%BF%9B%E6%8A%A5%E5%90%8D%E8%A1%A8.wps?t=1767079077991",
+              "local": "attachments/411100/2025年漯河市城乡一体化示范区事业单位人才引进报名表.wps"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -1021,9 +3575,24 @@
           "url": "http://www.smxdj.cn/7819/2026/4/2249712.html",
           "attachments": [
             {
-              "name": "2026年三门峡市公务员面试公告附件1.pdf",
+              "name": "2026年三门峡市公务员面试公告.pdf",
               "url": "http://www.smxdj.cn/group1/M00/06/74/CqDIKWni_3qAHYLKAAacLnOr5Zo630.pdf",
-              "local": "attachments/411200/2026年三门峡市公务员面试公告附件1.pdf"
+              "local": "attachments/411200/2026年三门峡市公务员面试公告.pdf"
+            },
+            {
+              "name": "2026年河南三门峡面试应试者须知2026.doc",
+              "url": "http://www.smxdj.cn/group1/M00/06/97/CqDI22ni_3qAKG1hAABEAMHwPfM038.doc",
+              "local": "attachments/411200/2026年河南三门峡面试应试者须知2026.doc"
+            },
+            {
+              "name": "2026年河南三门峡市市直机关公开遴选公务员进入面试人员名单.pdf",
+              "url": "http://www.smxdj.cn/group1/M00/06/74/CqDIKWnjBMOAAm0HAAGBCbldtA8921.pdf",
+              "local": "attachments/411200/2026年河南三门峡市市直机关公开遴选公务员进入面试人员名单.pdf"
+            },
+            {
+              "name": "2026年河南三门峡考生承诺书.docx",
+              "url": "http://www.smxdj.cn/group1/M00/06/97/CqDI22ni_4SAM8JhABdCYEuR99Q56.docx",
+              "local": "attachments/411200/2026年河南三门峡考生承诺书.docx"
             }
           ]
         },
@@ -1049,7 +3618,13 @@
           "positions": null,
           "source": "三门峡市湖滨区人民政府",
           "url": "https://www.hubin.gov.cn/25116/2026/8/2296412.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年河南三门峡附件 拟聘用人员名单.xlsx",
+              "url": "https://www.hubin.gov.cn/group1/M00/06/D1/CqDIKWpy4fWADGSIAAA0nqQU3nU12.xlsx",
+              "local": "attachments/411200/2026年河南三门峡附件 拟聘用人员名单.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -1113,12 +3688,23 @@
           "category": "公务员",
           "subCategory": null,
           "title": "河南省2026年度统一考试录用公务员南阳市职位面试公告",
-          "date": null,
+          "date": "2026-04-25",
           "headcount": null,
           "positions": null,
           "source": "南阳党建网",
           "url": "http://www.nydj.net.cn/ppd/3950.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年河南省统一考试录用公务员南阳市职位参加面试人员名单.pdf",
+              "url": "http://www.nydj.net.cn/upload/default/20260421/7454f42598e590a7dc81d9a9eaa35551.pdf",
+              "local": "attachments/411300/2026年河南省统一考试录用公务员南阳市职位参加面试人员名单.pdf"
+            },
+            {
+              "name": "2026年河南南阳面试考生须知.doc",
+              "url": "http://www.nydj.net.cn/upload/default/20260421/cfdcb6be92c197ee9add94dd6fad32de.doc",
+              "local": "attachments/411300/2026年河南南阳面试考生须知.doc"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -1130,7 +3716,13 @@
           "positions": null,
           "source": "南阳市人力资源和社会保障局",
           "url": "https://rensheju.nanyang.gov.cn/2026/04-22/1399479.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年1．河南省南阳市事业单位公开招聘联考岗位信息表.xlsx",
+              "url": "https://rensheju.nanyang.gov.cn/ifile/20260422/1776851227585f5JUMVQo.xlsx",
+              "local": "attachments/411300/2026年1．河南省南阳市事业单位公开招聘联考岗位信息表.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -1142,7 +3734,18 @@
           "positions": null,
           "source": "南阳市人力资源和社会保障局",
           "url": "https://rensheju.nanyang.gov.cn/2025/12-10/1359550.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年河南附件：1.南阳市中医院公开招聘高层次人才职位表.docx",
+              "url": "https://rensheju.nanyang.gov.cn/ifile/20251211/1765422110324XrNEnepf.docx",
+              "local": "attachments/411300/2025年河南附件：1.南阳市中医院公开招聘高层次人才职位表.docx"
+            },
+            {
+              "name": "2025年河南南阳市中医院公开招聘高层次人才报名表.docx",
+              "url": "https://rensheju.nanyang.gov.cn/ifile/20251211/1765422130388BY1kMj6n.docx",
+              "local": "attachments/411300/2025年河南南阳市中医院公开招聘高层次人才报名表.docx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -1212,6 +3815,11 @@
               "name": "2026年商丘市公务员面试人员名单.xlsx",
               "url": "http://www.sqrsks.cn/uploads/file/20260420/1776679541909158.xlsx",
               "local": "attachments/411400/2026年商丘市公务员面试人员名单.xlsx"
+            },
+            {
+              "name": "2026年河南商丘市市直机关公开遴选公务员面试人员名单及分组.xlsx",
+              "url": "http://www.sqrsks.cn/uploads/file/20260420/1776679544129151.xlsx",
+              "local": "attachments/411400/2026年河南商丘市市直机关公开遴选公务员面试人员名单及分组.xlsx"
             }
           ]
         },
@@ -1230,6 +3838,56 @@
               "name": "2026年商丘市事业单位联考面试人员名单.xlsx",
               "url": "http://www.sqrsks.cn/uploads/file/20260729/1785286090731228.xlsx",
               "local": "attachments/411400/2026年商丘市事业单位联考面试人员名单.xlsx"
+            },
+            {
+              "name": "2026年河南省（商丘市）事业单位公开招聘联考永城市面试人员分组名单.xlsx",
+              "url": "http://www.sqrsks.cn/uploads/file/20260728/1785227525743904.xlsx",
+              "local": "attachments/411400/2026年河南省（商丘市）事业单位公开招聘联考永城市面试人员分组名单.xlsx"
+            },
+            {
+              "name": "2026年河南省（商丘市）事业单位公开招聘联考虞城县面试人员分组名单.xlsx",
+              "url": "http://www.sqrsks.cn/uploads/file/20260728/1785227527826609.xlsx",
+              "local": "attachments/411400/2026年河南省（商丘市）事业单位公开招聘联考虞城县面试人员分组名单.xlsx"
+            },
+            {
+              "name": "2026年河南省（商丘市）事业单位公开招聘联考梁园区面试人员分组名单.xlsx",
+              "url": "http://www.sqrsks.cn/uploads/file/20260728/1785227531956783.xlsx",
+              "local": "attachments/411400/2026年河南省（商丘市）事业单位公开招聘联考梁园区面试人员分组名单.xlsx"
+            },
+            {
+              "name": "2026年河南省（商丘市）事业单位公开招聘联考睢阳区面试人员分组名单.xlsx",
+              "url": "http://www.sqrsks.cn/uploads/file/20260728/1785227535483690.xlsx",
+              "local": "attachments/411400/2026年河南省（商丘市）事业单位公开招聘联考睢阳区面试人员分组名单.xlsx"
+            },
+            {
+              "name": "2026年河南省（商丘市）事业单位公开招聘联考柘城县面试人员分组名单.xlsx",
+              "url": "http://www.sqrsks.cn/uploads/file/20260728/1785227538252691.xlsx",
+              "local": "attachments/411400/2026年河南省（商丘市）事业单位公开招聘联考柘城县面试人员分组名单.xlsx"
+            },
+            {
+              "name": "2026年河南省（商丘市）事业单位公开招聘联考宁陵县面试人员分组名单.xlsx",
+              "url": "http://www.sqrsks.cn/uploads/file/20260728/1785227542403519.xlsx",
+              "local": "attachments/411400/2026年河南省（商丘市）事业单位公开招聘联考宁陵县面试人员分组名单.xlsx"
+            },
+            {
+              "name": "2026年河南省（商丘市）事业单位公开招聘联考睢县面试人员分组名单.xlsx",
+              "url": "http://www.sqrsks.cn/uploads/file/20260728/1785227545162435.xlsx",
+              "local": "attachments/411400/2026年河南省（商丘市）事业单位公开招聘联考睢县面试人员分组名单.xlsx"
+            },
+            {
+              "name": "2026年河南省（商丘市）事业单位公开招聘联考民权县面试人员分组名单.xlsx",
+              "url": "http://www.sqrsks.cn/uploads/file/20260728/1785227551642571.xlsx",
+              "local": "attachments/411400/2026年河南省（商丘市）事业单位公开招聘联考民权县面试人员分组名单.xlsx"
+            },
+            {
+              "name": "2026年河南省（商丘市）事业单位公开招聘联考城乡一体化示范区面试人员分组名单.xlsx",
+              "url": "http://www.sqrsks.cn/uploads/file/20260728/1785228318879514.xlsx",
+              "local": "attachments/411400/2026年河南省（商丘市）事业单位公开招聘联考城乡一体化示范区面试人员分组名单.xlsx"
+            },
+            {
+              "name": "2026年河南省（商丘市）事业单位公开招聘联考面试应试人员须知.docx",
+              "url": "http://www.sqrsks.cn/uploads/file/20260728/1785227573381566.docx",
+              "local": "attachments/411400/2026年河南省（商丘市）事业单位公开招聘联考面试应试人员须知.docx"
             }
           ]
         },
@@ -1297,7 +3955,28 @@
           "positions": null,
           "source": "中共信阳市委组织部",
           "url": "https://www.hnxydj.gov.cn/gongshigonggao//2026-01-05/9193.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2026年度信阳市市直机关公开遴选公务员职位表.xls",
+              "url": "https://static.xyxww.com.cn/xydj/2026-01-05/8a34a8343958899dd0aa16671f9146f5.xls",
+              "local": "attachments/411500/2026年度信阳市市直机关公开遴选公务员职位表.xls"
+            },
+            {
+              "name": "2026年《研究生教育学科专业目录》.pdf",
+              "url": "https://static.xyxww.com.cn/xydj/2026-01-05/cfdc2a518e3bb007e8107b54437983c2.pdf",
+              "local": "attachments/411500/2026年《研究生教育学科专业目录》.pdf"
+            },
+            {
+              "name": "2026年度信阳市市直机关公开遴选公务员报名推荐表.docx",
+              "url": "https://static.xyxww.com.cn/xydj/2026-01-05/b059fc6e9582eeb687c5105ab4619dde.docx",
+              "local": "attachments/411500/2026年度信阳市市直机关公开遴选公务员报名推荐表.docx"
+            },
+            {
+              "name": "2026年度信阳市市直机关公开遴选公务员报考指南.docx",
+              "url": "https://static.xyxww.com.cn/xydj/2026-01-05/43f1d26a4735f52883037d995f73280f.docx",
+              "local": "attachments/411500/2026年度信阳市市直机关公开遴选公务员报考指南.docx"
+            }
+          ]
         },
         {
           "year": 2026,
@@ -1321,7 +4000,13 @@
           "positions": null,
           "source": "信阳市人力资源和社会保障局",
           "url": "https://rsj.xinyang.gov.cn/2025/09-11/695301.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年河南信阳市事业单位公开招聘联考岗位表.xlsx",
+              "url": "https://oss.xinyang.gov.cn/xytyptfile/20250915/e9ec08b7a39d4ac2a593afaf21ffa40f.xlsx",
+              "local": "attachments/411500/2025年河南信阳市事业单位公开招聘联考岗位表.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -1501,7 +4186,13 @@
           "positions": null,
           "source": "平舆县人民政府",
           "url": "https://www.pingyu.gov.cn/zwyw/tzgg/202509/t20250909_652664.html",
-          "attachments": []
+          "attachments": [
+            {
+              "name": "2025年平舆县引进高层次人才拟录用人员名单.xlsx",
+              "url": "http://www.pingyu.gov.cn/zwyw/tzgg/202509/P020250909407501192301.xlsx",
+              "local": "attachments/411700/2025年平舆县引进高层次人才拟录用人员名单.xlsx"
+            }
+          ]
         },
         {
           "year": 2025,
@@ -1563,6 +4254,16 @@
               "name": "2026年济源示范区公务员面试人员名单.xlsx",
               "url": "http://www.jiyuan.gov.cn/zwgk/jczwgk/rsxx/gwyzk/P020260601585912028224.xlsx",
               "local": "attachments/419001/2026年济源示范区公务员面试人员名单.xlsx"
+            },
+            {
+              "name": "2026年河南省统一考试录用公务员济源示范区职位4月26日参加面试人员名单.xlsx",
+              "url": "http://www.jiyuan.gov.cn/zwgk/jczwgk/rsxx/gwyzk/P020260601585912348831.xlsx",
+              "local": "attachments/419001/2026年河南省统一考试录用公务员济源示范区职位4月26日参加面试人员名单.xlsx"
+            },
+            {
+              "name": "2026年度济源示范区区直机关公开遴选公务员4月26日参加面试人员名单.xlsx",
+              "url": "http://www.jiyuan.gov.cn/zwgk/jczwgk/rsxx/gwyzk/P020260601585912805056.xlsx",
+              "local": "attachments/419001/2026年度济源示范区区直机关公开遴选公务员4月26日参加面试人员名单.xlsx"
             }
           ]
         },

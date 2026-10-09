@@ -1,7 +1,7 @@
 {
-  "adcode": "130000",
+  "adcode": 130000,
   "name": "河北省",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-10-03",
   "province": "河北省",
   "collectedAt": "2026-08-24",
   "provincePortals": [
@@ -29,7 +29,7 @@
   "cities": [
     {
       "name": "石家庄市",
-      "adcode": "130100",
+      "adcode": 130100,
       "portals": [
         {
           "category": "公务员",
@@ -52,7 +52,8 @@
           "headcount": 10104,
           "url": "https://www.hebpta.com.cn/article?artId=12565&id=293",
           "attachments": [],
-          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。"
+          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。",
+          "year": 2025
         },
         {
           "id": "rec-130100-gwy-2026",
@@ -63,7 +64,8 @@
           "headcount": 8650,
           "url": "https://www.hebpta.com.cn/article?artId=13104&id=293",
           "attachments": [],
-          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。"
+          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。",
+          "year": 2026
         },
         {
           "id": "rec-130100-sydw-2025",
@@ -73,8 +75,21 @@
           "publishDate": "2025-03-25",
           "headcount": 5621,
           "url": "https://rsj.sjz.gov.cn/columns/fa354001-476c-4fb3-9469-f5f4e6321878/202503/25/9099d515-32ad-45c9-bbfa-17261de4083b.html",
-          "attachments": [],
-          "summary": "全市事业单位统一招聘5621名，2025年3月27日起报名。"
+          "attachments": [
+            {
+              "name": "2025年石家庄市事业单位公开招聘岗位信息表",
+              "url": "https://rsj.sjz.gov.cn/attachments/1/202503/25/%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%B8%822025%E5%B9%B4%E5%BA%A6%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B2%97%E4%BD%8D%E4%BF%A1%E6%81%AF%E8%A1%A820250325081109519.xlsx?sid=e628bc7a-fad5-4c3f-b888-aba0adbd25df",
+              "local": "attachments/130100/2025年石家庄市事业单位公开招聘岗位信息表"
+            },
+            {
+              "name": "2025年石家庄市事业单位公开招聘咨询电话表",
+              "url": "https://rsj.sjz.gov.cn/attachments/1/202503/25/%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%B8%822025%E5%B9%B4%E5%BA%A6%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%92%A8%E8%AF%A2%E7%94%B5%E8%AF%9D%E8%A1%A820250325081109515.xls?sid=ea651a8a-0679-472c-888a-c467af614eb3",
+              "local": "attachments/130100/2025年石家庄市事业单位公开招聘咨询电话表"
+            }
+          ],
+          "summary": "全市事业单位统一招聘5621名，2025年3月27日起报名。",
+          "date": "2025-03-25",
+          "year": 2025
         },
         {
           "id": "rec-130100-sydw-sz2025",
@@ -85,7 +100,8 @@
           "headcount": 1363,
           "url": "https://rst.hebei.gov.cn/",
           "attachments": [],
-          "summary": "省直事业单位统一招聘1363名（单位主要在石家庄市），2025年3月3日至10日报名；公告经河北党建网、河北人社网、河北省人事考试网发布。"
+          "summary": "省直事业单位统一招聘1363名（单位主要在石家庄市），2025年3月3日至10日报名；公告经河北党建网、河北人社网、河北省人事考试网发布。",
+          "year": 2025
         },
         {
           "id": "rec-130100-xds-2025",
@@ -96,7 +112,8 @@
           "headcount": 777,
           "url": "https://www.hebpta.com.cn/article?artId=12547&id=293",
           "attachments": [],
-          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。"
+          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。",
+          "year": 2025
         },
         {
           "id": "rec-130100-rc-2026",
@@ -107,13 +124,27 @@
           "headcount": 512,
           "url": "http://rsj.sjz.gov.cn/",
           "attachments": [],
-          "summary": "面向博士及重点高校硕士以上毕业生选聘事业单位工作人员，岗位共512个，2025年11月12日至18日经石家庄市人事考试中心网上报名服务平台（sjz.appms.cn）报名。"
+          "summary": "面向博士及重点高校硕士以上毕业生选聘事业单位工作人员，岗位共512个，2025年11月12日至18日经石家庄市人事考试中心网上报名服务平台（sjz.appms.cn）报名。",
+          "date": "2026-09-29",
+          "year": 2026
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "石家庄市2026年事业单位公开招聘（统一招聘）政府系统拟聘用人员公示公告（第三批）",
+          "date": "2026-09-23",
+          "headcount": null,
+          "positions": null,
+          "source": "石家庄市人力资源和社会保障局",
+          "url": "https://rsj.sjz.gov.cn/columns/fa354001-476c-4fb3-9469-f5f4e6321878/202609/23/3e0006d9-9ec0-47fc-aa26-7e80dbb82cec.html",
+          "attachments": []
         }
       ]
     },
     {
       "name": "唐山市",
-      "adcode": "130200",
+      "adcode": 130200,
       "portals": [
         {
           "category": "公务员",
@@ -136,7 +167,8 @@
           "headcount": 10104,
           "url": "https://www.hebpta.com.cn/article?artId=12565&id=293",
           "attachments": [],
-          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。"
+          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。",
+          "year": 2025
         },
         {
           "id": "rec-130200-gwy-2026",
@@ -147,7 +179,8 @@
           "headcount": 8650,
           "url": "https://www.hebpta.com.cn/article?artId=13104&id=293",
           "attachments": [],
-          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。"
+          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。",
+          "year": 2026
         },
         {
           "id": "rec-130200-sydw-2025a",
@@ -157,8 +190,20 @@
           "publishDate": "2025-04-17",
           "headcount": 277,
           "url": "http://www.tsrsks.com.cn/web/wenjian/20250417152756.html",
-          "attachments": [],
-          "summary": "市直事业单位招聘277名（统一招聘273名、选聘4名），2025年4月21日至25日经唐山市人事考试中心网上报名服务平台（tangshan.appms.cn）报名。"
+          "attachments": [
+            {
+              "name": "2025年唐山市202_3",
+              "url": "https://www.tsrsks.com.cn/ckfinder/userfiles/files/%e9%99%84%e4%bb%b61%ef%bc%9a%e5%94%90%e5%b1%b1%e5%b8%822025%e5%b9%b4%e5%b8%82%e7%9b%b4%e4%ba%8b%e4%b8%9a%e5%8d%95%e4%bd%8d%e5%85%ac%e5%bc%80%e6%8b%9b%e8%81%98%e5%b7%a5%e4%bd%9c%e4%ba%ba%e5%91%98%e5%b2%97%e4%bd%8d%e4%bf%a1%e6%81%af%e8%a1%a8.xlsx",
+              "local": "attachments/130200/2025年唐山市202_3"
+            },
+            {
+              "name": "2025年唐山市202_4",
+              "url": "https://www.tsrsks.com.cn/ckfinder/userfiles/files/%e9%99%84%e4%bb%b62%ef%bc%9a%e5%94%90%e5%b1%b1%e5%b8%822025%e5%b9%b4%e5%b8%82%e7%9b%b4%e4%ba%8b%e4%b8%9a%e5%8d%95%e4%bd%8d%e5%85%ac%e5%bc%80%e6%8b%9b%e8%81%98%e5%b7%a5%e4%bd%9c%e4%ba%ba%e5%91%98%e8%80%83%e8%af%95%e5%a4%a7%e7%ba%b2.docx",
+              "local": "attachments/130200/2025年唐山市202_4"
+            }
+          ],
+          "summary": "市直事业单位招聘277名（统一招聘273名、选聘4名），2025年4月21日至25日经唐山市人事考试中心网上报名服务平台（tangshan.appms.cn）报名。",
+          "year": 2025
         },
         {
           "id": "rec-130200-sydw-2025b",
@@ -168,8 +213,20 @@
           "publishDate": "2025-09-18",
           "headcount": 46,
           "url": "http://www.tsrsks.com.cn/Web/wenjian/20250918153656.html",
-          "attachments": [],
-          "summary": "市直事业单位第二批次招聘46名。"
+          "attachments": [
+            {
+              "name": "2025年唐山市202",
+              "url": "https://www.tsrsks.com.cn/ckfinder/userfiles/files/%E9%99%84%E4%BB%B61%EF%BC%9A%E5%94%90%E5%B1%B1%E5%B8%822025%E5%B9%B4%E7%AC%AC%E4%BA%8C%E6%89%B9%E6%AC%A1%E5%B8%82%E7%9B%B4%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%B2%97%E4%BD%8D%E4%BF%A1%E6%81%AF%E8%A1%A8.xlsx",
+              "local": "attachments/130200/2025年唐山市202"
+            },
+            {
+              "name": "2025年唐山市202_2",
+              "url": "https://www.tsrsks.com.cn/ckfinder/userfiles/files/%E9%99%84%E4%BB%B62%EF%BC%9A%E5%94%90%E5%B1%B1%E5%B8%822025%E5%B9%B4%E7%AC%AC%E4%BA%8C%E6%89%B9%E6%AC%A1%E5%B8%82%E7%9B%B4%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E5%BC%80%E6%8B%9B%E8%81%98%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%80%83%E8%AF%95%E5%A4%A7%E7%BA%B2.docx",
+              "local": "attachments/130200/2025年唐山市202_2"
+            }
+          ],
+          "summary": "市直事业单位第二批次招聘46名。",
+          "year": 2025
         },
         {
           "id": "rec-130200-xds-2025",
@@ -180,13 +237,74 @@
           "headcount": 777,
           "url": "https://www.hebpta.com.cn/article?artId=12547&id=293",
           "attachments": [],
-          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。"
+          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。",
+          "year": 2025
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "唐山市2026年下半年事业单位公开招聘（统一招聘）工作人员取消（核减）招聘岗位（招聘计划）的公告",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "唐山市人事考试网",
+          "url": "https://www.tsrsks.com.cn/web/wenjian/20260830115112.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "唐山市2026年下半年事业单位公开招聘（统一招聘）工作人员公告",
+          "date": "2026-08-24",
+          "headcount": null,
+          "positions": null,
+          "source": "唐山市人事考试网",
+          "url": "https://www.tsrsks.com.cn/web/wenjian/20260820084215.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "唐山市工人医院2026年公开选聘工作人员公告",
+          "date": "2026-07-13",
+          "headcount": null,
+          "positions": null,
+          "source": "唐山市人事考试网",
+          "url": "https://www.tsrsks.com.cn/web/wenjian/20260709113843.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "唐山市2026年事业单位公开招聘（统一招聘）工作人员递补进入体检人员名单（9月11日）",
+          "date": "2026-09-11",
+          "headcount": null,
+          "positions": null,
+          "source": "唐山市人事考试网",
+          "url": "https://www.tsrsks.com.cn/web/wenjian/20260911083358.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "唐山市2026年事业单位公开招聘（统一招聘）工作人员递补进入体检人员名单（9月10日）",
+          "date": "2026-09-11",
+          "headcount": null,
+          "positions": null,
+          "source": "唐山市人事考试网",
+          "url": "https://www.tsrsks.com.cn/web/wenjian/20260910095005.html",
+          "attachments": []
         }
       ]
     },
     {
       "name": "秦皇岛市",
-      "adcode": "130300",
+      "adcode": 130300,
       "portals": [
         {
           "category": "公务员",
@@ -209,7 +327,8 @@
           "headcount": 10104,
           "url": "https://www.hebpta.com.cn/article?artId=12565&id=293",
           "attachments": [],
-          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。"
+          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。",
+          "year": 2025
         },
         {
           "id": "rec-130300-gwy-2026",
@@ -220,7 +339,8 @@
           "headcount": 8650,
           "url": "https://www.hebpta.com.cn/article?artId=13104&id=293",
           "attachments": [],
-          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。"
+          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。",
+          "year": 2026
         },
         {
           "id": "rec-130300-sydw-2025",
@@ -231,7 +351,8 @@
           "headcount": 641,
           "url": "https://rsj.qhd.gov.cn/ksbm/web/wenjian/20250513094306.html",
           "attachments": [],
-          "summary": "全市事业单位统一招聘641名。"
+          "summary": "全市事业单位统一招聘641名。",
+          "year": 2025
         },
         {
           "id": "rec-130300-sydw-2026",
@@ -242,7 +363,8 @@
           "headcount": 783,
           "url": "http://www.qhd.gov.cn/article/293/142914.html",
           "attachments": [],
-          "summary": "全市事业单位统一招聘783名，岗位信息表经秦皇岛市人社局官网及秦皇岛市人事考试网发布。"
+          "summary": "全市事业单位统一招聘783名，岗位信息表经秦皇岛市人社局官网及秦皇岛市人事考试网发布。",
+          "year": 2026
         },
         {
           "id": "rec-130300-sydw-2025gs",
@@ -253,7 +375,8 @@
           "headcount": null,
           "url": "https://rsj.qhd.gov.cn/ksbm/Web/wenjian/20251120095258.html",
           "attachments": [],
-          "summary": "2025年事业单位公开招聘综合类岗位拟聘用人员公示。"
+          "summary": "2025年事业单位公开招聘综合类岗位拟聘用人员公示。",
+          "year": 2025
         },
         {
           "id": "rec-130300-xds-2025",
@@ -264,13 +387,50 @@
           "headcount": 777,
           "url": "https://www.hebpta.com.cn/article?artId=12547&id=293",
           "attachments": [],
-          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。"
+          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。",
+          "year": 2025
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "北京大学第三医院秦皇岛医院2026年第二批公开选聘工作人员公告",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "秦皇岛市人事考试网",
+          "url": "https://rsj.qhd.gov.cn/ksbm/web/wenjian/20260918092156.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "秦皇岛市海洋和渔业局船队2026年公开选聘事业单位工作人员拟聘用人员名单",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "秦皇岛市人事考试网",
+          "url": "https://rsj.qhd.gov.cn/ksbm/web/wenjian/20260907093442.html",
+          "attachments": []
+        },
+        {
+          "year": 2026,
+          "category": "事业单位",
+          "subCategory": null,
+          "title": "秦皇岛市九龙山医院2026年第二轮公开选聘工作人员公告",
+          "date": null,
+          "headcount": null,
+          "positions": null,
+          "source": "秦皇岛市人事考试网",
+          "url": "https://rsj.qhd.gov.cn/ksbm/web/wenjian/20260903104823.html",
+          "attachments": []
         }
       ]
     },
     {
       "name": "邯郸市",
-      "adcode": "130400",
+      "adcode": 130400,
       "portals": [
         {
           "category": "公务员",
@@ -293,7 +453,8 @@
           "headcount": 10104,
           "url": "https://www.hebpta.com.cn/article?artId=12565&id=293",
           "attachments": [],
-          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。"
+          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。",
+          "year": 2025
         },
         {
           "id": "rec-130400-gwy-2026",
@@ -304,7 +465,8 @@
           "headcount": 8650,
           "url": "https://www.hebpta.com.cn/article?artId=13104&id=293",
           "attachments": [],
-          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。"
+          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。",
+          "year": 2026
         },
         {
           "id": "rec-130400-sydw-2025",
@@ -315,7 +477,8 @@
           "headcount": 228,
           "url": "http://rsj.hd.gov.cn/zxzx/gggs/202509/t20250904_2155541.html",
           "attachments": [],
-          "summary": "市直事业单位下半年统一招聘228名。"
+          "summary": "市直事业单位下半年统一招聘228名。",
+          "year": 2025
         },
         {
           "id": "rec-130400-sydw-2026",
@@ -326,7 +489,8 @@
           "headcount": 288,
           "url": "http://rsj.hd.gov.cn/zxzx/gggs/202608/t20260819_2214133.html",
           "attachments": [],
-          "summary": "2026年下半年事业单位统一招聘288名。"
+          "summary": "2026年下半年事业单位统一招聘288名。",
+          "year": 2026
         },
         {
           "id": "rec-130400-xds-2025",
@@ -337,13 +501,14 @@
           "headcount": 777,
           "url": "https://www.hebpta.com.cn/article?artId=12547&id=293",
           "attachments": [],
-          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。"
+          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。",
+          "year": 2025
         }
       ]
     },
     {
       "name": "邢台市",
-      "adcode": "130500",
+      "adcode": 130500,
       "portals": [
         {
           "category": "公务员",
@@ -366,7 +531,8 @@
           "headcount": 10104,
           "url": "https://www.hebpta.com.cn/article?artId=12565&id=293",
           "attachments": [],
-          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。"
+          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。",
+          "year": 2025
         },
         {
           "id": "rec-130500-gwy-2026",
@@ -377,7 +543,8 @@
           "headcount": 8650,
           "url": "https://www.hebpta.com.cn/article?artId=13104&id=293",
           "attachments": [],
-          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。"
+          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。",
+          "year": 2026
         },
         {
           "id": "rec-130500-sydw-2026",
@@ -388,7 +555,8 @@
           "headcount": 835,
           "url": "https://rsj.xingtai.gov.cn/new.html?id=2018988855761469442",
           "attachments": [],
-          "summary": "全市事业单位统一招聘835名，2026年2月9日至13日报名。"
+          "summary": "全市事业单位统一招聘835名，2026年2月9日至13日报名。",
+          "year": 2026
         },
         {
           "id": "rec-130500-sydw-2025",
@@ -399,7 +567,8 @@
           "headcount": 114,
           "url": "https://rsj.xingtai.gov.cn/",
           "attachments": [],
-          "summary": "市直事业单位招聘114名（综合岗、教育岗）。"
+          "summary": "市直事业单位招聘114名（综合岗、教育岗）。",
+          "year": 2025
         },
         {
           "id": "rec-130500-xds-2025",
@@ -410,13 +579,14 @@
           "headcount": 777,
           "url": "https://www.hebpta.com.cn/article?artId=12547&id=293",
           "attachments": [],
-          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。"
+          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。",
+          "year": 2025
         }
       ]
     },
     {
       "name": "保定市",
-      "adcode": "130600",
+      "adcode": 130600,
       "portals": [
         {
           "category": "公务员",
@@ -439,7 +609,8 @@
           "headcount": 10104,
           "url": "https://www.hebpta.com.cn/article?artId=12565&id=293",
           "attachments": [],
-          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。"
+          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。",
+          "year": 2025
         },
         {
           "id": "rec-130600-gwy-2026",
@@ -450,7 +621,8 @@
           "headcount": 8650,
           "url": "https://www.hebpta.com.cn/article?artId=13104&id=293",
           "attachments": [],
-          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。"
+          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。",
+          "year": 2026
         },
         {
           "id": "rec-130600-sydw-2025",
@@ -461,7 +633,9 @@
           "headcount": 2011,
           "url": "https://rsj.baoding.gov.cn/bdjy/wap/index.php?c=gongzhao&a=show&id=34",
           "attachments": [],
-          "summary": "全市事业单位统一招聘2011名，2025年3月3日至10日报名。"
+          "summary": "全市事业单位统一招聘2011名，2025年3月3日至10日报名。",
+          "date": "2025-03-03",
+          "year": 2025
         },
         {
           "id": "rec-130600-sydw-xd2025",
@@ -472,7 +646,8 @@
           "headcount": 58,
           "url": "https://rsj.baoding.gov.cn/ecdomain/ecplatform/fileHandle.do?action=read&fileID=20250818145146802",
           "attachments": [],
-          "summary": "市直事业单位公开选调工作人员58名。"
+          "summary": "市直事业单位公开选调工作人员58名。",
+          "year": 2025
         },
         {
           "id": "rec-130600-xds-2025",
@@ -483,13 +658,14 @@
           "headcount": 777,
           "url": "https://www.hebpta.com.cn/article?artId=12547&id=293",
           "attachments": [],
-          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。"
+          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。",
+          "year": 2025
         }
       ]
     },
     {
       "name": "张家口市",
-      "adcode": "130700",
+      "adcode": 130700,
       "portals": [
         {
           "category": "公务员",
@@ -512,7 +688,8 @@
           "headcount": 10104,
           "url": "https://www.hebpta.com.cn/article?artId=12565&id=293",
           "attachments": [],
-          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。"
+          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。",
+          "year": 2025
         },
         {
           "id": "rec-130700-gwy-2026",
@@ -523,7 +700,8 @@
           "headcount": 8650,
           "url": "https://www.hebpta.com.cn/article?artId=13104&id=293",
           "attachments": [],
-          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。"
+          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。",
+          "year": 2026
         },
         {
           "id": "rec-130700-sydw-2025a",
@@ -534,7 +712,9 @@
           "headcount": 541,
           "url": "https://rsj.zjk.gov.cn/xxgk/content.thtml?contentId=237512",
           "attachments": [],
-          "summary": "全市事业单位招聘（第一批）541名。"
+          "summary": "全市事业单位招聘（第一批）541名。",
+          "date": "2025-04-09",
+          "year": 2025
         },
         {
           "id": "rec-130700-sydw-2025b",
@@ -545,7 +725,9 @@
           "headcount": 724,
           "url": "https://rsj.zjk.gov.cn/xxgk/content.thtml?contentId=240511",
           "attachments": [],
-          "summary": "第二批事业单位招聘724名（含教师岗194名），2025年7月11日至16日报名。"
+          "summary": "第二批事业单位招聘724名（含教师岗194名），2025年7月11日至16日报名。",
+          "date": "2025-07-04",
+          "year": 2025
         },
         {
           "id": "rec-130700-xds-2025",
@@ -556,13 +738,14 @@
           "headcount": 777,
           "url": "https://www.hebpta.com.cn/article?artId=12547&id=293",
           "attachments": [],
-          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。"
+          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。",
+          "year": 2025
         }
       ]
     },
     {
       "name": "承德市",
-      "adcode": "130800",
+      "adcode": 130800,
       "portals": [
         {
           "category": "公务员",
@@ -585,7 +768,8 @@
           "headcount": 10104,
           "url": "https://www.hebpta.com.cn/article?artId=12565&id=293",
           "attachments": [],
-          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。"
+          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。",
+          "year": 2025
         },
         {
           "id": "rec-130800-gwy-2026",
@@ -596,7 +780,8 @@
           "headcount": 8650,
           "url": "https://www.hebpta.com.cn/article?artId=13104&id=293",
           "attachments": [],
-          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。"
+          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。",
+          "year": 2026
         },
         {
           "id": "rec-130800-sydw-2025a",
@@ -607,7 +792,8 @@
           "headcount": null,
           "url": "https://rsj.chengde.gov.cn/art/2025/8/27/art_1806_1080535.html",
           "attachments": [],
-          "summary": "市直事业单位综合类岗位公开招聘。"
+          "summary": "市直事业单位综合类岗位公开招聘。",
+          "year": 2025
         },
         {
           "id": "rec-130800-sydw-2025b",
@@ -618,7 +804,8 @@
           "headcount": 150,
           "url": "https://rsj.chengde.gov.cn/art/2025/8/29/art_1806_1080813.html",
           "attachments": [],
-          "summary": "市直医疗卫生单位统一招聘85名、选聘65名，合计150名。"
+          "summary": "市直医疗卫生单位统一招聘85名、选聘65名，合计150名。",
+          "year": 2025
         },
         {
           "id": "rec-130800-xds-2025",
@@ -629,13 +816,14 @@
           "headcount": 777,
           "url": "https://www.hebpta.com.cn/article?artId=12547&id=293",
           "attachments": [],
-          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。"
+          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。",
+          "year": 2025
         }
       ]
     },
     {
       "name": "沧州市",
-      "adcode": "130900",
+      "adcode": 130900,
       "portals": [
         {
           "category": "公务员",
@@ -658,7 +846,8 @@
           "headcount": 10104,
           "url": "https://www.hebpta.com.cn/article?artId=12565&id=293",
           "attachments": [],
-          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。"
+          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。",
+          "year": 2025
         },
         {
           "id": "rec-130900-gwy-2026",
@@ -669,7 +858,8 @@
           "headcount": 8650,
           "url": "https://www.hebpta.com.cn/article?artId=13104&id=293",
           "attachments": [],
-          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。"
+          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。",
+          "year": 2026
         },
         {
           "id": "rec-130900-sydw-2026",
@@ -680,7 +870,9 @@
           "headcount": 1427,
           "url": "http://rs.cangzhou.gov.cn/",
           "attachments": [],
-          "summary": "全市事业单位统一招聘1427名（含教师岗693名），2026年2月9日至13日报名，3月28日至29日笔试。"
+          "summary": "全市事业单位统一招聘1427名（含教师岗693名），2026年2月9日至13日报名，3月28日至29日笔试。",
+          "date": "2026-09-29",
+          "year": 2026
         },
         {
           "id": "rec-130900-sydw-2025",
@@ -691,7 +883,9 @@
           "headcount": 133,
           "url": "http://rs.cangzhou.gov.cn/",
           "attachments": [],
-          "summary": "市直事业单位统一招聘133名，2025年5月26日至30日报名。"
+          "summary": "市直事业单位统一招聘133名，2025年5月26日至30日报名。",
+          "date": "2026-09-29",
+          "year": 2025
         },
         {
           "id": "rec-130900-xds-2025",
@@ -702,13 +896,14 @@
           "headcount": 777,
           "url": "https://www.hebpta.com.cn/article?artId=12547&id=293",
           "attachments": [],
-          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。"
+          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。",
+          "year": 2025
         }
       ]
     },
     {
       "name": "廊坊市",
-      "adcode": "131000",
+      "adcode": 131000,
       "portals": [
         {
           "category": "公务员",
@@ -731,7 +926,8 @@
           "headcount": 10104,
           "url": "https://www.hebpta.com.cn/article?artId=12565&id=293",
           "attachments": [],
-          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。"
+          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。",
+          "year": 2025
         },
         {
           "id": "rec-131000-gwy-2026",
@@ -742,7 +938,8 @@
           "headcount": 8650,
           "url": "https://www.hebpta.com.cn/article?artId=13104&id=293",
           "attachments": [],
-          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。"
+          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。",
+          "year": 2026
         },
         {
           "id": "rec-131000-sydw-2026",
@@ -753,7 +950,8 @@
           "headcount": 852,
           "url": "https://rsj.lf.gov.cn/",
           "attachments": [],
-          "summary": "全市事业单位统一招聘852名（含教师岗484名），2026年2月9日至13日报名。"
+          "summary": "全市事业单位统一招聘852名（含教师岗484名），2026年2月9日至13日报名。",
+          "year": 2026
         },
         {
           "id": "rec-131000-sydw-2025",
@@ -764,7 +962,9 @@
           "headcount": 197,
           "url": "https://rsj.lf.gov.cn/ecdomain/fileHandle.do?action=read&objectID=20250701181925716&infoChecked=null",
           "attachments": [],
-          "summary": "市直事业单位招聘197名。"
+          "summary": "市直事业单位招聘197名。",
+          "date": "2025-07-27",
+          "year": 2025
         },
         {
           "id": "rec-131000-rc-2025",
@@ -775,7 +975,9 @@
           "headcount": 5,
           "url": "https://rsj.lf.gov.cn/ecdomain/fileHandle.do?action=read&objectID=20250714173825440&infoChecked=null",
           "attachments": [],
-          "summary": "“硕博计划”面向社会选聘博士研究生5名到重点岗位。"
+          "summary": "“硕博计划”面向社会选聘博士研究生5名到重点岗位。",
+          "date": "2025-07-30",
+          "year": 2025
         },
         {
           "id": "rec-131000-xds-2025",
@@ -786,13 +988,14 @@
           "headcount": 777,
           "url": "https://www.hebpta.com.cn/article?artId=12547&id=293",
           "attachments": [],
-          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。"
+          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。",
+          "year": 2025
         }
       ]
     },
     {
       "name": "衡水市",
-      "adcode": "131100",
+      "adcode": 131100,
       "portals": [
         {
           "category": "公务员",
@@ -815,7 +1018,8 @@
           "headcount": 10104,
           "url": "https://www.hebpta.com.cn/article?artId=12565&id=293",
           "attachments": [],
-          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。"
+          "summary": "全省四级联考计划招录公务员10104名，覆盖各设区市职位，2025年2月8日至13日报名，3月15日至16日笔试。",
+          "year": 2025
         },
         {
           "id": "rec-131100-gwy-2026",
@@ -826,7 +1030,8 @@
           "headcount": 8650,
           "url": "https://www.hebpta.com.cn/article?artId=13104&id=293",
           "attachments": [],
-          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。"
+          "summary": "全省四级联考计划招录公务员8650名，2026年2月1日至5日报名，3月14日至15日笔试。",
+          "year": 2026
         },
         {
           "id": "rec-131100-sydw-2025",
@@ -837,7 +1042,8 @@
           "headcount": 1501,
           "url": "http://rsj.hengshui.gov.cn/art/2025/7/7/art_2385_591773.html",
           "attachments": [],
-          "summary": "全市统一招聘事业单位工作人员1501名，分两批报名（7月9日至15日、7月17日至23日）。"
+          "summary": "全市统一招聘事业单位工作人员1501名，分两批报名（7月9日至15日、7月17日至23日）。",
+          "year": 2025
         },
         {
           "id": "rec-131100-sydw-2026",
@@ -848,7 +1054,8 @@
           "headcount": 1131,
           "url": "http://rsj.hengshui.gov.cn/art/2026/2/5/art_2385_615547.html",
           "attachments": [],
-          "summary": "全市事业单位统一招聘1131名，报名入口经河北省人事考试网（hebpta.com.cn）。"
+          "summary": "全市事业单位统一招聘1131名，报名入口经河北省人事考试网（hebpta.com.cn）。",
+          "year": 2026
         },
         {
           "id": "rec-131100-xds-2025",
@@ -859,7 +1066,20 @@
           "headcount": 777,
           "url": "https://www.hebpta.com.cn/article?artId=12547&id=293",
           "attachments": [],
-          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。"
+          "summary": "面向国内重点院校等定向招录选调生777名，报名截止2025年1月19日，含省直、各设区市市直及县直职位。",
+          "year": 2025
+        },
+        {
+          "year": 2026,
+          "category": "录用公示",
+          "subCategory": null,
+          "title": "衡水学院2026年选聘工作人员拟聘人员公示",
+          "date": "2026-09-24",
+          "headcount": null,
+          "positions": null,
+          "source": "衡水市人力资源和社会保障局",
+          "url": "https://www.hsnc.edu.cn/info/1073/23334.htm",
+          "attachments": []
         }
       ]
     }

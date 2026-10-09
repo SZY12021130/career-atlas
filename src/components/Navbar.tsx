@@ -7,6 +7,7 @@ import { cn } from '@/lib/utils'
 
 const NAV_LINKS = [
   { label: '首页', to: '/' },
+  { label: '报考通道指南', to: '/guide' },
   { label: '数据说明', to: '/about' },
 ]
 
@@ -39,7 +40,11 @@ export default function Navbar() {
         {/* 中：导航链接（桌面端） */}
         <nav className="hidden md:flex items-center gap-8">
           {NAV_LINKS.map((link) => {
-            const active = link.to === '/' && location.pathname === '/' && !location.hash
+            // 首页需精确匹配（且无 hash 锚点），其余按路径前缀匹配
+            const active =
+              link.to === '/'
+                ? location.pathname === '/' && !location.hash
+                : location.pathname === link.to || location.pathname.startsWith(`${link.to}/`)
             return (
               <Link
                 key={link.label}

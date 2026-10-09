@@ -8,6 +8,7 @@ import ColumnPage from '@/pages/ColumnPage'
 import UniversityPage from '@/pages/UniversityPage'
 import ReservedPage from '@/pages/ReservedPage'
 import AboutPage from '@/pages/AboutPage'
+import GuidePage from '@/pages/GuidePage'
 
 const COLUMN_TITLES: Record<string, string> = {
   xuandiao: '选调专栏',
@@ -36,6 +37,7 @@ function usePageTitle() {
     else if (mProv) title = '省级地图 · 职途图谱'
     else if (mUni?.params.name) title = `${dec(mUni.params.name)} · 职途图谱`
     else if (mRes?.params.tag) title = `${RESERVED_TITLES[mRes.params.tag] ?? '预留标签'} · 职途图谱`
+    else if (pathname === '/guide') title = '报考通道指南 · 公务员/选调/事业单位/人才引进 · 职途图谱'
     else if (pathname === '/about') title = '数据说明 · 职途图谱'
     document.title = title
   }, [pathname])
@@ -60,6 +62,7 @@ export default function App() {
           <Route path="city/:adcode/rencai" element={<ColumnPage kind="rencai" />} />
           <Route path="university/:name" element={<UniversityPage />} />
           <Route path="reserved/:tag" element={<ReservedPage />} />
+          <Route path="guide" element={<GuidePage />} />
           <Route path="about" element={<AboutPage />} />
           <Route path="*" element={<Home />} />
         </Route>
